@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "5 to 17 years:"
+    ], 
+    "table": "Sex by Age by Disability Status", 
+    "title": "No disability", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No disability Disability Status Male 5 to 17 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101001", 
+    "parent": "us/census/acs/B18101006"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "value": 0
+}

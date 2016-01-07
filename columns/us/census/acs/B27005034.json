@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Direct-purchase Health Insurance by Sex by Age", 
+    "title": "6 to 17 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "6 to 17 years Age Female in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27005001", 
+    "parent": "us/census/acs/B27005030"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Travel Time to Work for Workplace Geography", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/C08603001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

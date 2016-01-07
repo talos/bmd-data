@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age (American Indian and Alaska Native Alone)", 
+    "title": "Male:", 
+    "universe": "People Who Are American Indian and Alaska Native Alone"
+  }, 
+  "name": "Male in People Who Are American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001C001", 
+    "parent": "us/census/acs/B01001C001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

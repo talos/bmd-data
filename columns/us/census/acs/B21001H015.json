@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "75 years and over:", 
+    "universe": "White Alone, Not Hispanic or Latino Civilian Population 18 Years and Over"
+  }, 
+  "name": "75 years and over Veteran Status Male in White Alone, Not Hispanic or Latino Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B21001H001", 
+    "parent": "us/census/acs/B21001H002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "value": 0
+}

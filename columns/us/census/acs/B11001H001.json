@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonfamily households:"
+    ], 
+    "table": "Household Type (Including Living Alone) (White Alone, Not Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "Households With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "Total Household Type (Including Living Alone) (White Alone, Not Hispanic or Latino) Nonfamily households in Households With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/B11001H001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

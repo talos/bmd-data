@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Year Householder Moved Into Unit", 
+    "title": "Moved in 1969 or earlier", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Moved in 1969 or earlier Year Householder Moved Into Unit Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25038001", 
+    "parent": "us/census/acs/B25038009"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

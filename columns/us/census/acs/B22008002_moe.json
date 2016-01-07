@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Median Household Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) by Receipt of Food Stamps/SNAP in the Past 12 Months", 
+    "title": "Household received Food Stamps/SNAP in the past 12 months", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Household received Food Stamps/SNAP in the past 12 months", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B22008002"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

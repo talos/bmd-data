@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Place of Birth by Citizenship Status", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Not a U.S. citizen Citizenship Status Foreign born Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05002015"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 1
+}

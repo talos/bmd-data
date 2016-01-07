@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Africa:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population", 
+    "title": "Africa, n.e.c.", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Africa, n.e.c. Place of Birth Africa in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/C05006001", 
+    "parent": "us/census/acs/C05006043"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

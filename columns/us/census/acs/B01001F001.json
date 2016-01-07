@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (Some Other Race Alone)", 
+    "title": "Total:", 
+    "universe": "People Who Are Some Other Race Alone"
+  }, 
+  "name": "Total Age (Some Other Race Alone) Female in People Who Are Some Other Race Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001F001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

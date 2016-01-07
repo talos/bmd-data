@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Under 18 years:"
+    ], 
+    "table": "Sex by Age by Citizenship Status", 
+    "title": "Foreign born:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Foreign born Citizenship Status Male Under 18 years Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003001", 
+    "parent": "us/census/acs/B05003003"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

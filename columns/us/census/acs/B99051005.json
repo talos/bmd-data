@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Citizenship Status", 
+    "title": "Foreign born:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Foreign born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99051001", 
+    "parent": "us/census/acs/B99051001"
+  }, 
+  "tags": [
+    "technical", 
+    "citizenship"
+  ], 
+  "value": 0
+}

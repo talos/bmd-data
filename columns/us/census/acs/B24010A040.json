@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (White Alone)", 
+    "title": "Management, business, and financial occupations:", 
+    "universe": "Civilian Employed White Alone Population 16 Years and Over"
+  }, 
+  "name": "Management, business, and financial occupations Occupation Female Management, business, science, and arts occupations in Civilian Employed White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010A001", 
+    "parent": "us/census/acs/B24010A039"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

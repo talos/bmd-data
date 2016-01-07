@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Monthly Housing Costs", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Total in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25104001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

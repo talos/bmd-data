@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Households with one or more people 60 years and over:", 
+      "Family households:", 
+      "Other family:"
+    ], 
+    "table": "Households by Presence of People 60 Years and Over by Household Type", 
+    "title": "Male householder, no wife present", 
+    "universe": "Households"
+  }, 
+  "name": "Male householder, no wife present Household Type Households with one or more people 60 years and over Households Family households Presence of People 60 Years and Over Other family", 
+  "relationships": {
+    "denominator": "us/census/acs/B11006001", 
+    "parent": "us/census/acs/B11006005"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 1
+}

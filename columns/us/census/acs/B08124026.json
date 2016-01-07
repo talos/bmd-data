@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Means of Transportation to Work by Occupation", 
+    "title": "Natural resources, construction, and maintenance occupations", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Natural resources, construction, and maintenance occupations Occupation Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08124001", 
+    "parent": "us/census/acs/B08124022"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

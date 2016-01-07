@@ -1,0 +1,17 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "table": "Median Duration of Current Marriage in Years by Sex by Marital Status for the Married Population 15 Years and Over", 
+    "title": "Female:", 
+    "universe": "Population 15 Years and Over Who Are Now Married or Separated"
+  }, 
+  "name": "Female", 
+  "relationships": {
+    "parent": "us/census/acs/B12504001"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "value": 1
+}

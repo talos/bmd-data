@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Other family:", 
+      "Female householder, no husband present:", 
+      "Without Social Security income in the past 12 months:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years (Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "Families With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Total Presence of Related Children Under 18 Years (Hispanic or Latino) Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Other family Family Type Female householder, no husband present Poverty Status in the Past 12 Months of Families Without Social Security income in the past 12 months in Families With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/C17010I001"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "poverty", 
+    "children", 
+    "race"
+  ], 
+  "value": 0
+}

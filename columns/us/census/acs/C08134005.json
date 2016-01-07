@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Travel Time to Work", 
+    "title": "20 to 24 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "20 to 24 minutes Travel Time to Work Worked at home in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/C08134001", 
+    "parent": "us/census/acs/C08134001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

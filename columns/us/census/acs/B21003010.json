@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonveteran:"
+    ], 
+    "table": "Veteran Status by Educational Attainment for the Civilian Population 25 Years and Over", 
+    "title": "Some college or associate's degree", 
+    "universe": "Civilian Population 25 Years and Over"
+  }, 
+  "name": "Some college or associate's degree Educational Attainment Nonveteran in Civilian Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B21003001", 
+    "parent": "us/census/acs/B21003007"
+  }, 
+  "tags": [
+    "education", 
+    "veterans"
+  ], 
+  "value": 0
+}

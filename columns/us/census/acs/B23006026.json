@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Bachelor's degree or higher:", 
+      "In labor force:"
+    ], 
+    "table": "Educational Attainment by Employment Status for the Population 25 to 64 Years", 
+    "title": "Civilian:", 
+    "universe": "Population 25 to 64 Years"
+  }, 
+  "name": "Civilian Educational Attainment In labor force in Population 25 to 64 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B23006001", 
+    "parent": "us/census/acs/B23006024"
+  }, 
+  "tags": [
+    "education", 
+    "employment"
+  ], 
+  "value": 1
+}

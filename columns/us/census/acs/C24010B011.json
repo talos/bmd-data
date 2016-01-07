@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Black or African American Alone)", 
+    "title": "Sales and office occupations", 
+    "universe": "Civilian Employed Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "Sales and office occupations Occupation Female in Civilian Employed Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24010B001", 
+    "parent": "us/census/acs/C24010B008"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

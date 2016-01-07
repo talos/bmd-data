@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Service occupations:", 
+      "Healthcare support occupations:"
+    ], 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Other healthcare support occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Other healthcare support occupations Occupation Male Service occupations Healthcare support occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24020001", 
+    "parent": "us/census/acs/B24020065"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (American Indian and Alaska Native Alone)", 
+    "title": "With dial-up Internet subscription alone", 
+    "universe": "American Indian and Alaska Native Alone Household Population"
+  }, 
+  "name": "With dial-up Internet subscription alone Presence of a Computer and Type of Internet Subscription in Household (American Indian and Alaska Native Alone) Has a computer in American Indian and Alaska Native Alone Household Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B28009C001", 
+    "parent": "us/census/acs/B28009C002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

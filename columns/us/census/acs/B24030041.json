@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Wholesale trade:"
+    ], 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Grocery and related product merchant wholesalers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Grocery and related product merchant wholesalers Industry Male Wholesale trade in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24030001", 
+    "parent": "us/census/acs/B24030027"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

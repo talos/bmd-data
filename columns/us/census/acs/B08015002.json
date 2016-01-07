@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting by Workers 16 Years and Over by Sex", 
+    "title": "Male", 
+    "universe": "Workers Whose Means of Transportation Is Car, Truck, or Van"
+  }, 
+  "name": "Male", 
+  "relationships": {
+    "parent": "us/census/acs/B08015001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

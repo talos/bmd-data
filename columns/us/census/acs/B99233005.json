@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Usual Hours Worked Per Week in the Past 12 Months for the Population 16 Years and Over", 
+    "title": "Did not work in the past 12 months", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Did not work in the past 12 months in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99233001", 
+    "parent": "us/census/acs/B99233001"
+  }, 
+  "tags": [
+    "technical", 
+    "employment"
+  ], 
+  "value": 0
+}

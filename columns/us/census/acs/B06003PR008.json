@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in the United States:"
+    ], 
+    "table": "Place of Birth by Sex in Puerto Rico", 
+    "title": "Male", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Male Sex in Puerto Rico Born in the United States in Total Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06003PR001", 
+    "parent": "us/census/acs/B06003PR007"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}

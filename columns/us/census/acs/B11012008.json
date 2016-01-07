@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:", 
+      "Male householder, no wife present:"
+    ], 
+    "table": "Household Type by Tenure", 
+    "title": "Owner-occupied housing units", 
+    "universe": "Households"
+  }, 
+  "name": "Owner-occupied housing units Tenure Family households Household Type Other family Household Type Male householder, no wife present", 
+  "relationships": {
+    "denominator": "us/census/acs/B11012001", 
+    "parent": "us/census/acs/B11012007"
+  }, 
+  "tags": [
+    "families", 
+    "tenure"
+  ], 
+  "value": 2
+}

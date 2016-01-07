@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Healthcare practitioners and technical occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (White Alone)", 
+    "title": "Health technologists and technicians", 
+    "universe": "Civilian Employed White Alone Population 16 Years and Over"
+  }, 
+  "name": "Health technologists and technicians Occupation Female Management, business, science, and arts occupations Healthcare practitioners and technical occupations in Civilian Employed White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010A001", 
+    "parent": "us/census/acs/B24010A052"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

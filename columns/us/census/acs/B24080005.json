@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Private for-profit wage and salary workers:"
+    ], 
+    "table": "Sex by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Self-employed in own incorporated business workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Self-employed in own incorporated business workers Class of Worker Male Private for-profit wage and salary workers in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24080001", 
+    "parent": "us/census/acs/B24080003"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

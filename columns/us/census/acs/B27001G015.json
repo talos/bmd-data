@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "35 to 44 years:"
+    ], 
+    "table": "Health Insurance Coverage Status by Age (Two or More Races)", 
+    "title": "With health insurance coverage", 
+    "universe": "TWO OR MORE RACES CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "With health insurance coverage Age (Two or More Races) 35 to 44 years in TWO OR MORE RACES CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "us/census/acs/B27001G001", 
+    "parent": "us/census/acs/B27001G014"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "value": 0
+}

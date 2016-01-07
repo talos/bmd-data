@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - drove alone:"
+    ], 
+    "table": "Means of Transportation to Work by Occupation", 
+    "title": "Management, business, science, and arts occupations", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Management, business, science, and arts occupations Occupation Car, truck, or van - drove alone in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08124001", 
+    "parent": "us/census/acs/C08124008"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

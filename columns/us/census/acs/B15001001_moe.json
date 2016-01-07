@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Sex by Age by Educational Attainment for the Population 18 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 18 Years and Over"
+  }, 
+  "name": "Margin of error for Population 18 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B15001001"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "value": 1
+}

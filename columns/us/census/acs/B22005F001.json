@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Race of Householder (Some Other Race Alone)", 
+    "title": "Total:", 
+    "universe": "Households With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Households With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B22005F001"
+  }, 
+  "tags": [
+    "public assistance", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

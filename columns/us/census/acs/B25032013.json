@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Tenure by Units in Structure", 
+    "title": "Renter-occupied housing units:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Renter-occupied housing units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25032001", 
+    "parent": "us/census/acs/B25032001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

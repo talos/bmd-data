@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Service occupations:", 
+      "Protective service occupations:"
+    ], 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Fire fighting and prevention, and other protective service workers including supervisors", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Fire fighting and prevention, and other protective service workers including supervisors Occupation and Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) Male Service occupations Protective service occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24022001", 
+    "parent": "us/census/acs/B24022021"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Gross Rent (Dollars) by Meals Included in Rent", 
+    "title": "Aggregate gross rent:", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Margin of error for Aggregate gross rent", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25067001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Health Insurance Coverage Status by Age (Black or African American Alone)", 
+    "title": "Under 6 years:", 
+    "universe": "BLACK OR AFRICAN AMERICAN ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "Under 6 years in BLACK OR AFRICAN AMERICAN ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "us/census/acs/B27001B001", 
+    "parent": "us/census/acs/B27001B001"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "value": 0
+}

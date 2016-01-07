@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Education"
+    ], 
+    "table": "Detailed Field of Bachelor's Degree for First Major for the Population 25 Years and Over", 
+    "title": "Liberal Arts and History", 
+    "universe": "POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Liberal Arts and History Detailed Field of Bachelor's Degree Education in POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "us/census/acs/B15010001", 
+    "parent": "us/census/acs/B15010011"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "value": 0
+}

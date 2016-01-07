@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "table": "Place of Birth by Educational Attainment in Puerto Rico", 
+    "title": "Graduate or professional degree", 
+    "universe": "Population 25 Years and Over in Puerto Rico"
+  }, 
+  "name": "Graduate or professional degree Educational Attainment in Puerto Rico Foreign born in Population 25 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06009PR001", 
+    "parent": "us/census/acs/B06009PR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "education"
+  ], 
+  "value": 0
+}

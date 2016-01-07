@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Other families:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Number of Own Children Under 18 Years", 
+    "title": "Female householder, no husband present:", 
+    "universe": "Families"
+  }, 
+  "name": "Female householder, no husband present Number of Own Children Under 18 Years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Other families", 
+  "relationships": {
+    "denominator": "us/census/acs/B17023001", 
+    "parent": "us/census/acs/B17023025"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "children"
+  ], 
+  "value": 0
+}

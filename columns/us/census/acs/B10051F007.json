@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Grandparent not responsible for own grandchildren under 18 years:"
+    ], 
+    "table": "Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent (Some Other Race Alone)", 
+    "title": "60 years and over", 
+    "universe": "Grandparents (Some Other Race Alone) Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "60 years and over Responsibility Grandparent not responsible for own grandchildren under 18 years in Grandparents (Some Other Race Alone) Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B10051F001", 
+    "parent": "us/census/acs/B10051F005"
+  }, 
+  "tags": [
+    "grandparents", 
+    "race", 
+    "children"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Average Household Size of Occupied Housing Units by Tenure", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Total Tenure Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25010001"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

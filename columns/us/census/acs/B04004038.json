@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Single Ancestry", 
+    "title": "European", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "European in People Reporting Single Ancestry", 
+  "relationships": {
+    "denominator": "us/census/acs/B04004001", 
+    "parent": "us/census/acs/B04004001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

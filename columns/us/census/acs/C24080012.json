@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Private for-profit wage and salary workers:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Private for-profit wage and salary workers Class of Worker Female in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24080001", 
+    "parent": "us/census/acs/C24080011"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

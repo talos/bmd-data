@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (Hispanic or Latino)", 
+    "title": "Foreign born:", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "Foreign born Citizenship Status (Hispanic or Latino) Female Under 18 years in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003I001", 
+    "parent": "us/census/acs/B05003I014"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age", 
+    "title": "55 to 59 years", 
+    "universe": "Total Population"
+  }, 
+  "name": "55 to 59 years Age Female Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001001", 
+    "parent": "us/census/acs/B01001026"
+  }, 
+  "tags": [
+    "age", 
+    "sex"
+  ], 
+  "value": 2
+}

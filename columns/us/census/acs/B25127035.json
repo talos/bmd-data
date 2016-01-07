@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Built 1939 or earlier:"
+    ], 
+    "table": "Tenure by Year Structure Built by Units in Structure", 
+    "title": "20 to 49", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "20 to 49 Units in Structure Owner occupied Tenure Built 1939 or earlier in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25127001", 
+    "parent": "us/census/acs/B25127031"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

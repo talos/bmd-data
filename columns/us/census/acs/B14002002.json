@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over", 
+    "title": "Male:", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Male in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14002001", 
+    "parent": "us/census/acs/B14002001"
+  }, 
+  "tags": [
+    "education", 
+    "sex"
+  ], 
+  "value": 1
+}

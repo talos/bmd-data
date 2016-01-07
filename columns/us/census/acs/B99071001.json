@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Mobility Status for the Population 1 Year and Over", 
+    "title": "Total:", 
+    "universe": "Population 1 Year and Over"
+  }, 
+  "name": "Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99071001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

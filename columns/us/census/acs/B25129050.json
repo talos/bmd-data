@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Moved in 2005 or later:"
+    ], 
+    "table": "Tenure by Year Householder Moved Into Unit by Units in Structure", 
+    "title": "20 to 49", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "20 to 49 Units in Structure Renter occupied Tenure Moved in 2005 or later in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25129001", 
+    "parent": "us/census/acs/B25129046"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

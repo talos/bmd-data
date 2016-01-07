@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "75 years and over:"
+    ], 
+    "table": "Sex by Age by Hearing Difficulty", 
+    "title": "With a hearing difficulty", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a hearing difficulty Hearing Difficulty Female 75 years and over in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18102001", 
+    "parent": "us/census/acs/B18102037"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "value": 0
+}

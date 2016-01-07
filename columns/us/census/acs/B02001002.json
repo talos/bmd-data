@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Race", 
+    "title": "White alone", 
+    "universe": "Total Population"
+  }, 
+  "name": "White Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02001001", 
+    "parent": "us/census/acs/B02001001"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 1
+}

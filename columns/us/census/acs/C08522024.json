@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Poverty Status in the Past 12 Months for Workplace Geography", 
+    "title": "At or above 150 percent of the poverty level", 
+    "universe": "Workers 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "At or above 150 percent of the poverty level Poverty Status in the Past 12 Months Worked at home in Workers 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C08522001", 
+    "parent": "us/census/acs/C08522021"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "poverty"
+  ], 
+  "value": 0
+}

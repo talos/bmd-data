@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Health Insurance Coverage Status by Age (White Alone, Not Hispanic or Latino)", 
+    "title": "65 to 74 years:", 
+    "universe": "WHITE ALONE, NOT HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "65 to 74 years in WHITE ALONE, NOT HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "us/census/acs/B27001H001", 
+    "parent": "us/census/acs/B27001H001"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "value": 0
+}

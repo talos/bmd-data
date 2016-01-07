@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "House Heating Fuel", 
+    "title": "Electricity", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Electricity in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25040004"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

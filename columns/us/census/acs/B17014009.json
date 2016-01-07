@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Other families:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Number of Workers in Family", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Families"
+  }, 
+  "name": "Male householder, no wife present Number of Workers in Family Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other families", 
+  "relationships": {
+    "denominator": "us/census/acs/B17014001", 
+    "parent": "us/census/acs/B17014008"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "value": 0
+}

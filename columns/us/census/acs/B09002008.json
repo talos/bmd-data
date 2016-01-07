@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Own Children Under 18 Years by Family Type and Age", 
+    "title": "In other families:", 
+    "universe": "Own Children Under 18 Years"
+  }, 
+  "name": "In other families in Own Children Under 18 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B09002001", 
+    "parent": "us/census/acs/B09002001"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (Two or More Races)", 
+    "title": "10 to 14 years", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "10 to 14 years Age (Two or More Races) Female in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001G001", 
+    "parent": "us/census/acs/B01001G017"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

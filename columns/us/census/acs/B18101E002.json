@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Age by Disability Status (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 18 years in Native Hawaiian and Other Pacific Islander Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101E001", 
+    "parent": "us/census/acs/B18101E001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "value": 0
+}

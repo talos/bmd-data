@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from abroad:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for Current Residence in the United States", 
+    "title": "Total:", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Total Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Moved from abroad in Population 15 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B07010001"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "value": 0
+}

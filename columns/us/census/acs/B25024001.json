@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Units in Structure", 
+    "title": "Total:", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25024001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

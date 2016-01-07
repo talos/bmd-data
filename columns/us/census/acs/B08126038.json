@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:"
+    ], 
+    "table": "Means of Transportation to Work by Industry", 
+    "title": "Information", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Information Industry Car, truck, or van - carpooled in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08126001", 
+    "parent": "us/census/acs/B08126031"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

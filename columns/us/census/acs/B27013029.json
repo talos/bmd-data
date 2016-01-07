@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked less than full-time, year-round:", 
+      "Female:"
+    ], 
+    "table": "Private Health Insurance by Work Experience by Sex by Age", 
+    "title": "65 years and over:", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "65 years and over Age Worked less than full-time, year-round Private Health Insurance Female in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B27013001", 
+    "parent": "us/census/acs/B27013025"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

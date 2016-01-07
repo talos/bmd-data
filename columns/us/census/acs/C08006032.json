@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex of Workers by Means of Transportation to Work", 
+    "title": "Public transportation (excluding taxicab)", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Public transportation (excluding taxicab) Means of Transportation to Work Female in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08006001", 
+    "parent": "us/census/acs/C08006025"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

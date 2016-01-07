@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Rent Asked", 
+    "title": "Total:", 
+    "universe": "Vacant-for-rent and Rented, Not Occupied Housing Units"
+  }, 
+  "name": "Vacant-for-rent and Rented, Not Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25061001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

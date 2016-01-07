@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Subfamily Type", 
+    "title": "Married-couple subfamily", 
+    "universe": "Subfamilies"
+  }, 
+  "name": "Married-couple subfamily in Subfamilies", 
+  "relationships": {
+    "denominator": "us/census/acs/C11013001", 
+    "parent": "us/census/acs/C11013001"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 0
+}

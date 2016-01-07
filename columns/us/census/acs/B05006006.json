@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Europe:", 
+      "Northern Europe:", 
+      "United Kingdom (inc. Crown Dependencies):"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "England", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "England Place of Birth Europe Place of Birth Northern Europe Place of Birth United Kingdom (inc. Crown Dependencies) in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006004"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

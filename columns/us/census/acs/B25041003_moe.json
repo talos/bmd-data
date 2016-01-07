@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Bedrooms", 
+    "title": "1 bedroom", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for 1 bedroom in Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25041003"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

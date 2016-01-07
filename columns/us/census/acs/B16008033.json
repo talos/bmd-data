@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign-born population:", 
+      "Naturalized U.S. citizen:", 
+      "18 years and over:", 
+      "Speak Spanish"
+    ], 
+    "table": "Citizenship Status by Age by Language Spoken at Home and Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English less than \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English less than \"very well\" Language Spoken at Home and Ability to Speak English Foreign-born population Citizenship Status Naturalized U.S. citizen Age 18 years and over Citizenship Status Speak Spanish in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16008001", 
+    "parent": "us/census/acs/B16008031"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "value": 0
+}

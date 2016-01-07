@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:", 
+      "Speak another language"
+    ], 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over (Asian Alone)", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Asian Alone Population 5 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Ability to Speak English Native Nativity Speak another language in Asian Alone Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16005D001", 
+    "parent": "us/census/acs/B16005D004"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race", 
+    "language"
+  ], 
+  "value": 0
+}

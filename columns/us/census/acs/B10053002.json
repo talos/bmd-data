@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Nativity by Grandparents Responsible for Own Grandchildren Under 18 Years by Age of Grandparent", 
+    "title": "Native:", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "Native in Grandparents Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B10053001", 
+    "parent": "us/census/acs/B10053001"
+  }, 
+  "tags": [
+    "grandparents", 
+    "age", 
+    "children", 
+    "place of birth"
+  ], 
+  "value": 0
+}

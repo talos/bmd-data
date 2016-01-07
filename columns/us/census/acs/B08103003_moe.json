@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Median Age by Means of Transportation to Work", 
+    "title": "Car, truck, or van - carpooled", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Car, truck, or van - carpooled", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08103003"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 1
+}

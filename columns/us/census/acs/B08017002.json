@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Work for Workers 16 Years and Over--Micropolitan Statistical Area Level", 
+    "title": "Living in a principal city:", 
+    "universe": "Workers 16 Years and Over Living in a Micropolitan Statistical Area"
+  }, 
+  "name": "Living in a principal city in Workers 16 Years and Over Living in a Micropolitan Statistical Area", 
+  "relationships": {
+    "denominator": "us/census/acs/B08017001", 
+    "parent": "us/census/acs/B08017001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

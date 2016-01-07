@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Size by Vehicles Available", 
+    "title": "4-or-more-person household:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for 4-or-more-person household", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08201021"
+  }, 
+  "tags": [
+    "commute", 
+    "families"
+  ], 
+  "value": 0
+}

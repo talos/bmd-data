@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own incorporated business workers:", 
+      "Service occupations:", 
+      "Protective service occupations:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Fire fighting and prevention, and other protective service workers including supervisors", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Fire fighting and prevention, and other protective service workers including supervisors Class of Worker Self-employed in own incorporated business workers Occupation Service occupations Occupation Protective service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060092"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

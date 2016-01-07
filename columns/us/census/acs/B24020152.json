@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Production, transportation, and material moving occupations:", 
+      "Material moving occupations:"
+    ], 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Material moving workers except supervisors and laborers and material movers, hand", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Material moving workers except supervisors and laborers and material movers, hand Occupation Male Production, transportation, and material moving occupations Material moving occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24020001", 
+    "parent": "us/census/acs/B24020150"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

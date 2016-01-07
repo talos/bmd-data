@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Hispanic or Latino:"
+    ], 
+    "table": "Hispanic or Latino Origin by Specific Origin", 
+    "title": "Mexican", 
+    "universe": "Total Population"
+  }, 
+  "name": "Mexican Specific Origin Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B03001001", 
+    "parent": "us/census/acs/B03001003"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

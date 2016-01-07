@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Race of Householder (Asian Alone)", 
+    "title": "Total:", 
+    "universe": "Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B22005D001"
+  }, 
+  "tags": [
+    "public assistance", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

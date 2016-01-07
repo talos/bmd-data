@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked full-time, year-round:", 
+      "Female:", 
+      "65 years and over:", 
+      "With health insurance coverage"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Work Experience by Sex by Age", 
+    "title": "With employer-based health insurance", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With employer-based health insurance Age Worked full-time, year-round Health Insurance Coverage Status and Type Female Work Experience 65 years and over With health insurance coverage in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B27012001", 
+    "parent": "us/census/acs/B27012027"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

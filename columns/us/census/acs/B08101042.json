@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Age", 
+    "title": "16 to 19 years", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "16 to 19 years Age Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08101001", 
+    "parent": "us/census/acs/B08101041"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 2
+}

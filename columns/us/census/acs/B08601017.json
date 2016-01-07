@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work for Workplace Geography", 
+    "title": "Motorcycle", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Motorcycle in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08601001", 
+    "parent": "us/census/acs/B08601001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Management, business, science, and arts occupations:", 
+      "Healthcare practitioners and technical occupations:"
+    ], 
+    "table": "Occupation by Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Health diagnosing and treating practitioners and other technical occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Health diagnosing and treating practitioners and other technical occupations Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) Management, business, science, and arts occupations Occupation Healthcare practitioners and technical occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24021001", 
+    "parent": "us/census/acs/B24021015"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

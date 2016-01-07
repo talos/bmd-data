@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total living in area 1 year ago:"
+    ], 
+    "table": "Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States", 
+    "title": "Moved to different state", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Moved to different state Geographical Mobility in the Past Year Total living in area 1 year ago", 
+  "relationships": {
+    "parent": "us/census/acs/B07402001"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Employer-based Health Insurance by Sex by Age", 
+    "title": "Under 6 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 6 years Age Female in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27004001", 
+    "parent": "us/census/acs/B27004030"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

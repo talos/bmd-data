@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "table": "Place of Birth by Marital Status in Puerto Rico", 
+    "title": "Divorced", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "Divorced Marital Status in Puerto Rico Foreign born in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06008PR001", 
+    "parent": "us/census/acs/B06008PR001"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "value": 0
+}

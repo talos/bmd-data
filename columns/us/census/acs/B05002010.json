@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:", 
+      "Born outside the United States:"
+    ], 
+    "table": "Place of Birth by Citizenship Status", 
+    "title": "Puerto Rico", 
+    "universe": "Total Population"
+  }, 
+  "name": "Puerto Rico Citizenship Status Native Place of Birth Born outside the United States Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05002001", 
+    "parent": "us/census/acs/B05002009"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 1
+}

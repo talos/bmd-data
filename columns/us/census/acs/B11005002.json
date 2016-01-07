@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Households by Presence of People Under 18 Years by Household Type", 
+    "title": "Households with one or more people under 18 years:", 
+    "universe": "Households"
+  }, 
+  "name": "Households with one or more people under 18 years", 
+  "relationships": {
+    "denominator": "us/census/acs/B11005001", 
+    "parent": "us/census/acs/B11005001"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 1
+}

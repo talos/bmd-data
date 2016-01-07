@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "No bedroom:"
+    ], 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "No cash rent", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "No cash rent Gross Rent No bedroom in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25068001", 
+    "parent": "us/census/acs/B25068002"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age (White Alone)", 
+    "title": "Male:", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "Male in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C01001A001", 
+    "parent": "us/census/acs/C01001A001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

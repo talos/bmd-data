@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Industry", 
+    "title": "Finance and insurance, and real estate and rental and leasing", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Finance and insurance, and real estate and rental and leasing Industry Worked at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08126001", 
+    "parent": "us/census/acs/B08126091"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

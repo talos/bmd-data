@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Place of Birth by Language Spoken at Home and Ability to Speak English in the United States", 
+    "title": "Speak Spanish:", 
+    "universe": "Population 5 Years and Over in the United States"
+  }, 
+  "name": "Speak Spanish in Population 5 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B06007001", 
+    "parent": "us/census/acs/B06007001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Occupants Per Room (White Alone Householder)", 
+    "title": "1.01 or more occupants per room", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone"
+  }, 
+  "name": "1.01 or more occupants per room in Occupied Housing Units With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B25014A001", 
+    "parent": "us/census/acs/B25014A001"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "occupancy"
+  ], 
+  "value": 0
+}

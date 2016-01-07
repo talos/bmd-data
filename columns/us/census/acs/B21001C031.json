@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "75 years and over:", 
+    "universe": "American Indian and Alaska Native Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "75 years and over Veteran Status Female in American Indian and Alaska Native Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B21001C001", 
+    "parent": "us/census/acs/B21001C018"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "value": 0
+}

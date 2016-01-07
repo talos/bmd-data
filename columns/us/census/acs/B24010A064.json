@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Sales and office occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (White Alone)", 
+    "title": "Sales and related occupations", 
+    "universe": "Civilian Employed White Alone Population 16 Years and Over"
+  }, 
+  "name": "Sales and related occupations Occupation Female Sales and office occupations in Civilian Employed White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010A001", 
+    "parent": "us/census/acs/B24010A063"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

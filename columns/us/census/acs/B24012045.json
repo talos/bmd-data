@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:"
+    ], 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2013 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Architecture and engineering occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Architecture and engineering occupations Occupation and Median Earnings in the Past 12 Months (In 2013 Inflation-adjusted Dollars) Female Management, business, science, and arts occupations Computer, engineering, and science occupations in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24012001", 
+    "parent": "us/census/acs/B24012043"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over", 
+    "title": "Female:", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Female in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14003001", 
+    "parent": "us/census/acs/B14003001"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units with a mortgage:"
+    ], 
+    "table": "Mortgage Status by Age of Householder", 
+    "title": "Householder 65 years and over", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Householder 65 years and over Age of Householder Housing units with a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25027001", 
+    "parent": "us/census/acs/C25027002"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "mortgage"
+  ], 
+  "value": 0
+}

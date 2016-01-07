@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Divorced:"
+    ], 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Total:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12006001"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "value": 0
+}

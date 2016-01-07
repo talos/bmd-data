@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Gross Rent", 
+    "title": "Imputed", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Imputed in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992518001", 
+    "parent": "us/census/acs/B992518001"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "value": 0
+}

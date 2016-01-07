@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "table": "Age by Disability Status (White Alone, Not Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "White Alone, Not Hispanic or Latino Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Total Disability Status (White Alone, Not Hispanic or Latino) 65 years and over in White Alone, Not Hispanic or Latino Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101H001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "value": 0
+}

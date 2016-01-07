@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Under 6 years:"
+    ], 
+    "table": "Health Insurance Coverage Status by Sex by Age", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With health insurance coverage Age Male Health Insurance Coverage Status Under 6 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27001001", 
+    "parent": "us/census/acs/B27001003"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 1
+}

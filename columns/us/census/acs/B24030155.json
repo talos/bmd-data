@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Retail trade:"
+    ], 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Electronics stores", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Electronics stores Industry Female Retail trade in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24030001", 
+    "parent": "us/census/acs/B24030152"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:"
+    ], 
+    "table": "Occupation by Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Community and social service occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Community and social service occupations Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) Management, business, science, and arts occupations Occupation Education, legal, community service, arts, and media occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24021001", 
+    "parent": "us/census/acs/B24021010"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

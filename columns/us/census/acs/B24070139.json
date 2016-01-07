@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own not incorporated business workers and unpaid family workers:", 
+      "Agriculture, forestry, fishing and hunting, and mining:"
+    ], 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Mining, quarrying, and oil and gas extraction", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Mining, quarrying, and oil and gas extraction Class of Worker Self-employed in own not incorporated business workers and unpaid family workers Industry Agriculture, forestry, fishing and hunting, and mining in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24070001", 
+    "parent": "us/census/acs/B24070137"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

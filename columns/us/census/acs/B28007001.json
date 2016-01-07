@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Bachelor's degree or higher:"
+    ], 
+    "table": "Labor Force Status by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "Total:", 
+    "universe": "Civilian Household Population 16 Years and Over"
+  }, 
+  "name": "Total Presence of a Computer and Types of Internet Subscription in Household Bachelor's degree or higher in Civilian Household Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B28007001"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "value": 0
+}

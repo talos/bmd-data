@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "75 years and over:", 
+      "In labor force:", 
+      null
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "Employed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Employed 75 years and over Age In labor force in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C23001001", 
+    "parent": "us/census/acs/C23001080"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

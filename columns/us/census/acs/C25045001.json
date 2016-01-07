@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Vehicles Available", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Total Vehicles Available Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25045001"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "tenure"
+  ], 
+  "value": 0
+}

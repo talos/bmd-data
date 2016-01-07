@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from abroad:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Educational Attainment for Current Residence in the United States", 
+    "title": "Total:", 
+    "universe": "Population 25 Years and Over in the United States"
+  }, 
+  "name": "Total Educational Attainment Moved from abroad in Population 25 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B07009001"
+  }, 
+  "tags": [
+    "education", 
+    "migration"
+  ], 
+  "value": 0
+}

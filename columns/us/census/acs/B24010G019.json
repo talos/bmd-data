@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Two or More Races)", 
+    "title": "Service occupations:", 
+    "universe": "Civilian Employed Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "Service occupations Occupation Male in Civilian Employed Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010G001", 
+    "parent": "us/census/acs/B24010G002"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

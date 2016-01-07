@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Some college or associate's degree:", 
+      "Not in labor force:"
+    ], 
+    "table": "Educational Attainment and Employment Status by Language Spoken at Home for the Population 25 Years and Over", 
+    "title": "Speak Spanish", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Speak Spanish Language Spoken at Home Some college or associate's degree Educational Attainment and Employment Status Not in labor force in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16010001", 
+    "parent": "us/census/acs/B16010035"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "language"
+  ], 
+  "value": 0
+}

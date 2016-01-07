@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Median Age by Sex for Workers 16 to 64 Years", 
+    "title": "Female", 
+    "universe": "Population 16 to 64 Years Who Have Worked in the Past 12 Months"
+  }, 
+  "name": "Margin of error for Female", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B23013003"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

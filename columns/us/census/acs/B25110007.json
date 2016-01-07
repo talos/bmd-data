@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Value (Dollars) by Year Householder Moved Into Unit", 
+    "title": "Moved in 1969 or earlier", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Moved in 1969 or earlier", 
+  "relationships": {
+    "parent": "us/census/acs/B25110001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

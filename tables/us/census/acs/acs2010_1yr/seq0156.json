@@ -1,0 +1,81 @@
+{
+  "columns": [
+    {
+      "id": "us/census/acs/B26001001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.40241404819442, 
+          "id": "us/census/tiger/county", 
+          "sample": 674
+        }, 
+        {
+          "error": 2.22211492423287, 
+          "id": "us/census/tiger/place", 
+          "sample": 331
+        }, 
+        {
+          "error": 1.29998600547865, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 457
+        }, 
+        {
+          "error": 3.50908891009657, 
+          "id": "us/census/tiger/necta", 
+          "sample": 24
+        }, 
+        {
+          "error": 1.59653663858887, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 344
+        }, 
+        {
+          "error": 1.24160198402709, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 436
+        }, 
+        {
+          "error": 1.31398697022005, 
+          "id": "us/census/tiger/puma", 
+          "sample": 1545
+        }, 
+        {
+          "error": 11.1759903213207, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 26
+        }, 
+        {
+          "error": 8.63136240469437, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 59
+        }, 
+        {
+          "error": 1.86524488840176, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 503
+        }
+      ]
+    }
+  ], 
+  "dct_temporal_sm": 2010, 
+  "title": "acs2010_1yr seq0156"
+}

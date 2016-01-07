@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "West Indian (except Hispanic groups):"
+    ], 
+    "table": "People Reporting Single Ancestry", 
+    "title": "U.S. Virgin Islander", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "U.S. Virgin Islander People Reporting Single Ancestry West Indian (except Hispanic groups)", 
+  "relationships": {
+    "denominator": "us/census/acs/B04004001", 
+    "parent": "us/census/acs/B04004094"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

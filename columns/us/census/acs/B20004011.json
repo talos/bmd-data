@@ -1,0 +1,21 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Median Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) by Sex by Educational Attainment for the Population 25 Years and Over", 
+    "title": "Bachelor's degree", 
+    "universe": "Population 25 Years and Over With Earnings"
+  }, 
+  "name": "Bachelor's degree Educational Attainment Male", 
+  "relationships": {
+    "parent": "us/census/acs/B20004007"
+  }, 
+  "tags": [
+    "education", 
+    "sex", 
+    "income"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (Hispanic or Latino)", 
+    "title": "Under 18 years:", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "Under 18 years Citizenship Status (Hispanic or Latino) Male in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003I001", 
+    "parent": "us/census/acs/B05003I002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Enrolled in school:", 
+      "Enrolled in kindergarten:"
+    ], 
+    "table": "School Enrollment by Level of School by Type of School for the Population 3 Years and Over", 
+    "title": "Public school", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Public school School Enrollment Enrolled in kindergarten in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C14002001", 
+    "parent": "us/census/acs/C14002006"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "value": 0
+}

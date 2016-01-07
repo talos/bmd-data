@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "table": "People Reporting Ancestry", 
+    "title": "Iraqi", 
+    "universe": "Total Population"
+  }, 
+  "name": "Iraqi People Reporting Ancestry Arab Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04006001", 
+    "parent": "us/census/acs/B04006006"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

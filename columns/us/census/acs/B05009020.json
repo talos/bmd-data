@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Age and Nativity of Own Children Under 18 Years in Families and Subfamilies by Number and Nativity of Parents", 
+    "title": "6 to 17 years:", 
+    "universe": "Own Children Under 18 Years Living in Families or Subfamilies"
+  }, 
+  "name": "6 to 17 years in Own Children Under 18 Years Living in Families or Subfamilies", 
+  "relationships": {
+    "denominator": "us/census/acs/B05009001", 
+    "parent": "us/census/acs/B05009001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

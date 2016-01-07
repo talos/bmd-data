@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Race", 
+    "title": "Imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Imputed Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99021001", 
+    "parent": "us/census/acs/B99021001"
+  }, 
+  "tags": [
+    "technical", 
+    "race"
+  ], 
+  "value": 0
+}

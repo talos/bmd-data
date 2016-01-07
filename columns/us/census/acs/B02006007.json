@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Asian Alone by Selected Groups", 
+    "title": "Hmong", 
+    "universe": "Total Asian Alone Population"
+  }, 
+  "name": "Hmong in Total Asian Alone Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02006001", 
+    "parent": "us/census/acs/B02006001"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

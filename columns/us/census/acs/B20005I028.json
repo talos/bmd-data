@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Other:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for the Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "With earnings:", 
+    "universe": "Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "With earnings Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Male Other in Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B20005I001", 
+    "parent": "us/census/acs/B20005I026"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "race", 
+    "income"
+  ], 
+  "value": 0
+}

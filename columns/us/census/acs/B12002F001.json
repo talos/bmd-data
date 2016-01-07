@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Some Other Race Alone)", 
+    "title": "Total:", 
+    "universe": "Some Other Race Alone Population 15 Years and Over"
+  }, 
+  "name": "Total Marital Status Female in Some Other Race Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12002F001"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

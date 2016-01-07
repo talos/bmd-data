@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Natural resources, construction, and maintenance occupations:", 
+      "Professional, scientific, and management, and administrative and waste management services:"
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Management of companies and enterprises", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Management of companies and enterprises Occupation Natural resources, construction, and maintenance occupations Industry Professional, scientific, and management, and administrative and waste management services in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24050001", 
+    "parent": "us/census/acs/B24050124"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

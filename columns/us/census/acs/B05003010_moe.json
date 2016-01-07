@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Sex by Age by Citizenship Status", 
+    "title": "Foreign born:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Foreign born Citizenship Status Male 18 years and over Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05003010"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

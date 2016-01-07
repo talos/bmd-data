@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "table": "Place of Birth by Marital Status in Puerto Rico", 
+    "title": "Widowed", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "Widowed Marital Status in Puerto Rico Foreign born in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/C06008PR001", 
+    "parent": "us/census/acs/C06008PR001"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "value": 0
+}

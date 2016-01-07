@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Built 1980 to 1999:"
+    ], 
+    "table": "Tenure by Year Structure Built by Units in Structure", 
+    "title": "2 to 4", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "2 to 4 Units in Structure Owner occupied Tenure Built 1980 to 1999 in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25127001", 
+    "parent": "us/census/acs/B25127010"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

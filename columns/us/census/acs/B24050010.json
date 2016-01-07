@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "Transportation and warehousing, and utilities:"
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Transportation and warehousing", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Transportation and warehousing Industry Transportation and warehousing, and utilities in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24050001", 
+    "parent": "us/census/acs/B24050009"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

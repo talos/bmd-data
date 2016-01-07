@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Service occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Personal care and service occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Personal care and service occupations Occupation Female Service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24010001", 
+    "parent": "us/census/acs/C24010055"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 1
+}

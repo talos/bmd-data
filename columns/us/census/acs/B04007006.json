@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Ancestry not specified:"
+    ], 
+    "table": "Ancestry", 
+    "title": "Ancestry unclassified", 
+    "universe": "Total Population"
+  }, 
+  "name": "Ancestry unclassified Ancestry Ancestry not specified Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04007001", 
+    "parent": "us/census/acs/B04007005"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female householder (dollars):", 
+      "Not living alone (dollars):"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for the Population 15 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B19325001"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

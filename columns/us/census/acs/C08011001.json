@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex of Workers by Time Leaving Home to Go to Work", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Total Time Leaving Home to Go to Work Female in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/C08011001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

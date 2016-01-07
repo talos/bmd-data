@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "75 years and over:"
+    ], 
+    "table": "Age by Disability Status by Poverty Status", 
+    "title": "With a disability:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "With a disability Poverty Status 75 years and over in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B18130001", 
+    "parent": "us/census/acs/B18130037"
+  }, 
+  "tags": [
+    "poverty", 
+    "age", 
+    "disability"
+  ], 
+  "value": 0
+}

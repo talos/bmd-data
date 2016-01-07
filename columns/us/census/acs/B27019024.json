@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Age by Educational Attainment", 
+    "title": "Less than high school graduate:", 
+    "universe": "Civilian Noninstitutionalized Population 25 Years and Over"
+  }, 
+  "name": "Less than high school graduate Educational Attainment 65 years and over in Civilian Noninstitutionalized Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B27019001", 
+    "parent": "us/census/acs/B27019023"
+  }, 
+  "tags": [
+    "health insurance", 
+    "education", 
+    "age"
+  ], 
+  "value": 1
+}

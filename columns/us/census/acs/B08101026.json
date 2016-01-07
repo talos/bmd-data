@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Means of Transportation to Work by Age", 
+    "title": "16 to 19 years", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "16 to 19 years Age Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08101001", 
+    "parent": "us/census/acs/B08101025"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 years and over:"
+    ], 
+    "table": "Sex by Age by Nativity (Two or More Races)", 
+    "title": "Total:", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "Total Nativity (Two or More Races) Female 18 years and over in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003G001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

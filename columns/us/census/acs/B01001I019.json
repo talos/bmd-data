@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (Hispanic or Latino)", 
+    "title": "5 to 9 years", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "5 to 9 years Age (Hispanic or Latino) Female in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001I001", 
+    "parent": "us/census/acs/B01001I017"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

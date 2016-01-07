@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Africa:", 
+      "Northern Africa:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Egypt", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Egypt Place of Birth Africa Place of Birth Northern Africa in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006100"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

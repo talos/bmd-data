@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Enrolled in school:", 
+      "Enrolled in graduate or professional school:"
+    ], 
+    "table": "Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over", 
+    "title": "Public school", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Public school Type of School Male School Enrollment Enrolled in graduate or professional school in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14002001", 
+    "parent": "us/census/acs/B14002022"
+  }, 
+  "tags": [
+    "education", 
+    "sex"
+  ], 
+  "value": 1
+}

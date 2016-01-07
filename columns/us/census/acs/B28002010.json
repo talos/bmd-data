@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With an Internet subscription:"
+    ], 
+    "table": "Presence and Types of Internet Subscriptions in Household", 
+    "title": "Fiber-optic:", 
+    "universe": "Households"
+  }, 
+  "name": "Fiber-optic Presence and Types of Internet Subscriptions in Household With an Internet subscription", 
+  "relationships": {
+    "denominator": "us/census/acs/B28002001", 
+    "parent": "us/census/acs/B28002002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Sales and office occupations:", 
+      "Office and administrative support occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Communications equipment operators", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Communications equipment operators Occupation Male Sales and office occupations Office and administrative support occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010001", 
+    "parent": "us/census/acs/B24010102"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

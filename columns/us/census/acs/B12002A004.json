@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (White Alone)", 
+    "title": "Now married (except separated)", 
+    "universe": "White Alone Population 15 Years and Over"
+  }, 
+  "name": "Now married (except separated) Marital Status Male in White Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12002A001", 
+    "parent": "us/census/acs/B12002A002"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

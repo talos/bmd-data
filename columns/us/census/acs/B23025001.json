@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "No disability:"
+    ], 
+    "table": "Employment Status for the Population 16 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Total in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23025001"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 1
+}

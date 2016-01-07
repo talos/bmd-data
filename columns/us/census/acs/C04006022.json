@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Ancestry", 
+    "title": "Scotch-Irish", 
+    "universe": "Total Population"
+  }, 
+  "name": "Scotch-Irish Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C04006001", 
+    "parent": "us/census/acs/C04006001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

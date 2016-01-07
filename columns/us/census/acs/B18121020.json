@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Work Experience by Disability Status and Type", 
+    "title": "Did not work:", 
+    "universe": "Civilian Noninstitutionalized Population 18 to 64 Years"
+  }, 
+  "name": "Did not work in Civilian Noninstitutionalized Population 18 to 64 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B18121001", 
+    "parent": "us/census/acs/B18121001"
+  }, 
+  "tags": [
+    "employment", 
+    "disability"
+  ], 
+  "value": 0
+}

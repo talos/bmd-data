@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Medicaid/Means-tested Public Coverage by Sex by Age", 
+    "title": "65 to 74 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "65 to 74 years Age Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27007001", 
+    "parent": "us/census/acs/B27007002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

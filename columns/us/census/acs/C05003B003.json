@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Nativity (Black or African American Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are Black Alone"
+  }, 
+  "name": "Under 18 years Nativity (Black or African American Alone) Male in People Who Are Black Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003B001", 
+    "parent": "us/census/acs/C05003B002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

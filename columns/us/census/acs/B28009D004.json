@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (Asian Alone)", 
+    "title": "With a broadband Internet subscription", 
+    "universe": "Asian Alone Household Population"
+  }, 
+  "name": "With a broadband Internet subscription Presence of a Computer and Type of Internet Subscription in Household (Asian Alone) Has a computer in Asian Alone Household Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B28009D001", 
+    "parent": "us/census/acs/B28009D002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

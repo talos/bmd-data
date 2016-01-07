@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Means of Transportation to Work", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99080001"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

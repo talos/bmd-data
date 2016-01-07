@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Under 18 years:"
+    ], 
+    "table": "Sex by Age by Nativity", 
+    "title": "Foreign born", 
+    "universe": "Total Population"
+  }, 
+  "name": "Foreign born Nativity Male Under 18 years Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003001", 
+    "parent": "us/census/acs/C05003003"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

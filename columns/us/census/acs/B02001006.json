@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Race", 
+    "title": "Native Hawaiian and Other Pacific Islander alone", 
+    "universe": "Total Population"
+  }, 
+  "name": "Native Hawaiian and Other Pacific Islander Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02001001", 
+    "parent": "us/census/acs/B02001001"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "table": "Tenure by Rooms", 
+    "title": "3 rooms", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "3 rooms Rooms Owner occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25020001", 
+    "parent": "us/census/acs/B25020002"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

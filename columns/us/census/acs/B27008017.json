@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "35 to 44 years:"
+    ], 
+    "table": "Tricare/Military Health Coverage by Sex by Age", 
+    "title": "No TRICARE/military health coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No TRICARE/military health coverage Age Male Tricare/Military Health Coverage 35 to 44 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27008001", 
+    "parent": "us/census/acs/B27008015"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Second Ancestry Reported", 
+    "title": "Canadian", 
+    "universe": "Total Population"
+  }, 
+  "name": "Canadian Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04002001", 
+    "parent": "us/census/acs/B04002001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

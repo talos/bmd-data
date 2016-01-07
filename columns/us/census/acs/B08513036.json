@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Walked:", 
+      "Speak Spanish:"
+    ], 
+    "table": "Means of Transportation to Work by Language Spoken at Home and Ability to Speak English for Workplace Geography", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Language Spoken at Home and Ability to Speak English Walked Means of Transportation to Work Speak Spanish in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08513001", 
+    "parent": "us/census/acs/B08513035"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "language"
+  ], 
+  "value": 0
+}

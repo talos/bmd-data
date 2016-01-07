@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Never married", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Never married Marital Status Male in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12001001", 
+    "parent": "us/census/acs/B12001002"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "value": 1
+}

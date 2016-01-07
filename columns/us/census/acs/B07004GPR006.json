@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Geographical Mobility in the Past Year (Two or More Races) for Current Residence in Puerto Rico", 
+    "title": "Moved from elsewhere", 
+    "universe": "Two or More Races Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "Moved from elsewhere in Two or More Races Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B07004GPR001", 
+    "parent": "us/census/acs/B07004GPR001"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "value": 0
+}

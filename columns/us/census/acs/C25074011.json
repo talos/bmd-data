@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$20,000 to $34,999:"
+    ], 
+    "table": "Household Income by Gross Rent as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Less than 30.0 percent", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Less than 30.0 percent Gross Rent as a Percentage of Household Income in the Past 12 Months $20,000 to $34,999 in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25074001", 
+    "parent": "us/census/acs/C25074010"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

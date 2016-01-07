@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Italian:"
+    ], 
+    "table": "Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English less than \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English less than \"very well\" Ability to Speak English Italian in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16001001", 
+    "parent": "us/census/acs/B16001012"
+  }, 
+  "tags": [
+    "language"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "No children under 18 years:", 
+      "Other family:"
+    ], 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "Female householder, no husband present:", 
+    "universe": "Families"
+  }, 
+  "name": "Female householder, no husband present Presence of Own Children Under 18 Years Other family in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B23007001", 
+    "parent": "us/census/acs/B23007049"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "value": 0
+}

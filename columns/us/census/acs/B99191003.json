@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Individuals' Income in the Past 12 Months for the Population 15 Years and Over - Percent of Income Imputed", 
+    "title": "Dollar value of zero imputed", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Dollar value of zero imputed in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99191001", 
+    "parent": "us/census/acs/B99191001"
+  }, 
+  "tags": [
+    "technical", 
+    "income"
+  ], 
+  "value": 0
+}

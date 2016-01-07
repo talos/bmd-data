@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Subsaharan African:"
+    ], 
+    "table": "People Reporting Multiple Ancestry", 
+    "title": "Sudanese", 
+    "universe": "People Reporting Multiple Ancestries"
+  }, 
+  "name": "Sudanese People Reporting Multiple Ancestry Subsaharan African in People Reporting Multiple Ancestries", 
+  "relationships": {
+    "denominator": "us/census/acs/B04005001", 
+    "parent": "us/census/acs/B04005073"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born outside the United States:"
+    ], 
+    "table": "Place of Birth by Age in the United States", 
+    "title": "75 years and over", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "75 years and over Age in the United States Native; born outside the United States in Total Population in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/C06001001", 
+    "parent": "us/census/acs/C06001028"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "value": 0
+}

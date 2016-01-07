@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Race of Householder", 
+    "title": "Householder who is Black or African American alone", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder who is Black or African American alone in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25006001", 
+    "parent": "us/census/acs/B25006001"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

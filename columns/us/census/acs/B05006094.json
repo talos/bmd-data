@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Africa:", 
+      "Eastern Africa:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Ethiopia", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Ethiopia Place of Birth Africa Place of Birth Eastern Africa in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006092"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

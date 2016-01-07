@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work (Asian Alone)", 
+    "title": "Worked at home", 
+    "universe": "Asian Alone Workers 16 Years and Over"
+  }, 
+  "name": "Worked at home in Asian Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08105D001", 
+    "parent": "us/census/acs/B08105D001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

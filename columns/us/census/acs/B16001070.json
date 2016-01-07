@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Japanese:"
+    ], 
+    "table": "Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Ability to Speak English Japanese in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16001001", 
+    "parent": "us/census/acs/B16001069"
+  }, 
+  "tags": [
+    "language"
+  ], 
+  "value": 2
+}

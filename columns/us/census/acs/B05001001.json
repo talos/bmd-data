@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Citizenship Status in the United States", 
+    "title": "Total:", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Total Population in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B05001001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 2
+}

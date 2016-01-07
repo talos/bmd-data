@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonfamily households:"
+    ], 
+    "table": "Household Type by Units in Structure", 
+    "title": "2-or-more-unit structures", 
+    "universe": "Households"
+  }, 
+  "name": "2-or-more-unit structures Units in Structure Nonfamily households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11011001", 
+    "parent": "us/census/acs/B11011016"
+  }, 
+  "tags": [
+    "families", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

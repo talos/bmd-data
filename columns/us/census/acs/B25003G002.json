@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Tenure (Two or More Races Householder)", 
+    "title": "Owner occupied", 
+    "universe": "Occupied Housing Units With a Householder Who Is Two or More Races"
+  }, 
+  "name": "Owner occupied in Occupied Housing Units With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/B25003G001", 
+    "parent": "us/census/acs/B25003G001"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 1
+}

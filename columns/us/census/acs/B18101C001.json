@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "table": "Age by Disability Status (American Indian and Alaska Native Alone)", 
+    "title": "Total:", 
+    "universe": "American Indian and Alaska Native Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Total Disability Status (American Indian and Alaska Native Alone) 65 years and over in American Indian and Alaska Native Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101C001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "value": 0
+}

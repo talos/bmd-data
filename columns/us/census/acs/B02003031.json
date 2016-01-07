@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of two or more races:", 
+      "Population of three races:"
+    ], 
+    "table": "Detailed Race", 
+    "title": "White; American Indian and Alaska Native; Asian", 
+    "universe": "Total Population"
+  }, 
+  "name": "White; American Indian and Alaska Native; Asian Detailed Race Population of two or more races Detailed Race Population of three races Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02003001", 
+    "parent": "us/census/acs/B02003026"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

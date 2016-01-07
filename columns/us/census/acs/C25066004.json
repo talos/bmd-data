@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Gross Rent (Dollars) by Units in Structure", 
+    "title": "Mobile home, boat, RV, van, etc.", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Mobile home, boat, RV, van, etc.", 
+  "relationships": {
+    "parent": "us/census/acs/C25066001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

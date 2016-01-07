@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Mortgage Status by Median Value (Dollars)", 
+    "title": "Total:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25097001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

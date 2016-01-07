@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "In group quarters", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for In group quarters Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B09019038"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 1
+}

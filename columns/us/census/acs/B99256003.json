@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Year Structure Built", 
+    "title": "Not imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Not imputed in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B99256001", 
+    "parent": "us/census/acs/B99256001"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

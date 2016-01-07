@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Different house:"
+    ], 
+    "table": "Imputation of Residence 1 Year Ago for the Population 1 Year and Over", 
+    "title": "Imputed:", 
+    "universe": "Population 1 Year and Over"
+  }, 
+  "name": "Imputed Imputation of Residence 1 Year Ago Different house in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99072001", 
+    "parent": "us/census/acs/B99072002"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

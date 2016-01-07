@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work for Workplace Geography", 
+    "title": "Taxicab, motorcycle, bicycle, or other means", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08601001", 
+    "parent": "us/census/acs/C08601001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

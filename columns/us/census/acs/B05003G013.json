@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age by Citizenship Status (Two or More Races)", 
+    "title": "Female:", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "Female in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003G001", 
+    "parent": "us/census/acs/B05003G001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

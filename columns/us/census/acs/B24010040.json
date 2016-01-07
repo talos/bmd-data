@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:", 
+      "Legal occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Lawyers and judicial law clerks", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Lawyers and judicial law clerks Occupation Male Management, business, science, and arts occupations Education, legal, community service, arts, and media occupations Legal occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010001", 
+    "parent": "us/census/acs/B24010039"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

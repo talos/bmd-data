@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own incorporated business workers:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Management, business, science, and arts occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Management, business, science, and arts occupations Class of Worker Self-employed in own incorporated business workers in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24060001", 
+    "parent": "us/census/acs/C24060013"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

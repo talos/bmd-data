@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:"
+    ], 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Relationship Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B09016001"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

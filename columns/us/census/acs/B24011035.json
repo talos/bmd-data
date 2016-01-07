@@ -1,0 +1,21 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Production, transportation, and material moving occupations:"
+    ], 
+    "table": "Occupation by Median Earnings in the Past 12 Months (In 2013 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Transportation occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Transportation occupations Median Earnings in the Past 12 Months (In 2013 Inflation-adjusted Dollars) Production, transportation, and material moving occupations in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24011001", 
+    "parent": "us/census/acs/B24011033"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

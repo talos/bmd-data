@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "table": "Tenure by Household Type (Including Living Alone) and Age of Householder", 
+    "title": "Nonfamily households:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Nonfamily households Household Type (Including Living Alone) and Age of Householder Owner occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25011001", 
+    "parent": "us/census/acs/B25011002"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

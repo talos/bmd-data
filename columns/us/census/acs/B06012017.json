@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth by Poverty Status in the Past 12 Months in the United States", 
+    "title": "Foreign born:", 
+    "universe": "Population in the United States for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Foreign born in Population in the United States for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B06012001", 
+    "parent": "us/census/acs/B06012001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "value": 1
+}

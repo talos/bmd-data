@@ -1,0 +1,18 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "table": "Median Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) by Sex by Educational Attainment for the Population 25 Years and Over", 
+    "title": "Female:", 
+    "universe": "Population 25 Years and Over With Earnings"
+  }, 
+  "name": "Female", 
+  "relationships": {
+    "parent": "us/census/acs/B20004001"
+  }, 
+  "tags": [
+    "education", 
+    "sex", 
+    "income"
+  ], 
+  "value": 0
+}

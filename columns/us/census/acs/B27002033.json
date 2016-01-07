@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 6 years:"
+    ], 
+    "table": "Private Health Insurance Status by Sex by Age", 
+    "title": "No private health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No private health insurance Age Female Private Health Insurance Status Under 6 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27002001", 
+    "parent": "us/census/acs/B27002031"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 1
+}

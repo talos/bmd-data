@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Vehicles Available for Workplace Geography", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B08541001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

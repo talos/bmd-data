@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Marital Status by Age for the Population 15 Years and Over", 
+    "title": "Female:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Female in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12002001", 
+    "parent": "us/census/acs/B12002001"
+  }, 
+  "tags": [
+    "marital status", 
+    "age", 
+    "sex"
+  ], 
+  "value": 1
+}

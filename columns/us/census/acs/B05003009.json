@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "18 years and over:"
+    ], 
+    "table": "Sex by Age by Citizenship Status", 
+    "title": "Native", 
+    "universe": "Total Population"
+  }, 
+  "name": "Native Citizenship Status Male 18 years and over Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003001", 
+    "parent": "us/census/acs/B05003008"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

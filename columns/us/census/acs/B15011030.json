@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "40 to 64 years:"
+    ], 
+    "table": "Sex by Age by Field of Bachelor's Degree for First Major for the Population 25 Years and Over", 
+    "title": "Science and Engineering Related Fields", 
+    "universe": "POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Science and Engineering Related Fields Field of Bachelor's Degree Female 40 to 64 years in POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "us/census/acs/B15011001", 
+    "parent": "us/census/acs/B15011028"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "value": 0
+}

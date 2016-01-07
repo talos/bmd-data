@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not mortgaged:"
+    ], 
+    "table": "Mortgage Status by Ratio of Value to Household Income in the Past 12 Months", 
+    "title": "Not computed", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Not computed Ratio of Value to Household Income in the Past 12 Months Not mortgaged in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25100001", 
+    "parent": "us/census/acs/B25100008"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "value": 0
+}

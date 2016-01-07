@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Sales and office occupations:"
+    ], 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Sales and related occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Sales and related occupations Occupation Male Sales and office occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24020001", 
+    "parent": "us/census/acs/C24020027"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 1
+}

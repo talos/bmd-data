@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Other:", 
+      "With earnings:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for the Population 16 Years and Over", 
+    "title": "$50,000 to $54,999", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "$50,000 to $54,999 Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Male Other Work Experience in the Past 12 Months With earnings in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B20005001", 
+    "parent": "us/census/acs/B20005028"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

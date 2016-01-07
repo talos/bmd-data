@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Poverty Status in the Past 12 Months for Workplace Geography", 
+    "title": "Worked at home:", 
+    "universe": "Workers 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Worked at home in Workers 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C08522001", 
+    "parent": "us/census/acs/C08522001"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "poverty"
+  ], 
+  "value": 0
+}

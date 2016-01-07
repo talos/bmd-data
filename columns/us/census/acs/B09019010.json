@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In households:", 
+      "In family households:", 
+      "Child:"
+    ], 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Adopted child", 
+    "universe": "Total Population"
+  }, 
+  "name": "Adopted child Relationship In households Household Type (Including Living Alone) In family households Household Type (Including Living Alone) Child Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B09019001", 
+    "parent": "us/census/acs/B09019008"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 1
+}

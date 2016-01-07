@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age (Black or African American Alone)", 
+    "title": "18 and 19 years", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "18 and 19 years Age (Black or African American Alone) Male in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001B001", 
+    "parent": "us/census/acs/B01001B002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

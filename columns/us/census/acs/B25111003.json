@@ -1,0 +1,21 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Gross Rent by Year Structure Built", 
+    "title": "Built 2000 to 2009", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Built 2000 to 2009", 
+  "relationships": {
+    "parent": "us/census/acs/B25111001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

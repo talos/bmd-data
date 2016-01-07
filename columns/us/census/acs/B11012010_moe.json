@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Type by Tenure", 
+    "title": "Female householder, no husband present:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Female householder, no husband present Tenure Family households Household Type Other family", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11012010"
+  }, 
+  "tags": [
+    "families", 
+    "tenure"
+  ], 
+  "value": 2
+}

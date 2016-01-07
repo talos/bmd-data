@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Management, business, and financial occupations:", 
+      "Business and financial operations occupations:", 
+      "Financial specialists:"
+    ], 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Accountants and auditors", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Accountants and auditors Occupation Male Management, business, science, and arts occupations Management, business, and financial occupations Business and financial operations occupations Financial specialists in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24020001", 
+    "parent": "us/census/acs/B24020016"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

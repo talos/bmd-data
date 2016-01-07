@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Worked full-time, year-round in the past 12 months:", 
+      "With earnings:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for the Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "$5,000 to $7,499", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over"
+  }, 
+  "name": "$5,000 to $7,499 Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Female Worked full-time, year-round in the past 12 months Work Experience in the Past 12 Months With earnings in Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B20005E001", 
+    "parent": "us/census/acs/B20005E052"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

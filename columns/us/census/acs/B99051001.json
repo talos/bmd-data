@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Citizenship Status", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99051001"
+  }, 
+  "tags": [
+    "technical", 
+    "citizenship"
+  ], 
+  "value": 0
+}

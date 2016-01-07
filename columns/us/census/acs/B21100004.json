@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a service-connected disability rating:"
+    ], 
+    "table": "Service-connected Disability-rating Status and Ratings for Civilian Veterans 18 Years and Over", 
+    "title": "0 percent", 
+    "universe": "Civilian Veterans 18 Years and Over"
+  }, 
+  "name": "0 percent Service-connected Disability-rating Status and Ratings Has a service-connected disability rating in Civilian Veterans 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B21100001", 
+    "parent": "us/census/acs/B21100003"
+  }, 
+  "tags": [
+    "disability", 
+    "veterans"
+  ], 
+  "value": 0
+}

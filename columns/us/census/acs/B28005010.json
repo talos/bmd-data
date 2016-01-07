@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 64 years:", 
+      "Has a computer:"
+    ], 
+    "table": "Age by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "With dial-up Internet subscription alone", 
+    "universe": "Population in Households"
+  }, 
+  "name": "With dial-up Internet subscription alone Presence of a Computer and Types of Internet Subscription in Household 18 to 64 years Age Has a computer in Population in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B28005001", 
+    "parent": "us/census/acs/B28005009"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families", 
+    "age"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "table": "Place of Birth by Citizenship Status", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Total Population"
+  }, 
+  "name": "Naturalized U.S. citizen Citizenship Status Foreign born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05002001", 
+    "parent": "us/census/acs/B05002013"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 1
+}

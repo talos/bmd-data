@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "Population in Households With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Population in Households With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/B11002I001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

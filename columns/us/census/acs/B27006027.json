@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Medicare Coverage by Sex by Age", 
+    "title": "75 years and over:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "75 years and over Age Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27006001", 
+    "parent": "us/census/acs/B27006002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

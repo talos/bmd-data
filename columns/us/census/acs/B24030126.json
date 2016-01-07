@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Manufacturing:"
+    ], 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Computer and electronic products", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Computer and electronic products Industry Female Manufacturing in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24030001", 
+    "parent": "us/census/acs/B24030111"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

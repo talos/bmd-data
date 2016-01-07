@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Native:", 
+    "universe": "White Alone, Not Hispanic or Latino Population 5 Years and Over"
+  }, 
+  "name": "Native in White Alone, Not Hispanic or Latino Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16005H001", 
+    "parent": "us/census/acs/B16005H001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race", 
+    "language"
+  ], 
+  "value": 0
+}

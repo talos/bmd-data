@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Native:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Nativity", 
+    "title": "Born outside the United States", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Born outside the United States Nativity Income in the past 12 months below poverty level Poverty Status in the Past 12 Months Native in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B17025001", 
+    "parent": "us/census/acs/B17025003"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "value": 0
+}

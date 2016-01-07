@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Walked:"
+    ], 
+    "table": "Means of Transportation to Work by Class of Worker for Workplace Geography", 
+    "title": "Private not-for-profit wage and salary workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Private not-for-profit wage and salary workers Class of Worker Walked in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08528001", 
+    "parent": "us/census/acs/B08528041"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

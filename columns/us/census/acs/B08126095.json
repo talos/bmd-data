@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Industry", 
+    "title": "Wholesale trade", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Wholesale trade Industry Worked at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08126001", 
+    "parent": "us/census/acs/B08126091"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

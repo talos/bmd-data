@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Europe:", 
+      "Eastern Europe:", 
+      "Yugoslavia"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Serbia", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Serbia Place of Birth Europe Place of Birth Eastern Europe Place of Birth Yugoslavia in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006043"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

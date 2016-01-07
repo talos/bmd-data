@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With a mortgage:"
+    ], 
+    "table": "Mortgage Status by Real Estate Taxes Paid", 
+    "title": "No real estate taxes paid", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "No real estate taxes paid Real Estate Taxes Paid With a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25102001", 
+    "parent": "us/census/acs/B25102002"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

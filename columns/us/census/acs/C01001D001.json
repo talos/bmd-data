@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (Asian Alone)", 
+    "title": "Total:", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "Total Age (Asian Alone) Female in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C01001D001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

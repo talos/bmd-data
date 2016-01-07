@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Naturalized citizens:"
+    ], 
+    "table": "Period of Naturalization", 
+    "title": "Naturalized 1990 to 1994", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Naturalized 1990 to 1994 Period of Naturalization Naturalized citizens in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05011001", 
+    "parent": "us/census/acs/B05011003"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 2
+}

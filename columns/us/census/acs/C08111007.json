@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - drove alone:"
+    ], 
+    "table": "Means of Transportation to Work by Citizenship Status", 
+    "title": "Native", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Native Citizenship Status Car, truck, or van - drove alone in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08111001", 
+    "parent": "us/census/acs/C08111006"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Selected Monthly Owner Costs", 
+    "title": "$900 to $999", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "$900 to $999 in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25094001", 
+    "parent": "us/census/acs/B25094001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 0
+}

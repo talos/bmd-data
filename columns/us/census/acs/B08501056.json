@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Age for Workplace Geography", 
+    "title": "65 years and over", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "65 years and over Age Worked at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08501001", 
+    "parent": "us/census/acs/B08501049"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

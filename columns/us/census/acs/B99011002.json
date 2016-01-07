@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Sex", 
+    "title": "Imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Imputed Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99011001", 
+    "parent": "us/census/acs/B99011001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

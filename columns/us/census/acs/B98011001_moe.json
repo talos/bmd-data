@@ -1,0 +1,16 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Housing Unit Coverage Rate", 
+    "title": "Total", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98011001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work in the past 12 months:", 
+      "75 years and over:"
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Asian Alone)", 
+    "title": "Total:", 
+    "universe": "Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Total 75 years and over in Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C23002D001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

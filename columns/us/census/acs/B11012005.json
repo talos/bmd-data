@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Married-couple family:"
+    ], 
+    "table": "Household Type by Tenure", 
+    "title": "Renter-occupied housing units", 
+    "universe": "Households"
+  }, 
+  "name": "Renter-occupied housing units Tenure Family households Household Type Married-couple family", 
+  "relationships": {
+    "denominator": "us/census/acs/B11012001", 
+    "parent": "us/census/acs/B11012003"
+  }, 
+  "tags": [
+    "families", 
+    "tenure"
+  ], 
+  "value": 2
+}

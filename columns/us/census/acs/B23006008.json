@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Less than high school graduate:"
+    ], 
+    "table": "Educational Attainment by Employment Status for the Population 25 to 64 Years", 
+    "title": "Not in labor force", 
+    "universe": "Population 25 to 64 Years"
+  }, 
+  "name": "Not in labor force in Population 25 to 64 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B23006001", 
+    "parent": "us/census/acs/B23006002"
+  }, 
+  "tags": [
+    "education", 
+    "employment"
+  ], 
+  "value": 1
+}

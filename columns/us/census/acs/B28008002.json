@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Presence of a Computer and Type of Internet Subscription in Household", 
+    "title": "Has a computer:", 
+    "universe": "Population in Households"
+  }, 
+  "name": "Has a computer in Population in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B28008001", 
+    "parent": "us/census/acs/B28008001"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "value": 0
+}

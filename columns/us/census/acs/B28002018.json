@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With an Internet subscription:", 
+      "Two or more fixed broadband types, or other:"
+    ], 
+    "table": "Presence and Types of Internet Subscriptions in Household", 
+    "title": "Without mobile broadband", 
+    "universe": "Households"
+  }, 
+  "name": "Without mobile broadband Presence and Types of Internet Subscriptions in Household With an Internet subscription Presence and Types of Internet Subscriptions in Household Two or more fixed broadband types, or other", 
+  "relationships": {
+    "denominator": "us/census/acs/B28002001", 
+    "parent": "us/census/acs/B28002016"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder who is Two or more races:"
+    ], 
+    "table": "Tenure by Age of Householder", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Total Age of Householder Householder who is Two or more races in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25007001"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "value": 0
+}

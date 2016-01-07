@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Married-couple family:", 
+      "With related children under 18 years:"
+    ], 
+    "table": "Family Type by Presence and Age of Related Children Under 18 Years", 
+    "title": "6 to 17 years only", 
+    "universe": "Families"
+  }, 
+  "name": "6 to 17 years only Presence and Age of Related Children Under 18 Years Married-couple family Family Type With related children under 18 years in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B11004001", 
+    "parent": "us/census/acs/B11004003"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

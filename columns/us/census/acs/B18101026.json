@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "5 to 17 years:"
+    ], 
+    "table": "Sex by Age by Disability Status", 
+    "title": "With a disability", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability Disability Status Female 5 to 17 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101001", 
+    "parent": "us/census/acs/B18101025"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "value": 0
+}

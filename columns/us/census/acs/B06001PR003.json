@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Place of Birth by Age in Puerto Rico", 
+    "title": "5 to 17 years", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "5 to 17 years in Total Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06001PR001", 
+    "parent": "us/census/acs/B06001PR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "value": 0
+}

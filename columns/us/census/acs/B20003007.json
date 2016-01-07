@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Aggregate Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) by Sex by Work Experience for the Population 16 Years and Over With Earnings", 
+    "title": "Other", 
+    "universe": "Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Other Work Experience Female", 
+  "relationships": {
+    "parent": "us/census/acs/B20003005"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

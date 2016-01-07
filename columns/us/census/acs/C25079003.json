@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Value (Dollars) by Age of Householder", 
+    "title": "Householder 65 years and over (dollars)", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Householder 65 years and over (dollars)", 
+  "relationships": {
+    "parent": "us/census/acs/C25079001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "age"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "Service occupations:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Healthcare support occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Healthcare support occupations Occupation Service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060018"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

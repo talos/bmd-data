@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Median Age by Place of Birth in the United States", 
+    "title": "Born in state of residence", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Margin of error for Born in state of residence", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06002002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "value": 0
+}

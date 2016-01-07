@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Travel Time to Work for Workplace Geography", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99088001"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

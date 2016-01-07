@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Management, business, science, and arts occupations:", 
+      "Transportation and warehousing, and utilities:"
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Utilities", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Utilities Occupation Management, business, science, and arts occupations Industry Transportation and warehousing, and utilities in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24050001", 
+    "parent": "us/census/acs/B24050036"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

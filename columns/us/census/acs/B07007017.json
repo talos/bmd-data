@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from different county within same state:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Citizenship Status for Current Residence in the United States", 
+    "title": "Native", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Native Citizenship Status Moved from different county within same state in Population 1 Year and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B07007001", 
+    "parent": "us/census/acs/B07007016"
+  }, 
+  "tags": [
+    "migration", 
+    "citizenship"
+  ], 
+  "value": 0
+}

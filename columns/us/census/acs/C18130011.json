@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 64 years:", 
+      "With a disability:"
+    ], 
+    "table": "Age by Disability Status by Poverty Status", 
+    "title": "Income in the past 12-months below poverty level", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Income in the past 12-months below poverty level Poverty Status 18 to 64 years Age With a disability in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C18130001", 
+    "parent": "us/census/acs/C18130010"
+  }, 
+  "tags": [
+    "poverty", 
+    "age", 
+    "disability"
+  ], 
+  "value": 0
+}

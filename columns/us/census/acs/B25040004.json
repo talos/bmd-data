@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "House Heating Fuel", 
+    "title": "Electricity", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Electricity in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25040001", 
+    "parent": "us/census/acs/B25040001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

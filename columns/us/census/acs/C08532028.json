@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:"
+    ], 
+    "table": "Means of Transportation to Work by Time Arriving at Work From Home for Workplace Geography", 
+    "title": "6:30 a.m. to 6:59 a.m.", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "630 a.m. to 659 a.m. Time Arriving at Work From Home Car, truck, or van - carpooled in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/C08532001", 
+    "parent": "us/census/acs/C08532023"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Monthly Housing Costs", 
+    "title": "$2,000 or more", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "$2,000 or more in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25104001", 
+    "parent": "us/census/acs/B25104001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

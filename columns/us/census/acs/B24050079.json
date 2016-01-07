@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Service occupations:", 
+      "Arts, entertainment, and recreation, and accommodation and food services:"
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Accommodation and food services", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Accommodation and food services Occupation Service occupations Industry Arts, entertainment, and recreation, and accommodation and food services in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24050001", 
+    "parent": "us/census/acs/B24050077"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

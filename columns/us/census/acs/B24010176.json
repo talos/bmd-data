@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:", 
+      "Computer and mathematical occupations:", 
+      "Computer occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Miscellaneous computer occupations, including computer support specialists", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Miscellaneous computer occupations, including computer support specialists Occupation Female Management, business, science, and arts occupations Computer, engineering, and science occupations Computer and mathematical occupations Computer occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010001", 
+    "parent": "us/census/acs/B24010172"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

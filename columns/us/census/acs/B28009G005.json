@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (Two or More Races)", 
+    "title": "Without an Internet subscription", 
+    "universe": "Two or More Races Household Population"
+  }, 
+  "name": "Without an Internet subscription Presence of a Computer and Type of Internet Subscription in Household (Two or More Races) Has a computer in Two or More Races Household Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B28009G001", 
+    "parent": "us/census/acs/B28009G002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

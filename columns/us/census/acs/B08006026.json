@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Sex of Workers by Means of Transportation to Work", 
+    "title": "Bus or trolley bus", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Bus or trolley bus Means of Transportation to Work Male Sex of Workers Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08006001", 
+    "parent": "us/census/acs/B08006025"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 2
+}

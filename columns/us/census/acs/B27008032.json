@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 6 years:"
+    ], 
+    "table": "Tricare/Military Health Coverage by Sex by Age", 
+    "title": "With TRICARE/military health coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With TRICARE/military health coverage Age Female Tricare/Military Health Coverage Under 6 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27008001", 
+    "parent": "us/census/acs/B27008031"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Educational services, and health care and social assistance:", 
+      "Health care and social assistance:"
+    ], 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Social assistance", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Social assistance Industry Male Educational services, and health care and social assistance Health care and social assistance in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24030001", 
+    "parent": "us/census/acs/B24030094"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

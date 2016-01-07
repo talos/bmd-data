@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Sex by Age by Citizenship Status", 
+    "title": "Native", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Native Citizenship Status Female Under 18 years Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05003015"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

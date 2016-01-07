@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "35 to 54 years:"
+    ], 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Nonveteran", 
+    "universe": "American Indian and Alaska Native Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "Nonveteran Veteran Status Male 35 to 54 years in American Indian and Alaska Native Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B21001C001", 
+    "parent": "us/census/acs/B21001C006"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "value": 0
+}

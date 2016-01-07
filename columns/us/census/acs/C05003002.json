@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age by Nativity", 
+    "title": "Male:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Male Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003001", 
+    "parent": "us/census/acs/C05003001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

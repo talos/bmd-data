@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Built 1939 or earlier:"
+    ], 
+    "table": "Tenure by Age of Householder by Year Householder Moved Into Unit", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Total Year Householder Moved Into Unit Renter occupied Tenure Built 1939 or earlier in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25128001"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work", 
+    "title": "Walked", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Walked in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08301001", 
+    "parent": "us/census/acs/B08301001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 1
+}

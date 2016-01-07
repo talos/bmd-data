@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "School Enrollment by Detailed Level of School for the Population 3 Years and Over (Two or More Races)", 
+    "title": "Not enrolled in school", 
+    "universe": "Two or More Races Population 3 Years and Over"
+  }, 
+  "name": "Not enrolled in school in Two or More Races Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14007G001", 
+    "parent": "us/census/acs/B14007G001"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "value": 0
+}

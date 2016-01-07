@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Median Age by Sex", 
+    "title": "Male", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Male", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B01002002"
+  }, 
+  "tags": [
+    "age", 
+    "sex"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Service occupations:", 
+      "Personal care and service occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Other personal care and service workers except personal appearance, baggage porters, concierges, and child care workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Other personal care and service workers except personal appearance, baggage porters, concierges, and child care workers Occupation Female Service occupations Personal care and service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010001", 
+    "parent": "us/census/acs/B24010238"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

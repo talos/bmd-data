@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "1 or more vehicles available:"
+    ], 
+    "table": "Aggregate Number of Vehicles Available by Tenure", 
+    "title": "Aggregate number of vehicles available:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Aggregate number of vehicles available Tenure Renter occupied Aggregate Number of Vehicles Available 1 or more vehicles available", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "tenure"
+  ], 
+  "value": 0
+}

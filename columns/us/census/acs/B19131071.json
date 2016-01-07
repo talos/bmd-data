@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Other family:", 
+      "Male householder, no wife present:", 
+      "No own children under 18 years:"
+    ], 
+    "table": "Family Type by Presence of Own Children Under 18 Years by Family Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars)", 
+    "title": "$150,000 to $199,999", 
+    "universe": "Families"
+  }, 
+  "name": "$150,000 to $199,999 Family Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Other family Family Type Male householder, no wife present Presence of Own Children Under 18 Years No own children under 18 years in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B19131001", 
+    "parent": "us/census/acs/B19131056"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "value": 0
+}

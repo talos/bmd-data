@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1 bedroom:", 
+      "With cash rent:"
+    ], 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "$300 to $499", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$300 to $499 Gross Rent 1 bedroom Bedrooms With cash rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25068001", 
+    "parent": "us/census/acs/B25068012"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Agriculture, forestry, fishing and hunting, and mining:"
+    ], 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Agriculture, forestry, fishing and hunting", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Agriculture, forestry, fishing and hunting Industry Female Agriculture, forestry, fishing and hunting, and mining in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24030001", 
+    "parent": "us/census/acs/C24030030"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 1
+}

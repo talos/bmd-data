@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Other families:", 
+      "Female householder, no husband present:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Number of Persons in Family", 
+    "title": "7 or more people", 
+    "universe": "Families"
+  }, 
+  "name": "7 or more people Number of Persons in Family Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Other families Household Type Female householder, no husband present", 
+  "relationships": {
+    "denominator": "us/census/acs/B17013001", 
+    "parent": "us/census/acs/B17013031"
+  }, 
+  "tags": [
+    "families", 
+    "poverty"
+  ], 
+  "value": 0
+}

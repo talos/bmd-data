@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Boat, RV, van, etc.:"
+    ], 
+    "table": "Units in Structure by Gross Rent as a Percentage of Household Income in the Past 12 Months", 
+    "title": "25.0 to 29.9 percent", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "25.0 to 29.9 percent Gross Rent as a Percentage of Household Income in the Past 12 Months Boat, RV, van, etc. in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25073001", 
+    "parent": "us/census/acs/B25073044"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "income"
+  ], 
+  "value": 0
+}

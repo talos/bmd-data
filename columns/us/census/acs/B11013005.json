@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Subfamily Type by Presence of Own Children Under 18 Years", 
+    "title": "Mother-child subfamily", 
+    "universe": "Subfamilies"
+  }, 
+  "name": "Mother-child subfamily in Subfamilies", 
+  "relationships": {
+    "denominator": "us/census/acs/B11013001", 
+    "parent": "us/census/acs/B11013001"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

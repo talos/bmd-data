@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Built 1960 to 1979:"
+    ], 
+    "table": "Tenure by Year Structure Built by Units in Structure", 
+    "title": "50 or more", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "50 or more Units in Structure Owner occupied Tenure Built 1960 to 1979 in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25127001", 
+    "parent": "us/census/acs/B25127017"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

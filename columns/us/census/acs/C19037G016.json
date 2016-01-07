@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 25 to 44 years:"
+    ], 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) (Two or More Races Householder)", 
+    "title": "$15,000 to $24,999", 
+    "universe": "Households With a Householder Who Is Two or More Races"
+  }, 
+  "name": "$15,000 to $24,999 Household Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) (Two or More Races Householder) Householder 25 to 44 years in Households With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/C19037G001", 
+    "parent": "us/census/acs/C19037G013"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

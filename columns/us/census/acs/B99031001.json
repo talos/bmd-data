@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Hispanic or Latino Origin", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99031001"
+  }, 
+  "tags": [
+    "technical", 
+    "race"
+  ], 
+  "value": 0
+}

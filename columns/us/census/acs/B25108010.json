@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Value (Dollars) by Year Structure Built", 
+    "title": "Built 1939 or earlier", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Built 1939 or earlier", 
+  "relationships": {
+    "parent": "us/census/acs/B25108001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

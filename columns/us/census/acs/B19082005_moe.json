@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Shares of Aggregate Household Income by Quintile", 
+    "title": "Highest Quintile", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Highest Quintile", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19082005"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

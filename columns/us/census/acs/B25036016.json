@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Year Structure Built", 
+    "title": "Built 1980 to 1989", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Built 1980 to 1989 Year Structure Built Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25036001", 
+    "parent": "us/census/acs/B25036012"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 1
+}

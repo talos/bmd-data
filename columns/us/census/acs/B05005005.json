@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Entered 2000 or later:", 
+      "Foreign born:"
+    ], 
+    "table": "Year of Entry by Citizenship Status in the United States", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Naturalized U.S. citizen Citizenship Status in the United States Entered 2000 or later Year of Entry Foreign born in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B05005001", 
+    "parent": "us/census/acs/B05005004"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

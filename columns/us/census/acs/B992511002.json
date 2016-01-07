@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of House Heating Fuel", 
+    "title": "Imputed", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Imputed in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992511001", 
+    "parent": "us/census/acs/B992511001"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

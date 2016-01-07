@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female householder:", 
+      "Not living alone:"
+    ], 
+    "table": "Household Type by Units in Structure", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Total Units in Structure Female householder Household Type Not living alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B11011001"
+  }, 
+  "tags": [
+    "families", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

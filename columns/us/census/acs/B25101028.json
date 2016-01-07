@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not mortgaged:", 
+      "Less than $20,000:"
+    ], 
+    "table": "Mortgage Status by Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "30 percent or more", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "30 percent or more Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months Not mortgaged Mortgage Status Less than $20,000 in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25101001", 
+    "parent": "us/census/acs/B25101025"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "value": 0
+}

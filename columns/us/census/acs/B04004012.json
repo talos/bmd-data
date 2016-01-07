@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "table": "People Reporting Single Ancestry", 
+    "title": "Palestinian", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "Palestinian People Reporting Single Ancestry Arab", 
+  "relationships": {
+    "denominator": "us/census/acs/B04004001", 
+    "parent": "us/census/acs/B04004006"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

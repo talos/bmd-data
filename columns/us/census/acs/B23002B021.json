@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "25 to 54 years:", 
+      "In labor force:", 
+      "Civilian:"
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Black or African American Alone)", 
+    "title": "Employed", 
+    "universe": "Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "Employed 25 to 54 years Age In labor force Civilian in Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23002B001", 
+    "parent": "us/census/acs/B23002B020"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

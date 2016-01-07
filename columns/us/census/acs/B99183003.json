@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Vision Difficulty for the Civilian Noninstitutionalized Population", 
+    "title": "Not imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Not imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99183001", 
+    "parent": "us/census/acs/B99183001"
+  }, 
+  "tags": [
+    "technical", 
+    "disability"
+  ], 
+  "value": 0
+}

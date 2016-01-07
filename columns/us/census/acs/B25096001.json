@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$150,000 or more:"
+    ], 
+    "table": "Mortgage Status by Value", 
+    "title": "Total:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Total Value $150,000 or more in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25096001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

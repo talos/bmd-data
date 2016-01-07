@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Marital Status for the Population 15 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Divorced", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 15 Years and Over"
+  }, 
+  "name": "Divorced in Native Hawaiian and Other Pacific Islander Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C12002E001", 
+    "parent": "us/census/acs/C12002E001"
+  }, 
+  "tags": [
+    "marital status", 
+    "race"
+  ], 
+  "value": 0
+}

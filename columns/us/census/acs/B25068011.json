@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Bedrooms by Gross Rent", 
+    "title": "1 bedroom:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "1 bedroom in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25068001", 
+    "parent": "us/census/acs/B25068001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

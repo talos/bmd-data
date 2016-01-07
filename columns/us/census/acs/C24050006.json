@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Retail trade", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Retail trade in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24050001", 
+    "parent": "us/census/acs/C24050001"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

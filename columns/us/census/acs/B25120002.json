@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Household Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) by Tenure and Mortgage Status", 
+    "title": "Owner occupied :", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Owner occupied ", 
+  "relationships": {
+    "parent": "us/census/acs/B25120001"
+  }, 
+  "tags": [
+    "housing", 
+    "tenure", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "value": 0
+}

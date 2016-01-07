@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age (Some Other Race Alone)", 
+    "title": "Male:", 
+    "universe": "People Who Are Some Other Race Alone"
+  }, 
+  "name": "Male in People Who Are Some Other Race Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001F001", 
+    "parent": "us/census/acs/B01001F001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

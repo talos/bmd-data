@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "35 to 44 years:"
+    ], 
+    "table": "Medicare Coverage by Sex by Age", 
+    "title": "No Medicare coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No Medicare coverage Age Female Medicare Coverage 35 to 44 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27006001", 
+    "parent": "us/census/acs/B27006043"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Sex by Age by Citizenship Status", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Not a U.S. citizen Citizenship Status Male 18 years and over Age Foreign born Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05003012"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

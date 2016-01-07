@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "75 years and over:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Nativity", 
+    "title": "Total:", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Total Nativity 75 years and over in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B17025001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "value": 0
+}

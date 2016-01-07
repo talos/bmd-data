@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Monthly Housing Costs", 
+    "title": "$400 to $499", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "$400 to $499 in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25104001", 
+    "parent": "us/census/acs/B25104001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

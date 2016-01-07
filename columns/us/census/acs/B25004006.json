@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Vacancy Status", 
+    "title": "For seasonal, recreational, or occasional use", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "For seasonal, recreational, or occasional use in Vacant Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25004001", 
+    "parent": "us/census/acs/B25004001"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "value": 1
+}

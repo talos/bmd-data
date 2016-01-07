@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner-occupied housing units:"
+    ], 
+    "table": "Tenure by Units in Structure", 
+    "title": "1, detached or attached", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1, detached or attached Units in Structure Owner-occupied housing units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25032001", 
+    "parent": "us/census/acs/C25032002"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

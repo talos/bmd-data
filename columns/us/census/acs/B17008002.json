@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Income Deficit (Dollars) in the Past 12 Months of Unrelated Individuals by Sex", 
+    "title": "Male (dollars)", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Male (dollars)", 
+  "relationships": {
+    "parent": "us/census/acs/B17008001"
+  }, 
+  "tags": [
+    "sex", 
+    "poverty", 
+    "income"
+  ], 
+  "value": 0
+}

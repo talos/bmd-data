@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Imputation of Tricare/Military Health Coverage", 
+    "title": "Total:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Margin of error for Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B992708001"
+  }, 
+  "tags": [
+    "technical", 
+    "health insurance"
+  ], 
+  "value": 0
+}

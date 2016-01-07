@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Tenure", 
+    "title": "Householder lived in owner-occupied housing units", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Householder lived in owner-occupied housing units Tenure Worked at home in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B08137001", 
+    "parent": "us/census/acs/B08137019"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "tenure"
+  ], 
+  "value": 0
+}

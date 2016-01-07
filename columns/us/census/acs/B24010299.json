@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "Production, transportation, and material moving occupations:", 
+      "Transportation occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Motor vehicle operators except bus and truck drivers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Motor vehicle operators except bus and truck drivers Production, transportation, and material moving occupations Transportation occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010001", 
+    "parent": "us/census/acs/B24010293"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

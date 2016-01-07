@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Vehicles Available by Age of Householder", 
+    "title": "1 or more vehicles available:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1 or more vehicles available Age of Householder Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25045001", 
+    "parent": "us/census/acs/B25045011"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "value": 0
+}

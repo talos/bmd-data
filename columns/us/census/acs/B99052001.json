@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "table": "Imputation of Year of Entry", 
+    "title": "Total:", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Total Imputation of Year of Entry Foreign born in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B99052001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

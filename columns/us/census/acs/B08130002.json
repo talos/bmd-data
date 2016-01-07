@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Means of Transportation to Work by Place of Work--State and County Level", 
+    "title": "Worked in state of residence:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Worked in state of residence in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08130001", 
+    "parent": "us/census/acs/B08130001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

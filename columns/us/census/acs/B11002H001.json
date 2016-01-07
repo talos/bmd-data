@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (White Alone, Not Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "Population in Households With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "Population in Households With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/B11002H001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

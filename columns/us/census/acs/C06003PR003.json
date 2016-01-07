@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born"
+    ], 
+    "table": "Place of Birth by Sex in Puerto Rico", 
+    "title": "Female", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Female Sex in Puerto Rico Foreign born in Total Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/C06003PR001", 
+    "parent": "us/census/acs/C06003PR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner-occupied housing units:"
+    ], 
+    "table": "Tenure by Units in Structure", 
+    "title": "Mobile home", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Mobile home Units in Structure Owner-occupied housing units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25032001", 
+    "parent": "us/census/acs/B25032002"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

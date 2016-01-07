@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Citizen population:", 
+      "5 to 17 years:", 
+      "Speak other languages"
+    ], 
+    "table": "Citizenship Status by Age by Language Spoken at Home Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English less than \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English less than \"very well\" Language Spoken at Home Ability to Speak English Citizen population Citizenship Status 5 to 17 years Age Speak other languages in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C16008001", 
+    "parent": "us/census/acs/C16008005"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "value": 0
+}

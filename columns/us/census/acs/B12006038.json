@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Widowed:", 
+      "Male:", 
+      "In labor force:"
+    ], 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Employed or in Armed Forces", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Employed or in Armed Forces Labor Force Participation Widowed Marital Status Male In labor force in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12006001", 
+    "parent": "us/census/acs/B12006037"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "value": 0
+}

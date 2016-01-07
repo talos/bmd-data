@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:", 
+      "Speak other languages:"
+    ], 
+    "table": "Means of Transportation to Work by Language Spoken at Home and Ability to Speak English", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Language Spoken at Home and Ability to Speak English Worked at home Means of Transportation to Work Speak other languages in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08113001", 
+    "parent": "us/census/acs/B08113006"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "language"
+  ], 
+  "value": 0
+}

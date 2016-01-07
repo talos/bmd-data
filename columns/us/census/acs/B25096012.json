@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not mortgaged:"
+    ], 
+    "table": "Mortgage Status by Value", 
+    "title": "$50,000 to $99,999", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "$50,000 to $99,999 Value Not mortgaged in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25096001", 
+    "parent": "us/census/acs/B25096010"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

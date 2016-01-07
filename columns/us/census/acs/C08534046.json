@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle,  walked, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Travel Time to Work for Workplace Geography", 
+    "title": "25 to 29 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "25 to 29 minutes Travel Time to Work Taxicab, motorcycle, bicycle,  walked, or other means in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/C08534001", 
+    "parent": "us/census/acs/C08534041"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

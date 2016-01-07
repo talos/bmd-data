@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 75 years and over:"
+    ], 
+    "table": "Contract Rent", 
+    "title": "Total:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Total Contract Rent Householder 75 years and over in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25056001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 2
+}

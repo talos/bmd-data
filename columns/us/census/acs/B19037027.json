@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 25 to 44 years:"
+    ], 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$40,000 to $44,999", 
+    "universe": "Households"
+  }, 
+  "name": "$40,000 to $44,999 Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) Householder 25 to 44 years", 
+  "relationships": {
+    "denominator": "us/census/acs/B19037001", 
+    "parent": "us/census/acs/B19037019"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

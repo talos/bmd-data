@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Arts, entertainment, and recreation, and accommodation and food services:"
+    ], 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Accommodation and food services", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Accommodation and food services Industry Male Arts, entertainment, and recreation, and accommodation and food services in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24030001", 
+    "parent": "us/census/acs/C24030024"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 1
+}

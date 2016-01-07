@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Cognitive Difficulty", 
+    "title": "5 to 17 years:", 
+    "universe": "Civilian Noninstitutionalized Population 5 Years and Over"
+  }, 
+  "name": "5 to 17 years Cognitive Difficulty Male in Civilian Noninstitutionalized Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C18104001", 
+    "parent": "us/census/acs/C18104002"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "value": 0
+}

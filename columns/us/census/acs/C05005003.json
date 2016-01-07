@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Entered U.S. 2000 or later:"
+    ], 
+    "table": "Year of Entry by Nativity in the United States", 
+    "title": "Native", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Native Nativity in the United States Entered U.S. 2000 or later in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/C05005001", 
+    "parent": "us/census/acs/C05005002"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

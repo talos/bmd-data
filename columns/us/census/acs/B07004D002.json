@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Geographical Mobility in the Past Year (Asian Alone) for Current Residence in the United States", 
+    "title": "Same house 1 year ago", 
+    "universe": "Asian Alone Population 1 Year and Over in the United States"
+  }, 
+  "name": "Same house 1 year ago in Asian Alone Population 1 Year and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B07004D001", 
+    "parent": "us/census/acs/B07004D001"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "value": 0
+}

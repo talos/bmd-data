@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Vacancy Status", 
+    "title": "Rented, not occupied", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Margin of error for Rented, not occupied in Vacant Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25004003"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "value": 1
+}

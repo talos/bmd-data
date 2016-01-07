@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (White Alone)", 
+    "title": "Management, business, science, and arts occupations:", 
+    "universe": "Civilian Employed White Alone Population 16 Years and Over"
+  }, 
+  "name": "Management, business, science, and arts occupations Occupation Male in Civilian Employed White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010A001", 
+    "parent": "us/census/acs/B24010A002"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Walked:"
+    ], 
+    "table": "Means of Transportation to Work by Industry", 
+    "title": "Manufacturing", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Manufacturing Industry Walked in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08126001", 
+    "parent": "us/census/acs/B08126061"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by House Heating Fuel", 
+    "title": "Electricity", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Electricity House Heating Fuel Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25117001", 
+    "parent": "us/census/acs/B25117012"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

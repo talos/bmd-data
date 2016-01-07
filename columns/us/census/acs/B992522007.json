@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units without a mortgage:", 
+      null
+    ], 
+    "table": "Imputation of Mortgage Status and Selected Monthly Owner Costs", 
+    "title": "No items imputed", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "No items imputed Imputation of Mortgage Status and Selected Monthly Owner Costs Housing units without a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992522001", 
+    "parent": "us/census/acs/B992522005"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value", 
+    "mortgage"
+  ], 
+  "value": 0
+}

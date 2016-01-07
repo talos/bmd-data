@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 65 years and over:"
+    ], 
+    "table": "Family Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars)", 
+    "title": "Total:", 
+    "universe": "Families"
+  }, 
+  "name": "Families", 
+  "relationships": {
+    "denominator": "us/census/acs/C19101001"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

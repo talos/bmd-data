@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Built 1960 to 1979:"
+    ], 
+    "table": "Tenure by Year Structure Built by Units in Structure", 
+    "title": "2 to 4", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "2 to 4 Units in Structure Renter occupied Tenure Built 1960 to 1979 in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25127001", 
+    "parent": "us/census/acs/B25127053"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

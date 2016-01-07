@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Public Health Insurance", 
+    "title": "One or more public coverage items imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "One or more public coverage items imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B992703001", 
+    "parent": "us/census/acs/B992703001"
+  }, 
+  "tags": [
+    "technical", 
+    "health insurance"
+  ], 
+  "value": 0
+}

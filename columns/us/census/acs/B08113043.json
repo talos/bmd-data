@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Language Spoken at Home and Ability to Speak English", 
+    "title": "Speak Spanish:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Speak Spanish Language Spoken at Home and Ability to Speak English Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08113001", 
+    "parent": "us/census/acs/B08113041"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "language"
+  ], 
+  "value": 0
+}

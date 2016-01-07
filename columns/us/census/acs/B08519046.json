@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for Workplace Geography", 
+    "title": "Taxicab, motorcycle, bicycle, or other means:", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B08519001", 
+    "parent": "us/census/acs/B08519001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Income Quintile Upper Limits", 
+    "title": "Lowest Quintile", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Lowest Quintile in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19080001"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

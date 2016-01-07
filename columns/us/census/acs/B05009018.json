@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 6 years:", 
+      "Living with one parent:", 
+      "Foreign-born parent:"
+    ], 
+    "table": "Age and Nativity of Own Children Under 18 Years in Families and Subfamilies by Number and Nativity of Parents", 
+    "title": "Child is native", 
+    "universe": "Own Children Under 18 Years Living in Families or Subfamilies"
+  }, 
+  "name": "Child is native Number and Nativity of Parents Under 6 years Age and Nativity of Own Children Under 18 Years in Families and Subfamilies Living with one parent Age and Nativity of Own Children Under 18 Years in Families and Subfamilies Foreign-born parent in Own Children Under 18 Years Living in Families or Subfamilies", 
+  "relationships": {
+    "denominator": "us/census/acs/B05009001", 
+    "parent": "us/census/acs/B05009017"
+  }, 
+  "tags": [
+    "place of birth", 
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

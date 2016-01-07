@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Widowed", 
+    "universe": "White Alone, Not Hispanic or Latino Population 15 Years and Over"
+  }, 
+  "name": "Widowed Marital Status Female in White Alone, Not Hispanic or Latino Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12002H001", 
+    "parent": "us/census/acs/B12002H008"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

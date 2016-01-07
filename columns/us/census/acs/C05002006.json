@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:", 
+      "Born outside the United States:"
+    ], 
+    "table": "Place of Birth by Nativity", 
+    "title": "Puerto Rico", 
+    "universe": "Total Population"
+  }, 
+  "name": "Puerto Rico Nativity Native Place of Birth Born outside the United States Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C05002001", 
+    "parent": "us/census/acs/C05002005"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

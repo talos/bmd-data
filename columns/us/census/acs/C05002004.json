@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:"
+    ], 
+    "table": "Place of Birth by Nativity", 
+    "title": "Born in other state in the United States", 
+    "universe": "Total Population"
+  }, 
+  "name": "Born in other state in the United States Nativity Native Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C05002001", 
+    "parent": "us/census/acs/C05002002"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

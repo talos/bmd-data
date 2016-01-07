@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:", 
+      "Foreign born:"
+    ], 
+    "table": "Means of Transportation to Work by Citizenship Status for Workplace Geography", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not a U.S. citizen Citizenship Status Worked at home Means of Transportation to Work Foreign born in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08511001", 
+    "parent": "us/census/acs/C08511028"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "value": 0
+}

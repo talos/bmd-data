@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 to 24 years:"
+    ], 
+    "table": "Medicare Coverage by Sex by Age", 
+    "title": "With Medicare coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With Medicare coverage Age Female Medicare Coverage 18 to 24 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27006001", 
+    "parent": "us/census/acs/B27006037"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

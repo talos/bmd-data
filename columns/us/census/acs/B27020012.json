@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign Born:", 
+      "Naturalized:"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Citizenship Status", 
+    "title": "No health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No health insurance coverage Citizenship Status Foreign Born Health Insurance Coverage Status and Type Naturalized in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27020001", 
+    "parent": "us/census/acs/B27020008"
+  }, 
+  "tags": [
+    "health insurance", 
+    "citizenship"
+  ], 
+  "value": 1
+}

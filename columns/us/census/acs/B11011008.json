@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:"
+    ], 
+    "table": "Household Type by Units in Structure", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Households"
+  }, 
+  "name": "Male householder, no wife present Units in Structure Family households Household Type Other family", 
+  "relationships": {
+    "denominator": "us/census/acs/B11011001", 
+    "parent": "us/census/acs/B11011007"
+  }, 
+  "tags": [
+    "families", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

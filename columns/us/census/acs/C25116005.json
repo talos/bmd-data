@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "1-person household:"
+    ], 
+    "table": "Tenure by Household Size by Age of Householder", 
+    "title": "Householder 65 years and over", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder 65 years and over Age of Householder Owner occupied Tenure 1-person household in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25116001", 
+    "parent": "us/census/acs/C25116003"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "value": 0
+}

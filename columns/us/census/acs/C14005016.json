@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Not enrolled in school:", 
+      "High school graduate:"
+    ], 
+    "table": "Sex by School Enrollment by Educational Attainment by Employment Status for the Population 16 to 19 Years", 
+    "title": "Not in the labor force", 
+    "universe": "Population 16 to 19 Years"
+  }, 
+  "name": "Not in the labor force Not enrolled in school School Enrollment High school graduate in Population 16 to 19 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/C14005001", 
+    "parent": "us/census/acs/C14005014"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

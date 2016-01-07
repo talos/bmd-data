@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Walked:"
+    ], 
+    "table": "Means of Transportation to Work by Vehicles Available", 
+    "title": "2 vehicles available", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "2 vehicles available Vehicles Available Walked in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B08141001", 
+    "parent": "us/census/acs/B08141021"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Age of Householder by Year Structure Built", 
+    "title": "Householder 65 years and over:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder 65 years and over Year Structure Built Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25126001", 
+    "parent": "us/census/acs/B25126033"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

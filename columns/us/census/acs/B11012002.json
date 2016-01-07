@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type by Tenure", 
+    "title": "Family households:", 
+    "universe": "Households"
+  }, 
+  "name": "Family households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11012001", 
+    "parent": "us/census/acs/B11012001"
+  }, 
+  "tags": [
+    "families", 
+    "tenure"
+  ], 
+  "value": 2
+}

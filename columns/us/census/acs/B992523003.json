@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Selected Monthly Owner Costs for Owner-occupied Housing Units", 
+    "title": "Not imputed", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Not imputed in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992523001", 
+    "parent": "us/census/acs/B992523001"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "value": 0
+}

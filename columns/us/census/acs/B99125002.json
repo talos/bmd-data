@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Times Married for the Population 15 Years and Over", 
+    "title": "Imputed", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Imputed in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99125001", 
+    "parent": "us/census/acs/B99125001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

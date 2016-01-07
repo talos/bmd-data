@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonfamily households:"
+    ], 
+    "table": "Household Type by Tenure", 
+    "title": "Renter-occupied housing units", 
+    "universe": "Households"
+  }, 
+  "name": "Renter-occupied housing units Tenure Nonfamily households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11012001", 
+    "parent": "us/census/acs/B11012013"
+  }, 
+  "tags": [
+    "families", 
+    "tenure"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Asian Alone)", 
+    "title": "Production, transportation, and material moving occupations", 
+    "universe": "Civilian Employed Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Production, transportation, and material moving occupations Occupation Male in Civilian Employed Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24010D001", 
+    "parent": "us/census/acs/C24010D002"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

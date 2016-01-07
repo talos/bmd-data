@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a service-connected disability rating:", 
+      "Veteran:"
+    ], 
+    "table": "Veteran Status by Employment Status for the Civilian Population 18 to 64 Years", 
+    "title": "In labor force:", 
+    "universe": "Civilian Population 18 to 64 Years"
+  }, 
+  "name": "In labor force Veteran Status Veteran in Civilian Population 18 to 64 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/C21005001", 
+    "parent": "us/census/acs/C21005002"
+  }, 
+  "tags": [
+    "employment", 
+    "veterans"
+  ], 
+  "value": 0
+}

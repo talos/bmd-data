@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (Some Other Race Alone)", 
+    "title": "Total:", 
+    "universe": "Population in Households With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Population in Households With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B11002F001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

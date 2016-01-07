@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Class of Worker for Workplace Geography", 
+    "title": "Private not-for-profit wage and salary workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Private not-for-profit wage and salary workers Class of Worker Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08528001", 
+    "parent": "us/census/acs/B08528051"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

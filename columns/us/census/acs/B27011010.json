@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In labor force:", 
+      "Employed:", 
+      "65 years and over:"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Employment Status by Age", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With health insurance coverage Age In labor force Health Insurance Coverage Status and Type Employed in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B27011001", 
+    "parent": "us/census/acs/B27011009"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "value": 1
+}

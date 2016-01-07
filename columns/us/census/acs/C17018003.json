@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Educational Attainment of Householder", 
+    "title": "Less than high school graduate", 
+    "universe": "Families"
+  }, 
+  "name": "Less than high school graduate Educational Attainment of Householder Income in the past 12 months below poverty level in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/C17018001", 
+    "parent": "us/census/acs/C17018002"
+  }, 
+  "tags": [
+    "families", 
+    "education", 
+    "poverty"
+  ], 
+  "value": 0
+}

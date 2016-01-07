@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Asian Alone)", 
+    "title": "Computer and mathematical occupations", 
+    "universe": "Civilian Employed Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Computer and mathematical occupations Occupation Male Management, business, science, and arts occupations Computer, engineering, and science occupations in Civilian Employed Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010D001", 
+    "parent": "us/census/acs/B24010D007"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

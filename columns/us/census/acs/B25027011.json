@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units without a mortgage:"
+    ], 
+    "table": "Mortgage Status by Age of Householder", 
+    "title": "Householder 15 to 34 years", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Householder 15 to 34 years Age of Householder Housing units without a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25027001", 
+    "parent": "us/census/acs/B25027010"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "mortgage"
+  ], 
+  "value": 1
+}

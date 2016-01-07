@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Total (dollars):"
+    ], 
+    "table": "Nonfamily Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars)", 
+    "title": "Total:", 
+    "universe": "Nonfamily Households"
+  }, 
+  "name": "Total Nonfamily Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Total (dollars)", 
+  "relationships": {
+    "denominator": "us/census/acs/C19201001"
+  }, 
+  "tags": [
+    "roommates", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

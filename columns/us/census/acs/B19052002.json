@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Wage or Salary Income in the Past 12 Months for Households", 
+    "title": "With wage or salary income", 
+    "universe": "Households"
+  }, 
+  "name": "With wage or salary income in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B19052001", 
+    "parent": "us/census/acs/B19052001"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

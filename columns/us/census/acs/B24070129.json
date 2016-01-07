@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Local, state, and federal government workers:", 
+      "Educational services, and health care and social assistance:"
+    ], 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Educational services", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Educational services Class of Worker Local, state, and federal government workers Industry Educational services, and health care and social assistance in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24070001", 
+    "parent": "us/census/acs/B24070128"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Place of Work", 
+    "title": "Not imputed", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not imputed in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99081001", 
+    "parent": "us/census/acs/B99081001"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

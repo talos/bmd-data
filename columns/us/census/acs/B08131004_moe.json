@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Place of Work--State and County Level", 
+    "title": "Worked outside county of residence", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Margin of error for Worked outside county of residence Place of Work--State and County Level Worked in State of residence", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08131004"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

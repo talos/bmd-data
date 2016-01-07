@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 18 years:"
+    ], 
+    "table": "Age by Disability Status (Two or More Races)", 
+    "title": "With a disability", 
+    "universe": "Two or More Races Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability Disability Status (Two or More Races) Under 18 years in Two or More Races Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101G001", 
+    "parent": "us/census/acs/B18101G002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "value": 0
+}

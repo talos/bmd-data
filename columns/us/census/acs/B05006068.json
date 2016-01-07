@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Asia:", 
+      "South Eastern Asia:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Cambodia", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Cambodia Place of Birth Asia Place of Birth South Eastern Asia in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006067"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

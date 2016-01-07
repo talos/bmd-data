@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:", 
+      "Speak Spanish:"
+    ], 
+    "table": "Age by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Ability to Speak English 65 years and over Age Speak Spanish in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C16004001", 
+    "parent": "us/census/acs/C16004032"
+  }, 
+  "tags": [
+    "age", 
+    "language"
+  ], 
+  "value": 0
+}

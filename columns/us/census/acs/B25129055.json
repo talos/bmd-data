@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Moved in 2000 to 2004:"
+    ], 
+    "table": "Tenure by Year Householder Moved Into Unit by Units in Structure", 
+    "title": "2 to 4", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "2 to 4 Units in Structure Renter occupied Tenure Moved in 2000 to 2004 in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25129001", 
+    "parent": "us/census/acs/B25129053"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

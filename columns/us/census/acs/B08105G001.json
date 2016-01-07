@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work (Two or More Races)", 
+    "title": "Total:", 
+    "universe": "Two or More Races Workers 16 Years and Over"
+  }, 
+  "name": "Two or More Races Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08105G001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

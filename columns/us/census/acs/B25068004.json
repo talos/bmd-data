@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "No bedroom:", 
+      "With cash rent:"
+    ], 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "Less than $200", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Less than $200 Gross Rent No bedroom Bedrooms With cash rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25068001", 
+    "parent": "us/census/acs/B25068003"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

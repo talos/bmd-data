@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "First Ancestry Reported", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04001001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 1
+}

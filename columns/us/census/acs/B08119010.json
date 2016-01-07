@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars)", 
+    "title": "Car, truck, or van - drove alone:", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "Car, truck, or van - drove alone in Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B08119001", 
+    "parent": "us/census/acs/B08119001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

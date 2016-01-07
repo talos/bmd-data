@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "6 to 17 years:", 
+      "One or more foreign-born parent:"
+    ], 
+    "table": "Age and Nativity of Own Children Under 18 Years in Families and Subfamilies by Nativity of Parents", 
+    "title": "Child is foreign born", 
+    "universe": "Own Children Under 18 Years Living in Families or Subfamilies"
+  }, 
+  "name": "Child is foreign born Nativity of Parents 6 to 17 years Age and Nativity of Own Children Under 18 Years in Families and Subfamilies One or more foreign-born parent in Own Children Under 18 Years Living in Families or Subfamilies", 
+  "relationships": {
+    "denominator": "us/census/acs/C05009001", 
+    "parent": "us/census/acs/C05009013"
+  }, 
+  "tags": [
+    "place of birth", 
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

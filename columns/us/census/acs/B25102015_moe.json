@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Mortgage Status by Real Estate Taxes Paid", 
+    "title": "No real estate taxes paid", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for No real estate taxes paid Real Estate Taxes Paid Not mortgaged in Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25102015"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

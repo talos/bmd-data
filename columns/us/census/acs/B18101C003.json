@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 18 years:"
+    ], 
+    "table": "Age by Disability Status (American Indian and Alaska Native Alone)", 
+    "title": "With a disability", 
+    "universe": "American Indian and Alaska Native Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability Disability Status (American Indian and Alaska Native Alone) Under 18 years in American Indian and Alaska Native Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101C001", 
+    "parent": "us/census/acs/B18101C002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "value": 0
+}

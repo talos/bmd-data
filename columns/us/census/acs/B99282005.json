@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not imputed"
+    ], 
+    "table": "Imputation of Household Computer Type", 
+    "title": "Not imputed", 
+    "universe": "Households"
+  }, 
+  "name": "Not imputed Imputation of Household Computer Type Not imputed", 
+  "relationships": {
+    "denominator": "us/census/acs/B99282001", 
+    "parent": "us/census/acs/B99282001"
+  }, 
+  "tags": [
+    "technical", 
+    "families"
+  ], 
+  "value": 0
+}

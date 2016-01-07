@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Price Asked", 
+    "title": "$35,000 to $39,999", 
+    "universe": "Vacant-for-sale-only and Sold, Not Occupied Housing Units"
+  }, 
+  "name": "$35,000 to $39,999 in Vacant-for-sale-only and Sold, Not Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25085001", 
+    "parent": "us/census/acs/B25085001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

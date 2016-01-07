@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Asia:", 
+      "Eastern Asia:", 
+      "China:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population", 
+    "title": "China, excluding Taiwan", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "China, excluding Taiwan Place of Birth Asia Place of Birth Eastern Asia Place of Birth China in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/C05006001", 
+    "parent": "us/census/acs/C05006024"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

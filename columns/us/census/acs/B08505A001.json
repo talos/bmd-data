@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Means of Transportation to Work for Workplace Geography (White Alone)", 
+    "title": "Total:", 
+    "universe": "White Alone Workers 16 Years and Over"
+  }, 
+  "name": "Total in White Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08505A001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

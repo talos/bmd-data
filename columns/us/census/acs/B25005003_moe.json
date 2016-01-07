@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Vacant - Current Residence Elsewhere", 
+    "title": "All other vacant units", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Margin of error for All other vacant units in Vacant Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25005003"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Income Deficit (Dollars) in the Past 12 Months for Families by Family Type", 
+    "title": "Aggregate income deficit in the past 12 months:", 
+    "universe": "Families With Income in the Past 12 Months Below the Poverty Level"
+  }, 
+  "name": "Margin of error for Aggregate income deficit in the past 12 months", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17011001"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "poverty", 
+    "income"
+  ], 
+  "value": 0
+}

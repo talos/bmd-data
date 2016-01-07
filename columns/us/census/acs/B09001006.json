@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In households:"
+    ], 
+    "table": "Population Under 18 Years by Age", 
+    "title": "6 to 8 years", 
+    "universe": "Population Under 18 Years"
+  }, 
+  "name": "6 to 8 years Age In households in Population Under 18 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B09001001", 
+    "parent": "us/census/acs/B09001002"
+  }, 
+  "tags": [
+    "age", 
+    "children"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Number of Vehicles (Car, Truck, or Van) Used in Commuting by Workers 16 Years and Over by Sex", 
+    "title": "Female", 
+    "universe": "Workers Whose Means of Transportation Is Car, Truck, or Van"
+  }, 
+  "name": "Margin of error for Female", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08015003"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

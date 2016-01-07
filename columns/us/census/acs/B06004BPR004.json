@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth (Black or African American Alone) in Puerto Rico", 
+    "title": "Native; born elsewhere", 
+    "universe": "Black or African American Alone Population in Puerto Rico"
+  }, 
+  "name": "Native; born elsewhere in Black or African American Alone Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06004BPR001", 
+    "parent": "us/census/acs/B06004BPR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "value": 0
+}

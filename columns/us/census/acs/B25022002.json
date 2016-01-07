@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Number of Rooms by Tenure", 
+    "title": "Owner occupied", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Owner occupied", 
+  "relationships": {
+    "parent": "us/census/acs/B25022001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

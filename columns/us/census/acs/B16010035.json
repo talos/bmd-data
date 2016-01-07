@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Some college or associate's degree:"
+    ], 
+    "table": "Educational Attainment and Employment Status by Language Spoken at Home for the Population 25 Years and Over", 
+    "title": "Not in labor force:", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Not in labor force Language Spoken at Home Some college or associate's degree in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16010001", 
+    "parent": "us/census/acs/B16010028"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "language"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born outside the United States:"
+    ], 
+    "table": "Place of Birth by Marital Status in the United States", 
+    "title": "Widowed", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Widowed Marital Status in the United States Native; born outside the United States in Population 15 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/C06008001", 
+    "parent": "us/census/acs/C06008016"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "value": 0
+}

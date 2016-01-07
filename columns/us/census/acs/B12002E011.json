@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Separated", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 15 Years and Over"
+  }, 
+  "name": "Separated Marital Status Female in Native Hawaiian and Other Pacific Islander Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12002E001", 
+    "parent": "us/census/acs/B12002E008"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

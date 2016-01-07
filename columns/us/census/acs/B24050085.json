@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Sales and office occupations:", 
+      "Agriculture, forestry, fishing and hunting, and mining:"
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Mining, quarrying, and oil and gas extraction", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Mining, quarrying, and oil and gas extraction Occupation Sales and office occupations Industry Agriculture, forestry, fishing and hunting, and mining in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24050001", 
+    "parent": "us/census/acs/B24050083"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

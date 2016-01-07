@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Means of Transportation to Work by Travel Time to Work for Workplace Geography", 
+    "title": "Streetcar or trolley car (carro publico in Puerto Rico), subway or elevated:", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Streetcar or trolley car (carro publico in Puerto Rico), subway or elevated Travel Time to Work Public transportation (excluding taxicab) in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/B08534001", 
+    "parent": "us/census/acs/B08534061"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

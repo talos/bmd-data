@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Rent Asked (Dollars)", 
+    "title": "Aggregate rent asked", 
+    "universe": "Vacant-for-rent and Rented, Not Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Aggregate rent asked", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25062001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

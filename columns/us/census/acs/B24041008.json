@@ -1,0 +1,18 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "table": "Industry by Median Earnings in the Past 12 Months (In 2013 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Retail trade", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Retail trade in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24041001", 
+    "parent": "us/census/acs/B24041001"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

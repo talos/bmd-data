@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of two or more races:", 
+      "Population of two races:"
+    ], 
+    "table": "Detailed Race", 
+    "title": "Asian; Native Hawaiian and Other Pacific Islander", 
+    "universe": "Total Population"
+  }, 
+  "name": "Asian; Native Hawaiian and Other Pacific Islander Detailed Race Population of two or more races Detailed Race Population of two races Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02003001", 
+    "parent": "us/census/acs/B02003010"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

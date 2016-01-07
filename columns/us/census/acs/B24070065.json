@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own incorporated business workers:", 
+      "Transportation and warehousing, and utilities:"
+    ], 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Utilities", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Utilities Class of Worker Self-employed in own incorporated business workers Industry Transportation and warehousing, and utilities in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24070001", 
+    "parent": "us/census/acs/B24070063"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

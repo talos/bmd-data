@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Second Ancestry Reported", 
+    "title": "Subsaharan African:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Subsaharan African Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04002001", 
+    "parent": "us/census/acs/B04002001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

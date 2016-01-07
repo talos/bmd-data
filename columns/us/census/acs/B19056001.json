@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Supplemental Security Income (SSI) in the Past 12 Months for Households", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B19056001"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

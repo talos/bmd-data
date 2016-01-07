@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "4-or-more-person household:"
+    ], 
+    "table": "Number of Workers in Household by Vehicles Available", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Total Vehicles Available 4-or-more-person household", 
+  "relationships": {
+    "denominator": "us/census/acs/B08203001"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not imputed"
+    ], 
+    "table": "Imputation of Household Internet Subscription Type", 
+    "title": "Cable modem, fiber-optic, satellite internet service and some other service", 
+    "universe": "Households"
+  }, 
+  "name": "Cable modem, fiber-optic, satellite internet service and some other service Imputation of Household Internet Subscription Type Not imputed", 
+  "relationships": {
+    "denominator": "us/census/acs/B99283001", 
+    "parent": "us/census/acs/B99283001"
+  }, 
+  "tags": [
+    "technical", 
+    "families"
+  ], 
+  "value": 0
+}

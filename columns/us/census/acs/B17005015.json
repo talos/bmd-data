@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Male:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Individuals by Sex by Employment Status", 
+    "title": "In labor force:", 
+    "universe": "Civilian Population 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "In labor force Poverty Status in the Past 12 Months of Individuals Male in Civilian Population 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B17005001", 
+    "parent": "us/census/acs/B17005014"
+  }, 
+  "tags": [
+    "employment", 
+    "poverty", 
+    "sex"
+  ], 
+  "value": 0
+}

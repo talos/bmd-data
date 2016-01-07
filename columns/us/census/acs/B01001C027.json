@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (American Indian and Alaska Native Alone)", 
+    "title": "45 to 54 years", 
+    "universe": "People Who Are American Indian and Alaska Native Alone"
+  }, 
+  "name": "45 to 54 years Age (American Indian and Alaska Native Alone) Female in People Who Are American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001C001", 
+    "parent": "us/census/acs/B01001C017"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

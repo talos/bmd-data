@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age", 
+    "title": "Female:", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Female Age Income in the past 12 months at or above poverty level in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B17001001", 
+    "parent": "us/census/acs/B17001031"
+  }, 
+  "tags": [
+    "age", 
+    "poverty", 
+    "sex"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age (White Alone)", 
+    "title": "20 to 24 years", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "20 to 24 years Age (White Alone) Male in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001A001", 
+    "parent": "us/census/acs/B01001A002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

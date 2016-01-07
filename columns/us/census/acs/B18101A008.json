@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Age by Disability Status (White Alone)", 
+    "title": "65 years and over:", 
+    "universe": "White Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "65 years and over in White Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101A001", 
+    "parent": "us/census/acs/B18101A001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "value": 0
+}

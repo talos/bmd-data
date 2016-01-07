@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from different municipio:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for Current Residence in Puerto Rico", 
+    "title": "No income", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "No income Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Moved from different municipio in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B07010PR001", 
+    "parent": "us/census/acs/B07010PR034"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "value": 0
+}

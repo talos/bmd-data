@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Age of Householder", 
+    "title": "Householder 15 to 54 years", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Householder 15 to 54 years in Renter-occupied Housing Units Paying Cash Rent", 
+  "relationships": {
+    "denominator": "us/census/acs/C25055001", 
+    "parent": "us/census/acs/C25055001"
+  }, 
+  "tags": [
+    "housing", 
+    "families"
+  ], 
+  "value": 0
+}

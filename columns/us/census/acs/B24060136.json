@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Private not-for-profit wage and salary workers:", 
+      "Sales and office occupations:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Office and administrative support occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Office and administrative support occupations Class of Worker Private not-for-profit wage and salary workers Occupation Sales and office occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060134"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

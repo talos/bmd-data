@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Vehicles Available for Workplace Geography", 
+    "title": "Car, truck, or van - drove alone:", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Car, truck, or van - drove alone in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B08541001", 
+    "parent": "us/census/acs/B08541001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

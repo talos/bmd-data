@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Units in Structure", 
+    "title": "Boat, RV, van, etc.", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Boat, RV, van, etc. in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25024001", 
+    "parent": "us/census/acs/B25024001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

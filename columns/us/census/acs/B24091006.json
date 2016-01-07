@@ -1,0 +1,18 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "table": "Class of Worker by Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Local government workers", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Local government workers in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24091001", 
+    "parent": "us/census/acs/B24091001"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

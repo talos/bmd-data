@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "No children under 18 years:", 
+      "Married-couple family:"
+    ], 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "Husband not in labor force:", 
+    "universe": "Families"
+  }, 
+  "name": "Husband not in labor force Presence of Own Children Under 18 Years Married-couple family in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B23007001", 
+    "parent": "us/census/acs/B23007032"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) by Means of Transportation to Work", 
+    "title": "Public transportation (excluding taxicab)", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "Public transportation (excluding taxicab)", 
+  "relationships": {
+    "parent": "us/census/acs/B08121001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

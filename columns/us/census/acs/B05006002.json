@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Europe:", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Europe in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006001"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

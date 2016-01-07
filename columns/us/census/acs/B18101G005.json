@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Age by Disability Status (Two or More Races)", 
+    "title": "18 to 64 years:", 
+    "universe": "Two or More Races Civilian Noninstitutionalized Population"
+  }, 
+  "name": "18 to 64 years in Two or More Races Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18101G001", 
+    "parent": "us/census/acs/B18101G001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "value": 0
+}

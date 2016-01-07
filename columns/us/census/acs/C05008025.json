@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Other areas:"
+    ], 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Entered U.S. 1990 to 1999", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered U.S. 1990 to 1999 Year of Entry Male Other areas in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C05008001", 
+    "parent": "us/census/acs/C05008023"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}

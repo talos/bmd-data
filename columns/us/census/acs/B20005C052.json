@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Worked full-time, year-round in the past 12 months:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for the Population 16 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "With earnings:", 
+    "universe": "American Indian and Alaska Native Alone Population 16 Years and Over"
+  }, 
+  "name": "With earnings Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Female Worked full-time, year-round in the past 12 months in American Indian and Alaska Native Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B20005C001", 
+    "parent": "us/census/acs/B20005C050"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Means of Transportation to Work by Class of Worker for Workplace Geography", 
+    "title": "Unpaid family workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Unpaid family workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08528001", 
+    "parent": "us/census/acs/B08528001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

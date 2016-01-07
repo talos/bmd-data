@@ -1,0 +1,16 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Type by Household Size", 
+    "title": "Family households:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Family households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C11016002"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 0
+}

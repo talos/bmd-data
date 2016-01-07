@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "2-person household:"
+    ], 
+    "table": "Tenure by Household Size by Units in Structure", 
+    "title": "2 to 4", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "2 to 4 Units in Structure Owner occupied Tenure 2-person household in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25124001", 
+    "parent": "us/census/acs/B25124010"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

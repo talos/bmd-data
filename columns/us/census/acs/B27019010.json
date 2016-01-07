@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "25 to 64 years:", 
+      "High school graduate (includes equivalency):", 
+      "With health insurance coverage"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Age by Educational Attainment", 
+    "title": "With private health insurance", 
+    "universe": "Civilian Noninstitutionalized Population 25 Years and Over"
+  }, 
+  "name": "With private health insurance Educational Attainment 25 to 64 years Health Insurance Coverage Status and Type High school graduate (includes equivalency) Age With health insurance coverage in Civilian Noninstitutionalized Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B27019001", 
+    "parent": "us/census/acs/B27019009"
+  }, 
+  "tags": [
+    "health insurance", 
+    "education", 
+    "age"
+  ], 
+  "value": 1
+}

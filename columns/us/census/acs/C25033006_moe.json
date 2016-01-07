@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Total Population in Occupied Housing Units by Tenure by Units in Structure", 
+    "title": "Renter occupied:", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Renter occupied in Total Population in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25033006"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "tenure", 
+    "physical characteristics", 
+    "sex"
+  ], 
+  "value": 0
+}

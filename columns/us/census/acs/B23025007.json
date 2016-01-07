@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Employment Status for the Population 16 Years and Over", 
+    "title": "Not in labor force", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Not in labor force in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23025001", 
+    "parent": "us/census/acs/B23025001"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Aggregate Number of Rooms by Vacancy Status", 
+    "title": "Aggregate number of rooms:", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Aggregate number of rooms Vacancy Status Renter occupied", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "value": 0
+}

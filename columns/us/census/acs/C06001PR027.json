@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in the United States:"
+    ], 
+    "table": "Place of Birth by Age in Puerto Rico", 
+    "title": "75 years and over", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "75 years and over Age in Puerto Rico Born in the United States in Total Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/C06001PR001", 
+    "parent": "us/census/acs/C06001PR019"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth (Asian Alone) in the United States", 
+    "title": "Total:", 
+    "universe": "Asian Alone Population in the United States"
+  }, 
+  "name": "Asian Alone Population in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B06004D001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "value": 0
+}

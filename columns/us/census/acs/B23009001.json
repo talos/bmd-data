@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "6 to 17 years:", 
+      "Living with one parent:", 
+      "Living with mother:"
+    ], 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Number of Workers in Family in the Past 12 Months", 
+    "title": "Total:", 
+    "universe": "Families"
+  }, 
+  "name": "Total Number of Workers in Family in the Past 12 Months 6 to 17 years Presence of Own Children Under 18 Years Living with one parent Family Type Living with mother in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B23009001"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "value": 0
+}

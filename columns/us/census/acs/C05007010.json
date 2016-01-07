@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Europe :"
+    ], 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Entered U.S. before 1980:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered U.S. before 1980 Citizenship Status Europe  in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C05007001", 
+    "parent": "us/census/acs/C05007002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

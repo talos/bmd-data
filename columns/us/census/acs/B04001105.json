@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "West Indian (except Hispanic groups):"
+    ], 
+    "table": "First Ancestry Reported", 
+    "title": "West Indian", 
+    "universe": "Total Population"
+  }, 
+  "name": "West Indian First Ancestry Reported West Indian (except Hispanic groups) Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04001001", 
+    "parent": "us/census/acs/B04001094"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 1
+}

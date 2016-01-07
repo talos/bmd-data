@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Median Monthly Housing Costs (Dollars)", 
+    "title": "Median monthly housing costs", 
+    "universe": "Occupied Housing Units With Monthly Housing Costs"
+  }, 
+  "name": "Margin of error for Median monthly housing costs", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25105001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

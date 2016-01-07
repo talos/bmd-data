@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Selected Monthly Owner Costs (Dollars) by Mortgage Status", 
+    "title": "Housing units with a mortgage (dollars)", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Housing units with a mortgage (dollars)", 
+  "relationships": {
+    "parent": "us/census/acs/B25089001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

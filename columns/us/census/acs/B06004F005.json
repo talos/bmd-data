@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth (Some Other Race Alone) in the United States", 
+    "title": "Foreign born", 
+    "universe": "Some Other Race Alone Population in the United States"
+  }, 
+  "name": "Foreign born in Some Other Race Alone Population in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B06004F001", 
+    "parent": "us/census/acs/B06004F001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "value": 0
+}

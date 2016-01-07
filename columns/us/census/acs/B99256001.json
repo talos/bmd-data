@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Year Structure Built", 
+    "title": "Total:", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B99256001"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

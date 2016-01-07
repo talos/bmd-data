@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Vacant - Current Residence Elsewhere", 
+    "title": "Total:", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Vacant Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25005001"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "value": 0
+}

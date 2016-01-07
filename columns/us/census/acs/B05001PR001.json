@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Citizenship Status in Puerto Rico", 
+    "title": "Total:", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Total Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B05001PR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

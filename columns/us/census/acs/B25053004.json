@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "table": "Tenure by Kitchen Facilities", 
+    "title": "Lacking complete kitchen facilities", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Lacking complete kitchen facilities Kitchen Facilities Owner occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25053001", 
+    "parent": "us/census/acs/B25053002"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

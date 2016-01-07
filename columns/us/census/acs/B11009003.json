@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Unmarried-partner households:"
+    ], 
+    "table": "Unmarried-partner Households by Sex of Partner", 
+    "title": "Male householder and male partner", 
+    "universe": "Households"
+  }, 
+  "name": "Male householder and male partner Sex of Partner Unmarried-partner households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11009001", 
+    "parent": "us/census/acs/B11009002"
+  }, 
+  "tags": [
+    "families", 
+    "sex"
+  ], 
+  "value": 0
+}

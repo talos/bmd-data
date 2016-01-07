@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from elsewhere:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Age for Current Residence in Puerto Rico", 
+    "title": "75 years and over", 
+    "universe": "Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "75 years and over Age Moved from elsewhere in Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/C07001PR001", 
+    "parent": "us/census/acs/C07001PR051"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "value": 0
+}

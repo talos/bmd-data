@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of one race:"
+    ], 
+    "table": "Detailed Race", 
+    "title": "Some other race alone", 
+    "universe": "Total Population"
+  }, 
+  "name": "Some other race alone Detailed Race Population of one race Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02003001", 
+    "parent": "us/census/acs/B02003002"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Imputation of House Heating Fuel", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B992511001"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

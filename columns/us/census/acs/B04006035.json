@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Ancestry", 
+    "title": "Eastern European", 
+    "universe": "Total Population"
+  }, 
+  "name": "Eastern European Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04006001", 
+    "parent": "us/census/acs/B04006001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

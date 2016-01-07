@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - drove alone:"
+    ], 
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for Workplace Geography", 
+    "title": "$75,000 or more", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "$75,000 or more Workers' Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) Car, truck, or van - drove alone in Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B08519001", 
+    "parent": "us/census/acs/B08519010"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

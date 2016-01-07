@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved to different municipio:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in Puerto Rico", 
+    "title": "Widowed", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Widowed Marital Status Moved to different municipio in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C07408PR001", 
+    "parent": "us/census/acs/C07408PR016"
+  }, 
+  "tags": [
+    "marital status", 
+    "migration"
+  ], 
+  "value": 0
+}

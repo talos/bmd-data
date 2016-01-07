@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "18 years and over:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (Asian Alone)", 
+    "title": "Foreign born:", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "Foreign born Citizenship Status (Asian Alone) Male 18 years and over in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003D001", 
+    "parent": "us/census/acs/B05003D008"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

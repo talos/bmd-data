@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Local, state, and federal government workers:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Local, state, and federal government workers in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060001"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

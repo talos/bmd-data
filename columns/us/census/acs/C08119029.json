@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars)", 
+    "title": "$1 to $9,999 or loss", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "$1 to $9,999 or loss Workers' Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Public transportation (excluding taxicab) in Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/C08119001", 
+    "parent": "us/census/acs/C08119028"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

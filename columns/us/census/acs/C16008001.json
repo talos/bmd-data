@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "table": "Citizenship Status by Age by Language Spoken at Home Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Total Language Spoken at Home Ability to Speak English 65 years and over in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C16008001"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex of Workers by Place of Work--Place Level", 
+    "title": "Not living in a place", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not living in a place Place of Work--Place Level Male in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08008001", 
+    "parent": "us/census/acs/B08008006"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

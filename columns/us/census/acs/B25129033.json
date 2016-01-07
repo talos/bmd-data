@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Moved in 1970 to 1979:"
+    ], 
+    "table": "Tenure by Year Householder Moved Into Unit by Units in Structure", 
+    "title": "2 to 4", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "2 to 4 Units in Structure Owner occupied Tenure Moved in 1970 to 1979 in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25129001", 
+    "parent": "us/census/acs/B25129031"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

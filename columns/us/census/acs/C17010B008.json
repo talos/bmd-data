@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Other family:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years (Black or African American Alone Householder)", 
+    "title": "Female householder, no husband present", 
+    "universe": "Families With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "Female householder, no husband present Presence of Related Children Under 18 Years (Black or African American Alone Householder) Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other family in Families With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C17010B001", 
+    "parent": "us/census/acs/C17010B005"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "poverty", 
+    "children", 
+    "race"
+  ], 
+  "value": 0
+}

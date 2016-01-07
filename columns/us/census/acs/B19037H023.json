@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 25 to 44 years:"
+    ], 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) (White Alone, Not Hispanic or Latino Householder)", 
+    "title": "$20,000 to $24,999", 
+    "universe": "Households With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "$20,000 to $24,999 Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) (White Alone, Not Hispanic or Latino Householder) Householder 25 to 44 years in Households With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/B19037H001", 
+    "parent": "us/census/acs/B19037H019"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

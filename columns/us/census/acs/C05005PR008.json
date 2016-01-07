@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Year of Entry by Nativity in Puerto Rico", 
+    "title": "Entered 1980 to 1989:", 
+    "universe": "Population Born Outside Puerto Rico"
+  }, 
+  "name": "Entered 1980 to 1989 in Population Born Outside Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/C05005PR001", 
+    "parent": "us/census/acs/C05005PR001"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

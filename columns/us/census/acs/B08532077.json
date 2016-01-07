@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Time Arriving at Work From Home for Workplace Geography", 
+    "title": "12:00 a.m. to 4:59 a.m.", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "1200 a.m. to 459 a.m. Time Arriving at Work From Home Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/B08532001", 
+    "parent": "us/census/acs/B08532076"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

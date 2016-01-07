@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "3 or more workers:"
+    ], 
+    "table": "Means of Transportation to Work", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Total Means of Transportation to Work 3 or more workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08301001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

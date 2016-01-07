@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Hearing Difficulty", 
+    "title": "65 to 74 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "65 to 74 years Hearing Difficulty Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18102001", 
+    "parent": "us/census/acs/B18102002"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "value": 0
+}

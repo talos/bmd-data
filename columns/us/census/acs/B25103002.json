@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Mortgage Status by Median Real Estate Taxes Paid (Dollars)", 
+    "title": "Median real estate taxes paid for units with a mortgage", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Median real estate taxes paid for units with a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25103001", 
+    "parent": "us/census/acs/B25103001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Subsaharan African:"
+    ], 
+    "table": "People Reporting Ancestry", 
+    "title": "Cape Verdean", 
+    "universe": "Total Population"
+  }, 
+  "name": "Cape Verdean People Reporting Ancestry Subsaharan African Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04006001", 
+    "parent": "us/census/acs/B04006073"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Multigenerational Households", 
+    "title": "Multigenerational households", 
+    "universe": "Total Households"
+  }, 
+  "name": "Multigenerational households in Total Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11017001", 
+    "parent": "us/census/acs/B11017001"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 1
+}

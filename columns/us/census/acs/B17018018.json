@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Other families:", 
+      "Female householder, no husband present:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Educational Attainment of Householder", 
+    "title": "Bachelor's degree or higher", 
+    "universe": "Families"
+  }, 
+  "name": "Bachelor's degree or higher Educational Attainment of Householder Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other families Household Type Female householder, no husband present", 
+  "relationships": {
+    "denominator": "us/census/acs/B17018001", 
+    "parent": "us/census/acs/B17018014"
+  }, 
+  "tags": [
+    "families", 
+    "education", 
+    "poverty"
+  ], 
+  "value": 0
+}

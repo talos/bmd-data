@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "20 and 21 years:", 
+      "In labor force:", 
+      "Civilian:"
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "Unemployed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Unemployed 20 and 21 years Age In labor force Civilian in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23001001", 
+    "parent": "us/census/acs/B23001099"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 1
+}

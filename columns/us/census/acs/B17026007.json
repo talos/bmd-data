@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Ratio of Income to Poverty Level of Families in the Past 12 Months", 
+    "title": "1.50 to 1.74", 
+    "universe": "Families"
+  }, 
+  "name": "1.50 to 1.74 in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B17026001", 
+    "parent": "us/census/acs/B17026001"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "income"
+  ], 
+  "value": 0
+}

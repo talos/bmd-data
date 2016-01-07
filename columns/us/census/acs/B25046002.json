@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Number of Vehicles Available by Tenure", 
+    "title": "Owner occupied", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Owner occupied", 
+  "relationships": {
+    "parent": "us/census/acs/B25046001"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "tenure"
+  ], 
+  "value": 0
+}

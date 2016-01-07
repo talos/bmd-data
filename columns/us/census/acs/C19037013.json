@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "Householder 25 to 44 years:", 
+    "universe": "Households"
+  }, 
+  "name": "Householder 25 to 44 years", 
+  "relationships": {
+    "denominator": "us/census/acs/C19037001", 
+    "parent": "us/census/acs/C19037001"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

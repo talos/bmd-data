@@ -1,0 +1,81 @@
+{
+  "columns": [
+    {
+      "id": "us/census/acs/B26001001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.698135175212973, 
+          "id": "us/census/tiger/county", 
+          "sample": 1605
+        }, 
+        {
+          "error": 0.98302618993069, 
+          "id": "us/census/tiger/place", 
+          "sample": 1281
+        }, 
+        {
+          "error": 0.677307362653521, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 868
+        }, 
+        {
+          "error": 2.34305830237667, 
+          "id": "us/census/tiger/necta", 
+          "sample": 39
+        }, 
+        {
+          "error": 0.795648002633534, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 749
+        }, 
+        {
+          "error": 0.67906496314209, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.721060808669078, 
+          "id": "us/census/tiger/puma", 
+          "sample": 1966
+        }, 
+        {
+          "error": 3.71822508276208, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 144
+        }, 
+        {
+          "error": 3.25712573959586, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 153
+        }, 
+        {
+          "error": 0.81044636338967, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 1981
+        }
+      ]
+    }
+  ], 
+  "dct_temporal_sm": "2008 - 2010", 
+  "title": "acs2010_3yr seq0156"
+}

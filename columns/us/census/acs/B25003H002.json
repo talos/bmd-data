@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Tenure (White Alone, Not Hispanic or Latino Householder)", 
+    "title": "Owner occupied", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "Owner occupied in Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/B25003H001", 
+    "parent": "us/census/acs/B25003H001"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 1
+}

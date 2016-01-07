@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Year Structure Built", 
+    "title": "Built 2010 or later", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Built 2010 or later in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25034001", 
+    "parent": "us/census/acs/B25034001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

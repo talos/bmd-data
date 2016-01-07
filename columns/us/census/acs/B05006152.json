@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Americas:", 
+      "Latin America:", 
+      "South America:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Colombia", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Colombia Place of Birth Americas Place of Birth Latin America Place of Birth South America in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006147"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

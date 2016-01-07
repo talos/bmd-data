@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age by Educational Attainment for the Population 18 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 18 Years and Over"
+  }, 
+  "name": "Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B15001001"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "value": 1
+}

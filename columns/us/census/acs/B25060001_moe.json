@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Contract Rent (Dollars)", 
+    "title": "Aggregate contract rent", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Margin of error for Aggregate contract rent", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25060001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

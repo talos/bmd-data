@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above the poverty level:"
+    ], 
+    "table": "Poverty Status by Work Experience of Unrelated Individuals", 
+    "title": "Worked full-time, year-round", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Worked full-time, year-round Work Experience of Unrelated Individuals Income in the past 12 months at or above the poverty level in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C17009001", 
+    "parent": "us/census/acs/C17009006"
+  }, 
+  "tags": [
+    "employment", 
+    "poverty"
+  ], 
+  "value": 0
+}

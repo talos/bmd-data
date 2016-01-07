@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Enrolled in public school:"
+    ], 
+    "table": "Sex by School Enrollment by Type of School by Age for the Population 3 Years and Over", 
+    "title": "5 to 9 years", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "5 to 9 years Age Female Enrolled in public school in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14003001", 
+    "parent": "us/census/acs/B14003031"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Other family:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Social Security Income by Supplemental Security Income (SSI) and Cash Public Assistance Income", 
+    "title": "Female householder, no husband present:", 
+    "universe": "Families"
+  }, 
+  "name": "Female householder, no husband present Supplemental Security Income (SSI) and Cash Public Assistance Income Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Other family", 
+  "relationships": {
+    "denominator": "us/census/acs/B17015001", 
+    "parent": "us/census/acs/B17015033"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "family type", 
+    "poverty", 
+    "income"
+  ], 
+  "value": 1
+}

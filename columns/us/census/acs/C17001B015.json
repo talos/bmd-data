@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Male:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (Black or African American Alone)", 
+    "title": "65 years and over", 
+    "universe": "Black or African American Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "65 years and over Age (Black or African American Alone) Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months Male in Black or African American Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C17001B001", 
+    "parent": "us/census/acs/C17001B012"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "value": 0
+}

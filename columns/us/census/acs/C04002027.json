@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Second Ancestry Reported", 
+    "title": "Swiss", 
+    "universe": "Total Population"
+  }, 
+  "name": "Swiss Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C04002001", 
+    "parent": "us/census/acs/C04002001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Total:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99241001"
+  }, 
+  "tags": [
+    "technical", 
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,16 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Gini Index of Income Inequality", 
+    "title": "Gini Index", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Gini Index in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19083001"
+  }, 
+  "tags": [
+    "income"
+  ], 
+  "value": 2
+}

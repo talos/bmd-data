@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Number of Rooms by Vacancy Status", 
+    "title": "For rent, for sale only, and rented or sold, not occupied", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "For rent, for sale only, and rented or sold, not occupied", 
+  "relationships": {
+    "parent": "us/census/acs/C25023001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "value": 0
+}

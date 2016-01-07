@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Male:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (White Alone)", 
+    "title": "Under 18 years", 
+    "universe": "White Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Under 18 years Age (White Alone) Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months Male in White Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C17001A001", 
+    "parent": "us/census/acs/C17001A012"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "value": 0
+}

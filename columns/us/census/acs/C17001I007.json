@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (Hispanic or Latino)", 
+    "title": "Female:", 
+    "universe": "Hispanic or Latino Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Female Age (Hispanic or Latino) Income in the past 12 months below poverty level in Hispanic or Latino Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C17001I001", 
+    "parent": "us/census/acs/C17001I002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "value": 0
+}

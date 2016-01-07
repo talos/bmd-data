@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 6 years:"
+    ], 
+    "table": "Health Insurance Coverage Status by Age (Some Other Race Alone)", 
+    "title": "No health insurance coverage", 
+    "universe": "SOME OTHER RACE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "No health insurance coverage Age (Some Other Race Alone) Under 6 years in SOME OTHER RACE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "us/census/acs/B27001F001", 
+    "parent": "us/census/acs/B27001F002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "value": 0
+}

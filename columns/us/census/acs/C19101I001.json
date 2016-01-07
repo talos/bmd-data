@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Other family:", 
+      "Female householder, no husband present:", 
+      "No own children under 18 years:"
+    ], 
+    "table": "Family Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) (Hispanic or Latino Householder)", 
+    "title": "Total:", 
+    "universe": "Families With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Total Family Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) (Hispanic or Latino Householder) Other family Family Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) (Hispanic or Latino Householder) Female householder, no husband present Family Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars) (Hispanic or Latino Householder) No own children under 18 years in Families With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/C19101I001"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

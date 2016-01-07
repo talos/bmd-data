@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked in State of residence:"
+    ], 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Place of Work--State and County Level", 
+    "title": "Worked outside county of residence", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Worked outside county of residence Place of Work--State and County Level Worked in State of residence", 
+  "relationships": {
+    "parent": "us/census/acs/B08131002"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

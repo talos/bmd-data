@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Imputation of Mortgage Status", 
+    "title": "Not imputed", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Not imputed in Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B992521003"
+  }, 
+  "tags": [
+    "technical", 
+    "mortgage"
+  ], 
+  "value": 0
+}

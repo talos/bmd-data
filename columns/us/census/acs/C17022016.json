@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1.50 to 1.84:", 
+      "Other family:"
+    ], 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type", 
+    "title": "Female householder, no husband present", 
+    "universe": "Families"
+  }, 
+  "name": "Female householder, no husband present Family Type 1.50 to 1.84 Ratio of Income to Poverty Level in the Past 12 Months of Families Other family", 
+  "relationships": {
+    "denominator": "us/census/acs/C17022001", 
+    "parent": "us/census/acs/C17022014"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "poverty", 
+    "income"
+  ], 
+  "value": 0
+}

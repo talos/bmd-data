@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Black or African American Alone)", 
+    "title": "18 to 34 years:", 
+    "universe": "Black or African American Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "18 to 34 years Veteran Status Male in Black or African American Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B21001B001", 
+    "parent": "us/census/acs/B21001B002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "value": 0
+}

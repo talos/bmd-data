@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work", 
+    "title": "Railroad or ferryboat", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Railroad or ferryboat Means of Transportation to Work Public transportation (excluding taxicab)", 
+  "relationships": {
+    "parent": "us/census/acs/B08136007"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 1
+}

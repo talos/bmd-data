@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "First Ancestry Reported", 
+    "title": "Northern European", 
+    "universe": "Total Population"
+  }, 
+  "name": "Northern European Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04001001", 
+    "parent": "us/census/acs/B04001001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 1
+}

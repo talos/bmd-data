@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age (White Alone, Not Hispanic or Latino)", 
+    "title": "75 to 84 years", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "75 to 84 years Age (White Alone, Not Hispanic or Latino) Male in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001H001", 
+    "parent": "us/census/acs/B01001H002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

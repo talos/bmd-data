@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "table": "Median Age by Citizenship Status by Sex", 
+    "title": "Foreign born:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Foreign born", 
+  "relationships": {
+    "parent": "us/census/acs/B05004001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

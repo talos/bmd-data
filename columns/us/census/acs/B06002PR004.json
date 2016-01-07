@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Age by Place of Birth in Puerto Rico", 
+    "title": "Native; born elsewhere", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Native; born elsewhere", 
+  "relationships": {
+    "parent": "us/census/acs/B06002PR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "value": 0
+}

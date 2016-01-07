@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:"
+    ], 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over (White Alone)", 
+    "title": "Speak only English", 
+    "universe": "White Alone Population 5 Years and Over"
+  }, 
+  "name": "Speak only English Ability to Speak English Native in White Alone Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16005A001", 
+    "parent": "us/census/acs/B16005A002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race", 
+    "language"
+  ], 
+  "value": 0
+}

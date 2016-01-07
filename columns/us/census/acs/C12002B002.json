@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Marital Status for the Population 15 Years and Over (Black or African American Alone)", 
+    "title": "Never married", 
+    "universe": "Black or African American Alone Population 15 Years and Over"
+  }, 
+  "name": "Never married in Black or African American Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C12002B001", 
+    "parent": "us/census/acs/C12002B001"
+  }, 
+  "tags": [
+    "marital status", 
+    "race"
+  ], 
+  "value": 0
+}

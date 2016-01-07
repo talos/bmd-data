@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Ancestry", 
+    "title": "Romanian", 
+    "universe": "Total Population"
+  }, 
+  "name": "Romanian Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04006001", 
+    "parent": "us/census/acs/B04006001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

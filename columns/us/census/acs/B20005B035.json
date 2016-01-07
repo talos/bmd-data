@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Other:", 
+      "With earnings:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for the Population 16 Years and Over (Black or African American Alone)", 
+    "title": "$15,000 to $17,499", 
+    "universe": "Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "$15,000 to $17,499 Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Male Other Work Experience in the Past 12 Months With earnings in Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B20005B001", 
+    "parent": "us/census/acs/B20005B028"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "race", 
+    "income"
+  ], 
+  "value": 0
+}

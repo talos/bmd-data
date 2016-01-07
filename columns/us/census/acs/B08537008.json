@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:"
+    ], 
+    "table": "Means of Transportation to Work by Tenure for Workplace Geography", 
+    "title": "Householder lived in owner-occupied housing units", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Householder lived in owner-occupied housing units Tenure Car, truck, or van - carpooled in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B08537001", 
+    "parent": "us/census/acs/B08537007"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "tenure"
+  ], 
+  "value": 0
+}

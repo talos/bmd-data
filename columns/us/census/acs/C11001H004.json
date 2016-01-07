@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:"
+    ], 
+    "table": "Household Type (White Alone, Not Hispanic or Latino)", 
+    "title": "Other family", 
+    "universe": "Households With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "Other family Household Type (White Alone, Not Hispanic or Latino) Family households in Households With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/C11001H001", 
+    "parent": "us/census/acs/C11001H002"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Enrolled in school:"
+    ], 
+    "table": "Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over", 
+    "title": "Enrolled in grade 5 to grade 8:", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Enrolled in grade 5 to grade 8 Type of School Male in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14002001", 
+    "parent": "us/census/acs/B14002003"
+  }, 
+  "tags": [
+    "education", 
+    "sex"
+  ], 
+  "value": 1
+}

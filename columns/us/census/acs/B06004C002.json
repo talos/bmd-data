@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth (American Indian and Alaska Native Alone) in the United States", 
+    "title": "Born in state of residence", 
+    "universe": "American Indian and Alaska Native Alone Population in the United States"
+  }, 
+  "name": "Born in state of residence in American Indian and Alaska Native Alone Population in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B06004C001", 
+    "parent": "us/census/acs/B06004C001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "value": 0
+}

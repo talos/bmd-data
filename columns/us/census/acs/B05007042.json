@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Latin America:"
+    ], 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Central America:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Central America Citizenship Status Latin America in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05007001", 
+    "parent": "us/census/acs/B05007028"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

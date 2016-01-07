@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "30 to 34 years:"
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "In labor force:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "In labor force 30 to 34 years in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23001001", 
+    "parent": "us/census/acs/B23001117"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 1
+}

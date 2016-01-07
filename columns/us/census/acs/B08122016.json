@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Means of Transportation to Work by Poverty Status in the Past 12 Months", 
+    "title": "At or above 150 percent of the poverty level", 
+    "universe": "Workers 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "At or above 150 percent of the poverty level Poverty Status in the Past 12 Months Public transportation (excluding taxicab) in Workers 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B08122001", 
+    "parent": "us/census/acs/B08122013"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "poverty"
+  ], 
+  "value": 0
+}

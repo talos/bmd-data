@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work for Workplace Geography (American Indian and Alaska Native Alone)", 
+    "title": "Worked at home", 
+    "universe": "American Indian and Alaska Native Alone Workers 16 Years and Over"
+  }, 
+  "name": "Worked at home in American Indian and Alaska Native Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08505C001", 
+    "parent": "us/census/acs/B08505C001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

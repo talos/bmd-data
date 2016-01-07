@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Households with no people under 18 years:", 
+      "Nonfamily households:"
+    ], 
+    "table": "Households by Presence of People Under 18 Years by Household Type", 
+    "title": "Male householder", 
+    "universe": "Households"
+  }, 
+  "name": "Male householder Household Type Households with no people under 18 years Households Nonfamily households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11005001", 
+    "parent": "us/census/acs/B11005017"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Year Householder Moved Into Unit", 
+    "title": "Moved in 1990 to 1999", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Moved in 1990 to 1999 Year Householder Moved Into Unit Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25029001", 
+    "parent": "us/census/acs/B25029009"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

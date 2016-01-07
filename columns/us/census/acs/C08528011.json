@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Class of Worker for Workplace Geography", 
+    "title": "Car, truck, or van - carpooled:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - carpooled in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08528001", 
+    "parent": "us/census/acs/C08528001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

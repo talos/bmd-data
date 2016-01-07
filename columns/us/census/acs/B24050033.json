@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Management, business, science, and arts occupations:"
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Manufacturing", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Manufacturing Occupation Management, business, science, and arts occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24050001", 
+    "parent": "us/census/acs/B24050028"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Married-couple family:", 
+      null
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Number of Workers in Family", 
+    "title": "No workers", 
+    "universe": "Families"
+  }, 
+  "name": "No workers Number of Workers in Family Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Married-couple family", 
+  "relationships": {
+    "denominator": "us/census/acs/B17014001", 
+    "parent": "us/census/acs/B17014014"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "value": 0
+}

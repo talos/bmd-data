@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$35,000 to $49,999:"
+    ], 
+    "table": "Household Income in the Last 12 Months (In 2013 Inflation-adjusted Dollars) by Presence and Type of Internet Subscription in Household", 
+    "title": "Without an Internet subscription", 
+    "universe": "Households"
+  }, 
+  "name": "Without an Internet subscription Presence and Type of Internet Subscription in Household $35,000 to $49,999", 
+  "relationships": {
+    "denominator": "us/census/acs/B28004001", 
+    "parent": "us/census/acs/B28004014"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

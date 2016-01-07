@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Plumbing Facilities", 
+    "title": "Imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Imputed in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B99259001", 
+    "parent": "us/census/acs/B99259001"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

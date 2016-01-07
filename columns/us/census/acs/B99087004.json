@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work at home:", 
+      null
+    ], 
+    "table": "Imputation of Time Arriving at Work From Home for Workplace Geography", 
+    "title": "Not imputed for either departure time or minutes to work", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not imputed for either departure time or minutes to work Imputation of Time Arriving at Work From Home Did not work at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99087001", 
+    "parent": "us/census/acs/B99087002"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Sex of Workers by Travel Time to Work", 
+    "title": "40 to 44 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "40 to 44 minutes in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "us/census/acs/B08012001", 
+    "parent": "us/census/acs/B08012001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Tenure (Hispanic or Latino Householder)", 
+    "title": "Renter occupied", 
+    "universe": "Occupied Housing Units With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Renter occupied in Occupied Housing Units With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "us/census/acs/B25003I001", 
+    "parent": "us/census/acs/B25003I001"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Households by Presence of Nonrelatives", 
+    "title": "Households with no nonrelatives", 
+    "universe": "Households"
+  }, 
+  "name": "Households with no nonrelatives", 
+  "relationships": {
+    "denominator": "us/census/acs/B11015001", 
+    "parent": "us/census/acs/B11015001"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Occupants Per Room", 
+    "title": "2.01 or more occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "2.01 or more occupants per room Occupants Per Room Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25014001", 
+    "parent": "us/census/acs/B25014008"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "value": 0
+}

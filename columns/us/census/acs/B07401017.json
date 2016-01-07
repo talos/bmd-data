@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in the United States", 
+    "title": "Same house:", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Same house in Population 1 Year and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B07401001", 
+    "parent": "us/census/acs/B07401001"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "value": 0
+}

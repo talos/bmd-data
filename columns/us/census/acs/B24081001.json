@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Class of Worker by Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Total:", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Total Median Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) Female in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24081001"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

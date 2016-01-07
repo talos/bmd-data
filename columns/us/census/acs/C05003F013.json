@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age by Nativity (Some Other Race Alone)", 
+    "title": "18 years and over:", 
+    "universe": "People Who Are Some Other Race Alone"
+  }, 
+  "name": "18 years and over Nativity (Some Other Race Alone) Female in People Who Are Some Other Race Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003F001", 
+    "parent": "us/census/acs/C05003F009"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Local, state, and federal government workers:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Arts, design, entertainment, sports, and media occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Arts, design, entertainment, sports, and media occupations Class of Worker Local, state, and federal government workers Occupation Management, business, science, and arts occupations Occupation Education, legal, community service, arts, and media occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060154"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

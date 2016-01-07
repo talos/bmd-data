@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Shares of Aggregate Household Income by Quintile", 
+    "title": "Second Quintile", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Second Quintile", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19082002"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

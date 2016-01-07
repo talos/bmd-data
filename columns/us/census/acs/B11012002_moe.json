@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Type by Tenure", 
+    "title": "Family households:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Family households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11012002"
+  }, 
+  "tags": [
+    "families", 
+    "tenure"
+  ], 
+  "value": 2
+}

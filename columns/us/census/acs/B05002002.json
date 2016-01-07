@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth by Citizenship Status", 
+    "title": "Native:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Native Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05002001", 
+    "parent": "us/census/acs/B05002001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 1
+}

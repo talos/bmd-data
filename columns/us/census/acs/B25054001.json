@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Kitchen Facilities by Meals Included in Rent", 
+    "title": "Total:", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Total Meals Included in Rent Renter occupied in Renter-occupied Housing Units Paying Cash Rent", 
+  "relationships": {
+    "denominator": "us/census/acs/B25054001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

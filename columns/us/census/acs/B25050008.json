@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Complete plumbing facilities:", 
+      "1.01 or more occupants per room:"
+    ], 
+    "table": "Plumbing Facilities by Occupants Per Room by Year Structure Built", 
+    "title": "Built 1950 or later", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Built 1950 or later Year Structure Built Complete plumbing facilities Plumbing Facilities 1.01 or more occupants per room in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25050001", 
+    "parent": "us/census/acs/B25050007"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "value": 0
+}

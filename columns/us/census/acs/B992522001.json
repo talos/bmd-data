@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Mortgage Status and Selected Monthly Owner Costs", 
+    "title": "Total:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992522001"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value", 
+    "mortgage"
+  ], 
+  "value": 0
+}

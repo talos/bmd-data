@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In the labor force:"
+    ], 
+    "table": "Employment Status by Disability Status", 
+    "title": "Unemployed:", 
+    "universe": "Civilian Noninstitutionalized Population 18 to 64 Years"
+  }, 
+  "name": "Unemployed Disability Status In the labor force in Civilian Noninstitutionalized Population 18 to 64 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/C18120001", 
+    "parent": "us/census/acs/C18120002"
+  }, 
+  "tags": [
+    "employment", 
+    "disability"
+  ], 
+  "value": 0
+}

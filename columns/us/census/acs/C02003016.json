@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of two or more races:", 
+      "Population of two races:"
+    ], 
+    "table": "Detailed Race", 
+    "title": "Black or African American; American Indian and Alaska Native", 
+    "universe": "Total Population"
+  }, 
+  "name": "Black or African American; American Indian and Alaska Native Detailed Race Population of two or more races Detailed Race Population of two races Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C02003001", 
+    "parent": "us/census/acs/C02003012"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 1
+}

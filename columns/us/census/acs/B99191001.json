@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 years and over:"
+    ], 
+    "table": "Imputation of Individuals' Income in the Past 12 Months for the Population 15 Years and Over - Percent of Income Imputed", 
+    "title": "Total:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Total Imputation of Individuals' Income in the Past 12 Months 18 years and over in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99191001"
+  }, 
+  "tags": [
+    "technical", 
+    "income"
+  ], 
+  "value": 0
+}

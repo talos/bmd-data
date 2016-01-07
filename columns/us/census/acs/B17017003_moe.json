@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months by Household Type by Age of Householder", 
+    "title": "Family households:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Family households Age of Householder Income in the past 12 months below poverty level", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17017003"
+  }, 
+  "tags": [
+    "families", 
+    "age", 
+    "poverty"
+  ], 
+  "value": 0
+}

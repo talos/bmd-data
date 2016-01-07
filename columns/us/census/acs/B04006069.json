@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Ancestry", 
+    "title": "Slavic", 
+    "universe": "Total Population"
+  }, 
+  "name": "Slavic Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04006001", 
+    "parent": "us/census/acs/B04006001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

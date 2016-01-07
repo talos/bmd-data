@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Europe:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in Puerto Rico", 
+    "title": "Europe, n.e.c.", 
+    "universe": "Foreign-born Population in Puerto Rico Excluding Population Born at Sea"
+  }, 
+  "name": "Europe, n.e.c. Place of Birth Europe in Foreign-born Population in Puerto Rico Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006PR001", 
+    "parent": "us/census/acs/B05006PR002"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

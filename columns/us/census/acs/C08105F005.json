@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work (Some Other Race Alone)", 
+    "title": "Taxicab, motorcycle, bicycle, walked, or other means", 
+    "universe": "Some Other Race Alone Workers 16 Years and Over"
+  }, 
+  "name": "Taxicab, motorcycle, bicycle, walked, or other means in Some Other Race Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08105F001", 
+    "parent": "us/census/acs/C08105F001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$75,000 or more:"
+    ], 
+    "table": "Value", 
+    "title": "Total:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Total Value $75,000 or more in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25075001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 0
+}

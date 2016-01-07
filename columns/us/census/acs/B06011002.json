@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) by Place of Birth in the United States", 
+    "title": "Born in state of residence", 
+    "universe": "Population 15 Years and Over in the United States With Income"
+  }, 
+  "name": "Born in state of residence", 
+  "relationships": {
+    "parent": "us/census/acs/B06011001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "income"
+  ], 
+  "value": 1
+}

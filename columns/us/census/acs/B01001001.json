@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001001"
+  }, 
+  "tags": [
+    "age", 
+    "sex"
+  ], 
+  "value": 2
+}

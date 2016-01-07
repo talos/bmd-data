@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not mortgaged:"
+    ], 
+    "table": "Mortgage Status by Real Estate Taxes Paid", 
+    "title": "Less than $800", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Less than $800 Real Estate Taxes Paid Not mortgaged in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25102001", 
+    "parent": "us/census/acs/B25102009"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

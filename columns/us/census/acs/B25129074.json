@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Tenure by Year Householder Moved Into Unit by Units in Structure", 
+    "title": "Moved in 1970 to 1979:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Moved in 1970 to 1979 Units in Structure Renter occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25129001", 
+    "parent": "us/census/acs/B25129045"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age (Two or More Races)", 
+    "title": "65 to 74 years", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "65 to 74 years Age (Two or More Races) Male in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001G001", 
+    "parent": "us/census/acs/B01001G002"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

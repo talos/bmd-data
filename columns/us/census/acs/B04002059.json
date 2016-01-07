@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Second Ancestry Reported", 
+    "title": "Norwegian", 
+    "universe": "Total Population"
+  }, 
+  "name": "Norwegian Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04002001", 
+    "parent": "us/census/acs/B04002001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

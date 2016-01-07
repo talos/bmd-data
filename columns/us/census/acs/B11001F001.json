@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonfamily households:"
+    ], 
+    "table": "Household Type (Including Living Alone) (Some Other Race Alone)", 
+    "title": "Total:", 
+    "universe": "Households With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Total Household Type (Including Living Alone) (Some Other Race Alone) Nonfamily households in Households With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B11001F001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

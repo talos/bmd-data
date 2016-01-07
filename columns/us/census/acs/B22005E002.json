@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Race of Householder (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Household received Food Stamps/SNAP in the past 12 months", 
+    "universe": "Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "Household received Food Stamps/SNAP in the past 12 months in Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B22005E001", 
+    "parent": "us/census/acs/B22005E001"
+  }, 
+  "tags": [
+    "public assistance", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "table": "Age by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "No computer", 
+    "universe": "Population in Households"
+  }, 
+  "name": "No computer Presence of a Computer and Types of Internet Subscription in Household 65 years and over in Population in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B28005001", 
+    "parent": "us/census/acs/B28005014"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families", 
+    "age"
+  ], 
+  "value": 0
+}

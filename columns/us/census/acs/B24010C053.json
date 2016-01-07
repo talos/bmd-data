@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Healthcare practitioners and technical occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Health diagnosing and treating practitioners and other technical occupations", 
+    "universe": "Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over"
+  }, 
+  "name": "Health diagnosing and treating practitioners and other technical occupations Occupation Female Management, business, science, and arts occupations Healthcare practitioners and technical occupations in Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010C001", 
+    "parent": "us/census/acs/B24010C052"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

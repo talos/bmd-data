@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:"
+    ], 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over (Hispanic or Latino)", 
+    "title": "Speak another language", 
+    "universe": "Hispanic or Latino Population 5 Years and Over"
+  }, 
+  "name": "Speak another language Ability to Speak English Native in Hispanic or Latino Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16005I001", 
+    "parent": "us/census/acs/B16005I002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race", 
+    "language"
+  ], 
+  "value": 0
+}

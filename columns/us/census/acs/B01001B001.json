@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (Black or African American Alone)", 
+    "title": "Total:", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "Total Age (Black or African American Alone) Female in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001B001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

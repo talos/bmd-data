@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With own children under 18 years:", 
+      "6 to 17 years only:", 
+      "In labor force:", 
+      "Civilian:"
+    ], 
+    "table": "Presence of Own Children Under 18 Years by Age of Own Children Under 18 Years by Employment Status for Females 20 to 64 Years", 
+    "title": "Employed", 
+    "universe": "Females 20 to 64 Years in Households"
+  }, 
+  "name": "Employed Presence of Own Children Under 18 Years 6 to 17 years only Age of Own Children Under 18 Years In labor force Presence of Own Children Under 18 Years Civilian in Females 20 to 64 Years in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B23003001", 
+    "parent": "us/census/acs/B23003020"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "children"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,81 @@
+{
+  "columns": [
+    {
+      "id": "us/census/acs/B26001001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.740382643906409, 
+          "id": "us/census/tiger/county", 
+          "sample": 816
+        }, 
+        {
+          "error": 1.11799462424447, 
+          "id": "us/census/tiger/place", 
+          "sample": 518
+        }, 
+        {
+          "error": 0.682422466897152, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 529
+        }, 
+        {
+          "error": 1.89525875623979, 
+          "id": "us/census/tiger/necta", 
+          "sample": 25
+        }, 
+        {
+          "error": 0.786462142720603, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 396
+        }, 
+        {
+          "error": 0.66582235077742, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.708357021906271, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2055
+        }, 
+        {
+          "error": 4.84604250222351, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 69
+        }, 
+        {
+          "error": 3.62260288810761, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 83
+        }, 
+        {
+          "error": 1.00984848521026, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 772
+        }
+      ]
+    }
+  ], 
+  "dct_temporal_sm": 2011, 
+  "title": "acs2011_1yr seq0163"
+}

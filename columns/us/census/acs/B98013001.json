@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Total Population Coverage Rate by Weighting Race and Hispanic or Latino Groups", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B98013001"
+  }, 
+  "tags": [
+    "technical", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Service occupations:", 
+    "universe": "Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over"
+  }, 
+  "name": "Service occupations Occupation Male in Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010C001", 
+    "parent": "us/census/acs/B24010C002"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

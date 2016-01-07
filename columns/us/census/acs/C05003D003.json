@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Nativity (Asian Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "Under 18 years Nativity (Asian Alone) Male in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003D001", 
+    "parent": "us/census/acs/C05003D002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

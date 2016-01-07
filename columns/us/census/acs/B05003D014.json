@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (Asian Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "Under 18 years Citizenship Status (Asian Alone) Female in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003D001", 
+    "parent": "us/census/acs/B05003D013"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

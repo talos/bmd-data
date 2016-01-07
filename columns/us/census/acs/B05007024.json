@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Asia:", 
+      "Entered 1980 to 1989:"
+    ], 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Not a U.S. citizen Citizenship Status Asia Place of Birth Entered 1980 to 1989 in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05007001", 
+    "parent": "us/census/acs/B05007022"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

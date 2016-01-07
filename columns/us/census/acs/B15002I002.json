@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Hispanic or Latino)", 
+    "title": "Male:", 
+    "universe": "Hispanic or Latino Population 25 Years and Over"
+  }, 
+  "name": "Male in Hispanic or Latino Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B15002I001", 
+    "parent": "us/census/acs/B15002I001"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

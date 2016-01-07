@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Female:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Unrelated Individuals 15 Years and Over by Sex by Age", 
+    "title": "55 to 64 years", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "55 to 64 years Age Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Unrelated Individuals 15 Years and Over Female in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B17007001", 
+    "parent": "us/census/acs/B17007013"
+  }, 
+  "tags": [
+    "age", 
+    "poverty", 
+    "sex"
+  ], 
+  "value": 0
+}

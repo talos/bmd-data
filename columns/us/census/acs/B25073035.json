@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "50 or more:"
+    ], 
+    "table": "Units in Structure by Gross Rent as a Percentage of Household Income in the Past 12 Months", 
+    "title": "35.0 percent or more", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "35.0 percent or more Gross Rent as a Percentage of Household Income in the Past 12 Months 50 or more in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25073001", 
+    "parent": "us/census/acs/B25073030"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "income"
+  ], 
+  "value": 0
+}

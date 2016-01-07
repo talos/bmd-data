@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Hearing Difficulty for the Civilian Noninstitutionalized Population", 
+    "title": "Total:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99182001"
+  }, 
+  "tags": [
+    "technical", 
+    "disability"
+  ], 
+  "value": 0
+}

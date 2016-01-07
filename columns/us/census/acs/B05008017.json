@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Latin America:", 
+      "Caribbean:"
+    ], 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Entered 1990 to 1999", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered 1990 to 1999 Year of Entry Male Latin America Place of Birth Caribbean in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05008001", 
+    "parent": "us/census/acs/B05008015"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}

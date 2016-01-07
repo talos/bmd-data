@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Imputation of Place of Birth", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Not imputed Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99061003"
+  }, 
+  "tags": [
+    "technical", 
+    "place of birth"
+  ], 
+  "value": 0
+}

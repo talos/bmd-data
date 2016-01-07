@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Total Population in Occupied Housing Units by Tenure", 
+    "title": "Renter occupied", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Renter occupied in Total Population in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25008001", 
+    "parent": "us/census/acs/B25008001"
+  }, 
+  "tags": [
+    "housing", 
+    "tenure", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:", 
+      "Arts, design, entertainment, sports, and media occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Entertainers and performers, sports, and related workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Entertainers and performers, sports, and related workers Occupation Male Management, business, science, and arts occupations Education, legal, community service, arts, and media occupations Arts, design, entertainment, sports, and media occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010001", 
+    "parent": "us/census/acs/B24010052"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

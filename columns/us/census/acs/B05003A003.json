@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (White Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "Under 18 years Citizenship Status (White Alone) Male in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003A001", 
+    "parent": "us/census/acs/B05003A002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

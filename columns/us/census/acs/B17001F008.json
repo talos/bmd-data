@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Male:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (Some Other Race Alone)", 
+    "title": "15 years", 
+    "universe": "Some Other Race Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "15 years Age (Some Other Race Alone) Income in the past 12 months below poverty level Poverty Status in the Past 12 Months Male in Some Other Race Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B17001F001", 
+    "parent": "us/census/acs/B17001F003"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "value": 0
+}

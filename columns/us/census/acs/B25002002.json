@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Occupancy Status", 
+    "title": "Occupied", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Occupied in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25002001", 
+    "parent": "us/census/acs/B25002001"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "value": 2
+}

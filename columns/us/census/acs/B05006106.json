@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Africa:", 
+      "Southern Africa:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "South Africa", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "South Africa Place of Birth Africa Place of Birth Southern Africa in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006105"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

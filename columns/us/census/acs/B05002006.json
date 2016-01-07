@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:", 
+      "Born in other state in the United States:"
+    ], 
+    "table": "Place of Birth by Citizenship Status", 
+    "title": "Midwest", 
+    "universe": "Total Population"
+  }, 
+  "name": "Midwest Citizenship Status Native Place of Birth Born in other state in the United States Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05002001", 
+    "parent": "us/census/acs/B05002004"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 1
+}

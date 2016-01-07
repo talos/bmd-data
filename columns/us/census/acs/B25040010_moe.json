@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "House Heating Fuel", 
+    "title": "No fuel used", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for No fuel used in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25040010"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

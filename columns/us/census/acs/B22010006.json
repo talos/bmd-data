@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Household did not receive Food Stamps/SNAP in the past 12 months:"
+    ], 
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Disability Status for Households", 
+    "title": "Households with 1 or more persons with a disability", 
+    "universe": "Households"
+  }, 
+  "name": "Households with 1 or more persons with a disability Disability Status Household did not receive Food Stamps/SNAP in the past 12 months", 
+  "relationships": {
+    "denominator": "us/census/acs/B22010001", 
+    "parent": "us/census/acs/B22010005"
+  }, 
+  "tags": [
+    "public assistance", 
+    "disability", 
+    "families"
+  ], 
+  "value": 0
+}

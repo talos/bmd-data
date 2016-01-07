@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Units in Structure", 
+    "title": "3 or 4", 
+    "universe": "Housing Units"
+  }, 
+  "name": "3 or 4 in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25024001", 
+    "parent": "us/census/acs/B25024001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

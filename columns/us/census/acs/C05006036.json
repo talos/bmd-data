@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Asia:", 
+      "South Eastern Asia:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population", 
+    "title": "Vietnam", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Vietnam Place of Birth Asia Place of Birth South Eastern Asia in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/C05006001", 
+    "parent": "us/census/acs/C05006034"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

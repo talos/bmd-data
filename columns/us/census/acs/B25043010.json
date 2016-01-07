@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "No telephone service available:"
+    ], 
+    "table": "Tenure by Telephone Service Available by Age of Householder", 
+    "title": "Householder 65 years and over", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder 65 years and over Age of Householder Owner occupied Tenure No telephone service available in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25043001", 
+    "parent": "us/census/acs/B25043007"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "value": 0
+}

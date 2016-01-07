@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work:", 
+      "65 years and over:", 
+      "With health insurance coverage"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Work Experience by Age", 
+    "title": "With Medicaid/means-tested public coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With Medicaid/means-tested public coverage Age Did not work Health Insurance Coverage Status and Type 65 years and over Work Experience With health insurance coverage in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C27012001", 
+    "parent": "us/census/acs/C27012041"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Educational Attainment for the Population 25 Years and Over", 
+    "title": "Nursery school", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Nursery school in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B15003001", 
+    "parent": "us/census/acs/B15003001"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "value": 2
+}

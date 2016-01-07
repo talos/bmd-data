@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Size by Number of Workers in Household", 
+    "title": "3-person household", 
+    "universe": "Households"
+  }, 
+  "name": "3-person household", 
+  "relationships": {
+    "denominator": "us/census/acs/C08202001", 
+    "parent": "us/census/acs/C08202001"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "value": 0
+}

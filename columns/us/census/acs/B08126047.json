@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "table": "Means of Transportation to Work by Industry", 
+    "title": "Agriculture, forestry, fishing and hunting, and mining", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Agriculture, forestry, fishing and hunting, and mining Industry Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08126001", 
+    "parent": "us/census/acs/B08126046"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

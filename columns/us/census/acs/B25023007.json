@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Aggregate Number of Rooms by Vacancy Status", 
+    "title": "For migrant workers", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "For migrant workers", 
+  "relationships": {
+    "parent": "us/census/acs/B25023001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "value": 0
+}

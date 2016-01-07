@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Enrolled in school:"
+    ], 
+    "table": "Private Health Insurance by Sex by Enrollment Status for Young Adults Aged 19 to 25", 
+    "title": "No private health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population 19 to 25 Years"
+  }, 
+  "name": "No private health insurance coverage Enrollment Status Female in Civilian Noninstitutionalized Population 19 to 25 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B27023001", 
+    "parent": "us/census/acs/B27023010"
+  }, 
+  "tags": [
+    "health insurance", 
+    "sex"
+  ], 
+  "value": 0
+}

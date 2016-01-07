@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:", 
+      "In female householder, no husband present, family:"
+    ], 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (White Alone)", 
+    "title": "Nonrelatives", 
+    "universe": "Population in Households With a Householder Who Is White Alone"
+  }, 
+  "name": "Nonrelatives Relatives and Nonrelatives In family households Household Type In female householder, no husband present, family in Population in Households With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B11002A001", 
+    "parent": "us/census/acs/B11002A009"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

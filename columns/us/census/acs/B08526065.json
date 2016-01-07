@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Walked:"
+    ], 
+    "table": "Means of Transportation to Work by Industry for Workplace Geography", 
+    "title": "Wholesale trade", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Wholesale trade Industry Walked in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08526001", 
+    "parent": "us/census/acs/B08526061"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

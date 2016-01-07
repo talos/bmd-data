@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 45 to 64 years:"
+    ], 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$200,000 or more", 
+    "universe": "Households"
+  }, 
+  "name": "$200,000 or more Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) Householder 45 to 64 years", 
+  "relationships": {
+    "denominator": "us/census/acs/C19037001", 
+    "parent": "us/census/acs/C19037024"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

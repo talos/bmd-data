@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age by Educational Attainment for the Population 18 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 18 Years and Over"
+  }, 
+  "name": "Total Educational Attainment Female in Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C15001001"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "value": 0
+}

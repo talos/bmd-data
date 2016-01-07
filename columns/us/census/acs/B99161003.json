@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Language Status for the Population 5 Years and Over", 
+    "title": "Not imputed", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Not imputed in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99161001", 
+    "parent": "us/census/acs/B99161001"
+  }, 
+  "tags": [
+    "technical", 
+    "language"
+  ], 
+  "value": 0
+}

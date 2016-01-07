@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Class of Worker", 
+    "title": "Self-employed in own not incorporated business workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Self-employed in own not incorporated business workers Class of Worker Worked at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08128001", 
+    "parent": "us/census/acs/C08128001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

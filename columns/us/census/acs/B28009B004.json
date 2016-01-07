@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (Black or African American Alone)", 
+    "title": "With a broadband Internet subscription", 
+    "universe": "Black or African Americn Alone Household Population"
+  }, 
+  "name": "With a broadband Internet subscription Presence of a Computer and Type of Internet Subscription in Household (Black or African American Alone) Has a computer in Black or African Americn Alone Household Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B28009B001", 
+    "parent": "us/census/acs/B28009B002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

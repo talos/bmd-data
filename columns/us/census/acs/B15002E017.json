@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Associate's degree", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 25 Years and Over"
+  }, 
+  "name": "Associate's degree Educational Attainment Female in Native Hawaiian and Other Pacific Islander Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B15002E001", 
+    "parent": "us/census/acs/B15002E011"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter-occupied housing units:"
+    ], 
+    "table": "Units in Structure (White Alone Householder)", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone"
+  }, 
+  "name": "Total Units in Structure (White Alone Householder) Renter-occupied housing units in Occupied Housing Units With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C25032A001"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

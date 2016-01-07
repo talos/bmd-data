@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Family Type by Number of Workers in Family in the Past 12 Months", 
+    "title": "Household received Food Stamps/SNAP in the past 12 months:", 
+    "universe": "Families"
+  }, 
+  "name": "Household received Food Stamps/SNAP in the past 12 months in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/C22007001", 
+    "parent": "us/census/acs/C22007001"
+  }, 
+  "tags": [
+    "public assistance", 
+    "employment", 
+    "family type", 
+    "families"
+  ], 
+  "value": 0
+}

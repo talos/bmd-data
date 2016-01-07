@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Never married:"
+    ], 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Male:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Male Labor Force Participation Never married in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12006001", 
+    "parent": "us/census/acs/B12006002"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "value": 0
+}

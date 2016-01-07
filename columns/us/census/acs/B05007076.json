@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Latin America:", 
+      "South America:"
+    ], 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Entered 1980 to 1989:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered 1980 to 1989 Citizenship Status Latin America Place of Birth South America in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05007001", 
+    "parent": "us/census/acs/B05007069"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months of Families by Tenure", 
+    "title": "Total:", 
+    "universe": "Families"
+  }, 
+  "name": "Total Tenure Income in the past 12 months at or above poverty level in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/C17019001"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "tenure"
+  ], 
+  "value": 0
+}

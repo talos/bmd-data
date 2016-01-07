@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units with a mortgage, contract to purchase, or similar debt:", 
+      "With either a second mortgage or home equity loan, but not both:"
+    ], 
+    "table": "Mortgage Status", 
+    "title": "Home equity loan only", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Home equity loan only Mortgage Status Housing units with a mortgage, contract to purchase, or similar debt Mortgage Status With either a second mortgage or home equity loan, but not both in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25081001", 
+    "parent": "us/census/acs/B25081003"
+  }, 
+  "tags": [
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Year Structure Built", 
+    "title": "Built 1980 to 1989", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Built 1980 to 1989 in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25034001", 
+    "parent": "us/census/acs/B25034001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

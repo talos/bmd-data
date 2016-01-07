@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Marriages in the Last Year by Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Ever married:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Ever married Marital Status Male in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12501001", 
+    "parent": "us/census/acs/B12501002"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Oceania:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population", 
+    "title": "Australia and New Zealand Subregion", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Australia and New Zealand Subregion Place of Birth Oceania in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/C05006001", 
+    "parent": "us/census/acs/C05006049"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

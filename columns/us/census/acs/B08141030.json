@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Vehicles Available", 
+    "title": "3 or more vehicles available", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "3 or more vehicles available Vehicles Available Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B08141001", 
+    "parent": "us/census/acs/B08141026"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

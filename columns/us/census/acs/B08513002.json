@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Means of Transportation to Work by Language Spoken at Home and Ability to Speak English for Workplace Geography", 
+    "title": "Speak only English", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Speak only English in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08513001", 
+    "parent": "us/census/acs/B08513001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "language"
+  ], 
+  "value": 0
+}

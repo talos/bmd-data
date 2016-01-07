@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Vacancy Status", 
+    "title": "Sold, not occupied", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Sold, not occupied in Vacant Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25004001", 
+    "parent": "us/census/acs/B25004001"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "value": 1
+}

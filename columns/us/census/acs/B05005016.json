@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Entered 1980 to 1989:", 
+      "Foreign born:"
+    ], 
+    "table": "Year of Entry by Citizenship Status in the United States", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Not a U.S. citizen Citizenship Status in the United States Entered 1980 to 1989 Year of Entry Foreign born in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B05005001", 
+    "parent": "us/census/acs/B05005014"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

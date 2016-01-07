@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female"
+    ], 
+    "table": "Total Population Coverage Rate by Weighting Race and Hispanic or Latino Groups", 
+    "title": "Black or African American", 
+    "universe": "Total Population"
+  }, 
+  "name": "Black or African American Total Population Coverage Rate Female", 
+  "relationships": {
+    "denominator": "us/census/acs/B98013001", 
+    "parent": "us/census/acs/B98013001"
+  }, 
+  "tags": [
+    "technical", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

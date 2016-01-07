@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "25 to 54 years:", 
+      "In labor force:"
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Civilian:", 
+    "universe": "White Alone, Not Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Civilian 25 to 54 years Age In labor force in White Alone, Not Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23002H001", 
+    "parent": "us/census/acs/B23002H018"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

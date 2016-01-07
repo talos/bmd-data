@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Speak other language:", 
+      "Speak English less than \u201cvery well\u201d:", 
+      "Grandparent responsible for own grandchildren under 18 years:"
+    ], 
+    "table": "Language and Ability to Speak English of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "60 years and over", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "60 years and over Responsibility Speak other language Language and Ability to Speak English of Grandparents Living With Own Grandchildren Under 18 Years Speak English less than \u201cvery well\u201d Language and Ability to Speak English of Grandparents Living With Own Grandchildren Under 18 Years Grandparent responsible for own grandchildren under 18 years", 
+  "relationships": {
+    "denominator": "us/census/acs/B10054001", 
+    "parent": "us/census/acs/B10054014"
+  }, 
+  "tags": [
+    "grandparents", 
+    "children", 
+    "language"
+  ], 
+  "value": 0
+}

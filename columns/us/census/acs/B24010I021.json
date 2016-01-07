@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Service occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Protective service occupations:", 
+    "universe": "Civilian Employed Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Protective service occupations Occupation Male Service occupations in Civilian Employed Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010I001", 
+    "parent": "us/census/acs/B24010I019"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

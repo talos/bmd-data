@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Mean Household Income of Quintiles", 
+    "title": "Highest Quintile", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Highest Quintile in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19081005"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

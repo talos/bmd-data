@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (Black or African American Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are Black Alone"
+  }, 
+  "name": "Under 18 years Citizenship Status (Black or African American Alone) Male in People Who Are Black Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003B001", 
+    "parent": "us/census/acs/B05003B002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

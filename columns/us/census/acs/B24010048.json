@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:", 
+      "Education, training, and library occupations:", 
+      "Primary, secondary, and special education school teachers:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Secondary school teachers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Secondary school teachers Occupation Male Management, business, science, and arts occupations Education, legal, community service, arts, and media occupations Education, training, and library occupations Primary, secondary, and special education school teachers in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010001", 
+    "parent": "us/census/acs/B24010045"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

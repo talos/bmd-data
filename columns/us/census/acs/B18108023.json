@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "75 years and over:"
+    ], 
+    "table": "Age by Number of Disabilities", 
+    "title": "With one type of disability", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With one type of disability Number of Disabilities 75 years and over in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18108001", 
+    "parent": "us/census/acs/B18108022"
+  }, 
+  "tags": [
+    "age", 
+    "disability"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Age", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not imputed Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99012001", 
+    "parent": "us/census/acs/B99012001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

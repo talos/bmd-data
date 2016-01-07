@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total living in area 1 year ago:"
+    ], 
+    "table": "Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in Puerto Rico", 
+    "title": "Moved within same municipio", 
+    "universe": "Population 1 Year and Over"
+  }, 
+  "name": "Moved within same municipio Geographical Mobility in the Past Year Total living in area 1 year ago", 
+  "relationships": {
+    "parent": "us/census/acs/B07402PR001"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex of Workers by Place of Work--State and County Level", 
+    "title": "Worked in county of residence", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Worked in county of residence Place of Work--State and County Level Female in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08007001", 
+    "parent": "us/census/acs/C08007001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

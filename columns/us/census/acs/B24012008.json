@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:"
+    ], 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2013 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Computer and mathematical occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Computer and mathematical occupations Occupation and Median Earnings in the Past 12 Months (In 2013 Inflation-adjusted Dollars) Male Management, business, science, and arts occupations Computer, engineering, and science occupations in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "us/census/acs/B24012001", 
+    "parent": "us/census/acs/B24012007"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

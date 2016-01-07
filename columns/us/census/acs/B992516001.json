@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Rent Asked", 
+    "title": "Total:", 
+    "universe": "Vacant-for-rent and Rented, Not Occupied Housing Units"
+  }, 
+  "name": "Vacant-for-rent and Rented, Not Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992516001"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "value": 0
+}

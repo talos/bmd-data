@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 years and over:"
+    ], 
+    "table": "Sex by Age by Nativity (White Alone, Not Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "Total Nativity (White Alone, Not Hispanic or Latino) Female 18 years and over in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003H001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

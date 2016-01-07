@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Family households:", 
+      "Other family:", 
+      "Female householder, no husband present:"
+    ], 
+    "table": "Tenure by Household Type (Including Living Alone) and Age of Householder", 
+    "title": "Householder 65 years and over", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder 65 years and over Household Type (Including Living Alone) and Age of Householder Owner occupied Tenure Family households Tenure Other family Tenure Female householder, no husband present in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25011001", 
+    "parent": "us/census/acs/B25011013"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

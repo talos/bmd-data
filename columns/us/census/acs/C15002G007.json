@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Two or More Races)", 
+    "title": "Female:", 
+    "universe": "Two or More Races Population 25 Years and Over"
+  }, 
+  "name": "Female in Two or More Races Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C15002G001", 
+    "parent": "us/census/acs/C15002G001"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

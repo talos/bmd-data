@@ -1,0 +1,21 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Age by Means of Transportation to Work for Workplace Geography", 
+    "title": "Public transportation (excluding taxicab)", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Public transportation (excluding taxicab)", 
+  "relationships": {
+    "parent": "us/census/acs/B08503001"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

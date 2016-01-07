@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (White Alone)", 
+    "title": "Arts, design, entertainment, sports, and media occupations", 
+    "universe": "Civilian Employed White Alone Population 16 Years and Over"
+  }, 
+  "name": "Arts, design, entertainment, sports, and media occupations Occupation Female Management, business, science, and arts occupations Education, legal, community service, arts, and media occupations in Civilian Employed White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010A001", 
+    "parent": "us/census/acs/B24010A047"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

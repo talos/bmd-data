@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth (Asian Alone) in Puerto Rico", 
+    "title": "Foreign born", 
+    "universe": "Asian Alone Population in Puerto Rico"
+  }, 
+  "name": "Foreign born in Asian Alone Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06004DPR001", 
+    "parent": "us/census/acs/B06004DPR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Value (Dollars) by Mortgage Status", 
+    "title": "Housing units without a mortgage (dollars)", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Housing units without a mortgage (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25082003"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

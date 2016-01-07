@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not in labor force:", 
+      "18 to 64 years:"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Employment Status by Age", 
+    "title": "No health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "No health insurance coverage Age Not in labor force Health Insurance Coverage Status and Type 18 to 64 years in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B27011001", 
+    "parent": "us/census/acs/B27011026"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "value": 1
+}

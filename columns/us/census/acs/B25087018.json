@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Mortgage Status and Selected Monthly Owner Costs", 
+    "title": "Housing units without a mortgage:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Housing units without a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25087001", 
+    "parent": "us/census/acs/B25087001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "value": 0
+}

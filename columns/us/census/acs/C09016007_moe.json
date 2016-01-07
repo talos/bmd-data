@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Spouse", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Spouse Relationship In households Household Type (Including Living Alone) In family households Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C09016007"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

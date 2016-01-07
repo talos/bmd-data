@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type (Asian Alone)", 
+    "title": "Total:", 
+    "universe": "Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C11001D001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

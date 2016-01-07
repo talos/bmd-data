@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:", 
+      "Speak Spanish:"
+    ], 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Ability to Speak English Native Nativity Speak Spanish in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16005001", 
+    "parent": "us/census/acs/B16005004"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "value": 0
+}

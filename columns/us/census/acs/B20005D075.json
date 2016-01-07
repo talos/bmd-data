@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Other:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for the Population 16 Years and Over (Asian Alone)", 
+    "title": "With earnings:", 
+    "universe": "Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "With earnings Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Female Other in Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B20005D001", 
+    "parent": "us/census/acs/B20005D073"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

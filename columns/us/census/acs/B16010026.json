@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "High school graduate (includes equivalency):", 
+      "Not in labor force:"
+    ], 
+    "table": "Educational Attainment and Employment Status by Language Spoken at Home for the Population 25 Years and Over", 
+    "title": "Speak Asian and Pacific Island languages", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Speak Asian and Pacific Island languages Language Spoken at Home High school graduate (includes equivalency) Educational Attainment and Employment Status Not in labor force in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16010001", 
+    "parent": "us/census/acs/B16010022"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "language"
+  ], 
+  "value": 0
+}

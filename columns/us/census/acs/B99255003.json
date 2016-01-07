@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Units in Structure", 
+    "title": "Not imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Not imputed in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B99255001", 
+    "parent": "us/census/acs/B99255001"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

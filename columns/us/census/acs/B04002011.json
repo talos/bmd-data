@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "table": "Second Ancestry Reported", 
+    "title": "Moroccan", 
+    "universe": "Total Population"
+  }, 
+  "name": "Moroccan Second Ancestry Reported Arab Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04002001", 
+    "parent": "us/census/acs/B04002006"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

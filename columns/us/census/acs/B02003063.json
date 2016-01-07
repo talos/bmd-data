@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of two or more races:"
+    ], 
+    "table": "Detailed Race", 
+    "title": "Population of five races:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Population of five races Detailed Race Population of two or more races Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02003001", 
+    "parent": "us/census/acs/B02003009"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

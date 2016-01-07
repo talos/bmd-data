@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:"
+    ], 
+    "table": "Sex by Age by Nativity (Asian Alone)", 
+    "title": "Foreign born", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "Foreign born Nativity (Asian Alone) Female Under 18 years in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003D001", 
+    "parent": "us/census/acs/C05003D010"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

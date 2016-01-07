@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Latin America:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Latin America Year of Entry Female in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05008001", 
+    "parent": "us/census/acs/B05008036"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}

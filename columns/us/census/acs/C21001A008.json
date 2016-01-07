@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "65 years and over:"
+    ], 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (White Alone)", 
+    "title": "Nonveteran", 
+    "universe": "White Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "Nonveteran Veteran Status Male 65 years and over in White Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C21001A001", 
+    "parent": "us/census/acs/C21001A006"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "value": 0
+}

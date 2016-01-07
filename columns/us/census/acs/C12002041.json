@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Never married:"
+    ], 
+    "table": "Sex by Marital Status by Age for the Population 15 Years and Over", 
+    "title": "20 to 34 years", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "20 to 34 years Age Female Never married in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C12002001", 
+    "parent": "us/census/acs/C12002039"
+  }, 
+  "tags": [
+    "marital status", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

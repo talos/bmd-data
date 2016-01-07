@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Households by Presence of People 60 Years and Over by Household Type", 
+    "title": "Households with no people 60 years and over:", 
+    "universe": "Households"
+  }, 
+  "name": "Households with no people 60 years and over", 
+  "relationships": {
+    "denominator": "us/census/acs/B11006001", 
+    "parent": "us/census/acs/B11006001"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 1
+}

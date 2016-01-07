@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Education"
+    ], 
+    "table": "Educational Attainment for the Population 25 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Total Educational Attainment Education in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C15003001"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "value": 0
+}

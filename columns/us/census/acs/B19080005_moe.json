@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Income Quintile Upper Limits", 
+    "title": "Lower Limit of Top 5 Percent", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Lower Limit of Top 5 Percent in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19080005"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

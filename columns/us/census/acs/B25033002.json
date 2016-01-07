@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Total Population in Occupied Housing Units by Tenure by Units in Structure", 
+    "title": "Owner occupied:", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Owner occupied in Total Population in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25033001", 
+    "parent": "us/census/acs/B25033001"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "tenure", 
+    "physical characteristics", 
+    "sex"
+  ], 
+  "value": 0
+}

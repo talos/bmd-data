@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Car, truck, or van:", 
+      "Carpooled:"
+    ], 
+    "table": "Sex of Workers by Means of Transportation to Work", 
+    "title": "In 2-person carpool", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "In 2-person carpool Means of Transportation to Work Male Sex of Workers Car, truck, or van Sex of Workers Carpooled in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08006001", 
+    "parent": "us/census/acs/B08006021"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 2
+}

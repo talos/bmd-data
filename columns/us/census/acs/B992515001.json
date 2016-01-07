@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Contract Rent", 
+    "title": "Total:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992515001"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "value": 0
+}

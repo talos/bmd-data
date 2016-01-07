@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (American Indian and Alaska Native Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are American Indian and Alaska Native Alone"
+  }, 
+  "name": "Under 18 years Citizenship Status (American Indian and Alaska Native Alone) Female in People Who Are American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003C001", 
+    "parent": "us/census/acs/B05003C013"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

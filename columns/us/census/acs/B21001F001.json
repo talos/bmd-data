@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "75 years and over:"
+    ], 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Some Other Race Alone)", 
+    "title": "Total:", 
+    "universe": "Some Other Race Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "Total Veteran Status Female 75 years and over in Some Other Race Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B21001F001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "value": 0
+}

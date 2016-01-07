@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "Foreign born:"
+    ], 
+    "table": "Means of Transportation to Work by Citizenship Status", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Naturalized U.S. citizen Means of Transportation to Work Foreign born in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08111001", 
+    "parent": "us/census/acs/B08111003"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "value": 0
+}

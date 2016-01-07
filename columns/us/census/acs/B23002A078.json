@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "70 years and over:", 
+      "In labor force:", 
+      null
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone)", 
+    "title": "Unemployed", 
+    "universe": "White Alone Population 16 Years and Over"
+  }, 
+  "name": "Unemployed 70 years and over Age In labor force in White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23002A001", 
+    "parent": "us/census/acs/B23002A066"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

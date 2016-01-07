@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Households with no people under 18 years:", 
+      "Family households:", 
+      "Other family:"
+    ], 
+    "table": "Households by Presence of People Under 18 Years by Household Type", 
+    "title": "Female householder, no husband present", 
+    "universe": "Households"
+  }, 
+  "name": "Female householder, no husband present Household Type Households with no people under 18 years Households Family households Presence of People Under 18 Years Other family", 
+  "relationships": {
+    "denominator": "us/census/acs/C11005001", 
+    "parent": "us/census/acs/C11005012"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "75 years and over:"
+    ], 
+    "table": "Medicaid/Means-tested Public Coverage by Sex by Age", 
+    "title": "No Medicaid/means-tested public coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No Medicaid/means-tested public coverage Age Female Medicaid/Means-tested Public Coverage 75 years and over in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27007001", 
+    "parent": "us/census/acs/B27007055"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

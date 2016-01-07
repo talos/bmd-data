@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Americas:", 
+      "Latin America:", 
+      "Caribbean:"
+    ], 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "St. Vincent and the Grenadines", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "St. Vincent and the Grenadines Place of Birth Americas Place of Birth Latin America Place of Birth Caribbean in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "us/census/acs/B05006001", 
+    "parent": "us/census/acs/B05006124"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

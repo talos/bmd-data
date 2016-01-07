@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "3 or more bedrooms:"
+    ], 
+    "table": "Inclusion of Utilities in Rent", 
+    "title": "Total:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Total Inclusion of Utilities in Rent 3 or more bedrooms in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25069001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Some Other Race Alone)", 
+    "title": "High school graduate, GED, or alternative", 
+    "universe": "Some Other Race Alone Population 25 Years and Over"
+  }, 
+  "name": "High school graduate, GED, or alternative Educational Attainment Male in Some Other Race Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C15002F001", 
+    "parent": "us/census/acs/C15002F002"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

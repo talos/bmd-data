@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Telephone Service Available", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992513001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

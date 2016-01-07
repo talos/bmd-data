@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (Asian Alone)", 
+    "title": "65 to 74 years", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "65 to 74 years Age (Asian Alone) Female in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001D001", 
+    "parent": "us/census/acs/B01001D017"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

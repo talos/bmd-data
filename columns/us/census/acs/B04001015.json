@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "table": "First Ancestry Reported", 
+    "title": "Other Arab", 
+    "universe": "Total Population"
+  }, 
+  "name": "Other Arab First Ancestry Reported Arab Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B04001001", 
+    "parent": "us/census/acs/B04001006"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex of Workers by Place of Work--Place Level", 
+    "title": "Living in a place:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Living in a place Place of Work--Place Level Female in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08008001", 
+    "parent": "us/census/acs/B08008001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

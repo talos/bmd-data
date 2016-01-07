@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Hispanic or Latino:", 
+      "Central American:"
+    ], 
+    "table": "Hispanic or Latino Origin by Specific Origin", 
+    "title": "Nicaraguan", 
+    "universe": "Total Population"
+  }, 
+  "name": "Nicaraguan Specific Origin Hispanic or Latino Hispanic or Latino Origin Central American Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B03001001", 
+    "parent": "us/census/acs/B03001008"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

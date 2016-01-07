@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Employer-based Health Insurance by Sex by Age", 
+    "title": "45 to 54 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "45 to 54 years Age Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B27004001", 
+    "parent": "us/census/acs/B27004002"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

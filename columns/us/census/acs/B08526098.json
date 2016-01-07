@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:"
+    ], 
+    "table": "Means of Transportation to Work by Industry for Workplace Geography", 
+    "title": "Information", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Information Industry Worked at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08526001", 
+    "parent": "us/census/acs/B08526091"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

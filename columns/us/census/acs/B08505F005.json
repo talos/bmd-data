@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work for Workplace Geography (Some Other Race Alone)", 
+    "title": "Walked", 
+    "universe": "Some Other Race Alone Workers 16 Years and Over"
+  }, 
+  "name": "Walked in Some Other Race Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08505F001", 
+    "parent": "us/census/acs/B08505F001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

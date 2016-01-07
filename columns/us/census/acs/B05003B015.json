@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (Black or African American Alone)", 
+    "title": "Native", 
+    "universe": "People Who Are Black Alone"
+  }, 
+  "name": "Native Citizenship Status (Black or African American Alone) Female Under 18 years in People Who Are Black Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003B001", 
+    "parent": "us/census/acs/B05003B014"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

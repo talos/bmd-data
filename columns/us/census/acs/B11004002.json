@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Family Type by Presence and Age of Related Children Under 18 Years", 
+    "title": "Married-couple family:", 
+    "universe": "Families"
+  }, 
+  "name": "Married-couple family in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B11004001", 
+    "parent": "us/census/acs/B11004001"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

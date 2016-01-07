@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, walked, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Occupation for Workplace Geography", 
+    "title": "Production, transportation, and material moving occupations", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Production, transportation, and material moving occupations Occupation Taxicab, motorcycle, bicycle, walked, or other means in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08524001", 
+    "parent": "us/census/acs/C08524029"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

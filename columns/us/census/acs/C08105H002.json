@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work (White Alone, Not Hispanic or Latino)", 
+    "title": "Car, truck, or van - drove alone", 
+    "universe": "White Alone, Not Hispanic or Latino Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - drove alone in White Alone, Not Hispanic or Latino Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08105H001", 
+    "parent": "us/census/acs/C08105H001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

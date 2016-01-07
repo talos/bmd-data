@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Entered 1990 to 1999:"
+    ], 
+    "table": "Year of Entry by Nativity in Puerto Rico", 
+    "title": "Foreign born", 
+    "universe": "Population Born Outside Puerto Rico"
+  }, 
+  "name": "Foreign born Nativity in Puerto Rico Entered 1990 to 1999 in Population Born Outside Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/C05005PR001", 
+    "parent": "us/census/acs/C05005PR005"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

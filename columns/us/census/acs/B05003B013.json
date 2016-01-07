@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Sex by Age by Citizenship Status (Black or African American Alone)", 
+    "title": "Female:", 
+    "universe": "People Who Are Black Alone"
+  }, 
+  "name": "Female in People Who Are Black Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003B001", 
+    "parent": "us/census/acs/B05003B001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

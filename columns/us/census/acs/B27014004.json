@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked full-time, year-round:", 
+      "Male:"
+    ], 
+    "table": "Public Health Insurance by Work Experience by Sex by Age", 
+    "title": "18 to 64 years:", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "18 to 64 years Age Worked full-time, year-round Public Health Insurance Male in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B27014001", 
+    "parent": "us/census/acs/B27014003"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "value": 0
+}

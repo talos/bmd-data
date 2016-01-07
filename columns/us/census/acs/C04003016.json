@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Total Ancestry Reported", 
+    "title": "Italian", 
+    "universe": "Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported"
+  }, 
+  "name": "Italian in Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported", 
+  "relationships": {
+    "denominator": "us/census/acs/C04003001", 
+    "parent": "us/census/acs/C04003001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

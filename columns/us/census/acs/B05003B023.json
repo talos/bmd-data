@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 years and over:", 
+      "Foreign born:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (Black or African American Alone)", 
+    "title": "Not a U.S. citizen", 
+    "universe": "People Who Are Black Alone"
+  }, 
+  "name": "Not a U.S. citizen Citizenship Status (Black or African American Alone) Female 18 years and over Age Foreign born in People Who Are Black Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003B001", 
+    "parent": "us/census/acs/B05003B021"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

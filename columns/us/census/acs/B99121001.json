@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Marital Status for the Population 15 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99121001"
+  }, 
+  "tags": [
+    "technical", 
+    "marital status"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Type by Tenure", 
+    "title": "Owner-occupied housing units", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Owner-occupied housing units Tenure Nonfamily households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11012014"
+  }, 
+  "tags": [
+    "families", 
+    "tenure"
+  ], 
+  "value": 2
+}

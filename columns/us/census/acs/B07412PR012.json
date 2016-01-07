@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved within same municipio:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Poverty Status in the Past 12 Months for Residence 1 Year Ago in Puerto Rico", 
+    "title": "At or above 150 percent of the poverty level", 
+    "universe": "Population 1 Year and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "At or above 150 percent of the poverty level Poverty Status in the Past 12 Months Moved within same municipio in Population 1 Year and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B07412PR001", 
+    "parent": "us/census/acs/B07412PR009"
+  }, 
+  "tags": [
+    "poverty", 
+    "migration"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Family Type by Presence of Own Children Under 18 Years by Family Income in the Past 12 Months (In 2012 Inflation-adjusted Dollars)", 
+    "title": "Other family:", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Other family in Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C19131025"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "value": 0
+}

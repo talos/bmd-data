@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Occupancy Status", 
+    "title": "Total:", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25002001"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "value": 2
+}

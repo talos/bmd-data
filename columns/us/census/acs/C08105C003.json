@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work (American Indian and Alaska Native Alone)", 
+    "title": "Car, truck, or van - carpooled", 
+    "universe": "American Indian and Alaska Native Alone Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - carpooled in American Indian and Alaska Native Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08105C001", 
+    "parent": "us/census/acs/C08105C001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

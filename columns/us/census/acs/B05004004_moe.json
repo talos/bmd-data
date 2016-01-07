@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Median Age by Citizenship Status by Sex", 
+    "title": "Native:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Native", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05004004"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

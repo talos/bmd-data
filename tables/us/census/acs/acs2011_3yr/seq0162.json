@@ -1,0 +1,81 @@
+{
+  "columns": [
+    {
+      "id": "us/census/acs/B26001001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.399780319085205, 
+          "id": "us/census/tiger/county", 
+          "sample": 1892
+        }, 
+        {
+          "error": 0.554021370079822, 
+          "id": "us/census/tiger/place", 
+          "sample": 1927
+        }, 
+        {
+          "error": 0.386627329920555, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 932
+        }, 
+        {
+          "error": 1.26250797214188, 
+          "id": "us/census/tiger/necta", 
+          "sample": 40
+        }, 
+        {
+          "error": 0.446043972192461, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 859
+        }, 
+        {
+          "error": 0.384457607847079, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.408280519688657, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2099
+        }, 
+        {
+          "error": 1.98874524919434, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 267
+        }, 
+        {
+          "error": 1.75083253138654, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 204
+        }, 
+        {
+          "error": 0.470534373358892, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 2801
+        }
+      ]
+    }
+  ], 
+  "dct_temporal_sm": "2009 - 2011", 
+  "title": "acs2011_3yr seq0162"
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Presence and Types of Internet Subscriptions in Household", 
+    "title": "No Internet access", 
+    "universe": "Households"
+  }, 
+  "name": "No Internet access in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B28002001", 
+    "parent": "us/census/acs/B28002001"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "value": 0
+}

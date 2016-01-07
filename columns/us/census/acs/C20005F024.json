@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Worked full-time, year-round in the past 12 months:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) for the Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "With earnings:", 
+    "universe": "Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "With earnings Earnings in the Past 12 Months (In 2012 Inflation-adjusted Dollars) Female Worked full-time, year-round in the past 12 months in Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C20005F001", 
+    "parent": "us/census/acs/C20005F022"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

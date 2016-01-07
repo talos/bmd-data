@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type by Household Size", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Households", 
+  "relationships": {
+    "denominator": "us/census/acs/C11016001"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 0
+}

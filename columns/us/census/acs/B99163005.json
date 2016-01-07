@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Speak other languages:", 
+      null
+    ], 
+    "table": "Imputation of Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Not imputed", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Not imputed Imputation of Ability to Speak English Speak other languages in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99163001", 
+    "parent": "us/census/acs/B99163003"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

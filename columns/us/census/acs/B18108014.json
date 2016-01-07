@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Age by Number of Disabilities", 
+    "title": "35 to 64 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "35 to 64 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B18108001", 
+    "parent": "us/census/acs/B18108001"
+  }, 
+  "tags": [
+    "age", 
+    "disability"
+  ], 
+  "value": 0
+}

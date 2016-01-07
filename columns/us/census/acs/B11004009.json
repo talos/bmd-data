@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Other family:"
+    ], 
+    "table": "Family Type by Presence and Age of Related Children Under 18 Years", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Families"
+  }, 
+  "name": "Male householder, no wife present Presence and Age of Related Children Under 18 Years Other family in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B11004001", 
+    "parent": "us/census/acs/B11004008"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

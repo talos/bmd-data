@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Monthly Housing Costs", 
+    "title": "Less than $100", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Less than $100 in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25104002"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

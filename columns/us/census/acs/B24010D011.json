@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:"
+    ], 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Asian Alone)", 
+    "title": "Education, legal, community service, arts, and media occupations:", 
+    "universe": "Civilian Employed Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Education, legal, community service, arts, and media occupations Occupation Male Management, business, science, and arts occupations in Civilian Employed Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24010D001", 
+    "parent": "us/census/acs/B24010D003"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Health Insurance Coverage Status and Type by Ratio of Income to Poverty Level in the Past 12 Months by Age", 
+    "title": "3.00 to 3.99 of poverty threshold:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "3.00 to 3.99 of poverty threshold in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/B27016001", 
+    "parent": "us/census/acs/B27016001"
+  }, 
+  "tags": [
+    "health insurance", 
+    "poverty", 
+    "age", 
+    "income"
+  ], 
+  "value": 0
+}

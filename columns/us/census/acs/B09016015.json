@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In households:", 
+      "In family households:", 
+      "Nonrelatives:"
+    ], 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Housemate or roommate", 
+    "universe": "Total Population"
+  }, 
+  "name": "Housemate or roommate Relationship In households Household Type (Including Living Alone) In family households Household Type (Including Living Alone) Nonrelatives Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B09016001", 
+    "parent": "us/census/acs/B09016013"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Ancestry", 
+    "title": "British", 
+    "universe": "Total Population"
+  }, 
+  "name": "British Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C04006001", 
+    "parent": "us/census/acs/C04006001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

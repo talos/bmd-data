@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Presence of Children Under 18 Years for Households", 
+    "title": "Household did not receive Food Stamps/SNAP in the past 12 months:", 
+    "universe": "Households"
+  }, 
+  "name": "Household did not receive Food Stamps/SNAP in the past 12 months", 
+  "relationships": {
+    "denominator": "us/census/acs/C22002001", 
+    "parent": "us/census/acs/C22002001"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

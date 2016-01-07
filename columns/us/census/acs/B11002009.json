@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:"
+    ], 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households", 
+    "title": "In female householder, no husband present, family:", 
+    "universe": "Population in Households"
+  }, 
+  "name": "In female householder, no husband present, family Relatives and Nonrelatives In family households in Population in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11002001", 
+    "parent": "us/census/acs/B11002002"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 2
+}

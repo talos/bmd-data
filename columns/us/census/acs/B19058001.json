@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B19058001"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

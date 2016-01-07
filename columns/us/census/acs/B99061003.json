@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Place of Birth", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not imputed Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99061001", 
+    "parent": "us/census/acs/B99061001"
+  }, 
+  "tags": [
+    "technical", 
+    "place of birth"
+  ], 
+  "value": 0
+}

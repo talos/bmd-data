@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Mortgage Status", 
+    "title": "Total:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992521001"
+  }, 
+  "tags": [
+    "technical", 
+    "mortgage"
+  ], 
+  "value": 0
+}

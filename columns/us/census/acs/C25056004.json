@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With cash rent:"
+    ], 
+    "table": "Contract Rent", 
+    "title": "$200 to $299", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$200 to $299 Contract Rent With cash rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25056001", 
+    "parent": "us/census/acs/C25056002"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 0
+}

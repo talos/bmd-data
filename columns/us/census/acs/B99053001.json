@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "table": "Imputation of Year of Naturalization", 
+    "title": "Total:", 
+    "universe": "Foreign-born Naturalized Citizens"
+  }, 
+  "name": "Total Imputation of Year of Naturalization Foreign born in Foreign-born Naturalized Citizens", 
+  "relationships": {
+    "denominator": "us/census/acs/B99053001"
+  }, 
+  "tags": [
+    "technical", 
+    "place of birth", 
+    "citizenship"
+  ], 
+  "value": 0
+}

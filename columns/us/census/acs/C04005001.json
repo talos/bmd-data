@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Multiple Ancestry", 
+    "title": "Total:", 
+    "universe": "People Reporting Multiple Ancestries"
+  }, 
+  "name": "People Reporting Multiple Ancestries", 
+  "relationships": {
+    "denominator": "us/census/acs/C04005001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

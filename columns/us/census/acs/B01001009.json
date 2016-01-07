@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "table": "Sex by Age", 
+    "title": "21 years", 
+    "universe": "Total Population"
+  }, 
+  "name": "21 years Age Male Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001001", 
+    "parent": "us/census/acs/B01001002"
+  }, 
+  "tags": [
+    "age", 
+    "sex"
+  ], 
+  "value": 2
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved to different state:", 
+      "With income:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in the United States", 
+    "title": "Total living in area 1 year ago:", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Total living in area 1 year ago Marital Status Moved to different state Geographical Mobility in the Past Year With income in Population 15 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/C07408001"
+  }, 
+  "tags": [
+    "marital status", 
+    "migration"
+  ], 
+  "value": 0
+}

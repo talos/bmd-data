@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Natural resources, construction, and maintenance occupations:"
+    ], 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Finance and insurance, and real estate and rental and leasing", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Finance and insurance, and real estate and rental and leasing Occupation Natural resources, construction, and maintenance occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C24050001", 
+    "parent": "us/census/acs/C24050057"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

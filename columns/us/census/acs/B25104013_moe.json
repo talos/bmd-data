@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Monthly Housing Costs", 
+    "title": "$1,500 to $1,999", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for $1,500 to $1,999 in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25104013"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "American Indian tribes, specified:"
+    ], 
+    "table": "American Indian and Alaska Native (AIAN) Alone or in Any Combination by Selected Tribal Groupings", 
+    "title": "Shoshone", 
+    "universe": "Total AIAN Alone or in Any Combination Population (The Total Groups Tallied)"
+  }, 
+  "name": "Shoshone Selected Tribal Groupings American Indian tribes, specified in Total AIAN Alone or in Any Combination Population (The Total Groups Tallied)", 
+  "relationships": {
+    "denominator": "us/census/acs/B02017001", 
+    "parent": "us/census/acs/B02017002"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

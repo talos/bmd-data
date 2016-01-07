@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Foreign born:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Foreign born in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C16005001", 
+    "parent": "us/census/acs/C16005001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "value": 0
+}

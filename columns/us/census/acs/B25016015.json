@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Complete plumbing facilities:"
+    ], 
+    "table": "Tenure by Plumbing Facilities by Occupants Per Room", 
+    "title": "1.51 or more occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1.51 or more occupants per room Occupants Per Room Renter occupied Tenure Complete plumbing facilities in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25016001", 
+    "parent": "us/census/acs/B25016012"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "value": 0
+}

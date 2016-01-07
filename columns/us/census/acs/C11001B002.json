@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type (Black or African American Alone)", 
+    "title": "Family households:", 
+    "universe": "Households With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "Family households in Households With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C11001B001", 
+    "parent": "us/census/acs/C11001B001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

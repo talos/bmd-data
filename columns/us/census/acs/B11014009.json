@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Population in Subfamilies by Subfamily Type by Relationship", 
+    "title": "In father-child subfamilies:", 
+    "universe": "Population in Subfamilies"
+  }, 
+  "name": "In father-child subfamilies in Population in Subfamilies", 
+  "relationships": {
+    "denominator": "us/census/acs/B11014001", 
+    "parent": "us/census/acs/B11014001"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 1
+}

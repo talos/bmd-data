@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Lacking complete plumbing facilities:", 
+      "1.00 or less occupants per room:"
+    ], 
+    "table": "Plumbing Facilities by Occupants Per Room by Year Structure Built", 
+    "title": "Built 1940 to 1949", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Built 1940 to 1949 Year Structure Built Lacking complete plumbing facilities Plumbing Facilities 1.00 or less occupants per room in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25050001", 
+    "parent": "us/census/acs/B25050012"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "value": 0
+}

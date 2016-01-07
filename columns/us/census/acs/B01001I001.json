@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age (Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "Total Age (Hispanic or Latino) Female in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B01001I001"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

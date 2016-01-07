@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:"
+    ], 
+    "table": "Imputation of Citizenship Status", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not imputed Imputation of Citizenship Status Native Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99051001", 
+    "parent": "us/census/acs/B99051002"
+  }, 
+  "tags": [
+    "technical", 
+    "citizenship"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Hispanic or Latino Origin", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not imputed Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99031001", 
+    "parent": "us/census/acs/B99031001"
+  }, 
+  "tags": [
+    "technical", 
+    "race"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Number of Rooms by Vacancy Status", 
+    "title": "For rent", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Margin of error for For rent", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25023002"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "value": 0
+}

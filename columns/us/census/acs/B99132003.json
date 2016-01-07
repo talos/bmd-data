@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Fertility of Women 15 to 50 Years", 
+    "title": "Not imputed", 
+    "universe": "Women 15 to 50 Years"
+  }, 
+  "name": "Not imputed in Women 15 to 50 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B99132001", 
+    "parent": "us/census/acs/B99132001"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "value": 0
+}

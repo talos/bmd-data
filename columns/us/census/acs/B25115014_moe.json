@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Tenure by Household Type and Presence and Age of Own Children", 
+    "title": "Nonfamily households", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Nonfamily households Household Type and Presence and Age of Own Children Owner occupied in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25115014"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "value": 0
+}

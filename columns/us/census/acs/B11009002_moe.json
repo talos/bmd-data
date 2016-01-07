@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Unmarried-partner Households by Sex of Partner", 
+    "title": "Unmarried-partner households:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Unmarried-partner households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11009002"
+  }, 
+  "tags": [
+    "families", 
+    "sex"
+  ], 
+  "value": 0
+}

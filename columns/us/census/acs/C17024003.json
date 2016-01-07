@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 18 years:"
+    ], 
+    "table": "Age by Ratio of Income to Poverty Level in the Past 12 Months", 
+    "title": "Under 0.50", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Under 0.50 Ratio of Income to Poverty Level in the Past 12 Months Under 18 years in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C17024001", 
+    "parent": "us/census/acs/C17024002"
+  }, 
+  "tags": [
+    "age", 
+    "poverty", 
+    "income"
+  ], 
+  "value": 0
+}

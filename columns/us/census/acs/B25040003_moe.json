@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "House Heating Fuel", 
+    "title": "Bottled, tank, or LP gas", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Bottled, tank, or LP gas in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25040003"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

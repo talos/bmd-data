@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "table": "People Reporting Multiple Ancestry", 
+    "title": "Jordanian", 
+    "universe": "People Reporting Multiple Ancestries"
+  }, 
+  "name": "Jordanian People Reporting Multiple Ancestry Arab in People Reporting Multiple Ancestries", 
+  "relationships": {
+    "denominator": "us/census/acs/B04005001", 
+    "parent": "us/census/acs/B04005006"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

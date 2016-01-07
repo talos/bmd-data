@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Gross Rent by Year Householder Moved Into Unit", 
+    "title": "Moved in 2010 or later", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Moved in 2010 or later", 
+  "relationships": {
+    "parent": "us/census/acs/B25113001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

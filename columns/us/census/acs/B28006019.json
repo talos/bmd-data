@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Bachelor's degree or higher:"
+    ], 
+    "table": "Educational Attainment by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "No computer", 
+    "universe": "Household Population 25 Years and Over"
+  }, 
+  "name": "No computer Presence of a Computer and Types of Internet Subscription in Household Bachelor's degree or higher in Household Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B28006001", 
+    "parent": "us/census/acs/B28006014"
+  }, 
+  "tags": [
+    "health insurance", 
+    "education", 
+    "families"
+  ], 
+  "value": 0
+}

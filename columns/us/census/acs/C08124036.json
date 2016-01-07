@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Occupation", 
+    "title": "Worked at home:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Worked at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08124001", 
+    "parent": "us/census/acs/C08124001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

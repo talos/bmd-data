@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "table": "Total Ancestry Reported", 
+    "title": "Jordanian", 
+    "universe": "Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported"
+  }, 
+  "name": "Jordanian Total Ancestry Reported Arab in Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported", 
+  "relationships": {
+    "denominator": "us/census/acs/B04003001", 
+    "parent": "us/census/acs/B04003006"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

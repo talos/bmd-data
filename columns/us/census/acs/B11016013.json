@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonfamily households:"
+    ], 
+    "table": "Household Type by Household Size", 
+    "title": "4-person household", 
+    "universe": "Households"
+  }, 
+  "name": "4-person household Household Size Nonfamily households", 
+  "relationships": {
+    "denominator": "us/census/acs/B11016001", 
+    "parent": "us/census/acs/B11016009"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "value": 1
+}

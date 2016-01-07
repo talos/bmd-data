@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Women who had a birth in the past 12 months:", 
+      "Unmarried (never married, widowed and divorced):"
+    ], 
+    "table": "Women 15 to 50 Years Who Had a Birth in the Past 12 Months by Marital Status and Educational Attainment", 
+    "title": "Some college or associate's degree", 
+    "universe": "Women 15 to 50 Years"
+  }, 
+  "name": "Some college or associate's degree Marital Status and Educational Attainment Women who had a birth in the past 12 months Women 15 to 50 Years Who Had a Birth in the Past 12 Months Unmarried (never married, widowed and divorced)", 
+  "relationships": {
+    "denominator": "us/census/acs/B13014001", 
+    "parent": "us/census/acs/B13014009"
+  }, 
+  "tags": [
+    "marital status", 
+    "fertility", 
+    "education"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not Hispanic or Latino:"
+    ], 
+    "table": "Hispanic or Latino Origin by Race", 
+    "title": "Some other race alone", 
+    "universe": "Total Population"
+  }, 
+  "name": "Some other race Population", 
+  "relationships": {
+    "denominator": "us/census/acs/C03002001", 
+    "parent": "us/census/acs/C03002002"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - drove alone:"
+    ], 
+    "table": "Means of Transportation to Work by Class of Worker", 
+    "title": "Private for-profit wage and salary workers:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Private for-profit wage and salary workers Class of Worker Car, truck, or van - drove alone in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08128001", 
+    "parent": "us/census/acs/B08128011"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

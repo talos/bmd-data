@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Current Residence in Puerto Rico", 
+    "title": "Same house 1 year ago", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "Same house 1 year ago in Native Hawaiian and Other Pacific Islander Alone Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B07004EPR001", 
+    "parent": "us/census/acs/B07004EPR001"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "value": 0
+}

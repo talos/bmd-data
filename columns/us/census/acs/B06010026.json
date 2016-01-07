@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in other state in the United States:", 
+      "With income:"
+    ], 
+    "table": "Place of Birth by Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) in the United States", 
+    "title": "$1 to $9,999 or loss", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "$1 to $9,999 or loss Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) in the United States Born in other state in the United States Place of Birth With income in Population 15 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B06010001", 
+    "parent": "us/census/acs/B06010025"
+  }, 
+  "tags": [
+    "place of birth", 
+    "income"
+  ], 
+  "value": 0
+}

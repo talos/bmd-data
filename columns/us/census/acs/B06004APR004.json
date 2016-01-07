@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth (White Alone) in Puerto Rico", 
+    "title": "Native; born elsewhere", 
+    "universe": "White Alone Population in Puerto Rico"
+  }, 
+  "name": "Native; born elsewhere in White Alone Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06004APR001", 
+    "parent": "us/census/acs/B06004APR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, walked, or other means:"
+    ], 
+    "table": "Means of Transportation to Work by Class of Worker for Workplace Geography", 
+    "title": "Unpaid family workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Unpaid family workers Class of Worker Taxicab, motorcycle, bicycle, walked, or other means in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08528001", 
+    "parent": "us/census/acs/C08528021"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

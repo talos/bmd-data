@@ -1,0 +1,21 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Age by Means of Transportation to Work", 
+    "title": "Walked", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Walked", 
+  "relationships": {
+    "parent": "us/census/acs/B08103001"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 1
+}

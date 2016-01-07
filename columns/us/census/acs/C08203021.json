@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Number of Workers in Household by Vehicles Available", 
+    "title": "3 or more workers:", 
+    "universe": "Households"
+  }, 
+  "name": "3 or more workers in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/C08203001", 
+    "parent": "us/census/acs/C08203001"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "value": 0
+}

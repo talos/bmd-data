@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "No children under 18 years:", 
+      "Other family:", 
+      "Female householder, no husband present:"
+    ], 
+    "table": "Work Status in the Past 12 Months by Employment Status for the Civilian Population 65 Years and Over", 
+    "title": "Total:", 
+    "universe": "Civilian Population 65 Years and Over"
+  }, 
+  "name": "Total Work Status in the Past 12 Months Other family Work Status in the Past 12 Months Female householder, no husband present in Civilian Population 65 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C23004001"
+  }, 
+  "tags": [
+    "seniors", 
+    "employment"
+  ], 
+  "value": 0
+}

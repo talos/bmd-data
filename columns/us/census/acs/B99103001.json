@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Grandparents Responsible for Grandchildren Under 18 Years", 
+    "title": "Total:", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "Grandparents Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B99103001"
+  }, 
+  "tags": [
+    "technical", 
+    "grandparents", 
+    "children"
+  ], 
+  "value": 0
+}

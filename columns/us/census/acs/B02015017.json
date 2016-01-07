@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Asian Alone by Selected Groups", 
+    "title": "Okinawan", 
+    "universe": "Total Asian Alone Population"
+  }, 
+  "name": "Okinawan in Total Asian Alone Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B02015001", 
+    "parent": "us/census/acs/B02015001"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "value": 0
+}

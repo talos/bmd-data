@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In other families:"
+    ], 
+    "table": "Own Children Under 18 Years by Family Type and Age", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Own Children Under 18 Years"
+  }, 
+  "name": "Male householder, no wife present Family Type and Age In other families in Own Children Under 18 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B09002001", 
+    "parent": "us/census/acs/B09002008"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children"
+  ], 
+  "value": 1
+}

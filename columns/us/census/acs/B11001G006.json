@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:"
+    ], 
+    "table": "Household Type (Including Living Alone) (Two or More Races)", 
+    "title": "Female householder, no husband present", 
+    "universe": "Households With a Householder Who Is Two or More Races"
+  }, 
+  "name": "Female householder, no husband present Household Type (Including Living Alone) (Two or More Races) Family households Household Type (Including Living Alone) (Two or More Races) Other family in Households With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/B11001G001", 
+    "parent": "us/census/acs/B11001G004"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

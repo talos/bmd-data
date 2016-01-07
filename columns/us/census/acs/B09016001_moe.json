@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Total Relationship Living in household with no Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B09016001"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth by Sex in the United States", 
+    "title": "Born in other state in the United States:", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Born in other state in the United States in Total Population in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B06003001", 
+    "parent": "us/census/acs/B06003001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}

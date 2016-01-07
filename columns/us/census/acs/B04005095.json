@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "West Indian (except Hispanic groups):"
+    ], 
+    "table": "People Reporting Multiple Ancestry", 
+    "title": "Bahamian", 
+    "universe": "People Reporting Multiple Ancestries"
+  }, 
+  "name": "Bahamian People Reporting Multiple Ancestry West Indian (except Hispanic groups) in People Reporting Multiple Ancestries", 
+  "relationships": {
+    "denominator": "us/census/acs/B04005001", 
+    "parent": "us/census/acs/B04005094"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

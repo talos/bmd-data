@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Worked full-time, year-round in the past 12 months:", 
+      "With earnings:"
+    ], 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for the Population 16 Years and Over (Two or More Races)", 
+    "title": "$1 to $2,499 or loss", 
+    "universe": "Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "$1 to $2,499 or loss Earnings in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Female Worked full-time, year-round in the past 12 months Work Experience in the Past 12 Months With earnings in Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B20005G001", 
+    "parent": "us/census/acs/B20005G052"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "value": 0
+}

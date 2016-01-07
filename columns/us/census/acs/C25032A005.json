@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Units in Structure (White Alone Householder)", 
+    "title": "Mobile home, boat, RV, van, etc.", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone"
+  }, 
+  "name": "Mobile home, boat, RV, van, etc. in Occupied Housing Units With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C25032A001", 
+    "parent": "us/census/acs/C25032A001"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

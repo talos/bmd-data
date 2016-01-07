@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from different state:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Age for Current Residence in the United States", 
+    "title": "18 and 19 years", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "18 and 19 years Age Moved from different state in Population 1 Year and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B07001001", 
+    "parent": "us/census/acs/B07001065"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "value": 1
+}

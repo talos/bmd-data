@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With own children under 18 years:"
+    ], 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "Other family:", 
+    "universe": "Families"
+  }, 
+  "name": "Other family in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/C23007001", 
+    "parent": "us/census/acs/C23007002"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "value": 0
+}

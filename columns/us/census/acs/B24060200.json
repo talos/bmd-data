@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own not incorporated business and unpaid family workers:", 
+      "Service occupations:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Protective service occupations:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Protective service occupations Class of Worker Self-employed in own not incorporated business and unpaid family workers Occupation Service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060198"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

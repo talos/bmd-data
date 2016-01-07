@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work by Place of Work--State and County Level", 
+    "title": "Car, truck, or van - carpooled:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - carpooled in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08130001", 
+    "parent": "us/census/acs/B08130001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

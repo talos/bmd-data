@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born outside the United States:", 
+      "Speak other languages:"
+    ], 
+    "table": "Place of Birth by Language Spoken at Home and Ability to Speak English in the United States", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Population 5 Years and Over in the United States"
+  }, 
+  "name": "Speak English \"very well\" Language Spoken at Home and Ability to Speak English in the United States Native; born outside the United States Place of Birth Speak other languages in Population 5 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B06007001", 
+    "parent": "us/census/acs/B06007030"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "value": 0
+}

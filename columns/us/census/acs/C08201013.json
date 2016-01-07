@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "2-person household:"
+    ], 
+    "table": "Household Size by Vehicles Available", 
+    "title": "1 vehicle available", 
+    "universe": "Households"
+  }, 
+  "name": "1 vehicle available Vehicles Available 2-person household", 
+  "relationships": {
+    "denominator": "us/census/acs/C08201001", 
+    "parent": "us/census/acs/C08201011"
+  }, 
+  "tags": [
+    "commute", 
+    "families"
+  ], 
+  "value": 0
+}

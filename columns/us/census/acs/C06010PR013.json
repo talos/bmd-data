@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in Puerto Rico:"
+    ], 
+    "table": "Place of Birth by Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) in Puerto Rico", 
+    "title": "No income", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "No income Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) in Puerto Rico Born in Puerto Rico in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/C06010PR001", 
+    "parent": "us/census/acs/C06010PR012"
+  }, 
+  "tags": [
+    "place of birth", 
+    "income"
+  ], 
+  "value": 0
+}

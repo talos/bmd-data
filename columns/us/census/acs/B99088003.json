@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work at home:", 
+      null
+    ], 
+    "table": "Imputation of Travel Time to Work for Workplace Geography", 
+    "title": "Imputed", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Imputed Imputation of Travel Time to Work Did not work at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B99088001", 
+    "parent": "us/census/acs/B99088002"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

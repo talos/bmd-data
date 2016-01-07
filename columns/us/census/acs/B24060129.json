@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Private not-for-profit wage and salary workers:", 
+      "Service occupations:", 
+      "Protective service occupations:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Fire fighting and prevention, and other protective service workers including supervisors", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Fire fighting and prevention, and other protective service workers including supervisors Class of Worker Private not-for-profit wage and salary workers Occupation Service occupations Occupation Protective service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060128"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

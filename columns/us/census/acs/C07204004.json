@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Different house in United States 1 year ago:"
+    ], 
+    "table": "Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in the United States", 
+    "title": "Same city or town", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Same city or town Geographical Mobility in the Past Year Different house in United States 1 year ago in Population 1 Year and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/C07204001", 
+    "parent": "us/census/acs/C07204003"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "value": 0
+}

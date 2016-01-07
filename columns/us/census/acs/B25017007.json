@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Rooms", 
+    "title": "6 rooms", 
+    "universe": "Housing Units"
+  }, 
+  "name": "6 rooms in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25017001", 
+    "parent": "us/census/acs/B25017001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 1
+}

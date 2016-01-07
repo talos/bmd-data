@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 65 years and over:"
+    ], 
+    "table": "Age of Householder", 
+    "title": "Total:", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Total Age of Householder Householder 65 years and over in Renter-occupied Housing Units Paying Cash Rent", 
+  "relationships": {
+    "denominator": "us/census/acs/C25055001"
+  }, 
+  "tags": [
+    "housing", 
+    "families"
+  ], 
+  "value": 0
+}

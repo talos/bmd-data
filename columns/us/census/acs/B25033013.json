@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "table": "Total Population in Occupied Housing Units by Tenure by Units in Structure", 
+    "title": "Boat, RV, van, etc.", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Boat, RV, van, etc. Total Population in Occupied Housing Units Renter occupied", 
+  "relationships": {
+    "denominator": "us/census/acs/B25033001", 
+    "parent": "us/census/acs/B25033008"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "tenure", 
+    "physical characteristics", 
+    "sex"
+  ], 
+  "value": 0
+}

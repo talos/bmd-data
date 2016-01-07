@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:"
+    ], 
+    "table": "Means of Transportation to Work by Occupation", 
+    "title": "Production, transportation, and material moving occupations", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Production, transportation, and material moving occupations Occupation Car, truck, or van - carpooled in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C08124001", 
+    "parent": "us/census/acs/C08124015"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

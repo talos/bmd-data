@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Householder 65 years and over:"
+    ], 
+    "table": "Tenure by Plumbing Facilities by Occupants Per Room", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Total Occupants Per Room Renter occupied Tenure Householder 65 years and over in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/C25016001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "value": 0
+}

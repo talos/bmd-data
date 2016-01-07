@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Local, state, and federal government workers:"
+    ], 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Transportation and warehousing, and utilities:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Transportation and warehousing, and utilities Class of Worker Local, state, and federal government workers in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24070001", 
+    "parent": "us/census/acs/B24070109"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

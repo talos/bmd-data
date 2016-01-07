@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Nonfamily households:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by Household Type", 
+    "title": "Male householder", 
+    "universe": "Households"
+  }, 
+  "name": "Male householder Household Type Income in the past 12 months below poverty level Poverty Status in the Past 12 Months Nonfamily households", 
+  "relationships": {
+    "denominator": "us/census/acs/C17017001", 
+    "parent": "us/census/acs/C17017008"
+  }, 
+  "tags": [
+    "families", 
+    "poverty"
+  ], 
+  "value": 0
+}

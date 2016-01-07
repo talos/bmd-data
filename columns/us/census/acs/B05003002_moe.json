@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Sex by Age by Citizenship Status", 
+    "title": "Male:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Male Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05003002"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

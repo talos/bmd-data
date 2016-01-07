@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Place of Birth", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B99061001"
+  }, 
+  "tags": [
+    "technical", 
+    "place of birth"
+  ], 
+  "value": 0
+}

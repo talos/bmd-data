@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Aggregate Number of Vehicles Available by Tenure", 
+    "title": "Aggregate number of vehicles available:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Aggregate number of vehicles available Tenure Renter occupied Aggregate Number of Vehicles Available 1 or more vehicles available", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25046001"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "tenure"
+  ], 
+  "value": 0
+}

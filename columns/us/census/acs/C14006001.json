@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Not enrolled in school:", 
+      "Not high school graduate:"
+    ], 
+    "table": "Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 3 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Total Level of School Female Poverty Status in the Past 12 Months Not enrolled in school School Enrollment Not high school graduate in Population 3 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "us/census/acs/C14006001"
+  }, 
+  "tags": [
+    "education", 
+    "poverty"
+  ], 
+  "value": 0
+}

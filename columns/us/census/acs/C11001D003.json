@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:"
+    ], 
+    "table": "Household Type (Asian Alone)", 
+    "title": "Married-couple family", 
+    "universe": "Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Married-couple family Household Type (Asian Alone) Family households in Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C11001D001", 
+    "parent": "us/census/acs/C11001D002"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

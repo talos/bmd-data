@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Not enrolled in school:"
+    ], 
+    "table": "Health Insurance Coverage Status by Sex by Enrollment Status for Young Adults Aged 19 to 25", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population 19 to 25 Years"
+  }, 
+  "name": "With health insurance coverage Enrollment Status Male Health Insurance Coverage Status Not enrolled in school in Civilian Noninstitutionalized Population 19 to 25 Years", 
+  "relationships": {
+    "denominator": "us/census/acs/B27022001", 
+    "parent": "us/census/acs/B27022006"
+  }, 
+  "tags": [
+    "health insurance", 
+    "sex"
+  ], 
+  "value": 1
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - drove alone:"
+    ], 
+    "table": "Means of Transportation to Work by Vehicles Available", 
+    "title": "1 vehicle available", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "1 vehicle available Vehicles Available Car, truck, or van - drove alone in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/C08141001", 
+    "parent": "us/census/acs/C08141006"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

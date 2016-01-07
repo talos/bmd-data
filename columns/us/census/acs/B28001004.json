@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:", 
+      "Desktop or laptop"
+    ], 
+    "table": "Types of Computers in Household", 
+    "title": "Desktop or laptop alone", 
+    "universe": "Households"
+  }, 
+  "name": "Desktop or laptop alone Types of Computers in Household Has a computer Types of Computers in Household Desktop or laptop", 
+  "relationships": {
+    "denominator": "us/census/acs/B28001001", 
+    "parent": "us/census/acs/B28001003"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "value": 0
+}

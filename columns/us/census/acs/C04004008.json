@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "People Reporting Single Ancestry", 
+    "title": "English", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "English in People Reporting Single Ancestry", 
+  "relationships": {
+    "denominator": "us/census/acs/C04004001", 
+    "parent": "us/census/acs/C04004001"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

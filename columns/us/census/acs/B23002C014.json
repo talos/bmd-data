@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "20 to 24 years:", 
+      "In labor force:", 
+      "Civilian:"
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Employed", 
+    "universe": "American Indian and Alaska Native Alone Population 16 Years and Over"
+  }, 
+  "name": "Employed 20 to 24 years Age In labor force Civilian in American Indian and Alaska Native Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23002C001", 
+    "parent": "us/census/acs/B23002C013"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter-occupied housing units:"
+    ], 
+    "table": "Tenure by Units in Structure", 
+    "title": "5 to 9", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "5 to 9 Units in Structure Renter-occupied housing units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25032001", 
+    "parent": "us/census/acs/B25032013"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

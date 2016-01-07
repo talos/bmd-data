@@ -1,0 +1,101 @@
+{
+  "columns": [
+    {
+      "id": "us/census/acs/B26001001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.291767898405303, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.319987990220076, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.335232106335743, 
+          "id": "us/census/tiger/place", 
+          "sample": 29509
+        }, 
+        {
+          "error": 0.28674208310212, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 1.00843620372875, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.303476367401886, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3592
+        }, 
+        {
+          "error": 0.284559972818294, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.30144202520851, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1954
+        }, 
+        {
+          "error": 0.31028096021321, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4825
+        }, 
+        {
+          "error": 0.304220316576608, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2378
+        }, 
+        {
+          "error": 0.316183606852002, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.178154723849491, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2204
+        }, 
+        {
+          "error": 0.192373998940806, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 540
+        }, 
+        {
+          "error": 0.296752407710548, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10956
+        }
+      ]
+    }
+  ], 
+  "dct_temporal_sm": "2008 - 2012", 
+  "title": "acs2012_5yr seq0112"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Latin America:", 
+      "Caribbean:"
+    ], 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Entered before 1990", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered before 1990 Year of Entry Female Latin America Place of Birth Caribbean in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05008001", 
+    "parent": "us/census/acs/B05008049"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}

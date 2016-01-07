@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Householder 15 to 34 years:"
+    ], 
+    "table": "Tenure by Age of Householder by Units in Structure", 
+    "title": "1, detached  or attached", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1, detached  or attached Units in Structure Owner occupied Tenure Householder 15 to 34 years in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25125001", 
+    "parent": "us/census/acs/B25125003"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

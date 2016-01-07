@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Vehicles Available", 
+    "title": "Not imputed", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Not imputed in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B992512001", 
+    "parent": "us/census/acs/B992512001"
+  }, 
+  "tags": [
+    "technical", 
+    "commute"
+  ], 
+  "value": 0
+}

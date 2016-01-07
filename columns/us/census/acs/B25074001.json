@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Boat, RV, van, etc.:"
+    ], 
+    "table": "Household Income by Gross Rent as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Total:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25074001"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

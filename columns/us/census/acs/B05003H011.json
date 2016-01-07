@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "18 years and over:", 
+      "Foreign born:"
+    ], 
+    "table": "Sex by Age by Citizenship Status (White Alone, Not Hispanic or Latino)", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "Naturalized U.S. citizen Citizenship Status (White Alone, Not Hispanic or Latino) Male 18 years and over Age Foreign born in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05003H001", 
+    "parent": "us/census/acs/B05003H010"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "value": 0
+}

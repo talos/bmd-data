@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Two or More Races)", 
+    "title": "Graduate degree", 
+    "universe": "Two or More Races Population 25 Years and Over"
+  }, 
+  "name": "Graduate degree Educational Attainment Female in Two or More Races Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B15002G001", 
+    "parent": "us/census/acs/B15002G011"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

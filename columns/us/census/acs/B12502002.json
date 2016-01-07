@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Marriages Ending in Widowhood in the Last Year by Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Male:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Male in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12502001", 
+    "parent": "us/census/acs/B12502001"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "value": 0
+}

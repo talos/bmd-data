@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Means of Transportation to Work (Black or African American Alone)", 
+    "title": "Car, truck, or van - carpooled", 
+    "universe": "Black or African American Alone Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - carpooled in Black or African American Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08105B001", 
+    "parent": "us/census/acs/B08105B001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "value": 0
+}

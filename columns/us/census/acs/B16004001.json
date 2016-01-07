@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 years and over:"
+    ], 
+    "table": "Age by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Total Ability to Speak English 18 years and over in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B16004001"
+  }, 
+  "tags": [
+    "age", 
+    "language"
+  ], 
+  "value": 0
+}

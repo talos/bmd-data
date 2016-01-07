@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 45 to 64 years:"
+    ], 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) (Black or African American Alone Householder)", 
+    "title": "$40,000 to $44,999", 
+    "universe": "Households With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "$40,000 to $44,999 Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) (Black or African American Alone Householder) Householder 45 to 64 years in Households With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B19037B001", 
+    "parent": "us/census/acs/B19037B036"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "value": 0
+}

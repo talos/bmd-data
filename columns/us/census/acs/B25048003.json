@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Plumbing Facilities for Occupied Housing Units", 
+    "title": "Lacking complete plumbing facilities", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Lacking complete plumbing facilities in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25048001", 
+    "parent": "us/census/acs/B25048001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

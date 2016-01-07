@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Household did not receive Food Stamps/SNAP in the past 12 months:"
+    ], 
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Poverty Status in the Past 12 Months for Households", 
+    "title": "Income in the past 12 months below poverty level", 
+    "universe": "Households"
+  }, 
+  "name": "Income in the past 12 months below poverty level Poverty Status in the Past 12 Months Household did not receive Food Stamps/SNAP in the past 12 months", 
+  "relationships": {
+    "denominator": "us/census/acs/B22003001", 
+    "parent": "us/census/acs/B22003005"
+  }, 
+  "tags": [
+    "public assistance", 
+    "poverty", 
+    "families"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Marital Status by Nativity", 
+    "title": "Widowed:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Widowed in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12005001", 
+    "parent": "us/census/acs/B12005001"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Rooms", 
+    "title": "Imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Imputed in Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B99254001", 
+    "parent": "us/census/acs/B99254001"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "value": 0
+}

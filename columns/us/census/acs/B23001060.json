@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "60 and 61 years:"
+    ], 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "In labor force:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "In labor force 60 and 61 years in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B23001001", 
+    "parent": "us/census/acs/B23001059"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "value": 1
+}

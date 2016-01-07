@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Age by Nativity (White Alone)", 
+    "title": "18 years and over:", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "18 years and over Nativity (White Alone) Female in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/C05003A001", 
+    "parent": "us/census/acs/C05003A009"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

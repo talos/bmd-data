@@ -1,0 +1,5351 @@
+{
+  "columns": [
+    {
+      "id": "us/census/acs/B03001001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.000492403735567888, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.0371332570286455, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.0222503165086197, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.000191099369919186, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.0125229289365369, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0206807652493917, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.0186969375288799, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.0241170144873397, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.0294419911429618, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.020942042808537, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.0362903928761699, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0166718452125317, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0148154453908658, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0192854677681365, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001002", 
+      "resolutions": [
+        {
+          "error": 0.000822104481095325, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.00075441248409788, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.000796735428613095, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.00100484195351224, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.0013885187174941, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.0407163089932336, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.0342116796186396, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.000939772024025144, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.0420494318391836, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0257900959605442, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.0224402068628335, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.0283711309214774, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.0337960888664645, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.025757166166775, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.0410530272646653, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0205711795817239, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0215469192859975, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.02458069295552, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001003", 
+      "resolutions": [
+        {
+          "error": 0.00430351675546209, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0039463886040139, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.00416880728644485, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.00488887138036657, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.00640720762727238, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.148541496120494, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.117374293636683, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.00425095226344478, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.382405293812229, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0689950041659449, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.093992839695669, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.108445547859573, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.1237429491248, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.11002132639954, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.140173763469186, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0782427029627625, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0721500259811171, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0954412238760822, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001004", 
+      "resolutions": [
+        {
+          "error": 0.171887035721845, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.132578614674984, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.117879290232228, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.114328555508005, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.112052300785936, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.208969831548785, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.17830000254373, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.11384745876005, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 3.92305631589315, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.150179553142634, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.156072054417207, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.166456547441629, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.179124341090219, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.168180927197218, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.200236584334141, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.152727107764431, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.148071985872023, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.167546370584834, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001005", 
+      "resolutions": [
+        {
+          "error": 0.552088709211867, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.514298397964875, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.4873939298166, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.274875663856912, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.278729447419121, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.433843747172904, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.459900881559966, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.284932340317057, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 1.20646514255602, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.312903396277786, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.294683347587178, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.304889782002587, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.332338414189595, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.308277466927461, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.367508777330953, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.617481566518053, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.625632350401425, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.299796468789232, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001006", 
+      "resolutions": [
+        {
+          "error": 0.768827924238285, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.727987281654092, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.741685704682521, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.755192542465153, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.795296982696592, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.46316558569362, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 1.27036741966113, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.775384978581513, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 7.02272300184563, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.826824297327071, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.829643032026031, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.838307570140671, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.87469685326505, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.849164504357215, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.16087639481712, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.86502845996641, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.77019487415926, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.878280362947901, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001007", 
+      "resolutions": [
+        {
+          "error": 1.05065140811466, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.04302710410211, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.03537384868269, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.03453210456687, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.03920027382215, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.86502383013914, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 1.48885434478219, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.00770399905266, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 2.66125008960277, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.07531190378588, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.04839161250476, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.06121363431402, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.10171390081021, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.05898664798058, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.45598988988047, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.23844141137936, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.20344161727045, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.15311660789432, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001008", 
+      "resolutions": [
+        {
+          "error": 0.757775504392672, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.675515086842445, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.654275783945935, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.639170159395543, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.649015420524803, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.824264991654643, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.797985935140028, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.651028517607157, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 3.14962529436527, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.68151662625997, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.678842971693046, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.691130556437457, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.698335198652077, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.681369506872501, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.760533497135621, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.760479900388579, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.792530539115579, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.680528251776573, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001009", 
+      "resolutions": [
+        {
+          "error": 3.26894841345313, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 3.24030117689299, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 3.24311757784575, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 3.3307990112362, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 4.71105507374796, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 18.5104237099498, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 13.8393635638289, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 3.77548218072255, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 14.5872803776983, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 5.52067008859571, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 3.39205589665168, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 3.93334061676915, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 5.04576329240324, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 3.80987393035231, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 12.0695718505361, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 6.1673828205104, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 4.81183399146937, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 7.22137579250606, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001010", 
+      "resolutions": [
+        {
+          "error": 1.40299843156377, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.47765155850165, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.47068889685494, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.42539207445347, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.44987030208932, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 2.51564279646822, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 2.09786089123676, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.47911292387646, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 5.13038325003486, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.59119780901128, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.40481386032759, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.42955931762884, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.45689900359128, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.40890644822448, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.94566533129398, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.63485801157529, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.63676380441296, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.59419285181474, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001011", 
+      "resolutions": [
+        {
+          "error": 1.65614864316732, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.79566537800271, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.80961206165696, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.85698037255439, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.92643764891412, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 3.97806199717949, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 3.17531480243862, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.86574000162797, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 9.49097459307398, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 2.0504796452417, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.86380188199701, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.88790524834799, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.98904425224377, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.88165758772549, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 2.91769542558777, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.62208348766101, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.59229509584618, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 2.20701798101803, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001012", 
+      "resolutions": [
+        {
+          "error": 2.0634916246679, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 2.25963515893532, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 2.24416689965087, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 2.2635693172115, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 2.58107411713752, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 6.90345661421212, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 5.02337063964784, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 2.38788558609229, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 24.4015625205339, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 2.78823672624021, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 2.32110580016694, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 2.41704308364816, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 2.69835569137821, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 2.39153198727023, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 4.7821276170508, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 3.68683599772127, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 3.16531026469495, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 3.2493800753888, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001013", 
+      "resolutions": [
+        {
+          "error": 2.98500512247369, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 2.86246462658014, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 2.95759352717444, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 2.86650981928592, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 3.67742265784753, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 13.9826791418739, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 10.3867938644688, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 3.07582976069915, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 15.7849478521166, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 4.35497661776527, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 2.79579809227527, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 3.10001369374297, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 3.82407705738168, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 3.01757440425951, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 9.1234638990574, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 5.1925889507257, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 4.23517585408248, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 5.51448753590216, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001014", 
+      "resolutions": [
+        {
+          "error": 1.26163787982083, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.17095050494168, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.12943868843554, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.13360250474806, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.1201612336769, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.68058564716824, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 1.46538000346519, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.11912399071914, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 7.16939853864204, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.17058448700211, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.12151077369696, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.11987636984881, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.13791257390157, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.10803799595386, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.38720415250529, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.30929964917303, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.34446271135171, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.18677423440415, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001015", 
+      "resolutions": [
+        {
+          "error": 7.68280832456069, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 6.76517027170925, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 6.59459229853088, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 6.50594166453765, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 11.4672291500622, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 49.962700020236, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 33.4479864134469, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 8.32684967293277, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 39.9008155247326, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 13.1428534836647, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 6.65022734790222, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 9.35177758160552, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 13.1550959927384, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 9.38646180812756, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 32.5893029044092, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 12.6623706586963, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 9.04081828952711, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 18.94860066456, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001016", 
+      "resolutions": [
+        {
+          "error": 0.802117484991865, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.735156487975185, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.726325345672977, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.688038687827481, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.71555800110722, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.997166769261415, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.942115231321993, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.70543163301651, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 3.31904133101897, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.757284401593731, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.737101035385735, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.741391735416777, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.759222450329198, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.745191006588033, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.877399816333257, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.859283802417601, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.878662108002602, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.756208057133117, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001017", 
+      "resolutions": [
+        {
+          "error": 2.61065911934061, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 2.53306547918488, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 2.48250197857985, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 2.47442787684981, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 3.12464788125178, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 10.6423634880485, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 7.8044929495173, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 2.63701527547509, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 11.8612858738248, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 3.48581017233295, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 2.46589127010395, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 2.67739965331446, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 3.19977939291453, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 2.60749295692997, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 7.03878447816132, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 4.29864127535185, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 3.5861152861615, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 4.39387391314862, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001018", 
+      "resolutions": [
+        {
+          "error": 3.59560589804696, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 3.64964300351077, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 3.76566281860777, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 3.9677913240884, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 5.96022919650927, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 23.4175508267976, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 16.0036070884411, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 4.56311609740635, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 21.1384585420353, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 6.6297610250921, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 4.17847957998014, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 5.0976821960354, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 6.61317839958331, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 5.02733973790604, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 15.3710834036113, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 7.04408975306426, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 7.75193417702227, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 9.17492899630074, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001019", 
+      "resolutions": [
+        {
+          "error": 3.10643303073258, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 3.31275537642459, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 3.29157762549771, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 3.3395138533068, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 4.65359232254797, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 18.286051210335, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 13.2714675752415, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 3.68085317307429, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 14.8607669084148, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 5.34987770137358, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 3.33192946922647, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 3.83757870944625, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 4.93869121152461, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 3.72511668403515, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 11.9173029606262, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 6.39501129806503, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 4.91590142336973, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 7.11696514460516, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001020", 
+      "resolutions": [
+        {
+          "error": 1.34776048942213, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.27277832137331, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.31458250484713, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.30928076255149, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.3586365838238, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 2.69697163726272, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 2.29049789892923, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.30434417708767, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 5.44856014597284, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.46238117399144, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.33453492382843, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.33990558936852, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.39522034141522, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.3279347903052, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 2.01488157976959, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.81974802265114, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.76966814171217, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.5314381326803, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001021", 
+      "resolutions": [
+        {
+          "error": 1.7857405095822, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.70603264983612, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.68503877545647, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.70415776758463, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.90861003062301, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 4.22868296104372, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 3.23158428533815, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.72372066166667, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 7.68447984040131, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.95336738576631, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.81358838489183, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.89223366209546, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 2.0065555332189, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.88759455850658, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 3.06456526529678, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.05024605897925, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.95197226904646, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 2.24540793083415, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001022", 
+      "resolutions": [
+        {
+          "error": 7.51739272540505, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 7.8415687161324, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 8.13783483994481, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 8.10321635482006, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 23.7140363040086, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 115.039239463098, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 83.1644192784335, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 14.4518013232593, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 75.4215263423014, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 28.3296636981724, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 9.7276903601071, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 17.9109549059085, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 28.3249015563313, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 18.8525599738213, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 74.5929593826439, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 31.2426073196384, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 18.42076377745, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 42.1286978940406, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001023", 
+      "resolutions": [
+        {
+          "error": 1.8173208268828, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.79361365123082, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.83129308173576, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.83791341756797, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.91838721950262, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 4.52134343981721, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 3.53052957715767, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.8272200076982, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 8.24553195601959, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 2.09348301749681, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.80768699327159, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.84808377385874, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.97022696526212, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.82513295835749, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 3.21473674398441, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.54884333486559, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.51263422392077, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 2.30674178129304, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001024", 
+      "resolutions": [
+        {
+          "error": 5.28172649984511, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 5.2131856429524, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 5.08371067869961, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 5.54397086276247, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 9.66712753389328, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 42.2688926906925, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 31.0927548222326, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 6.77501097697338, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 22.4690616656661, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 10.8772539480444, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 5.62649175266995, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 7.72671552750254, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 10.9433503338667, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 7.84132526055431, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 27.5318106569543, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 13.4091462858584, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 9.10225335076702, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 15.9540553226034, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001025", 
+      "resolutions": [
+        {
+          "error": 2.77258552878719, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 2.71781844351783, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 2.63013575152498, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 2.64624139492668, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 3.25361604212285, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 10.9692614089541, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 8.34786400042596, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 2.71100567994512, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 13.8370836257166, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 3.71793923538437, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 2.65755689086395, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 2.85133143665733, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 3.40425870578847, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 2.8253042117709, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 7.28830561251416, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 6.03805188303529, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 4.80860707430079, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 4.57207960071147, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001026", 
+      "resolutions": [
+        {
+          "error": 7.06434623311198, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 6.81180638372881, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 6.63582686935337, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 6.95069576946315, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 15.1755781701727, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 70.4959231321267, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 49.9498140001167, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 9.9001111335058, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 40.0295009026722, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 17.8481842672804, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 7.35509003236548, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 11.6912435276003, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 17.5566625659482, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 11.828434298564, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 45.7114549405275, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 18.7281011463447, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 11.9373131637396, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 26.0579794596065, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001027", 
+      "resolutions": [
+        {
+          "error": 1.18824107412429, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.893880082035066, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.789090405599859, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.777292462884696, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.708500485222537, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.973283571878364, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.956333037564484, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.732987480114939, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 4.50890340142219, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.815097572386699, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.715401910448754, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.721421021458572, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.726292751703614, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.714728238732737, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.855090570639633, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.08250743056658, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.11795101526958, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.750705518470636, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001028", 
+      "resolutions": [
+        {
+          "error": 1.6564943580113, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.49023318283754, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.45062175671484, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.42479809340236, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.49272781502287, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 3.70634302731995, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 2.99746216008613, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.44872163667572, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 8.53556117781677, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.74155172637016, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.40636538777137, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.41125251200756, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.48286093479905, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.40481332388903, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 2.57775755035908, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.12136893328786, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.0491228141965, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.77768759312109, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001029", 
+      "resolutions": [
+        {
+          "error": 1.79167537463074, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.66632288969898, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.63002132248402, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.65400113941462, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.71085582187226, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 4.48481202222773, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 3.51065615611329, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.65180808295472, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 10.5990956774705, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 2.02390514626233, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.61371190327154, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.64258663438994, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.75802785499297, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.63100320765718, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 3.09188932077189, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.75259414516591, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.57754319037664, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 2.10535409184359, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001030", 
+      "resolutions": [
+        {
+          "error": 4.27093270712556, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 4.27615314216081, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 4.37819634466661, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 4.40461138397357, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 9.6305617984282, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 45.2268972516942, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 32.8819712964584, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 6.54994828353641, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 148.176548382505, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 13.8101554395563, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 4.82522576652041, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 7.65700559593338, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 11.3896257782092, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 7.83801062303135, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 29.4207041529236, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 47.3296763704136, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 26.0955789403246, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 16.7155150370673, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03001031", 
+      "resolutions": [
+        {
+          "error": 1.66885934097457, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.28199173960457, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.19356922081815, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.13794652936257, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.0474583790477, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.77457161786165, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 1.57576018247381, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.08216657608225, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 6.168109355266, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.19624396169665, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.03970122694015, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.04357616265323, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.04928871069418, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.03145874371646, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.39852993680487, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.50332034260019, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.5215794992601, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.14568586287101, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.000492403735567888, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.0371332570286455, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.0530797335430519, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.0222503165086197, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.000191099369919186, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.0125229289365369, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0206807652493917, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.0186969375288799, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.0241170144873397, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.0294419911429618, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.020942042808537, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.0362903928761699, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0166718452125317, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0148154453908658, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0192854677681365, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002002", 
+      "resolutions": [
+        {
+          "error": 0.000822104481095325, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.00075441248409788, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.000796735428613095, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.00100484195351224, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.0013885187174941, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.0407163089932336, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.0556073884796948, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.0342116796186396, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.000939772024025144, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.0420494318391836, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0257900959605442, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.0224402068628335, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.0283711309214774, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.0337960888664645, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.025757166166775, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.0410530272646653, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0205711795817239, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0215469192859975, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.02458069295552, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002003", 
+      "resolutions": [
+        {
+          "error": 0.00497331228825204, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.00495782472547133, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.00473355569550374, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.00469499365964301, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.0050191352463204, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.046405345333646, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.0608962372437745, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.0475624629165204, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.00499021580127376, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.0671983538607033, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0343404415931232, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.0252238953217866, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.0322552268247496, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.0382427552378265, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.0296382993921796, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.047228630794973, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0258102752677879, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0278331671659512, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0317131962822847, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002004", 
+      "resolutions": [
+        {
+          "error": 0.0654158037083695, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0519920388526888, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0477850553119382, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0463811002847655, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.0450189624337546, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.165906694643626, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.205023806298831, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.133808098629629, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.0456046881097618, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.617647426036651, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.084074824286075, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.106224123599913, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.128597040173187, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.146811557431251, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.124093941831423, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.161266853926594, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0896352159003056, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0995460331900855, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0990005464907801, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002005", 
+      "resolutions": [
+        {
+          "error": 0.347129023851517, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.381607207507431, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.376435603509357, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.380210181981945, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.389236016452108, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.15018387065508, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 1.99523548690352, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 1.14677382042526, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.461514758817041, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 5.12048781904848, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.848337196468112, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.47321487183901, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.549800710628516, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.588667621120308, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.479465144825606, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.859684761244675, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.704417427677023, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.824581021171506, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.60158557768989, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002006", 
+      "resolutions": [
+        {
+          "error": 0.155005562674309, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.112931493012202, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.106737935770823, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.101968956159224, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.0929064460647778, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.281394816446962, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.369401858348156, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.251426415788129, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.0927103211320481, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.657266478441895, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.147278669601024, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.200625773769032, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.224012772525898, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.242658010592958, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.229679033854431, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.273476676571064, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.178235919077123, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.179430173919836, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.201563415018332, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002007", 
+      "resolutions": [
+        {
+          "error": 0.940452900635493, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.866671712207184, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.881985061708083, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.888066653172322, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.17849032089201, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 5.35879128942479, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 9.09933927417899, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 3.82137950907576, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.925501561819043, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 15.8234452622809, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.69823543957621, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.45135959707229, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.76925623903364, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 2.05959216099853, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.77867072624754, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 3.68898047777198, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.54087264915795, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.05414847642404, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 2.2150797429221, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002008", 
+      "resolutions": [
+        {
+          "error": 1.72426173455903, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.6859047329437, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.66919242937676, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.6145367764637, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.64596846643388, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 3.65550100613788, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 6.3805412629332, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 3.02907445229428, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.62770388886196, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 5.19819122039042, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.84183225955128, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.55837338560872, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.58797339042744, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.63608646317533, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.57345450037632, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 2.594528298427, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.0633950654029, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.05957792235801, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.89114047283288, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002009", 
+      "resolutions": [
+        {
+          "error": 0.79564028683874, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.535917689086336, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.477694120412779, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.443000856385612, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.388126575144927, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.467183331825723, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.662676343431123, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.512033150892816, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.410255868395836, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 1.95927031646188, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.473531752889633, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.400832103711445, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.409084400581839, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.418889390407552, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.404815193549222, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.450506656993761, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.571537480848172, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.662590011043884, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.418126206966157, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002010", 
+      "resolutions": [
+        {
+          "error": 2.39383176082152, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 2.12706016389882, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 2.09252504281818, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 2.05487213014711, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 2.37990315941291, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 8.85954925644614, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 15.7983277981851, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 6.79822466260539, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 2.10248437936096, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 7.06072623887015, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 2.90290659785417, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.99093429350732, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 2.07128902152243, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 2.37045206067949, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 2.01551025668452, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 5.72530774103741, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 3.18108662040719, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.75944542910605, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 3.45052494283902, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002011", 
+      "resolutions": [
+        {
+          "error": 0.786794965188846, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.539550569758712, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.48065626747914, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.451331312379158, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.395883663925111, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.48250963522136, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.69476529301908, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.528363585631308, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.41936940732134, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 2.06450337233302, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.485805976459601, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.409887631532686, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.417625615997778, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.428185522936274, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.413400427058904, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.462945542743624, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.590131125257791, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.688716158305983, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.427037390557111, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002012", 
+      "resolutions": [
+        {
+          "error": 0.00430351675546209, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0039463886040139, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.00416880728644485, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.00488887138036657, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.00640720762727238, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.148541496120494, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.182052604613787, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.117374293636683, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.00425095226344478, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.382405293812229, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0689950041659449, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.093992839695669, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.108445547859573, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.1237429491248, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.11002132639954, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.140173763469186, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0782427029627625, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0721500259811171, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0954412238760822, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002013", 
+      "resolutions": [
+        {
+          "error": 0.171597306143406, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.16572063164568, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.178985563634627, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.160528186786965, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.154376463884924, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.211101236001698, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.243583704457015, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.206336628821945, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.163647023943133, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 1.27488457084713, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.186347823753841, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.174516734511872, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.182870996070923, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.192468421127046, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.182593535245518, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.204664990369945, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.22203623312636, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.224675403846787, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.177452023082986, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002014", 
+      "resolutions": [
+        {
+          "error": 1.58699459200098, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.39502622304291, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.37482797941221, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.15579495677314, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.10152953015727, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 2.02726329855504, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 3.44142673273634, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 1.76883972329199, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.12458872554334, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 4.97466489021202, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.20551246267883, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.09566260421675, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.07776492403813, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.11333055435898, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.08057813807118, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.55242505014604, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.74018229762708, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.73693918634836, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.24664605902549, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002015", 
+      "resolutions": [
+        {
+          "error": 2.29914961449337, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.97504287345078, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.8622771626793, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.86277096583905, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 2.06102691354981, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 5.2463555792502, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 9.11984101952253, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 4.06672182615645, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 2.00196006688923, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 14.1008030786291, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 2.37619040095009, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.908539183473, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.94506694539734, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 2.09071595649704, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.92645442405819, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 3.62752631260749, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 2.58988967395572, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 2.4974505035822, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 2.48888495431498, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002016", 
+      "resolutions": [
+        {
+          "error": 3.19461958806221, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 2.76899969619519, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 2.70593752058777, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 2.56769738496607, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 3.47092713744203, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 13.8380404871188, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 24.255892042908, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 9.62795117827842, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 2.75495082976919, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 19.702661386959, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 4.07129015261048, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 2.49500752292338, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 2.84407483025271, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 3.67061601306319, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 2.76780966016222, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 9.03180627728393, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 4.41260418987451, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 3.35175055430536, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 5.38068125695761, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002017", 
+      "resolutions": [
+        {
+          "error": 6.75598086124402, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 6.8274812767065, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 6.79867921557062, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 6.56246372612822, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 16.1243374048057, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 78.3546762738542, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 135.312339346874, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 53.9916849674682, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 10.0850004793272, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 103.960504175932, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 19.7193967579741, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 6.95646303661429, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 12.2297796602412, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 19.0257239905397, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 12.5478797263882, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 50.729316064285, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 24.4109823199629, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 14.2513171896422, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 28.6321493125674, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002018", 
+      "resolutions": [
+        {
+          "error": 0.523721211044166, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.383507183880196, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.398735402028171, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.359782032583959, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.326103894099763, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.364006913408252, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.428022391468249, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.364592584464651, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.355432499849246, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 1.59631528533285, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.374903001870183, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.329532777135547, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.340746281715613, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.344830250154138, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.336834351984199, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.356697689606494, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.411794439094381, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.419780515241225, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.329900446075071, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002019", 
+      "resolutions": [
+        {
+          "error": 1.69166023754102, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.19178832744243, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.02298514299815, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.825620664554582, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.728416651789218, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.03341156200855, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 1.65724182686565, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 1.012461950652, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.751523401827587, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 3.6663784345322, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.810954215957042, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.723822610165519, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.732399084692725, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.739279849199, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.732821201606585, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.880561858933384, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.09858376070218, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.14334658093412, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.764469470222565, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002020", 
+      "resolutions": [
+        {
+          "error": 2.23615562981655, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.52176705636346, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.29948480910834, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.18650965338286, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.0424316415481, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.93650235982265, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 3.40556514864841, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 1.67146490315479, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.06192019185786, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 5.77873596367212, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.16848159645324, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.01787154128363, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.02403627604861, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.03931623877847, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.01641651894185, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.47903725542467, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.42723192456239, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.44490673672758, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.1468777338377, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03002021", 
+      "resolutions": [
+        {
+          "error": 1.52618866208236, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 1.41929347961344, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 1.35157503602845, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 1.09074433092741, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 1.05463722780063, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 1.92836915117569, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 3.24810360953861, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 1.76107438667028, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 1.05399589830672, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 5.15293291109496, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 1.1600991937918, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 1.03923497273542, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 1.05063914055894, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 1.0739611374537, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 1.0557990991819, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 1.47054952666913, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 1.71928689514395, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 1.75224961528561, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 1.16250050874453, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03003001", 
+      "resolutions": [
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.0, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.000492403735567888, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.0371332570286455, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.0530797335430519, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.0222503165086197, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.000191099369919186, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.0125229289365369, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0206807652493917, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.0186969375288799, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.0241170144873397, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.0294419911429618, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.020942042808537, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.0362903928761699, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0166718452125317, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0148154453908658, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0192854677681365, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03003002", 
+      "resolutions": [
+        {
+          "error": 0.000822104481095325, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.00075441248409788, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.000796735428613095, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.00100484195351224, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.0013885187174941, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.0407163089932336, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.0556073884796948, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.0342116796186396, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.000939772024025144, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.0420494318391836, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0257900959605442, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.0224402068628335, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.0283711309214774, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.0337960888664645, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.025757166166775, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.0410530272646653, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0205711795817239, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0215469192859975, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.02458069295552, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "us/census/acs/B03003003", 
+      "resolutions": [
+        {
+          "error": 0.00430351675546209, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": 0.0039463886040139, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": 0.00416880728644485, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": 0.00488887138036657, 
+          "id": "us/census/tiger/state", 
+          "sample": 52
+        }, 
+        {
+          "error": 0.00640720762727238, 
+          "id": "us/census/tiger/county", 
+          "sample": 3221
+        }, 
+        {
+          "error": 0.148541496120494, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 74001
+        }, 
+        {
+          "error": 0.182052604613787, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 220333
+        }, 
+        {
+          "error": 0.117374293636683, 
+          "id": "us/census/tiger/place", 
+          "sample": 29517
+        }, 
+        {
+          "error": 0.00425095226344478, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 955
+        }, 
+        {
+          "error": 0.382405293812229, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": 0.0689950041659449, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3625
+        }, 
+        {
+          "error": 0.093992839695669, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 437
+        }, 
+        {
+          "error": 0.108445547859573, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1976
+        }, 
+        {
+          "error": 0.1237429491248, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4786
+        }, 
+        {
+          "error": 0.11002132639954, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2101
+        }, 
+        {
+          "error": 0.140173763469186, 
+          "id": "us/census/tiger/zcta5", 
+          "sample": 33120
+        }, 
+        {
+          "error": 0.0782427029627625, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": 0.0721500259811171, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": 0.0954412238760822, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }
+  ], 
+  "dct_temporal_sm": "2007 - 2011", 
+  "title": "acs2011_5yr seq0005"
+}

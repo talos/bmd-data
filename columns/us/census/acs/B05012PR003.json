@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Nativity in Puerto Rico", 
+    "title": "Foreign-Born", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Foreign-Born in Total Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B05012PR001", 
+    "parent": "us/census/acs/B05012PR001"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "value": 0
+}

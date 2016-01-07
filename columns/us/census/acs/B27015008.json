@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$25,000 to $49,999:"
+    ], 
+    "table": "Health Insurance Coverage Status and Type by Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars)", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Population Living in Households"
+  }, 
+  "name": "With health insurance coverage Household Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) $25,000 to $49,999 in Civilian Population Living in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B27015001", 
+    "parent": "us/census/acs/B27015007"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families", 
+    "income"
+  ], 
+  "value": 1
+}

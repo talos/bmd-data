@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Imputation of Employer-based Health Insurance", 
+    "title": "Imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B992704001", 
+    "parent": "us/census/acs/B992704001"
+  }, 
+  "tags": [
+    "technical", 
+    "health insurance", 
+    "employment"
+  ], 
+  "value": 0
+}

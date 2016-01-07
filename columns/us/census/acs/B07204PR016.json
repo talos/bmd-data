@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Elsewhere 1 year ago:"
+    ], 
+    "table": "Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in Puerto Rico", 
+    "title": "U.S. Island Areas", 
+    "universe": "Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "U.S. Island Areas Geographical Mobility in the Past Year Elsewhere 1 year ago in Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B07204PR001", 
+    "parent": "us/census/acs/B07204PR015"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "value": 0
+}

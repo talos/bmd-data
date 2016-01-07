@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "margin_of_error": true, 
+    "table": "Tenure by Educational Attainment of Householder", 
+    "title": "Owner-occupied housing units:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Owner-occupied housing units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25013002"
+  }, 
+  "tags": [
+    "housing", 
+    "education", 
+    "families", 
+    "tenure"
+  ], 
+  "value": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Total:"
+    ], 
+    "table": "Median Age by Place of Birth in the United States", 
+    "title": "Native; born outside the United States", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Native; born outside the United States", 
+  "relationships": {
+    "parent": "us/census/acs/B06002001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "value": 0
+}

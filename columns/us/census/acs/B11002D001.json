@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (Asian Alone)", 
+    "title": "Total:", 
+    "universe": "Population in Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Population in Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "us/census/acs/B11002D001"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

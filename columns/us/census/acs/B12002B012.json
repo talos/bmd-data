@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Black or African American Alone)", 
+    "title": "Widowed", 
+    "universe": "Black or African American Alone Population 15 Years and Over"
+  }, 
+  "name": "Widowed Marital Status Female in Black or African American Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B12002B001", 
+    "parent": "us/census/acs/B12002B008"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "value": 0
+}

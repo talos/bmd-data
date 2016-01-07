@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "$100,000 or more:"
+    ], 
+    "table": "Tenure by Selected Physical and Financial Conditions", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Total Tenure $100,000 or more in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25123001"
+  }, 
+  "tags": [
+    "housing", 
+    "tenure"
+  ], 
+  "value": 0
+}

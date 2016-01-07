@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above the poverty level:"
+    ], 
+    "table": "School Enrollment by Detailed Level of School for the Population 3 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Total Detailed Level of School Income in the past 12 months at or above the poverty level in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14007001"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "value": 0
+}

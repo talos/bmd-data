@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "table": "Place of Birth (Hispanic or Latino) in Puerto Rico", 
+    "title": "Total:", 
+    "universe": "Hispanic or Latino Population in Puerto Rico"
+  }, 
+  "name": "Hispanic or Latino Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "us/census/acs/B06004IPR001"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "value": 0
+}

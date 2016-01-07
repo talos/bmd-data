@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null
+    ], 
+    "table": "Sex of Workers by Means of Transportation to Work for Workplace Geography", 
+    "title": "Bicycle", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Bicycle in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B08406001", 
+    "parent": "us/census/acs/B08406001"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "value": 0
+}

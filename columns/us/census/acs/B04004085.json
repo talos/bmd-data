@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Subsaharan African:"
+    ], 
+    "table": "People Reporting Single Ancestry", 
+    "title": "Ugandan", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "Ugandan People Reporting Single Ancestry Subsaharan African", 
+  "relationships": {
+    "denominator": "us/census/acs/B04004001", 
+    "parent": "us/census/acs/B04004073"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "value": 0
+}

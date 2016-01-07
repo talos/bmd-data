@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:"
+    ], 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (Two or More Races)", 
+    "title": "In married-couple family:", 
+    "universe": "Population in Households With a Householder Who Is Two or More Races"
+  }, 
+  "name": "In married-couple family Relatives and Nonrelatives In family households in Population in Households With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "us/census/acs/B11002G001", 
+    "parent": "us/census/acs/B11002G002"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "value": 0
+}

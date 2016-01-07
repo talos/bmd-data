@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Not enrolled in college or graduate school:"
+    ], 
+    "table": "Sex by College or Graduate School Enrollment by Type of School by Age for the Population 15 Years and Over", 
+    "title": "35 years and over", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "35 years and over Age Female Not enrolled in college or graduate school in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B14004001", 
+    "parent": "us/census/acs/B14004029"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "value": 0
+}

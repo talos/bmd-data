@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With own children under 18 years:", 
+      "Married-couple family:", 
+      "2 workers:"
+    ], 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Number of Workers in Family in the Past 12 Months", 
+    "title": "Other", 
+    "universe": "Families"
+  }, 
+  "name": "Other Number of Workers in Family in the Past 12 Months With own children under 18 years Presence of Own Children Under 18 Years Married-couple family Family Type 2 workers in Families", 
+  "relationships": {
+    "denominator": "us/census/acs/B23009001", 
+    "parent": "us/census/acs/B23009006"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "value": 0
+}

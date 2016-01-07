@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Bachelor's degree or higher:", 
+      "Not in labor force:"
+    ], 
+    "table": "Age by Language Spoken at Home for the Population 5 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Total Language Spoken at Home Bachelor's degree or higher Age Not in labor force in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/C16007001"
+  }, 
+  "tags": [
+    "age", 
+    "language"
+  ], 
+  "value": 0
+}

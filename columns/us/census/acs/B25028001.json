@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units without a mortgage:"
+    ], 
+    "table": "Tenure by Year Structure Built", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Total Year Structure Built Housing units without a mortgage in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "us/census/acs/B25028001"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "value": 0
+}

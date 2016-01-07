@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Living in owner-occupied housing unit:", 
+      "Grandparent responsible for own grandchildren under 18 years:"
+    ], 
+    "table": "Tenure of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "60 years and over", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years in Households"
+  }, 
+  "name": "60 years and over Responsibility Living in owner-occupied housing unit Tenure of Grandparents Living With Own Grandchildren Under 18 Years Grandparent responsible for own grandchildren under 18 years in Grandparents Living With Own Grandchildren Under 18 Years in Households", 
+  "relationships": {
+    "denominator": "us/census/acs/B10061001", 
+    "parent": "us/census/acs/B10061003"
+  }, 
+  "tags": [
+    "grandparents", 
+    "children", 
+    "tenure"
+  ], 
+  "value": 0
+}

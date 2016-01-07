@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Employee of private company workers:", 
+      "Service occupations:", 
+      "Protective service occupations:"
+    ], 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Law enforcement workers including supervisors", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Law enforcement workers including supervisors Class of Worker Employee of private company workers Occupation Service occupations Occupation Protective service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "us/census/acs/B24060001", 
+    "parent": "us/census/acs/B24060056"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "value": 0
+}

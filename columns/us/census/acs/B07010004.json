@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from abroad:", 
+      "With income:"
+    ], 
+    "table": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) for Current Residence in the United States", 
+    "title": "$1 to $9,999 or loss", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "$1 to $9,999 or loss Individual Income in the Past 12 Months (In 2010 Inflation-adjusted Dollars) Moved from abroad Geographical Mobility in the Past Year With income in Population 15 Years and Over in the United States", 
+  "relationships": {
+    "denominator": "us/census/acs/B07010001", 
+    "parent": "us/census/acs/B07010003"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "value": 0
+}

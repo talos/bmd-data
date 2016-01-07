@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Latin America:", 
+      "South America:"
+    ], 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Entered 2000 or later", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered 2000 or later Year of Entry Male Latin America Place of Birth South America in Foreign-born Population", 
+  "relationships": {
+    "denominator": "us/census/acs/B05008001", 
+    "parent": "us/census/acs/B05008028"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "value": 0
+}
