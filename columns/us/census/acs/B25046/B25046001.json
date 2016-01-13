@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Number of Vehicles Available by Tenure", 
+    "title": "Aggregate number of vehicles available:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Aggregate number of vehicles available", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "tenure"
+  ], 
+  "weight": 0
+}

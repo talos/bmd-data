@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Time Leaving Home to Go to Work", 
+    "title": "7:30 a.m. to 7:59 a.m.", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "730 a.m. to 759 a.m.", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08133/C08133001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In married-couple subfamilies:"
+    ], 
+    "isDenominator": false, 
+    "table": "Population in Subfamilies by Subfamily Type by Relationship", 
+    "title": "Child", 
+    "universe": "Population in Subfamilies"
+  }, 
+  "name": "Child In married-couple subfamilies Population in Subfamilies", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11014/B11014001.json", 
+    "parent": "data/columns/us/census/acs/B11014/B11014002.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

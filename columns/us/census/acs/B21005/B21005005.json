@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 34 years:", 
+      "Veteran:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Veteran Status by Employment Status for the Civilian Population 18 to 64 Years", 
+    "title": "Employed", 
+    "universe": "Civilian Population 18 to 64 Years"
+  }, 
+  "name": "Employed old Veteran Veteran Status in Civilian Population 18 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B21005/B21005001.json", 
+    "parent": "data/columns/us/census/acs/B21005/B21005004.json"
+  }, 
+  "tags": [
+    "employment", 
+    "age", 
+    "veterans"
+  ], 
+  "weight": 0
+}

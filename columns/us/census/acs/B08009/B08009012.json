@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Place of Work--Minor Civil Division Level for 12 Selected States (CT, ME, MA, MI, MN, NH, NJ, NY, PA, RI, VT, WI)", 
+    "title": "Living in the 12 selected states:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Living in the 12 selected states Female Sex of Workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08009/B08009001.json", 
+    "parent": "data/columns/us/census/acs/B08009/B08009011.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

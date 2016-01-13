@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Europe:", 
+      "Southern Europe:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth for the Foreign-born Population in Puerto Rico", 
+    "title": "Spain", 
+    "universe": "Foreign-born Population in Puerto Rico Excluding Population Born at Sea"
+  }, 
+  "name": "Spain Europe Place of Birth Southern Europe in Foreign-born Population in Puerto Rico Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05006PR/B05006PR001.json", 
+    "parent": "data/columns/us/census/acs/B05006PR/B05006PR005.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

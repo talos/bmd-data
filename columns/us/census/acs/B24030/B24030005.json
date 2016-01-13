@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Agriculture, forestry, fishing and hunting, and mining:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Mining, quarrying, and oil and gas extraction", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Mining, quarrying, and oil and gas extraction Male Agriculture, forestry, fishing and hunting, and mining Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24030/B24030001.json", 
+    "parent": "data/columns/us/census/acs/B24030/B24030003.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

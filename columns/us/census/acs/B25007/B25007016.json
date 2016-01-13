@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Age of Householder", 
+    "title": "Householder 45 to 54 years", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder 45 to 54 years Renter occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25007/B25007001.json", 
+    "parent": "data/columns/us/census/acs/B25007/B25007012.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

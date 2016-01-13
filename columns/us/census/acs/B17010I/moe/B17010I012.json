@@ -1,0 +1,22 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (Hispanic or Latino)", 
+    "title": "Under 5 years only", 
+    "universe": "Families With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Margin of error for Under 5 years only Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other family Family Type Male householder, no wife present Presence of Related Children Under 18 Years With related children under 18 years Age of Related Children (Hispanic or Latino) in Families With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17010I/B17010I012.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,15 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Race", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {}, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "1"
+}

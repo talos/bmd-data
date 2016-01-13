@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Nativity and Citizenship Status", 
+    "title": "Born in state of residence", 
+    "universe": "Total Population"
+  }, 
+  "name": "Born in state of residence Native Place of Birth Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05002/B05002001.json", 
+    "parent": "data/columns/us/census/acs/B05002/B05002002.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "1"
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (Native Hawaiian and Other Pacific Islander Alone) in Puerto Rico", 
+    "title": "Foreign born", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population in Puerto Rico"
+  }, 
+  "name": "Foreign born in Native Hawaiian and Other Pacific Islander Alone Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004EPR/B06004EPR001.json", 
+    "parent": "data/columns/us/census/acs/B06004EPR/B06004EPR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity", 
+    "title": "Under 18 years:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Under 18 years Male Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003/C05003001.json", 
+    "parent": "data/columns/us/census/acs/C05003/C05003002.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status by Age (Hispanic or Latino)", 
+    "title": "No health insurance coverage", 
+    "universe": "HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "No health insurance coverage 18 to 64 years Health Insurance Coverage Status in HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27001I/C27001I001.json", 
+    "parent": "data/columns/us/census/acs/C27001I/C27001I005.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

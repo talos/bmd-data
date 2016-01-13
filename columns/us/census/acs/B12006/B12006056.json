@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Divorced:", 
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Not in labor force", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Not in labor force Divorced Marital Status Female in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12006/B12006001.json", 
+    "parent": "data/columns/us/census/acs/B12006/B12006052.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

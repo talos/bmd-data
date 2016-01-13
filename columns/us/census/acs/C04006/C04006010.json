@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "People Reporting Ancestry", 
+    "title": "French (except Basque)", 
+    "universe": "Total Population"
+  }, 
+  "name": "French (except Basque) Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04006/C04006001.json", 
+    "parent": "data/columns/us/census/acs/C04006/C04006001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

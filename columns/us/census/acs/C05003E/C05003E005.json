@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Foreign born", 
+    "universe": "People Who Are Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "Foreign born Male old in People Who Are Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003E/C05003E001.json", 
+    "parent": "data/columns/us/census/acs/C05003E/C05003E003.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

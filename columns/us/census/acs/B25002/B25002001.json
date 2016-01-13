@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Occupancy Status", 
+    "title": "Total:", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Housing Units", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "weight": 2
+}

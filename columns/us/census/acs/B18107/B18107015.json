@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Independent Living Difficulty", 
+    "title": "Female:", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "Female in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18107/B18107001.json", 
+    "parent": "data/columns/us/census/acs/B18107/B18107001.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

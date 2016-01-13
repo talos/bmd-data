@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Poverty Status in the Past 12 Months for Unrelated Individuals", 
+    "title": "100 percent of total income for individual imputed", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "100 percent of total income for individual imputed in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99171/B99171001.json", 
+    "parent": "data/columns/us/census/acs/B99171/B99171001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "poverty"
+  ], 
+  "weight": 0
+}

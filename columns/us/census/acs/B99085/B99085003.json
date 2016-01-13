@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Vehicles Available for Workers", 
+    "title": "Not imputed", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Not imputed in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99085/B99085001.json", 
+    "parent": "data/columns/us/census/acs/B99085/B99085001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": 0
+}

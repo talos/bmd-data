@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Sex by Age by Nativity", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {}, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "sex"
+  ], 
+  "weight": "0"
+}

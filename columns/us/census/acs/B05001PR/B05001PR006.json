@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Nativity and Citizenship Status in Puerto Rico", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Not a U.S. citizen in Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05001PR/B05001PR001.json", 
+    "parent": "data/columns/us/census/acs/B05001PR/B05001PR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Size by Vehicles Available", 
+    "title": "2-person household:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for 2-person household", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08201/C08201011.json"
+  }, 
+  "tags": [
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

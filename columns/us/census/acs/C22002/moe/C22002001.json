@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Presence of Children Under 18 Years for Households", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C22002/C22002001.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

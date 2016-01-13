@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Vehicles Available by Age of Householder", 
+    "title": "Householder 15 to 34 years", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Householder 15 to 34 years Owner occupied Tenure No vehicle available Vehicles Available in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25045/B25045004.json"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

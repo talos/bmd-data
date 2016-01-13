@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work:", 
+      "Male:", 
+      "18 to 64 years:", 
+      "With health insurance coverage"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Work Experience by Sex by Age", 
+    "title": "With direct-purchase health insurance", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With direct-purchase health insurance Did not work Health Insurance Coverage Status and Type Male Work Experience 18 to 64 years old in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27012/B27012001.json", 
+    "parent": "data/columns/us/census/acs/B27012/B27012067.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

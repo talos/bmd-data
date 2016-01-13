@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Management, business, science, and arts occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Healthcare practitioners and technical occupations:", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Healthcare practitioners and technical occupations Management, business, science, and arts occupations Occupation in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24021/B24021001.json", 
+    "parent": "data/columns/us/census/acs/B24021/B24021002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

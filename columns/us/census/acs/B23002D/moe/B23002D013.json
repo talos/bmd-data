@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Asian Alone)", 
+    "title": "Civilian:", 
+    "universe": "Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Margin of error for Civilian Male old in Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B23002D/B23002D013.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

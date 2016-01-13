@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Foreign born:", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 5 Years and Over"
+  }, 
+  "name": "Foreign born in Native Hawaiian and Other Pacific Islander Alone Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16005E/B16005E001.json", 
+    "parent": "data/columns/us/census/acs/B16005E/B16005E001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race", 
+    "language"
+  ], 
+  "weight": 0
+}

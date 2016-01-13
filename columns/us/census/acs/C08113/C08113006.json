@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Language Spoken at Home and Ability to Speak English", 
+    "title": "Car, truck, or van - drove alone:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - drove alone in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08113/C08113001.json", 
+    "parent": "data/columns/us/census/acs/C08113/C08113001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "language"
+  ], 
+  "weight": "0"
+}

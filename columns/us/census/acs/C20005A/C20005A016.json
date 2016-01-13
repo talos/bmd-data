@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Other:", 
+      "With earnings:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 16 Years and Over (White Alone)", 
+    "title": "$10,000 to $19,999", 
+    "universe": "White Alone Population 16 Years and Over"
+  }, 
+  "name": "$10,000 to $19,999 Male Other Work Experience in the Past 12 Months With earnings Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C20005A/C20005A001.json", 
+    "parent": "data/columns/us/census/acs/C20005A/C20005A014.json"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status by Work Experience of Unrelated Individuals by Householder Status", 
+    "title": "Income in the past 12 months at or above the poverty level:", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for Income in the past 12 months at or above the poverty level in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17009/B17009012.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

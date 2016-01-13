@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Field of Bachelor's Degree for First Major the Population 25 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Education", 
+    "universe": "AMERICAN INDIAN AND ALASKA NATIVE ALONE POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Education in AMERICAN INDIAN AND ALASKA NATIVE ALONE POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15010C/C15010C001.json", 
+    "parent": "data/columns/us/census/acs/C15010C/C15010C001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

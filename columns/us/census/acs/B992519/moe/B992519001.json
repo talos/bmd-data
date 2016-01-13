@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Imputation of Value", 
+    "title": "Total:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B992519/B992519001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "weight": 0
+}

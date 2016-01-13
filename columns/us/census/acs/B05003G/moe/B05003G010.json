@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Two or More Races)", 
+    "title": "Foreign born:", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "Margin of error for Foreign born Male old in People Who Are Two or More Races", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05003G/B05003G010.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

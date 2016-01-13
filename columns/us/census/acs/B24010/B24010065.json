@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Healthcare support occupations:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Healthcare support occupations Male Service occupations Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010/B24010001.json", 
+    "parent": "data/columns/us/census/acs/B24010/B24010064.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

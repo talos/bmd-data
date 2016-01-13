@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Never married:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Female:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Female Never married Marital Status in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12006/B12006001.json", 
+    "parent": "data/columns/us/census/acs/B12006/B12006002.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

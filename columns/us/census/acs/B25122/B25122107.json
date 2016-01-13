@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$100,000 or more:", 
+      "With cash rent:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Gross Rent", 
+    "title": "$100 to $199", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$100 to $199 $100,000 or more Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) With cash rent Gross Rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25122/B25122001.json", 
+    "parent": "data/columns/us/census/acs/B25122/B25122105.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

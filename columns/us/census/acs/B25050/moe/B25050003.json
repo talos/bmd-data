@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Plumbing Facilities by Occupants Per Room by Year Structure Built", 
+    "title": "1.00 or less occupants per room:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for 1.00 or less occupants per room Complete plumbing facilities Plumbing Facilities in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25050/B25050003.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type by Household Size", 
+    "title": "7-or-more person household", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for 7-or-more person household Family households Household Type", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11016/B11016008.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

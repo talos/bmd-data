@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "In family households:", 
+    "universe": "Total Population"
+  }, 
+  "name": "In family households In households Household Type (Including Living Alone) Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09016/B09016001.json", 
+    "parent": "data/columns/us/census/acs/B09016/B09016002.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

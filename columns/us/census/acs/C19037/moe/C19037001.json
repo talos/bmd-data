@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C19037/C19037001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

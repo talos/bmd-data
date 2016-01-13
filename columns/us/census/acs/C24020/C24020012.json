@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Community and social service occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Community and social service occupations Male Management, business, science, and arts occupations Occupation Education, legal, community service, arts, and media occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24020/C24020001.json", 
+    "parent": "data/columns/us/census/acs/C24020/C24020011.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

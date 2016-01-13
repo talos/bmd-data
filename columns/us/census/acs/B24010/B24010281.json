@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Natural resources, construction, and maintenance occupations:", 
+      "Installation, maintenance, and repair occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Other installation, maintenance, and repair occupations including electrical and electronic equipment mechanics, installers, and repairers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Other installation, maintenance, and repair occupations including electrical and electronic equipment mechanics, installers, and repairers Natural resources, construction, and maintenance occupations Installation, maintenance, and repair occupations Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B24010/B24010278.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

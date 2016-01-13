@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Year of Naturalization", 
+    "title": "Imputed", 
+    "universe": "Foreign-born Naturalized Citizens"
+  }, 
+  "name": "Imputed in Foreign-born Naturalized Citizens", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99053/B99053001.json", 
+    "parent": "data/columns/us/census/acs/B99053/B99053001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Production, transportation, and material moving occupations:", 
+      "Transportation occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Air transportation workers", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Air transportation workers Male Production, transportation, and material moving occupations Occupation Transportation occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24020/B24020001.json", 
+    "parent": "data/columns/us/census/acs/B24020/B24020142.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

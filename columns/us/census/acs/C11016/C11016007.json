@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type by Household Size", 
+    "title": "Nonfamily households:", 
+    "universe": "Households"
+  }, 
+  "name": "Nonfamily households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C11016/C11016001.json", 
+    "parent": "data/columns/us/census/acs/C11016/C11016001.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 0
+}

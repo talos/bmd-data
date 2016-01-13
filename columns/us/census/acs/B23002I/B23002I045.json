@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "16 to 19 years:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Civilian:", 
+    "universe": "Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Civilian Female old in Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23002I/B23002I001.json", 
+    "parent": "data/columns/us/census/acs/B23002I/B23002I043.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

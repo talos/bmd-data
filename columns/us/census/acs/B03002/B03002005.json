@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not Hispanic or Latino:"
+    ], 
+    "isDenominator": false, 
+    "table": "Hispanic or Latino Origin by Race", 
+    "title": "American Indian and Alaska Native alone", 
+    "universe": "Total Population"
+  }, 
+  "name": "American Indian and Alaska Native Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B03002/B03002001.json", 
+    "parent": "data/columns/us/census/acs/B03002/B03002002.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "2"
+}

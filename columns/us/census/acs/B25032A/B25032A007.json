@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (White Alone Householder)", 
+    "title": "10 to 19", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone"
+  }, 
+  "name": "10 to 19 in Occupied Housing Units With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25032A/B25032A001.json", 
+    "parent": "data/columns/us/census/acs/B25032A/B25032A001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

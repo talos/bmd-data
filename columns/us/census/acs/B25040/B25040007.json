@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "House Heating Fuel", 
+    "title": "Wood", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Wood in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25040/B25040001.json", 
+    "parent": "data/columns/us/census/acs/B25040/B25040001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

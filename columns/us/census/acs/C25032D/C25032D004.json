@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (Asian Alone Householder)", 
+    "title": "5 or more units", 
+    "universe": "Occupied Housing Units With a Householder Who Is Asian Alone"
+  }, 
+  "name": "5 or more units in Occupied Housing Units With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25032D/C25032D001.json", 
+    "parent": "data/columns/us/census/acs/C25032D/C25032D001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

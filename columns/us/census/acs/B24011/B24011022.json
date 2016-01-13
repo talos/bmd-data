@@ -1,0 +1,23 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Service occupations:", 
+      "Protective service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Law enforcement workers including supervisors", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Law enforcement workers including supervisors Service occupations Occupation Protective service occupations Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24011/B24011001.json", 
+    "parent": "data/columns/us/census/acs/B24011/B24011020.json"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work (American Indian and Alaska Native Alone)", 
+    "title": "Taxicab, motorcycle, bicycle, walked, or other means", 
+    "universe": "American Indian and Alaska Native Alone Workers 16 Years and Over"
+  }, 
+  "name": "Taxicab, motorcycle, bicycle, walked, or other means in American Indian and Alaska Native Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08105C/C08105C001.json", 
+    "parent": "data/columns/us/census/acs/C08105C/C08105C001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

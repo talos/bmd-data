@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own not incorporated business workers and unpaid family workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Transportation and warehousing, and utilities", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Transportation and warehousing, and utilities Self-employed in own not incorporated business workers and unpaid family workers Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24070/C24070001.json", 
+    "parent": "data/columns/us/census/acs/C24070/C24070071.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Receipt of Food Stamps/SNAP in the Past 12 Months", 
+    "title": "Household did not receive Food Stamps/SNAP in the past 12 months", 
+    "universe": "Households"
+  }, 
+  "name": "Household did not receive Food Stamps/SNAP in the past 12 months", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B22008/B22008001.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

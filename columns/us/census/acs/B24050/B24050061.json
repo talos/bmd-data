@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Wholesale trade", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Wholesale trade Service occupations Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24050/B24050001.json", 
+    "parent": "data/columns/us/census/acs/B24050/B24050055.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

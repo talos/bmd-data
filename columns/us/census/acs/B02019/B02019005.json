@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Native Hawaiian and Other Pacific Islander Alone or in Any Combination by Selected Groups", 
+    "title": "Other Polynesian", 
+    "universe": "Total NHPI Alone or in Any Combination Population (The Total Groups Tallied)"
+  }, 
+  "name": "Other Polynesian in NHPI Alone or in Any Combination Population (The Groups Tallied)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02019/B02019001.json", 
+    "parent": "data/columns/us/census/acs/B02019/B02019001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

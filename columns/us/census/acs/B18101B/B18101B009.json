@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Disability Status (Black or African American Alone)", 
+    "title": "With a disability", 
+    "universe": "Black or African American Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability old in Black or African American Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101B/B18101B001.json", 
+    "parent": "data/columns/us/census/acs/B18101B/B18101B008.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

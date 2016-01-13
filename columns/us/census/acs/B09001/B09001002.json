@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Population Under 18 Years by Age", 
+    "title": "In households:", 
+    "universe": "Population Under 18 Years"
+  }, 
+  "name": "In households in Population Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09001/B09001001.json", 
+    "parent": "data/columns/us/census/acs/B09001/B09001001.json"
+  }, 
+  "tags": [
+    "age", 
+    "children"
+  ], 
+  "weight": "2"
+}

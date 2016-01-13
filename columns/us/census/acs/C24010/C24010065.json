@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Sales and office occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Office and administrative support occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Office and administrative support occupations Female Sales and office occupations Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24010/C24010001.json", 
+    "parent": "data/columns/us/census/acs/C24010/C24010063.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

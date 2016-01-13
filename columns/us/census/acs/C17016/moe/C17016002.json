@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Work Experience of Householder", 
+    "title": "Income in the past 12 months below poverty level:", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Income in the past 12 months below poverty level in Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17016/C17016002.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

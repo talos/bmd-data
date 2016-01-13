@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Two or More Races Householder)", 
+    "title": "Total:", 
+    "universe": "Families With a Householder Who Is Two or More Races"
+  }, 
+  "name": "Margin of error for Families With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19101G/B19101G001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Movers Between Regions in the United States", 
+    "title": "Current residence; South:", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Margin of error for Current residence; South in Population 1 Year and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B07101/B07101037.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "2"
+}

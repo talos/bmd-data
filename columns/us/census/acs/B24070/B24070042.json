@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Employee of private company workers:", 
+      "Finance and insurance, and real estate and rental and leasing:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Real estate and rental and leasing", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Real estate and rental and leasing Employee of private company workers Industry Finance and insurance, and real estate and rental and leasing Class of Worker in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24070/B24070001.json", 
+    "parent": "data/columns/us/census/acs/B24070/B24070040.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

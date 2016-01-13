@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "VA Health Care by Sex by Age", 
+    "title": "Female:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Female in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27009/B27009001.json", 
+    "parent": "data/columns/us/census/acs/B27009/B27009001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

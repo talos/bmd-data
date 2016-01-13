@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter-occupied housing units:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Educational Attainment of Householder", 
+    "title": "Less than high school graduate", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Less than high school graduate Renter-occupied housing units Tenure", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25013/B25013001.json", 
+    "parent": "data/columns/us/census/acs/B25013/B25013007.json"
+  }, 
+  "tags": [
+    "housing", 
+    "education", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

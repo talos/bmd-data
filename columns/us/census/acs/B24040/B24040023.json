@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Manufacturing:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Electrical equipment, appliances, and components", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Electrical equipment, appliances, and components Male Manufacturing Industry in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24040/B24040001.json", 
+    "parent": "data/columns/us/census/acs/B24040/B24040007.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Types of Health Insurance Coverage by Age", 
+    "title": "65 years and over:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "65 years and over in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27010/C27010001.json", 
+    "parent": "data/columns/us/census/acs/C27010/C27010001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age"
+  ], 
+  "weight": 0
+}

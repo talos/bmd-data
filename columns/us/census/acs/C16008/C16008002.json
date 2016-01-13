@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Citizenship Status by Age by Language Spoken at Home Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Citizen population:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Citizen population in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C16008/C16008001.json", 
+    "parent": "data/columns/us/census/acs/C16008/C16008001.json"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "weight": 0
+}

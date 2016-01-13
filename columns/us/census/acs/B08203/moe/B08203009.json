@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Number of Workers in Household by Vehicles Available", 
+    "title": "1 vehicle available", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for 1 vehicle available No workers Number of Workers in Household", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08203/B08203009.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Asian Alone by Selected Groups", 
+    "title": "Filipino", 
+    "universe": "Total Asian Alone Population"
+  }, 
+  "name": "Filipino in Asian Alone Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C02015/C02015001.json", 
+    "parent": "data/columns/us/census/acs/C02015/C02015001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

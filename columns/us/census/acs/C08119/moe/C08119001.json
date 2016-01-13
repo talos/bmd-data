@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "Margin of error for Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08119/C08119001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "weight": "0"
+}

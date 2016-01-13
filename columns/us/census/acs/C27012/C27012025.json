@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked less than full-time, year-round:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Work Experience by Age", 
+    "title": "65 years and over:", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "65 years and over Worked less than full-time, year-round Health Insurance Coverage Status and Type in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27012/C27012001.json", 
+    "parent": "data/columns/us/census/acs/C27012/C27012017.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "weight": 0
+}

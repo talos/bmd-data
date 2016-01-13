@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "First Ancestry Reported", 
+    "title": "New Zealander", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for New Zealander Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B04001/B04001057.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "1"
+}

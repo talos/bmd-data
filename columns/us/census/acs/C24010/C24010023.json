@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Service occupations:", 
+      "Protective service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Law enforcement workers including supervisors", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Law enforcement workers including supervisors Male Service occupations Occupation Protective service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24010/C24010001.json", 
+    "parent": "data/columns/us/census/acs/C24010/C24010021.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "American Indian and Alaska Native (AIAN) Alone or in Any Combination by Selected Tribal Groupings", 
+    "title": "Alaska Native tribes, specified:", 
+    "universe": "Total AIAN Alone or in Any Combination Population (The Total Groups Tallied)"
+  }, 
+  "name": "Alaska Native tribes, specified in AIAN Alone or in Any Combination Population (The Groups Tallied)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02017/B02017001.json", 
+    "parent": "data/columns/us/census/acs/B02017/B02017001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

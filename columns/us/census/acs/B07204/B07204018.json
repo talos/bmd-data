@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Abroad 1 year ago:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in the United States", 
+    "title": "U.S. Island Areas", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "U.S. Island Areas Abroad 1 year ago Geographical Mobility in the Past Year in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07204/B07204001.json", 
+    "parent": "data/columns/us/census/acs/B07204/B07204016.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "1"
+}

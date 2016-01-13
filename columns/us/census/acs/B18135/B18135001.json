@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Age by Disability Status by Health Insurance Coverage Status", 
+    "title": "Total:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Civilian Noninstitutionalized Population", 
+  "relationships": {}, 
+  "tags": [
+    "health insurance", 
+    "disability", 
+    "age"
+  ], 
+  "weight": 0
+}

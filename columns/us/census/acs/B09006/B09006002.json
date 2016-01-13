@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Relationship to Householder for Children Under 18 Years in Households", 
+    "title": "Own child", 
+    "universe": "Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)"
+  }, 
+  "name": "Own child in Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09006/B09006001.json", 
+    "parent": "data/columns/us/census/acs/B09006/B09006001.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

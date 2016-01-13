@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Detailed Occupation for the Full-time, Year-round Civilian Employed Male Population 16 Years and Over", 
+    "title": "Miscellaneous community and social service specialists, including health educators and community health workers", 
+    "universe": "Full-time, Year-round Civilian Employed Male Population 16 Years and Over"
+  }, 
+  "name": "Miscellaneous community and social service specialists, including health educators and community health workers in Full-time, Year-round Civilian Employed Male Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24125/B24125001.json", 
+    "parent": "data/columns/us/census/acs/B24125/B24125001.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

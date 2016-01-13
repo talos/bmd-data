@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Place of Birth in Puerto Rico", 
+    "title": "Foreign born", 
+    "universe": "Population 15 Years and Over in Puerto Rico With Income"
+  }, 
+  "name": "Margin of error for Foreign born", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06011PR/B06011PR005.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "income"
+  ], 
+  "weight": "0"
+}

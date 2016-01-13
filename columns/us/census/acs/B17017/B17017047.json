@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Family households:", 
+      "Other family:", 
+      "Female householder, no husband present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Household Type by Age of Householder", 
+    "title": "Householder 45 to 64 years", 
+    "universe": "Households"
+  }, 
+  "name": "Householder 45 to 64 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months Family households Household Type Other family Age of Householder Female householder, no husband present", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17017/B17017001.json", 
+    "parent": "data/columns/us/census/acs/B17017/B17017044.json"
+  }, 
+  "tags": [
+    "families", 
+    "age", 
+    "poverty"
+  ], 
+  "weight": 0
+}

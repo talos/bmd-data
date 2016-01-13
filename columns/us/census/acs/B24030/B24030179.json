@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Transportation and warehousing, and utilities:", 
+      "Transportation and warehousing:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Water transportation", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Water transportation Female Transportation and warehousing, and utilities Industry Transportation and warehousing in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24030/B24030001.json", 
+    "parent": "data/columns/us/census/acs/B24030/B24030176.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

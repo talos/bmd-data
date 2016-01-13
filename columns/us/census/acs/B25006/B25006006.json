@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Race of Householder", 
+    "title": "Householder who is Native Hawaiian and Other Pacific Islander alone", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder who is Native Hawaiian and Other Pacific Islander alone in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25006/B25006001.json", 
+    "parent": "data/columns/us/census/acs/B25006/B25006001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

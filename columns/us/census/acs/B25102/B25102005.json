@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With a mortgage:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status by Real Estate Taxes Paid", 
+    "title": "$1,500 to $1,999", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "$1,500 to $1,999 With a mortgage Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25102/B25102001.json", 
+    "parent": "data/columns/us/census/acs/B25102/B25102002.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

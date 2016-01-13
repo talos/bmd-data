@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Current residence; West:", 
+      "Movers to different state:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Movers Between Regions in the United States", 
+    "title": "Northeast", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Northeast Current residence; West Movers Between Regions in the United States Movers to different state in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07101/B07101001.json", 
+    "parent": "data/columns/us/census/acs/B07101/B07101048.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "2"
+}

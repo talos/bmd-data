@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Americas:", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Americas in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05006/B05006001.json", 
+    "parent": "data/columns/us/census/acs/B05006/B05006001.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

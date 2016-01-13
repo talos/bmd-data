@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "75 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Self-care Difficulty", 
+    "title": "No self-care difficulty", 
+    "universe": "Civilian Noninstitutionalized Population 5 Years and Over"
+  }, 
+  "name": "No self-care difficulty Female old in Civilian Noninstitutionalized Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18106/B18106001.json", 
+    "parent": "data/columns/us/census/acs/B18106/B18106031.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

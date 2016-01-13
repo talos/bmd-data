@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Now married:", 
+      "Married, spouse absent:", 
+      "Separated:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status by Age for the Population 15 Years and Over", 
+    "title": "55 to 59 years", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "55 to 59 years Male Now married Marital Status old Separated in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002/B12002001.json", 
+    "parent": "data/columns/us/census/acs/B12002/B12002035.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Nativity and Citizenship Status", 
+    "title": "Foreign born:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Foreign born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05002/B05002001.json", 
+    "parent": "data/columns/us/census/acs/B05002/B05002001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "1"
+}

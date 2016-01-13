@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (American Indian and Alaska Native Alone)", 
+    "title": "Female:", 
+    "universe": "People Who Are American Indian and Alaska Native Alone"
+  }, 
+  "name": "Female in People Who Are American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003C/C05003C001.json", 
+    "parent": "data/columns/us/census/acs/C05003C/C05003C001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

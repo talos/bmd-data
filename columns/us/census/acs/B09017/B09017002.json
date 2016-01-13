@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Relationship by Household Type (Including Living Alone) for the Population 65 Years and Over", 
+    "title": "In households:", 
+    "universe": "Population 65 Years and Over"
+  }, 
+  "name": "In households in Population 65 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09017/B09017001.json", 
+    "parent": "data/columns/us/census/acs/B09017/B09017001.json"
+  }, 
+  "tags": [
+    "seniors", 
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

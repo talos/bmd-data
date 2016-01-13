@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Tenure by Educational Attainment of Householder", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25013/B25013001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "education", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

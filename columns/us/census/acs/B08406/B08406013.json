@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Means of Transportation to Work for Workplace Geography", 
+    "title": "Ferryboat", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Ferryboat Public transportation (excluding taxicab) Sex of Workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08406/B08406001.json", 
+    "parent": "data/columns/us/census/acs/B08406/B08406008.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

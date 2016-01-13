@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Production, transportation, and material moving occupations:", 
+      "Transportation occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Rail and water transportation workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Rail and water transportation workers Male Production, transportation, and material moving occupations Occupation Transportation occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010/B24010001.json", 
+    "parent": "data/columns/us/census/acs/B24010/B24010142.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

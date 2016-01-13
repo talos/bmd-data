@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked full-time, year round:"
+    ], 
+    "isDenominator": false, 
+    "table": "Work Experience by Disability Status", 
+    "title": "No disability", 
+    "universe": "Civilian Noninstitutionalized Population 18 to 64 Years"
+  }, 
+  "name": "No disability Worked full-time, year round Work Experience in Civilian Noninstitutionalized Population 18 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18121/C18121001.json", 
+    "parent": "data/columns/us/census/acs/C18121/C18121002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "disability"
+  ], 
+  "weight": 0
+}

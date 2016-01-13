@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Alaska Native tribes, specified:"
+    ], 
+    "isDenominator": false, 
+    "table": "American Indian and Alaska Native Alone for Selected Tribal Groupings", 
+    "title": "Inupiat", 
+    "universe": "People Who Are American Indian and Alaska Native Alone and People With No Tribe Reported"
+  }, 
+  "name": "Inupiat Alaska Native tribes, specified American Indian and Alaska Native Alone in People Who Are American Indian and Alaska Native Alone and People With No Tribe Reported", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02014/B02014001.json", 
+    "parent": "data/columns/us/census/acs/B02014/B02014046.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

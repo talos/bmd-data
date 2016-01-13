@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner-occupied housing units:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Educational Attainment of Householder", 
+    "title": "Some college or associate's degree", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Some college or associate's degree Owner-occupied housing units Tenure", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25013/B25013001.json", 
+    "parent": "data/columns/us/census/acs/B25013/B25013002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "education", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

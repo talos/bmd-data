@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Widowed in the Past 12 Months for the Population 15 Years and Over", 
+    "title": "Imputed", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Imputed in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99124/B99124001.json", 
+    "parent": "data/columns/us/census/acs/B99124/B99124001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

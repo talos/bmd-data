@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Mortgage Status by Value", 
+    "title": "With a mortgage:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "With a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25096/B25096001.json", 
+    "parent": "data/columns/us/census/acs/B25096/B25096001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

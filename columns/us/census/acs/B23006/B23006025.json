@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Bachelor's degree or higher:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Educational Attainment by Employment Status for the Population 25 to 64 Years", 
+    "title": "In Armed Forces", 
+    "universe": "Population 25 to 64 Years"
+  }, 
+  "name": "In Armed Forces Bachelor's degree or higher Educational Attainment in Population 25 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23006/B23006001.json", 
+    "parent": "data/columns/us/census/acs/B23006/B23006024.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment"
+  ], 
+  "weight": 1
+}

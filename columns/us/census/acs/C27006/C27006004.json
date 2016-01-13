@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Medicare Coverage by Sex by Age", 
+    "title": "With Medicare coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With Medicare coverage Male Medicare Coverage Under 18 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27006/C27006001.json", 
+    "parent": "data/columns/us/census/acs/C27006/C27006003.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

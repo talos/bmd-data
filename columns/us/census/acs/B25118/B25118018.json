@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$15,000 to $19,999", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "$15,000 to $19,999 Renter occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25118/B25118001.json", 
+    "parent": "data/columns/us/census/acs/B25118/B25118014.json"
+  }, 
+  "tags": [
+    "housing", 
+    "tenure", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

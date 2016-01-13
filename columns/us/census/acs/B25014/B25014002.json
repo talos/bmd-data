@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tenure by Occupants Per Room", 
+    "title": "Owner occupied:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Owner occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25014/B25014001.json", 
+    "parent": "data/columns/us/census/acs/B25014/B25014001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

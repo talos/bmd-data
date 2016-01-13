@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Occupants Per Room (Two or More Races Householder)", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units With a Householder Who Is Two or More Races"
+  }, 
+  "name": "Margin of error for Occupied Housing Units With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25014G/B25014G001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

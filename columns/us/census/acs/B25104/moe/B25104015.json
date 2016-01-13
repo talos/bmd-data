@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Monthly Housing Costs", 
+    "title": "No cash rent", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for No cash rent in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25104/B25104015.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 1
+}

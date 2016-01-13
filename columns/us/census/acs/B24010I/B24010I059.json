@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Service occupations:", 
+      "Protective service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Law enforcement workers including supervisors", 
+    "universe": "Civilian Employed Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Law enforcement workers including supervisors Female Service occupations Occupation Protective service occupations in Civilian Employed Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010I/B24010I001.json", 
+    "parent": "data/columns/us/census/acs/B24010I/B24010I057.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

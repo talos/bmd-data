@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own not incorporated business and unpaid family workers:", 
+      "Natural resources, construction, and maintenance occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Construction and extraction occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Construction and extraction occupations Self-employed in own not incorporated business and unpaid family workers Occupation Natural resources, construction, and maintenance occupations Class of Worker in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24060/B24060001.json", 
+    "parent": "data/columns/us/census/acs/B24060/B24060209.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

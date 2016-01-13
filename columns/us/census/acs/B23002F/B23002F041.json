@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "Female:", 
+    "universe": "Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "Female in Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23002F/B23002F001.json", 
+    "parent": "data/columns/us/census/acs/B23002F/B23002F001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

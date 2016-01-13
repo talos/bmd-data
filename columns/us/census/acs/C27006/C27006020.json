@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Medicare Coverage by Sex by Age", 
+    "title": "With Medicare coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With Medicare coverage Female Medicare Coverage 65 years and over in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27006/C27006001.json", 
+    "parent": "data/columns/us/census/acs/C27006/C27006019.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

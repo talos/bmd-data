@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work for Workplace Geography (Asian Alone)", 
+    "title": "Walked", 
+    "universe": "Asian Alone Workers 16 Years and Over"
+  }, 
+  "name": "Walked in Asian Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08505D/B08505D001.json", 
+    "parent": "data/columns/us/census/acs/B08505D/B08505D001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

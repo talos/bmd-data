@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (White Alone) for Residence 1 Year Ago in Puerto Rico", 
+    "title": "Moved to the United States", 
+    "universe": "White Alone Population 1 Year and Over"
+  }, 
+  "name": "Moved to the United States in White Alone Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07404APR/B07404APR001.json", 
+    "parent": "data/columns/us/census/acs/B07404APR/B07404APR001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

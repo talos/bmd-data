@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Enrolled in school:", 
+      "Enrolled in grade 9 to grade 12:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by School Enrollment by Level of School by Type of School for the Population 3 Years and Over", 
+    "title": "Private school", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Private school Female Enrolled in grade 9 to grade 12 Level of School in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14002/B14002001.json", 
+    "parent": "data/columns/us/census/acs/B14002/B14002040.json"
+  }, 
+  "tags": [
+    "education", 
+    "sex"
+  ], 
+  "weight": 1
+}

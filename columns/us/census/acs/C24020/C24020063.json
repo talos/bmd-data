@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Sales and office occupations:", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Sales and office occupations Female in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24020/C24020001.json", 
+    "parent": "data/columns/us/census/acs/C24020/C24020038.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

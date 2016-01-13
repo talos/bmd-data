@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Educational Attainment for the Population 25 Years and Over", 
+    "title": "Some college, 1 or more years, no degree", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Some college, 1 or more years, no degree in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15003/C15003001.json", 
+    "parent": "data/columns/us/census/acs/C15003/C15003001.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 0
+}

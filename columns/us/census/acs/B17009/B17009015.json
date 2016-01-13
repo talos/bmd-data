@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above the poverty level:", 
+      "Worked full-time, year-round:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status by Work Experience of Unrelated Individuals by Householder Status", 
+    "title": "Other", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Other Income in the past 12 months at or above the poverty level Poverty Status Worked full-time, year-round Work Experience of Unrelated Individuals in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17009/B17009001.json", 
+    "parent": "data/columns/us/census/acs/B17009/B17009013.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

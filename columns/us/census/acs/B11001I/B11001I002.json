@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) (Hispanic or Latino)", 
+    "title": "Family households:", 
+    "universe": "Households With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Family households in Households With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11001I/B11001I001.json", 
+    "parent": "data/columns/us/census/acs/B11001I/B11001I001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

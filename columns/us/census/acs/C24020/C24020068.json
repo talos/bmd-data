@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Natural resources, construction, and maintenance occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Construction and extraction occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Construction and extraction occupations Female Natural resources, construction, and maintenance occupations Occupation in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24020/C24020001.json", 
+    "parent": "data/columns/us/census/acs/C24020/C24020066.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

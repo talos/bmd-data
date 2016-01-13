@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Class of Worker", 
+    "title": "Private wage and salary workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Private wage and salary workers Car, truck, or van - carpooled Means of Transportation to Work in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08128/C08128001.json", 
+    "parent": "data/columns/us/census/acs/C08128/C08128011.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

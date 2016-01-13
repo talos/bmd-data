@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "First Ancestry Reported", 
+    "title": "Scottish", 
+    "universe": "Total Population"
+  }, 
+  "name": "Scottish Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04001/B04001001.json", 
+    "parent": "data/columns/us/census/acs/B04001/B04001001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "1"
+}

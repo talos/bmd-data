@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Disability Status (Asian Alone)", 
+    "title": "With a disability", 
+    "universe": "Asian Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability old in Asian Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101D/B18101D001.json", 
+    "parent": "data/columns/us/census/acs/B18101D/B18101D008.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

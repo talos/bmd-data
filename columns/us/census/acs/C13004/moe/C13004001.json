@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Women 15 to 50 Years Who Had a Birth in the Past 12 Months by Marital Status", 
+    "title": "Total:", 
+    "universe": "Women 15 to 50 Years in Households"
+  }, 
+  "name": "Margin of error for Women 15 to 50 Years in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C13004/C13004001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "fertility"
+  ], 
+  "weight": 0
+}

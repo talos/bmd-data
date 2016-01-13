@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      null, 
+      "Worked in the past 12 months:", 
+      "Usually worked 35 or more hours per week:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Status in the Past 12 Months by Usual Hours Worked Per Week in the Past 12 Months by Weeks Worked in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "14 to 26 weeks", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "14 to 26 weeks Male Worked in the past 12 months Usual Hours Worked Per Week in the Past 12 Months Usually worked 35 or more hours per week Weeks Worked in the Past 12 Months in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23022/B23022001.json", 
+    "parent": "data/columns/us/census/acs/B23022/B23022004.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

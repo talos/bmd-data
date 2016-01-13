@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Hispanic or Latino:", 
+      "South American:"
+    ], 
+    "isDenominator": false, 
+    "table": "Hispanic or Latino Origin by Specific Origin", 
+    "title": "Argentinean", 
+    "universe": "Total Population"
+  }, 
+  "name": "Argentinean Hispanic or Latino Hispanic or Latino Origin South American Specific Origin Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B03001/B03001001.json", 
+    "parent": "data/columns/us/census/acs/B03001/B03001016.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

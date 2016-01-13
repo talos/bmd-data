@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Total Population in Occupied Housing Units by Tenure by Year Householder Moved Into Unit", 
+    "title": "Owner occupied:", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Owner occupied in Population in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25026/B25026002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "sex", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 1
+}

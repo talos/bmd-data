@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months", 
+    "title": "$25,000 to $29,999", 
+    "universe": "Population 16 Years and Over With Earnings"
+  }, 
+  "name": "$25,000 to $29,999 Female in Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B20001/B20001001.json", 
+    "parent": "data/columns/us/census/acs/B20001/B20001023.json"
+  }, 
+  "tags": [
+    "sex", 
+    "income"
+  ], 
+  "weight": 0
+}

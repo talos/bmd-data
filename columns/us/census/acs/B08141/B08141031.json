@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Vehicles Available", 
+    "title": "Worked at home:", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Worked at home in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08141/B08141001.json", 
+    "parent": "data/columns/us/census/acs/B08141/B08141001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

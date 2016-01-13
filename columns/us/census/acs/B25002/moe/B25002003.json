@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Occupancy Status", 
+    "title": "Vacant", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Vacant in Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25002/B25002003.json"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "weight": 2
+}

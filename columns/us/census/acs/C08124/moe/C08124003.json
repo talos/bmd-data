@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Means of Transportation to Work by Occupation", 
+    "title": "Service occupations", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Service occupations in Workers 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08124/C08124003.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States", 
+    "title": "Same house", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Same house", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B07402/B07402001.json"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units with a mortgage:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status and Selected Monthly Owner Costs", 
+    "title": "Less than $200", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Less than $200 Housing units with a mortgage Mortgage Status and Selected Monthly Owner Costs in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25087/B25087001.json", 
+    "parent": "data/columns/us/census/acs/B25087/B25087002.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Never married:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Nativity", 
+    "title": "Native", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Native Never married Marital Status in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12005/B12005001.json", 
+    "parent": "data/columns/us/census/acs/B12005/B12005002.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": 0
+}

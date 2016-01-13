@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Serbo-Croatian:"
+    ], 
+    "isDenominator": false, 
+    "table": "Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English less than \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English less than \"very well\" Serbo-Croatian Language Spoken at Home in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16001/B16001001.json", 
+    "parent": "data/columns/us/census/acs/B16001/B16001039.json"
+  }, 
+  "tags": [
+    "language"
+  ], 
+  "weight": 2
+}

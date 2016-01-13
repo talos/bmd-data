@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Age of Householder", 
+    "title": "Householder 60 to 64 years", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder 60 to 64 years Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25007/B25007001.json", 
+    "parent": "data/columns/us/census/acs/B25007/B25007002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

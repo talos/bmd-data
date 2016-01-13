@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (Two or More Races) in Puerto Rico", 
+    "title": "Born in the United States", 
+    "universe": "Two or More Races Population in Puerto Rico"
+  }, 
+  "name": "Born in the United States in Two or More Races Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004GPR/B06004GPR001.json", 
+    "parent": "data/columns/us/census/acs/B06004GPR/B06004GPR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

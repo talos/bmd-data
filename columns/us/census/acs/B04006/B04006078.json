@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Subsaharan African:"
+    ], 
+    "isDenominator": false, 
+    "table": "People Reporting Ancestry", 
+    "title": "Liberian", 
+    "universe": "Total Population"
+  }, 
+  "name": "Liberian Subsaharan African People Reporting Ancestry Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04006/B04006001.json", 
+    "parent": "data/columns/us/census/acs/B04006/B04006073.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

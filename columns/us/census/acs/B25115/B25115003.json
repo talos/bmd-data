@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Type and Presence and Age of Own Children", 
+    "title": "Family households:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Family households Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25115/B25115001.json", 
+    "parent": "data/columns/us/census/acs/B25115/B25115002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "weight": 0
+}

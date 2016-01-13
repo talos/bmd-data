@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "25 to 29 years", 
+    "universe": "People Who Are Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "25 to 29 years Male in People Who Are Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001E/B01001E001.json", 
+    "parent": "data/columns/us/census/acs/B01001E/B01001E002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

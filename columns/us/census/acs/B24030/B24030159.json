@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Retail trade:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Health and personal care, except drug, stores", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Health and personal care, except drug, stores Female Retail trade Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24030/B24030001.json", 
+    "parent": "data/columns/us/census/acs/B24030/B24030152.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

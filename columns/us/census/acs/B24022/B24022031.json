@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Natural resources, construction, and maintenance occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Farming, fishing, and forestry occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Farming, fishing, and forestry occupations Male Natural resources, construction, and maintenance occupations Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24022/B24022001.json", 
+    "parent": "data/columns/us/census/acs/B24022/B24022030.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

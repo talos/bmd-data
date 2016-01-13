@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Aggregate real estate taxes paid (dollars):"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status by Aggregate Real Estate Taxes Paid (Dollars)", 
+    "title": "Aggregate real estate taxes paid for units with a mortgage (dollars)", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Aggregate real estate taxes paid for units with a mortgage (dollars) Aggregate real estate taxes paid (dollars) Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25090/B25090001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

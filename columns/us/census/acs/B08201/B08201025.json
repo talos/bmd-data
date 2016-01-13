@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Size by Vehicles Available", 
+    "title": "4-or-more-person household:", 
+    "universe": "Households"
+  }, 
+  "name": "4-or-more-person household", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08201/B08201001.json", 
+    "parent": "data/columns/us/census/acs/B08201/B08201001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

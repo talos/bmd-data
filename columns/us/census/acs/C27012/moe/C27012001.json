@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Health Insurance Coverage Status and Type by Work Experience by Age", 
+    "title": "Total:", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "Margin of error for Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C27012/C27012001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "weight": 0
+}

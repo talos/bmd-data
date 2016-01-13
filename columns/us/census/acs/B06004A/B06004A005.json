@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (White Alone) in the United States", 
+    "title": "Foreign born", 
+    "universe": "White Alone Population in the United States"
+  }, 
+  "name": "Foreign born in White Alone Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004A/B06004A001.json", 
+    "parent": "data/columns/us/census/acs/B06004A/B06004A001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

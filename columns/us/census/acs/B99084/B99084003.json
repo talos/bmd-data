@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work at home:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Travel Time to Work", 
+    "title": "Imputed", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Imputed Did not work at home Imputation of Travel Time to Work in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99084/B99084001.json", 
+    "parent": "data/columns/us/census/acs/B99084/B99084002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Tenure by Household Size by Age of Householder", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Occupied Housing Units", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

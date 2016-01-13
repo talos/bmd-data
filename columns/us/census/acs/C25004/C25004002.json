@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Vacancy Status", 
+    "title": "For rent, for sale only, and rented or sold, not occupied", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "For rent, for sale only, and rented or sold, not occupied in Vacant Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25004/C25004001.json", 
+    "parent": "data/columns/us/census/acs/C25004/C25004001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

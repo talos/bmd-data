@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (Some Other Race Alone Householder)", 
+    "title": "Boat, RV, van, etc.", 
+    "universe": "Occupied Housing Units With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Boat, RV, van, etc. in Occupied Housing Units With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25032F/B25032F001.json", 
+    "parent": "data/columns/us/census/acs/B25032F/B25032F001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

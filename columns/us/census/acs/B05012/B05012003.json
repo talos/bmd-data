@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Nativity in the United States", 
+    "title": "Foreign-Born", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Foreign-Born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05012/B05012001.json", 
+    "parent": "data/columns/us/census/acs/B05012/B05012001.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "1"
+}

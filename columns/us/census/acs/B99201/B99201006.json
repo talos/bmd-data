@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Earnings in the Past 12 Months for the Population 16 Years and Over - Percent of Earnings Imputed", 
+    "title": "25 to less than 50 percent of total earnings for individual imputed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "25 to less than 50 percent of total earnings for individual imputed in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99201/B99201001.json", 
+    "parent": "data/columns/us/census/acs/B99201/B99201001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "income"
+  ], 
+  "weight": 0
+}

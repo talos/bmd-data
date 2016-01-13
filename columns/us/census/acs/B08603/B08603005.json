@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Travel Time to Work for Workplace Geography", 
+    "title": "15 to 19 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "15 to 19 minutes in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08603/B08603001.json", 
+    "parent": "data/columns/us/census/acs/B08603/B08603001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

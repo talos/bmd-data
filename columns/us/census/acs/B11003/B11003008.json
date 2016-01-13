@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Family Type by Presence and Age of Own Children Under 18 Years", 
+    "title": "Other family:", 
+    "universe": "Families"
+  }, 
+  "name": "Other family in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11003/B11003001.json", 
+    "parent": "data/columns/us/census/acs/B11003/B11003001.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

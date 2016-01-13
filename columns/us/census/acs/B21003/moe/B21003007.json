@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Veteran Status by Educational Attainment for the Civilian Population 25 Years and Over", 
+    "title": "Nonveteran:", 
+    "universe": "Civilian Population 25 Years and Over"
+  }, 
+  "name": "Margin of error for Nonveteran in Civilian Population 25 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B21003/B21003007.json"
+  }, 
+  "tags": [
+    "education", 
+    "veterans"
+  ], 
+  "weight": 0
+}

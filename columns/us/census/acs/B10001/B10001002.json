@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Grandchildren Under 18 Years Living With a Grandparent Householder by Age of Grandchild", 
+    "title": "Under 6 years", 
+    "universe": "Grandchildren Under 18 Living With Grandparent Householder"
+  }, 
+  "name": "Under 6 years in Grandchildren Under 18 Living With Grandparent Householder", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10001/B10001001.json", 
+    "parent": "data/columns/us/census/acs/B10001/B10001001.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "age", 
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

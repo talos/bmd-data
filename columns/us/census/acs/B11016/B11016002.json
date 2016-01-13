@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type by Household Size", 
+    "title": "Family households:", 
+    "universe": "Households"
+  }, 
+  "name": "Family households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11016/B11016001.json", 
+    "parent": "data/columns/us/census/acs/B11016/B11016001.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

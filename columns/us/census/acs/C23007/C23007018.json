@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "No children under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "Married-couple family:", 
+    "universe": "Families"
+  }, 
+  "name": "Married-couple family No children under 18 years Presence of Own Children Under 18 Years in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23007/C23007001.json", 
+    "parent": "data/columns/us/census/acs/C23007/C23007017.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

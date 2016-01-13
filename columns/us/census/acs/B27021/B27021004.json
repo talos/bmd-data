@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:", 
+      "In married couple families:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Living Arrangement", 
+    "title": "All relatives:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "All relatives In family households Health Insurance Coverage Status and Type In married couple families Living Arrangement in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27021/B27021001.json", 
+    "parent": "data/columns/us/census/acs/B27021/B27021003.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Health Insurance Coverage Status by Sex by Age", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Margin of error for With health insurance coverage Male Health Insurance Coverage Status 45 to 54 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27001/B27001019.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 1
+}

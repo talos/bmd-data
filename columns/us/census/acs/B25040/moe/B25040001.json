@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "House Heating Fuel", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25040/B25040001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

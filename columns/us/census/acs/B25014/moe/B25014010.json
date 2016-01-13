@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Occupants Per Room", 
+    "title": "0.51 to 1.00 occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for 0.51 to 1.00 occupants per room Renter occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25014/B25014010.json"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

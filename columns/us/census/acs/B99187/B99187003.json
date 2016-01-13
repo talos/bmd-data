@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "15 to 17 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Imputation of Independent Living Difficulty for the Civilian Noninstitutionalized Population 15 Years and Over", 
+    "title": "Imputed", 
+    "universe": "Civilian Noninstitutionalized Population 15 Years and Over"
+  }, 
+  "name": "Imputed old in Civilian Noninstitutionalized Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99187/B99187001.json", 
+    "parent": "data/columns/us/census/acs/B99187/B99187002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "age", 
+    "disability"
+  ], 
+  "weight": 0
+}

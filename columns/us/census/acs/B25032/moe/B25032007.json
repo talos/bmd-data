@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Units in Structure", 
+    "title": "5 to 9", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for 5 to 9 Owner-occupied housing units Tenure", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25032/B25032007.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

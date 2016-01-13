@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Own Children Under 18 Years by Family Type and Age", 
+    "title": "In other families:", 
+    "universe": "Own Children Under 18 Years"
+  }, 
+  "name": "In other families in Own Children Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09002/B09002001.json", 
+    "parent": "data/columns/us/census/acs/B09002/B09002001.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

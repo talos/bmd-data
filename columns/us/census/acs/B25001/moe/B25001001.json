@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Housing Units", 
+    "title": "Total", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25001/B25001001.json"
+  }, 
+  "tags": [
+    "housing"
+  ], 
+  "weight": 2
+}

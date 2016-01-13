@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Two or More Races)", 
+    "title": "65 years and over", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "65 years and over Female in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C01001G/C01001G001.json", 
+    "parent": "data/columns/us/census/acs/C01001G/C01001G006.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

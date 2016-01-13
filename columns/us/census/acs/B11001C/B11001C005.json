@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) (American Indian and Alaska Native Alone)", 
+    "title": "Male householder, no wife present", 
+    "universe": "Households With a Householder Who Is American Indian and Alaska Native Alone"
+  }, 
+  "name": "Male householder, no wife present Family households Household Type (Including Living Alone) (American Indian and Alaska Native Alone) Other family in Households With a Householder Who Is American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11001C/B11001C001.json", 
+    "parent": "data/columns/us/census/acs/B11001C/B11001C004.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

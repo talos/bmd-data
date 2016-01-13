@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type by Household Size", 
+    "title": "7-or-more person household", 
+    "universe": "Households"
+  }, 
+  "name": "7-or-more person household Family households Household Type", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11016/B11016001.json", 
+    "parent": "data/columns/us/census/acs/B11016/B11016002.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

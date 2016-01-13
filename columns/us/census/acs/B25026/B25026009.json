@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Total Population in Occupied Housing Units by Tenure by Year Householder Moved Into Unit", 
+    "title": "Renter occupied:", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Renter occupied in Population in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25026/B25026001.json", 
+    "parent": "data/columns/us/census/acs/B25026/B25026001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "sex", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 1
+}

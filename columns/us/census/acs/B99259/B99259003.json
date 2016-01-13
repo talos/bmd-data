@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Plumbing Facilities", 
+    "title": "Not imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Not imputed in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99259/B99259001.json", 
+    "parent": "data/columns/us/census/acs/B99259/B99259001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

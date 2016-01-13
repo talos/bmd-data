@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Social Security Income in the Past 12 Months for Households", 
+    "title": "With Social Security income", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for With Social Security income in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19055/B19055002.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

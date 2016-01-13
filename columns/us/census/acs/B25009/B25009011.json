@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Size", 
+    "title": "1-person household", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1-person household Renter occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25009/B25009001.json", 
+    "parent": "data/columns/us/census/acs/B25009/B25009010.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

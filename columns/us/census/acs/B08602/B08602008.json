@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Time Arriving at Work From Home for Workplace Geography", 
+    "title": "7:30 a.m. to 7:59 a.m.", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "730 a.m. to 759 a.m. in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08602/B08602001.json", 
+    "parent": "data/columns/us/census/acs/B08602/B08602001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

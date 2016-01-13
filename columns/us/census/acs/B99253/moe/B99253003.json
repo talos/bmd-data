@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Vacancy Status", 
+    "title": "Not imputed", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Margin of error for Not imputed in Vacant Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99253/B99253003.json"
+  }, 
+  "tags": [
+    "technical", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

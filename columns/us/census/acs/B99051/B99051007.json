@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Citizenship Status", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not imputed Foreign born Imputation of Citizenship Status Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99051/B99051001.json", 
+    "parent": "data/columns/us/census/acs/B99051/B99051005.json"
+  }, 
+  "tags": [
+    "technical", 
+    "citizenship"
+  ], 
+  "weight": 0
+}

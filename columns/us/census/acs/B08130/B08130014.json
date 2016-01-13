@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:", 
+      "Worked in state of residence:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Place of Work--State and County Level", 
+    "title": "Worked outside county of residence", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Worked outside county of residence Car, truck, or van - carpooled Means of Transportation to Work Worked in state of residence Place of Work--State and County Level in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08130/B08130001.json", 
+    "parent": "data/columns/us/census/acs/B08130/B08130012.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

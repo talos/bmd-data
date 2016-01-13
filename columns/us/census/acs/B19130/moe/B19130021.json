@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Family Type by Age of Householder", 
+    "title": "Female householder, no husband present (dollars):", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Female householder, no husband present (dollars) Other family (dollars) Aggregate Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19130/B19130021.json"
+  }, 
+  "tags": [
+    "age", 
+    "family type", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

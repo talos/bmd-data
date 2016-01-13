@@ -1,0 +1,21 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Median Duration of Current Marriage in Years by Sex by Marital Status for the Married Population 15 Years and Over", 
+    "title": "Separated", 
+    "universe": "Population 15 Years and Over Who Are Now Married or Separated"
+  }, 
+  "name": "Separated Male Median Duration of Current Marriage in Years", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B12504/B12504002.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 1
+}

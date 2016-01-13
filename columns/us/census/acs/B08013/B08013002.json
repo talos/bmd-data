@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Sex", 
+    "title": "Male", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Male", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08013/B08013001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": "2"
+}

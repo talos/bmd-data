@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved within same county:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Tenure for Current Residence in the United States", 
+    "title": "Householder lived in renter-occupied housing units", 
+    "universe": "Population 1 Year and Over in Households in the United States"
+  }, 
+  "name": "Householder lived in renter-occupied housing units Moved within same county Geographical Mobility in the Past Year in Population 1 Year and Over in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07013/B07013001.json", 
+    "parent": "data/columns/us/census/acs/B07013/B07013007.json"
+  }, 
+  "tags": [
+    "migration", 
+    "tenure"
+  ], 
+  "weight": "0"
+}

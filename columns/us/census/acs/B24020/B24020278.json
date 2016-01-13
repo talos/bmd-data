@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Natural resources, construction, and maintenance occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Installation, maintenance, and repair occupations:", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Installation, maintenance, and repair occupations Natural resources, construction, and maintenance occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B24020/B24020263.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

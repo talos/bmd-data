@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 years and over:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (White Alone, Not Hispanic or Latino)", 
+    "title": "Not a U.S. citizen", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "Not a U.S. citizen Female old Foreign born Nativity and Citizenship Status (White Alone, Not Hispanic or Latino) in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003H/B05003H001.json", 
+    "parent": "data/columns/us/census/acs/B05003H/B05003H021.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

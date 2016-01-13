@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Entered 2000 or later:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Year of Entry by Nativity and Citizenship Status in Puerto Rico", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Population Born Outside Puerto Rico"
+  }, 
+  "name": "Naturalized U.S. citizen Entered 2000 or later Year of Entry Foreign born Nativity and Citizenship Status in Puerto Rico in Population Born Outside Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05005PR/B05005PR001.json", 
+    "parent": "data/columns/us/census/acs/B05005PR/B05005PR004.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

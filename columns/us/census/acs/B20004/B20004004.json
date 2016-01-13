@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Sex by Educational Attainment for the Population 25 Years and Over", 
+    "title": "Some college or associate's degree", 
+    "universe": "Population 25 Years and Over With Earnings"
+  }, 
+  "name": "Some college or associate's degree", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B20004/B20004001.json"
+  }, 
+  "tags": [
+    "education", 
+    "sex", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--not Metropolitan or Micropolitan Statistical Area Level in the United States", 
+    "title": "Abroad 1 year ago", 
+    "universe": "Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area in the United States"
+  }, 
+  "name": "Abroad 1 year ago in Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C07203/C07203001.json", 
+    "parent": "data/columns/us/census/acs/C07203/C07203001.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "0"
+}

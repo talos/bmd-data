@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Age by Ratio of Income to Poverty Level in the Past 12 Months by Disability Status and Type", 
+    "title": "2.00 and over:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for 2.00 and over old in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B18131/B18131106.json"
+  }, 
+  "tags": [
+    "poverty", 
+    "age", 
+    "disability", 
+    "income"
+  ], 
+  "weight": 0
+}

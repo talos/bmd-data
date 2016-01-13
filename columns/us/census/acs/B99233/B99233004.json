@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked in the past 12 months:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Usual Hours Worked Per Week in the Past 12 Months for the Population 16 Years and Over", 
+    "title": "Not imputed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Not imputed Worked in the past 12 months Imputation of Usual Hours Worked Per Week in the Past 12 Months in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99233/B99233001.json", 
+    "parent": "data/columns/us/census/acs/B99233/B99233002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "employment"
+  ], 
+  "weight": 0
+}

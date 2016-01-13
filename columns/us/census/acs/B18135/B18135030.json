@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Disability Status by Health Insurance Coverage Status", 
+    "title": "No disability:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No disability old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18135/B18135001.json", 
+    "parent": "data/columns/us/census/acs/B18135/B18135024.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "disability", 
+    "age"
+  ], 
+  "weight": 0
+}

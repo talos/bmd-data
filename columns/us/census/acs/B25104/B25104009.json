@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Monthly Housing Costs", 
+    "title": "$700 to $799", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "$700 to $799 in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25104/B25104001.json", 
+    "parent": "data/columns/us/census/acs/B25104/B25104001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 1
+}

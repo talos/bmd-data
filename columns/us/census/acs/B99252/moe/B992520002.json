@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Price Asked", 
+    "title": "Imputed", 
+    "universe": "Vacant-for-sale-only and Sold, Not Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Imputed in Vacant-for-sale-only and Sold, Not Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99252/B992520002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "weight": 0
+}

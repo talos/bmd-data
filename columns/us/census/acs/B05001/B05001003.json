@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Nativity and Citizenship Status in the United States", 
+    "title": "U.S. citizen, born in Puerto Rico or U.S. Island Areas", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "U.S. citizen, born in Puerto Rico or U.S. Island Areas Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05001/B05001001.json", 
+    "parent": "data/columns/us/census/acs/B05001/B05001001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "2"
+}

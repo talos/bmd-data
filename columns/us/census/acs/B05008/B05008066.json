@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Other areas:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Other areas Female in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05008/B05008001.json", 
+    "parent": "data/columns/us/census/acs/B05008/B05008036.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):", 
+      "Private for-profit wage and salary workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Class of Worker", 
+    "title": "Employee of private company workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Employee of private company workers Public transportation (excluding taxicab) Means of Transportation to Work Private for-profit wage and salary workers Class of Worker in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08128/B08128001.json", 
+    "parent": "data/columns/us/census/acs/B08128/B08128032.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

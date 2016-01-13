@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Black or African American Alone Householder)", 
+    "title": "Householder 25 to 44 years:", 
+    "universe": "Households With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "Margin of error for Householder 25 to 44 years in Households With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19037B/B19037B019.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Vacancy Status", 
+    "title": "Total:", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Vacant Housing Units", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "weight": 1
+}

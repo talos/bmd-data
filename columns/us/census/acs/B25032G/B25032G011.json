@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (Two or More Races Householder)", 
+    "title": "Boat, RV, van, etc.", 
+    "universe": "Occupied Housing Units With a Householder Who Is Two or More Races"
+  }, 
+  "name": "Boat, RV, van, etc. in Occupied Housing Units With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25032G/B25032G001.json", 
+    "parent": "data/columns/us/census/acs/B25032G/B25032G001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

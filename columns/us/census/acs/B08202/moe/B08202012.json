@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Size by Number of Workers in Household", 
+    "title": "2 workers", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for 2 workers 2-person household Household Size", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08202/B08202012.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

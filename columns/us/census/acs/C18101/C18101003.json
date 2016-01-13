@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Disability Status", 
+    "title": "Under 18 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 18 years Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18101/C18101001.json", 
+    "parent": "data/columns/us/census/acs/C18101/C18101002.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

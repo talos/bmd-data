@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "School Enrollment by Level of School for the Population 3 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Margin of error for Population 3 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B14001/B14001001.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 2
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Sales and office occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Office and administrative support occupations", 
+    "universe": "Civilian Employed Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Office and administrative support occupations Male Sales and office occupations Occupation in Civilian Employed Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010I/B24010I001.json", 
+    "parent": "data/columns/us/census/acs/B24010I/B24010I027.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

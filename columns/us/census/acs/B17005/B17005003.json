@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Individuals by Sex by Employment Status", 
+    "title": "Male:", 
+    "universe": "Civilian Population 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Male Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Individuals in Civilian Population 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17005/B17005001.json", 
+    "parent": "data/columns/us/census/acs/B17005/B17005002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

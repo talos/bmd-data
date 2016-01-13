@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 16 Years and Over (Black or African American Alone)", 
+    "title": "Worked full-time, year-round in the past 12 months:", 
+    "universe": "Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "Worked full-time, year-round in the past 12 months Male in Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C20005B/C20005B001.json", 
+    "parent": "data/columns/us/census/acs/C20005B/C20005B002.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "race", 
+    "income"
+  ], 
+  "weight": 0
+}

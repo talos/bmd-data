@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Less than high school diploma", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 25 Years and Over"
+  }, 
+  "name": "Less than high school diploma Male in Native Hawaiian and Other Pacific Islander Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002E/C15002E001.json", 
+    "parent": "data/columns/us/census/acs/C15002E/C15002E002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

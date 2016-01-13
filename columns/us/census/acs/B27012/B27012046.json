@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked less than full-time, year-round:", 
+      "Male:", 
+      "65 years and over:", 
+      "With health insurance coverage"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Work Experience by Sex by Age", 
+    "title": "With Medicare coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With Medicare coverage Worked less than full-time, year-round Health Insurance Coverage Status and Type Male Work Experience 65 years and over old in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27012/B27012001.json", 
+    "parent": "data/columns/us/census/acs/B27012/B27012043.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

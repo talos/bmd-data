@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "25 to 34 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Direct-purchase Health Insurance by Sex by Age", 
+    "title": "No direct-purchase health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No direct-purchase health insurance Female Direct-purchase Health Insurance 25 to 34 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27005/B27005001.json", 
+    "parent": "data/columns/us/census/acs/B27005/B27005040.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

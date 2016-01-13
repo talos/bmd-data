@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Marital Status in the United States", 
+    "title": "Now married, except separated", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Now married, except separated in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C06008/C06008001.json", 
+    "parent": "data/columns/us/census/acs/C06008/C06008001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": "0"
+}

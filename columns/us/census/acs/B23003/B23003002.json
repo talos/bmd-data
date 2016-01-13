@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years by Age of Own Children Under 18 Years by Employment Status for Females 20 to 64 Years", 
+    "title": "With own children under 18 years:", 
+    "universe": "Females 20 to 64 Years in Households"
+  }, 
+  "name": "With own children under 18 years in Females 20 to 64 Years in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23003/B23003001.json", 
+    "parent": "data/columns/us/census/acs/B23003/B23003001.json"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

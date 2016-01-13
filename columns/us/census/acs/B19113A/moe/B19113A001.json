@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (White Alone Householder)", 
+    "title": "Median family income in the past 12 months (in 2011 inflation-adjusted dollars)", 
+    "universe": "Families With a Householder Who Is White Alone"
+  }, 
+  "name": "Margin of error for Median family income in the past 12 months (in 2011 inflation-adjusted dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19113A/B19113A001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

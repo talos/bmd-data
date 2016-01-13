@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Travel Time to Work", 
+    "title": "Did not work at home:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Did not work at home in Workers 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99084/B99084002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": 0
+}

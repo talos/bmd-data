@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Field of Bachelor's Degree for First Major for the Population 25 Years and Over", 
+    "title": "Arts, Humanities and Other", 
+    "universe": "POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Arts, Humanities and Other in POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15010/C15010001.json", 
+    "parent": "data/columns/us/census/acs/C15010/C15010001.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 1
+}

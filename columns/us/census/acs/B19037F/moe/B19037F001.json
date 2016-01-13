@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Some Other Race Alone Householder)", 
+    "title": "Total:", 
+    "universe": "Households With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Margin of error for Households With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19037F/B19037F001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

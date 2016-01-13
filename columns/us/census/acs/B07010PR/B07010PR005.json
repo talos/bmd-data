@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With income:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for Current Residence in Puerto Rico", 
+    "title": "$10,000 to $14,999", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "$10,000 to $14,999 With income Geographical Mobility in the Past Year in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07010PR/B07010PR001.json", 
+    "parent": "data/columns/us/census/acs/B07010PR/B07010PR003.json"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "weight": "0"
+}

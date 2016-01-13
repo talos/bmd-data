@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter-occupied housing units:", 
+      "$50,000 to $74,999:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Housing Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "30 percent or more", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "30 percent or more Renter-occupied housing units Tenure $50,000 to $74,999 Housing Costs as a Percentage of Household Income in the Past 12 Months", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25106/B25106001.json", 
+    "parent": "data/columns/us/census/acs/B25106/B25106037.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "tenure", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

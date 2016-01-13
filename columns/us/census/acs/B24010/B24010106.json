@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Sales and office occupations:", 
+      "Office and administrative support occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Bookkeeping, accounting, and auditing clerks", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Bookkeeping, accounting, and auditing clerks Male Sales and office occupations Occupation Office and administrative support occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010/B24010001.json", 
+    "parent": "data/columns/us/census/acs/B24010/B24010102.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Now married (except separated):", 
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Not in labor force", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Not in labor force Now married (except separated) Marital Status Male in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12006/B12006001.json", 
+    "parent": "data/columns/us/census/acs/B12006/B12006014.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

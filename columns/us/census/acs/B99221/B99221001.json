@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Imputation of Food Stamps/SNAP Receipt", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Households", 
+  "relationships": {}, 
+  "tags": [
+    "technical", 
+    "public assistance"
+  ], 
+  "weight": 0
+}

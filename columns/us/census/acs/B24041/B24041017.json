@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Professional, scientific, and management, and administrative and waste management services:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Professional, scientific, and technical services", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Professional, scientific, and technical services Professional, scientific, and management, and administrative and waste management services Industry in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24041/B24041001.json", 
+    "parent": "data/columns/us/census/acs/B24041/B24041016.json"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

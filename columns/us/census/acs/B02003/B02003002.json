@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Detailed Race", 
+    "title": "Population of one race:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Population of one race", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02003/B02003001.json", 
+    "parent": "data/columns/us/census/acs/B02003/B02003001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

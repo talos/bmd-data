@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status", 
+    "title": "Male:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Male Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003/B05003001.json", 
+    "parent": "data/columns/us/census/acs/B05003/B05003001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

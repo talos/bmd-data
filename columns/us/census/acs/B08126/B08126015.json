@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Industry", 
+    "title": "Armed forces", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Armed forces in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08126/B08126001.json", 
+    "parent": "data/columns/us/census/acs/B08126/B08126001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

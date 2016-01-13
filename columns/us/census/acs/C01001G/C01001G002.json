@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age (Two or More Races)", 
+    "title": "Male:", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "Male in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C01001G/C01001G001.json", 
+    "parent": "data/columns/us/census/acs/C01001G/C01001G001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

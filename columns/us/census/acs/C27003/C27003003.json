@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Public Health Insurance Status by Sex by Age", 
+    "title": "Under 18 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 18 years Male Public Health Insurance Status in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27003/C27003001.json", 
+    "parent": "data/columns/us/census/acs/C27003/C27003002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Period of Naturalization", 
+    "title": "Naturalized citizens:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Naturalized citizens in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05011/B05011001.json", 
+    "parent": "data/columns/us/census/acs/B05011/B05011001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "2"
+}

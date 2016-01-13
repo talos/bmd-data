@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (White Alone)", 
+    "title": "85 years and over", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "85 years and over Female in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001A/B01001A001.json", 
+    "parent": "data/columns/us/census/acs/B01001A/B01001A017.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Two or More Races)", 
+    "title": "Divorced", 
+    "universe": "Two or More Races Population 15 Years and Over"
+  }, 
+  "name": "Divorced Male in Two or More Races Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002G/B12002G001.json", 
+    "parent": "data/columns/us/census/acs/B12002G/B12002G002.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

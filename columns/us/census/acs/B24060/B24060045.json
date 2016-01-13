@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Employee of private company workers:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Life, physical, and social science occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Life, physical, and social science occupations Employee of private company workers Occupation Management, business, science, and arts occupations Class of Worker Computer, engineering, and science occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24060/B24060001.json", 
+    "parent": "data/columns/us/census/acs/B24060/B24060042.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

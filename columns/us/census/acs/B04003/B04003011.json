@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "isDenominator": false, 
+    "table": "Total Ancestry Reported", 
+    "title": "Moroccan", 
+    "universe": "Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported"
+  }, 
+  "name": "Moroccan Arab Total Ancestry Reported in Ancestry Categories Tallied for People With One or More Ancestry Categories Reported", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04003/B04003001.json", 
+    "parent": "data/columns/us/census/acs/B04003/B04003006.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

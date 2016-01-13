@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Disability Status by Sex for the Civilian Noninstitutionalized Population 16 Years and Over With Earnings", 
+    "title": "No disability:", 
+    "universe": "Civilian Noninstitutionalized Population 16 Years and Over With Earnings in the Past 12 Months"
+  }, 
+  "name": "No disability", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B18140/B18140001.json"
+  }, 
+  "tags": [
+    "sex", 
+    "disability", 
+    "income"
+  ], 
+  "weight": 0
+}

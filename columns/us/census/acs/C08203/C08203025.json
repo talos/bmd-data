@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "3 or more workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Number of Workers in Household by Vehicles Available", 
+    "title": "3 or more vehicles available", 
+    "universe": "Households"
+  }, 
+  "name": "3 or more vehicles available 3 or more workers Number of Workers in Household", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08203/C08203001.json", 
+    "parent": "data/columns/us/census/acs/C08203/C08203021.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

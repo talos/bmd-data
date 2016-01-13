@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (White Alone, Not Hispanic or Latino)", 
+    "title": "18 and 19 years", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "18 and 19 years Female in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001H/B01001H001.json", 
+    "parent": "data/columns/us/census/acs/B01001H/B01001H017.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

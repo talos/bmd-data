@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "55 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status by Sex by Age", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With health insurance coverage Female Health Insurance Coverage Status 55 to 64 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27001/B27001001.json", 
+    "parent": "data/columns/us/census/acs/B27001/B27001049.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 1
+}

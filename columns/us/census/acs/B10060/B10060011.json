@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In 2-or-more-unit structures:"
+    ], 
+    "isDenominator": false, 
+    "table": "Units in Structure of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "Grandparent not responsible for own grandchildren under 18 years", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years in Households"
+  }, 
+  "name": "Grandparent not responsible for own grandchildren under 18 years In 2-or-more-unit structures Units in Structure of Grandparents Living With Own Grandchildren Under 18 Years in Grandparents Living With Own Grandchildren Under 18 Years in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10060/B10060001.json", 
+    "parent": "data/columns/us/census/acs/B10060/B10060007.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "children", 
+    "physical characteristics"
+  ], 
+  "weight": "0"
+}

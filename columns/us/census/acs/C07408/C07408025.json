@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved to different state:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Marital Status for Residence 1 Year Ago in the United States", 
+    "title": "Widowed", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Widowed Moved to different state Geographical Mobility in the Past Year in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C07408/C07408001.json", 
+    "parent": "data/columns/us/census/acs/C07408/C07408021.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "migration"
+  ], 
+  "weight": "0"
+}

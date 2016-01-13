@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "75 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Employer-based Health Insurance by Sex by Age", 
+    "title": "No employer-based health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No employer-based health insurance Male Employer-based Health Insurance 75 years and over in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27004/B27004001.json", 
+    "parent": "data/columns/us/census/acs/B27004/B27004027.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

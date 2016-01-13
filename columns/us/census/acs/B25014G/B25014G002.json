@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Occupants Per Room (Two or More Races Householder)", 
+    "title": "1.00 or less occupants per room", 
+    "universe": "Occupied Housing Units With a Householder Who Is Two or More Races"
+  }, 
+  "name": "1.00 or less occupants per room in Occupied Housing Units With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25014G/B25014G001.json", 
+    "parent": "data/columns/us/census/acs/B25014G/B25014G001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

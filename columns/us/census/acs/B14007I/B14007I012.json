@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Enrolled in school:"
+    ], 
+    "isDenominator": false, 
+    "table": "School Enrollment by Detailed Level of School for the Population 3 Years and Over (Hispanic or Latino)", 
+    "title": "Enrolled in grade 8", 
+    "universe": "Hispanic or Latino Population 3 Years and Over"
+  }, 
+  "name": "Enrolled in grade 8 in Hispanic or Latino Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14007I/B14007I001.json", 
+    "parent": "data/columns/us/census/acs/B14007I/B14007I002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

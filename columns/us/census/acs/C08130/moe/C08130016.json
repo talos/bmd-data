@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Means of Transportation to Work by Place of Work--State and County Level", 
+    "title": "Public transportation (excluding taxicab):", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08130/C08130016.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

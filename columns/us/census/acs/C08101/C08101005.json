@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Age", 
+    "title": "45 to 54 years", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "45 to 54 years in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08101/C08101001.json", 
+    "parent": "data/columns/us/census/acs/C08101/C08101001.json"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

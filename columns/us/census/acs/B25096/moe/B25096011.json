@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Mortgage Status by Value", 
+    "title": "Less than $50,000", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Less than $50,000 Not mortgaged Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25096/B25096011.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

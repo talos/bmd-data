@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Direct-purchase Health Insurance by Sex by Age", 
+    "title": "No direct-purchase health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No direct-purchase health insurance Male Direct-purchase Health Insurance 18 to 64 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27005/C27005001.json", 
+    "parent": "data/columns/us/census/acs/C27005/C27005006.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

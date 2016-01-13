@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved to different state:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Citizenship Status for Residence 1 Year Ago in the United States", 
+    "title": "Native", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Native Moved to different state Geographical Mobility in the Past Year in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07407/B07407001.json", 
+    "parent": "data/columns/us/census/acs/B07407/B07407021.json"
+  }, 
+  "tags": [
+    "migration", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

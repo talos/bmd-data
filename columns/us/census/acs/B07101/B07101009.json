@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Movers Between Regions in the United States", 
+    "title": "Movers from abroad:", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Movers from abroad in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07101/B07101001.json", 
+    "parent": "data/columns/us/census/acs/B07101/B07101001.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "2"
+}

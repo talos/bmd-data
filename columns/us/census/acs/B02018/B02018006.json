@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Asian Alone or in Any Combination by Selected Groups", 
+    "title": "Cambodian", 
+    "universe": "Total Asian Alone or in Any Combination Population (The Total Groups Tallied)"
+  }, 
+  "name": "Cambodian in Asian Alone or in Any Combination Population (The Groups Tallied)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02018/B02018001.json", 
+    "parent": "data/columns/us/census/acs/B02018/B02018001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

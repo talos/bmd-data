@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (American Indian and Alaska Native Alone)", 
+    "title": "6 to 11 years", 
+    "universe": "American Indian and Alaska Native Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "6 to 11 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months Female in American Indian and Alaska Native Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17001C/B17001C001.json", 
+    "parent": "data/columns/us/census/acs/B17001C/B17001C046.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked less than full-time, year-round:", 
+      "Male:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Public Health Insurance by Work Experience by Sex by Age", 
+    "title": "No public coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "No public coverage Worked less than full-time, year-round Public Health Insurance Male Work Experience 65 years and over in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27014/B27014001.json", 
+    "parent": "data/columns/us/census/acs/B27014/B27014022.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

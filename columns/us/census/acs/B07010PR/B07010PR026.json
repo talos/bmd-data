@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved within same municipio:", 
+      "With income:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for Current Residence in Puerto Rico", 
+    "title": "$1 to $9,999 or loss", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "$1 to $9,999 or loss Moved within same municipio Geographical Mobility in the Past Year With income Individual Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07010PR/B07010PR001.json", 
+    "parent": "data/columns/us/census/acs/B07010PR/B07010PR025.json"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "weight": "0"
+}

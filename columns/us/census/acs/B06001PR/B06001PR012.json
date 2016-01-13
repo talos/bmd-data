@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Age in Puerto Rico", 
+    "title": "75 years and over", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "75 years and over in Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06001PR/B06001PR001.json", 
+    "parent": "data/columns/us/census/acs/B06001PR/B06001PR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

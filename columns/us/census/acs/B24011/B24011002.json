@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Occupation by Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Management, business, science, and arts occupations:", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Management, business, science, and arts occupations in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24011/B24011001.json", 
+    "parent": "data/columns/us/census/acs/B24011/B24011001.json"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

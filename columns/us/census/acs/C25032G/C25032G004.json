@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (Two or More Races Householder)", 
+    "title": "5 or more units", 
+    "universe": "Occupied Housing Units With a Householder Who Is Two or More Races"
+  }, 
+  "name": "5 or more units in Occupied Housing Units With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25032G/C25032G001.json", 
+    "parent": "data/columns/us/census/acs/C25032G/C25032G001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

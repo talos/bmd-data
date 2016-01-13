@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Black or African American Alone)", 
+    "title": "In labor force:", 
+    "universe": "Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "In labor force Female old in Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23002B/C23002B001.json", 
+    "parent": "data/columns/us/census/acs/C23002B/C23002B023.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

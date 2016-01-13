@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Age by Sex for Workers 16 to 64 Years", 
+    "title": "Female", 
+    "universe": "Population 16 to 64 Years Who Have Worked in the Past 12 Months"
+  }, 
+  "name": "Female", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B23013/B23013001.json"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

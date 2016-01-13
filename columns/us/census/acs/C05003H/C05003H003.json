@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (White Alone, Not Hispanic or Latino)", 
+    "title": "Under 18 years:", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "Under 18 years Male in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003H/C05003H001.json", 
+    "parent": "data/columns/us/census/acs/C05003H/C05003H002.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (Asian Alone) for Current Residence in Puerto Rico", 
+    "title": "Moved from elsewhere", 
+    "universe": "Asian Alone Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "Moved from elsewhere in Asian Alone Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07004DPR/B07004DPR001.json", 
+    "parent": "data/columns/us/census/acs/B07004DPR/B07004DPR001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

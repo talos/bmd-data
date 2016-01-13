@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Healthcare support occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Healthcare support occupations Male Service occupations Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24022/B24022001.json", 
+    "parent": "data/columns/us/census/acs/B24022/B24022019.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

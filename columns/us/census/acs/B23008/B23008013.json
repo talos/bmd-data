@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 6 years:", 
+      "Living with one parent:", 
+      "Living with mother:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age of Own Children Under 18 Years in Families and Subfamilies by Living Arrangements by Employment Status of Parents", 
+    "title": "In labor force", 
+    "universe": "Own Children Under 18 Years in Families and Subfamilies"
+  }, 
+  "name": "In labor force Under 6 years Age of Own Children Under 18 Years in Families and Subfamilies Living with one parent Living Arrangements Living with mother Employment Status of Parents", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23008/B23008001.json", 
+    "parent": "data/columns/us/census/acs/B23008/B23008012.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Two or More Races)", 
+    "title": "70 years and over:", 
+    "universe": "Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "70 years and over Female in Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23002G/B23002G001.json", 
+    "parent": "data/columns/us/census/acs/B23002G/B23002G041.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

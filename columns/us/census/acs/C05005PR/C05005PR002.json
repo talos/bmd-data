@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Year of Entry by Nativity in Puerto Rico", 
+    "title": "Entered 2000 or later:", 
+    "universe": "Population Born Outside Puerto Rico"
+  }, 
+  "name": "Entered 2000 or later in Population Born Outside Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05005PR/C05005PR001.json", 
+    "parent": "data/columns/us/census/acs/C05005PR/C05005PR001.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

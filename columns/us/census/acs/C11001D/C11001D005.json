@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type (Asian Alone)", 
+    "title": "Nonfamily households", 
+    "universe": "Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Nonfamily households in Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C11001D/C11001D001.json", 
+    "parent": "data/columns/us/census/acs/C11001D/C11001D001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

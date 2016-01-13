@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Management, business, and financial occupations:", 
+    "universe": "Civilian Employed Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Management, business, and financial occupations Female Management, business, science, and arts occupations Occupation in Civilian Employed Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010I/B24010I001.json", 
+    "parent": "data/columns/us/census/acs/B24010I/B24010I039.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

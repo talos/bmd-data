@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Educational Attainment for the Population 25 Years and Over", 
+    "title": "5th and 6th grade", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "5th and 6th grade in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15003/C15003001.json", 
+    "parent": "data/columns/us/census/acs/C15003/C15003001.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 0
+}

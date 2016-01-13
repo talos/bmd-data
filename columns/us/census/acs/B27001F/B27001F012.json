@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "25 to 34 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status by Age (Some Other Race Alone)", 
+    "title": "With health insurance coverage", 
+    "universe": "SOME OTHER RACE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "With health insurance coverage 25 to 34 years Health Insurance Coverage Status in SOME OTHER RACE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27001F/B27001F001.json", 
+    "parent": "data/columns/us/census/acs/B27001F/B27001F011.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

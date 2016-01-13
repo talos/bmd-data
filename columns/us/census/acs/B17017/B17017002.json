@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Household Type by Age of Householder", 
+    "title": "Income in the past 12 months below poverty level:", 
+    "universe": "Households"
+  }, 
+  "name": "Income in the past 12 months below poverty level in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17017/B17017001.json", 
+    "parent": "data/columns/us/census/acs/B17017/B17017001.json"
+  }, 
+  "tags": [
+    "families", 
+    "age", 
+    "poverty"
+  ], 
+  "weight": 0
+}

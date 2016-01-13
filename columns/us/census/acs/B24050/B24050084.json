@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Sales and office occupations:", 
+      "Agriculture, forestry, fishing and hunting, and mining:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Agriculture, forestry, fishing and hunting", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Agriculture, forestry, fishing and hunting Sales and office occupations Industry Agriculture, forestry, fishing and hunting, and mining Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24050/B24050001.json", 
+    "parent": "data/columns/us/census/acs/B24050/B24050083.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

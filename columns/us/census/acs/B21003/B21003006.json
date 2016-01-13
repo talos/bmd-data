@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Veteran:"
+    ], 
+    "isDenominator": false, 
+    "table": "Veteran Status by Educational Attainment for the Civilian Population 25 Years and Over", 
+    "title": "Bachelor's degree or higher", 
+    "universe": "Civilian Population 25 Years and Over"
+  }, 
+  "name": "Bachelor's degree or higher Veteran Veteran Status in Civilian Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B21003/B21003001.json", 
+    "parent": "data/columns/us/census/acs/B21003/B21003002.json"
+  }, 
+  "tags": [
+    "education", 
+    "veterans"
+  ], 
+  "weight": 0
+}

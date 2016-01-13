@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Gross Rent (Dollars) by Year Householder Moved Into Unit", 
+    "title": "Moved in 2000 or later", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Moved in 2000 or later", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25114/C25114001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

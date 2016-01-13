@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "Female:", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "Female in Grandparents Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10056/B10056001.json", 
+    "parent": "data/columns/us/census/acs/B10056/B10056001.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "children"
+  ], 
+  "weight": "0"
+}

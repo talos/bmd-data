@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (Black or African American Alone)", 
+    "title": "Native", 
+    "universe": "Black or African American Alone"
+  }, 
+  "name": "Native Female old in Black or African American Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003B/C05003B001.json", 
+    "parent": "data/columns/us/census/acs/C05003B/C05003B010.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

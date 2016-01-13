@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Subsaharan African:"
+    ], 
+    "isDenominator": false, 
+    "table": "Total Ancestry Reported", 
+    "title": "Zimbabwean", 
+    "universe": "Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported"
+  }, 
+  "name": "Zimbabwean Subsaharan African Total Ancestry Reported in Ancestry Categories Tallied for People With One or More Ancestry Categories Reported", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04003/B04003001.json", 
+    "parent": "data/columns/us/census/acs/B04003/B04003073.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

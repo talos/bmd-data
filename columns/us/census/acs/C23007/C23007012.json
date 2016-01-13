@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With own children under 18 years:", 
+      "Other family:", 
+      "Male householder, no wife present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "In labor force", 
+    "universe": "Families"
+  }, 
+  "name": "In labor force With own children under 18 years Presence of Own Children Under 18 Years Other family Family Type in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23007/C23007001.json", 
+    "parent": "data/columns/us/census/acs/C23007/C23007011.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

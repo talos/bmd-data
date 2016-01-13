@@ -1,0 +1,28 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With own children under 18 years:", 
+      "Married-couple family:", 
+      "Husband in labor force:", 
+      "Employed or in Armed Forces:", 
+      "Wife in labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "Employed or in Armed Forces", 
+    "universe": "Families"
+  }, 
+  "name": "Employed or in Armed Forces With own children under 18 years Presence of Own Children Under 18 Years Married-couple family Family Type Employed or in Armed Forces Wife in labor force in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23007/B23007001.json", 
+    "parent": "data/columns/us/census/acs/B23007/B23007006.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

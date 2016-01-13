@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Householder 35 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Age of Householder by Occupants Per Room", 
+    "title": "1.51 or more occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1.51 or more occupants per room Renter occupied Tenure Householder 35 to 64 years Age of Householder in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25015/B25015001.json", 
+    "parent": "data/columns/us/census/acs/B25015/B25015020.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

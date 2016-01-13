@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "5 to 17 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Number of Disabilities", 
+    "title": "With one type of disability", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With one type of disability old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18108/B18108001.json", 
+    "parent": "data/columns/us/census/acs/B18108/B18108006.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability"
+  ], 
+  "weight": 0
+}

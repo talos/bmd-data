@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tenure by Educational Attainment of Householder", 
+    "title": "Renter-occupied housing units:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Renter-occupied housing units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25013/B25013001.json", 
+    "parent": "data/columns/us/census/acs/B25013/B25013001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "education", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

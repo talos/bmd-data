@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Female:", 
+    "universe": "People Who Are Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "Female in People Who Are Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C01001E/C01001E001.json", 
+    "parent": "data/columns/us/census/acs/C01001E/C01001E001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

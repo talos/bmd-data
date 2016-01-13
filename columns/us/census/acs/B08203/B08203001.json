@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Number of Workers in Household by Vehicles Available", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Households", 
+  "relationships": {}, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

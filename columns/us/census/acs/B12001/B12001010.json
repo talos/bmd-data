@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Divorced", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Divorced Male in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12001/B12001001.json", 
+    "parent": "data/columns/us/census/acs/B12001/B12001002.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 1
+}

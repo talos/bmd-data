@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tricare/Military Health Coverage by Sex by Age", 
+    "title": "With TRICARE/military health coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Margin of error for With TRICARE/military health coverage Female Tricare/Military Health Coverage 25 to 34 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27008/B27008041.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

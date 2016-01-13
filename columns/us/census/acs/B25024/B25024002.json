@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure", 
+    "title": "1, detached", 
+    "universe": "Housing Units"
+  }, 
+  "name": "1, detached in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25024/B25024001.json", 
+    "parent": "data/columns/us/census/acs/B25024/B25024001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

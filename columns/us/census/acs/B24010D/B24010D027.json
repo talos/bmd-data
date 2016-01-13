@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Asian Alone)", 
+    "title": "Sales and office occupations:", 
+    "universe": "Civilian Employed Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Sales and office occupations Male in Civilian Employed Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010D/B24010D001.json", 
+    "parent": "data/columns/us/census/acs/B24010D/B24010D002.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

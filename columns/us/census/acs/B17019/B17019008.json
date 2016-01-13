@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Other families:", 
+      "Male householder, no wife present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Tenure", 
+    "title": "Owner occupied", 
+    "universe": "Families"
+  }, 
+  "name": "Owner occupied Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other families Household Type Male householder, no wife present Tenure", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17019/B17019001.json", 
+    "parent": "data/columns/us/census/acs/B17019/B17019007.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "tenure"
+  ], 
+  "weight": 0
+}

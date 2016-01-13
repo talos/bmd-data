@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "1-person household:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Size by Units in Structure", 
+    "title": "20 to 49", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "20 to 49 Owner occupied Tenure 1-person household Household Size in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25124/B25124001.json", 
+    "parent": "data/columns/us/census/acs/B25124/B25124003.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

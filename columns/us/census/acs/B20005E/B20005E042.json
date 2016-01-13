@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Other:", 
+      "With earnings:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "$40,000 to $44,999", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over"
+  }, 
+  "name": "$40,000 to $44,999 Male Other Work Experience in the Past 12 Months With earnings Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B20005E/B20005E001.json", 
+    "parent": "data/columns/us/census/acs/B20005E/B20005E028.json"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

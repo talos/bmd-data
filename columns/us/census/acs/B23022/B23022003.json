@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Status in the Past 12 Months by Usual Hours Worked Per Week in the Past 12 Months by Weeks Worked in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "Worked in the past 12 months:", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "Worked in the past 12 months Male in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23022/B23022001.json", 
+    "parent": "data/columns/us/census/acs/B23022/B23022002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

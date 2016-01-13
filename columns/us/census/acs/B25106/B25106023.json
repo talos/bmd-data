@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner-occupied housing units:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Housing Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Zero or negative income", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Zero or negative income Owner-occupied housing units Tenure", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25106/B25106001.json", 
+    "parent": "data/columns/us/census/acs/B25106/B25106002.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "tenure", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

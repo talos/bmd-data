@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Housing Unit Response and Nonresponse Rates With Reasons for Noninterviews", 
+    "title": "Response Rate", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Response Rate in Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98021/B98021001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

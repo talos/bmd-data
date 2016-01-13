@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Rent Asked", 
+    "title": "Total:", 
+    "universe": "Vacant-for-rent and Rented, Not Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Vacant-for-rent and Rented, Not Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25061/C25061001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

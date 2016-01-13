@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Some college or associate's degree:"
+    ], 
+    "isDenominator": false, 
+    "table": "Educational Attainment and Employment Status by Language Spoken at Home for the Population 25 Years and Over", 
+    "title": "In labor force:", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "In labor force Some college or associate's degree Educational Attainment and Employment Status in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C16010/C16010001.json", 
+    "parent": "data/columns/us/census/acs/C16010/C16010020.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "language"
+  ], 
+  "weight": 0
+}

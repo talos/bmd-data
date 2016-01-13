@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:", 
+      "Female householder, no husband present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type by Units in Structure", 
+    "title": "Mobile homes and all other types of units", 
+    "universe": "Households"
+  }, 
+  "name": "Mobile homes and all other types of units Family households Household Type Other family Units in Structure Female householder, no husband present", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11011/B11011001.json", 
+    "parent": "data/columns/us/census/acs/B11011/B11011012.json"
+  }, 
+  "tags": [
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

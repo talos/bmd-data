@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Race", 
+    "title": "Imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Imputed Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99021/B99021002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "race"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not in labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Employment Status by Disability Status and Type", 
+    "title": "With a disability:", 
+    "universe": "Civilian Noninstitutionalized Population 18 to 64 Years"
+  }, 
+  "name": "With a disability in Civilian Noninstitutionalized Population 18 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18120/B18120001.json", 
+    "parent": "data/columns/us/census/acs/B18120/B18120021.json"
+  }, 
+  "tags": [
+    "employment", 
+    "disability"
+  ], 
+  "weight": 0
+}

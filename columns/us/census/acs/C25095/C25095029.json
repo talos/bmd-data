@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$100,000 or more:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Income by Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Not computed", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Not computed $100,000 or more Household Income in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25095/C25095001.json", 
+    "parent": "data/columns/us/census/acs/C25095/C25095026.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

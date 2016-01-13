@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "Office and administrative support occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Bookkeeping, accounting, and auditing clerks", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Bookkeeping, accounting, and auditing clerks Office and administrative support occupations Occupation in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B24020/B24020253.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

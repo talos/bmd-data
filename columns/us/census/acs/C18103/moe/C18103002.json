@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Vision Difficulty", 
+    "title": "Male:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Margin of error for Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C18103/C18103002.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

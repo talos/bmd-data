@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "School Enrollment by Detailed Level of School for the Population 3 Years and Over (Asian Alone)", 
+    "title": "Total:", 
+    "universe": "Asian Alone Population 3 Years and Over"
+  }, 
+  "name": "Margin of error for Asian Alone Population 3 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C14007D/C14007D001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

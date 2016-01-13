@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Vacancy Status", 
+    "title": "Rented, not occupied", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Rented, not occupied in Vacant Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25004/B25004001.json", 
+    "parent": "data/columns/us/census/acs/B25004/B25004001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy"
+  ], 
+  "weight": 1
+}

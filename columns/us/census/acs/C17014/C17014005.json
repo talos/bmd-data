@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      null, 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Number of Workers in Family", 
+    "title": "2 workers", 
+    "universe": "Families"
+  }, 
+  "name": "2 workers Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17014/C17014001.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

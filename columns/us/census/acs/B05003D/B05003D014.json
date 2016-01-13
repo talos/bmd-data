@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Asian Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "Under 18 years Female in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003D/B05003D001.json", 
+    "parent": "data/columns/us/census/acs/B05003D/B05003D013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

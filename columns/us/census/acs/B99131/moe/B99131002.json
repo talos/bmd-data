@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Marital Status for Females 15 to 50 Years", 
+    "title": "Imputed", 
+    "universe": "Women 15 to 50 Years"
+  }, 
+  "name": "Margin of error for Imputed in Women 15 to 50 Years", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99131/B99131002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "marital status"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1-person household:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Size by Number of Workers in Household", 
+    "title": "1 worker", 
+    "universe": "Households"
+  }, 
+  "name": "1 worker 1-person household Household Size", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08202/B08202001.json", 
+    "parent": "data/columns/us/census/acs/B08202/B08202006.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households", 
+    "title": "With cash public assistance or Food Stamps/SNAP", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for With cash public assistance or Food Stamps/SNAP in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19058/B19058002.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

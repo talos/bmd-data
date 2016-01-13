@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:", 
+      "Community and social service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Counselors, social workers, and other community and social service specialists", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Counselors, social workers, and other community and social service specialists Female Management, business, science, and arts occupations Occupation Education, legal, community service, arts, and media occupations Community and social service occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010/B24010001.json", 
+    "parent": "data/columns/us/census/acs/B24010/B24010187.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

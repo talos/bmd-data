@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Enrolled in school:"
+    ], 
+    "isDenominator": false, 
+    "table": "School Enrollment by Level of School for the Population 3 Years and Over", 
+    "title": "Enrolled in grade 5 to grade 8", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Enrolled in grade 5 to grade 8 in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14001/B14001001.json", 
+    "parent": "data/columns/us/census/acs/B14001/B14001002.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 2
+}

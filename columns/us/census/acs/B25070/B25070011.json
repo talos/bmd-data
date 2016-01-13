@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Gross Rent as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Not computed", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Not computed in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25070/B25070001.json", 
+    "parent": "data/columns/us/census/acs/B25070/B25070001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

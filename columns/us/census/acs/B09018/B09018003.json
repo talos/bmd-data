@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Own child:"
+    ], 
+    "isDenominator": false, 
+    "table": "Relationship to Householder for Children Under 18 Years in Households", 
+    "title": "Biological child", 
+    "universe": "Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)"
+  }, 
+  "name": "Biological child Own child Relationship to Householder in Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09018/B09018001.json", 
+    "parent": "data/columns/us/census/acs/B09018/B09018002.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

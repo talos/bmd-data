@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Medicaid/Means-tested Public Coverage by Sex by Age", 
+    "title": "18 to 24 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "18 to 24 years Female Medicaid/Means-tested Public Coverage in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27007/B27007001.json", 
+    "parent": "data/columns/us/census/acs/B27007/B27007030.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

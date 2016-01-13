@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born elsewhere:", 
+      "Speak other languages:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Language Spoken at Home and Ability to Speak English in Puerto Rico", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Population 5 Years and Over in Puerto Rico"
+  }, 
+  "name": "Speak English \"very well\" Native; born elsewhere Place of Birth Speak other languages Language Spoken at Home and Ability to Speak English in Puerto Rico in Population 5 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06007PR/B06007PR001.json", 
+    "parent": "data/columns/us/census/acs/B06007PR/B06007PR030.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "weight": "0"
+}

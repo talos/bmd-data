@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Other family:", 
+      "Female householder, no husband present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Family Type by Presence and Age of Own Children Under 18 Years", 
+    "title": "No own children under 18 years", 
+    "universe": "Families"
+  }, 
+  "name": "No own children under 18 years Other family Family Type Female householder, no husband present Presence and Age of Own Children Under 18 Years in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11003/B11003001.json", 
+    "parent": "data/columns/us/census/acs/B11003/B11003015.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

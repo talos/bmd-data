@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work (Two or More Races)", 
+    "title": "Worked at home", 
+    "universe": "Two or More Races Workers 16 Years and Over"
+  }, 
+  "name": "Worked at home in Two or More Races Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08105G/C08105G001.json", 
+    "parent": "data/columns/us/census/acs/C08105G/C08105G001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

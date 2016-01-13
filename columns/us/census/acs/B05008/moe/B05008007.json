@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Asia:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Margin of error for Asia Male in Foreign-born Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05008/B05008007.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

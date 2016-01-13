@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "People Reporting Ancestry", 
+    "title": "Scottish", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Scottish Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B04006/B04006067.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

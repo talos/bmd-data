@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years in Married-couple Families by Work Experience of Householder and Spouse", 
+    "title": "With own children under 18 years:", 
+    "universe": "Married-couple Families"
+  }, 
+  "name": "With own children under 18 years in Married-couple Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23010/B23010001.json", 
+    "parent": "data/columns/us/census/acs/B23010/B23010001.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

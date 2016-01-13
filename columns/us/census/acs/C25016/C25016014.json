@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Lacking complete plumbing facilities:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Plumbing Facilities by Occupants Per Room", 
+    "title": "1.00 or less occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1.00 or less occupants per room Renter occupied Tenure Lacking complete plumbing facilities Plumbing Facilities in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25016/C25016001.json", 
+    "parent": "data/columns/us/census/acs/C25016/C25016013.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

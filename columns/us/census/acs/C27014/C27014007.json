@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked full-time, year-round:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Public Health Insurance by Work Experience by Age", 
+    "title": "With public coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With public coverage Worked full-time, year-round Public Health Insurance 65 years and over Work Experience in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27014/C27014001.json", 
+    "parent": "data/columns/us/census/acs/C27014/C27014006.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Food Stamps/SNAP Receipt", 
+    "title": "Not imputed", 
+    "universe": "Households"
+  }, 
+  "name": "Not imputed in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99221/B99221001.json", 
+    "parent": "data/columns/us/census/acs/B99221/B99221001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "public assistance"
+  ], 
+  "weight": 0
+}

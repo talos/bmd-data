@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "American Indian tribes, specified:"
+    ], 
+    "isDenominator": false, 
+    "table": "American Indian and Alaska Native (AIAN) Alone or in Any Combination by Selected Tribal Groupings", 
+    "title": "Houma", 
+    "universe": "Total AIAN Alone or in Any Combination Population (The Total Groups Tallied)"
+  }, 
+  "name": "Houma American Indian tribes, specified American Indian and Alaska Native (AIAN) Alone or in Any Combination in AIAN Alone or in Any Combination Population (The Groups Tallied)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02017/B02017001.json", 
+    "parent": "data/columns/us/census/acs/B02017/B02017002.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

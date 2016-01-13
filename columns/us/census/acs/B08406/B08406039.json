@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Car, truck, or van:", 
+      "Carpooled:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Means of Transportation to Work for Workplace Geography", 
+    "title": "In 2-person carpool", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "In 2-person carpool Female Sex of Workers Car, truck, or van Means of Transportation to Work Carpooled in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08406/B08406001.json", 
+    "parent": "data/columns/us/census/acs/B08406/B08406038.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

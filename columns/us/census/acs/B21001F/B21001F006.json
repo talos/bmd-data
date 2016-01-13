@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Some Other Race Alone)", 
+    "title": "35 to 54 years:", 
+    "universe": "Some Other Race Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "35 to 54 years Male in Some Other Race Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B21001F/B21001F001.json", 
+    "parent": "data/columns/us/census/acs/B21001F/B21001F002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

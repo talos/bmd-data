@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Households by Presence of People 60 Years and Over by Household Type", 
+    "title": "Households with one or more people 60 years and over:", 
+    "universe": "Households"
+  }, 
+  "name": "Households with one or more people 60 years and over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11006/B11006001.json", 
+    "parent": "data/columns/us/census/acs/B11006/B11006001.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

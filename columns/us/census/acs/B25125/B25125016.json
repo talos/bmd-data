@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Householder 35 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Age of Householder by Units in Structure", 
+    "title": "Mobile home, boat, RV, van, etc.", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Mobile home, boat, RV, van, etc. Owner occupied Tenure Householder 35 to 64 years Age of Householder in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25125/B25125001.json", 
+    "parent": "data/columns/us/census/acs/B25125/B25125010.json"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

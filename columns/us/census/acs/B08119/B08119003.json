@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$10,000 to $14,999", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "$10,000 to $14,999 in Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08119/B08119001.json", 
+    "parent": "data/columns/us/census/acs/B08119/B08119001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "weight": "0"
+}

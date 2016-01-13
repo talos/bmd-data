@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "20 to 24 years:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "20 to 24 years Male in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23001/C23001001.json", 
+    "parent": "data/columns/us/census/acs/C23001/C23001002.json"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

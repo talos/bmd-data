@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "West Indian (except Hispanic groups):"
+    ], 
+    "isDenominator": false, 
+    "table": "People Reporting Single Ancestry", 
+    "title": "Trinidadian and Tobagonian", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "Trinidadian and Tobagonian West Indian (except Hispanic groups) People Reporting Single Ancestry", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04004/B04004001.json", 
+    "parent": "data/columns/us/census/acs/B04004/B04004094.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

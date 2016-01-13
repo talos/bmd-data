@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Education, training, and library occupations", 
+    "universe": "Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over"
+  }, 
+  "name": "Education, training, and library occupations Female Management, business, science, and arts occupations Occupation Education, legal, community service, arts, and media occupations in Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010C/B24010C001.json", 
+    "parent": "data/columns/us/census/acs/B24010C/B24010C047.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,28 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Other family:", 
+      "Male householder, no wife present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (Two or More Races Householder)", 
+    "title": "No related children under 18 years", 
+    "universe": "Families With a Householder Who Is Two or More Races"
+  }, 
+  "name": "No related children under 18 years Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other family Family Type Male householder, no wife present Presence of Related Children Under 18 Years in Families With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17010G/B17010G001.json", 
+    "parent": "data/columns/us/census/acs/B17010G/B17010G010.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

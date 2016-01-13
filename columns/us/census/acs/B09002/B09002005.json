@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In married-couple families:"
+    ], 
+    "isDenominator": false, 
+    "table": "Own Children Under 18 Years by Family Type and Age", 
+    "title": "5 years", 
+    "universe": "Own Children Under 18 Years"
+  }, 
+  "name": "5 years In married-couple families Own Children Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09002/B09002001.json", 
+    "parent": "data/columns/us/census/acs/B09002/B09002002.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

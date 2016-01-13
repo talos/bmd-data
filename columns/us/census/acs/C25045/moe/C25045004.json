@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Vehicles Available", 
+    "title": "1 or more vehicles available", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for 1 or more vehicles available Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25045/C25045004.json"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "tenure"
+  ], 
+  "weight": 0
+}

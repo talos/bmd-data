@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van:", 
+      "Drove alone:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Travel Time to Work", 
+    "title": "45 to 59 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "45 to 59 minutes Car, truck, or van Means of Transportation to Work Drove alone Travel Time to Work in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08134/B08134001.json", 
+    "parent": "data/columns/us/census/acs/B08134/B08134021.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "1"
+}

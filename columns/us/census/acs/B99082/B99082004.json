@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van:"
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Private Vehicle Occupancy", 
+    "title": "Not imputed", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not imputed Car, truck, or van Imputation of Private Vehicle Occupancy in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99082/B99082001.json", 
+    "parent": "data/columns/us/census/acs/B99082/B99082002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

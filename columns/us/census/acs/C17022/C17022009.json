@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1.30 to 1.49:"
+    ], 
+    "isDenominator": false, 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type", 
+    "title": "Other family:", 
+    "universe": "Families"
+  }, 
+  "name": "Other family 1.30 to 1.49 Ratio of Income to Poverty Level in the Past 12 Months of Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17022/C17022001.json", 
+    "parent": "data/columns/us/census/acs/C17022/C17022007.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "poverty", 
+    "income"
+  ], 
+  "weight": 0
+}

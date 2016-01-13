@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Private Health Insurance Status by Sex by Age", 
+    "title": "With private health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Margin of error for With private health insurance Male Private Health Insurance Status 55 to 64 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27002/B27002022.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 1
+}

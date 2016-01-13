@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (Hispanic or Latino) for Residence 1 Year Ago in Puerto Rico", 
+    "title": "Moved within same municipio", 
+    "universe": "Hispanic or Latino Population 1 Year and Over"
+  }, 
+  "name": "Moved within same municipio in Hispanic or Latino Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07404IPR/B07404IPR001.json", 
+    "parent": "data/columns/us/census/acs/B07404IPR/B07404IPR001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

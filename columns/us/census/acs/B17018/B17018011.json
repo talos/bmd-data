@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Other families:", 
+      "Male householder, no wife present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Educational Attainment of Householder", 
+    "title": "High school graduate (includes equivalency)", 
+    "universe": "Families"
+  }, 
+  "name": "High school graduate (includes equivalency) Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other families Household Type Male householder, no wife present Educational Attainment of Householder", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17018/B17018001.json", 
+    "parent": "data/columns/us/census/acs/B17018/B17018009.json"
+  }, 
+  "tags": [
+    "families", 
+    "education", 
+    "poverty"
+  ], 
+  "weight": 0
+}

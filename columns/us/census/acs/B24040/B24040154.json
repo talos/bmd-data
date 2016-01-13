@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Retail trade:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Furniture and home furnishings, and household appliance stores", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Furniture and home furnishings, and household appliance stores Female Retail trade Industry in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24040/B24040001.json", 
+    "parent": "data/columns/us/census/acs/B24040/B24040152.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

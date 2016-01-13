@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Some college or associate's degree:", 
+      "In labor force:", 
+      "Civilian:"
+    ], 
+    "isDenominator": false, 
+    "table": "Educational Attainment by Employment Status for the Population 25 to 64 Years", 
+    "title": "Employed", 
+    "universe": "Population 25 to 64 Years"
+  }, 
+  "name": "Employed Some college or associate's degree Educational Attainment Civilian in Population 25 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23006/B23006001.json", 
+    "parent": "data/columns/us/census/acs/B23006/B23006019.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment"
+  ], 
+  "weight": 1
+}

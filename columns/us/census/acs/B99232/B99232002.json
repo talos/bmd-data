@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Work Status in the Past 12 Months for the Population 16 Years and Over", 
+    "title": "Imputed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Imputed in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99232/B99232001.json", 
+    "parent": "data/columns/us/census/acs/B99232/B99232001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Vehicles Available", 
+    "title": "1 vehicle available", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "1 vehicle available in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08141/C08141001.json", 
+    "parent": "data/columns/us/census/acs/C08141/C08141001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work for Workplace Geography (Hispanic or Latino)", 
+    "title": "Taxicab, motorcycle, bicycle, or other means", 
+    "universe": "Hispanic or Latino Workers 16 Years and Over"
+  }, 
+  "name": "Taxicab, motorcycle, bicycle, or other means in Hispanic or Latino Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08505I/B08505I001.json", 
+    "parent": "data/columns/us/census/acs/B08505I/B08505I001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Bedrooms", 
+    "title": "No bedroom", 
+    "universe": "Housing Units"
+  }, 
+  "name": "No bedroom in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25041/B25041001.json", 
+    "parent": "data/columns/us/census/acs/B25041/B25041001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

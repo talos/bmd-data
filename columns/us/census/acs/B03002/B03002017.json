@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Hispanic or Latino:"
+    ], 
+    "isDenominator": false, 
+    "table": "Hispanic or Latino Origin by Race", 
+    "title": "Native Hawaiian and Other Pacific Islander alone", 
+    "universe": "Total Population"
+  }, 
+  "name": "Native Hawaiian and Other Pacific Islander Hispanic or Latino Hispanic or Latino Origin Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B03002/B03002001.json", 
+    "parent": "data/columns/us/census/acs/B03002/B03002012.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "2"
+}

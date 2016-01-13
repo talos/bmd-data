@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not a U.S. citizen Female old Foreign born Nativity and Citizenship Status Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003/B05003001.json", 
+    "parent": "data/columns/us/census/acs/B05003/B05003016.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

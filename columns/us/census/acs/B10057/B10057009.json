@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Unmarried (never married, widowed, and divorced):", 
+      "Grandparent responsible for own grandchildren under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "30 to 59 years", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "30 to 59 years Unmarried (never married, widowed, and divorced) Marital Status Grandparent responsible for own grandchildren under 18 years Grandparents Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10057/B10057001.json", 
+    "parent": "data/columns/us/census/acs/B10057/B10057008.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "grandparents", 
+    "children"
+  ], 
+  "weight": "0"
+}

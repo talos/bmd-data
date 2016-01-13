@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign-born population:", 
+      "Naturalized U.S. citizen:", 
+      "5 to 17 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Citizenship Status by Age by Language Spoken at Home and Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak Spanish", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak Spanish Foreign-born population Citizenship Status old 5 to 17 years Language Spoken at Home and Ability to Speak English in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16008/B16008001.json", 
+    "parent": "data/columns/us/census/acs/B16008/B16008021.json"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "weight": 0
+}

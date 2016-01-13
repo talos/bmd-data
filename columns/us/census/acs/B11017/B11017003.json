@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Multigenerational Households", 
+    "title": "All other households", 
+    "universe": "Total Households"
+  }, 
+  "name": "All other households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11017/B11017001.json", 
+    "parent": "data/columns/us/census/acs/B11017/B11017001.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

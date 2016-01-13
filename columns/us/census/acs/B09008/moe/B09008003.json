@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Presence of Unmarried Partner of Householder by Household Type for Children Under 18 Years in Households", 
+    "title": "In family households:", 
+    "universe": "Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)"
+  }, 
+  "name": "Margin of error for In family households Unmarried partner of householder present Presence of Unmarried Partner of Householder in Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B09008/B09008003.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Not Imputed", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Not Imputed in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99242/B99242001.json", 
+    "parent": "data/columns/us/census/acs/B99242/B99242001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "employment"
+  ], 
+  "weight": 0
+}

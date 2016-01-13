@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Rooms", 
+    "title": "2 rooms", 
+    "universe": "Housing Units"
+  }, 
+  "name": "2 rooms in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25017/B25017001.json", 
+    "parent": "data/columns/us/census/acs/B25017/B25017001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Worked in the past 12 months:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Full-time Work Status in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "Worked less than full-time, year-round", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "Worked less than full-time, year-round Female Worked in the past 12 months Full-time Work Status in the Past 12 Months in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23022/C23022001.json", 
+    "parent": "data/columns/us/census/acs/C23022/C23022008.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

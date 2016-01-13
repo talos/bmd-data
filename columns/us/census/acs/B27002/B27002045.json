@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "35 to 44 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Private Health Insurance Status by Sex by Age", 
+    "title": "No private health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No private health insurance Female Private Health Insurance Status 35 to 44 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27002/B27002001.json", 
+    "parent": "data/columns/us/census/acs/B27002/B27002043.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 1
+}

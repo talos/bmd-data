@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Mortgage Status", 
+    "title": "Not imputed", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Not imputed in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992521/B992521001.json", 
+    "parent": "data/columns/us/census/acs/B992521/B992521001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Same house 1 year ago:", 
+      "With income:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for Current Residence in the United States", 
+    "title": "$65,000 to $74,999", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "$65,000 to $74,999 Same house 1 year ago Geographical Mobility in the Past Year With income Individual Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07010/B07010001.json", 
+    "parent": "data/columns/us/census/acs/B07010/B07010014.json"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "weight": "0"
+}

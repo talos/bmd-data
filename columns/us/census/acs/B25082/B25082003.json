@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Value (Dollars) by Mortgage Status", 
+    "title": "Housing units without a mortgage (dollars)", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Housing units without a mortgage (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25082/B25082001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

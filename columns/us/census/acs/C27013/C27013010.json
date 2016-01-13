@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked less than full-time, year-round:"
+    ], 
+    "isDenominator": false, 
+    "table": "Private Health Insurance by Work Experience by Age", 
+    "title": "18 to 64 years:", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "18 to 64 years Worked less than full-time, year-round Private Health Insurance in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27013/C27013001.json", 
+    "parent": "data/columns/us/census/acs/C27013/C27013009.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "weight": 0
+}

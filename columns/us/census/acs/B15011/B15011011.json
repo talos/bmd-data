@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "40 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Field of Bachelor's Degree for First Major for the Population 25 Years and Over", 
+    "title": "Science and Engineering Related Fields", 
+    "universe": "POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Science and Engineering Related Fields Male old in POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B15011/B15011001.json", 
+    "parent": "data/columns/us/census/acs/B15011/B15011009.json"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "weight": 0
+}

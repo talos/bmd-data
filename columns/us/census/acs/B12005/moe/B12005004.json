@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Marital Status by Nativity", 
+    "title": "Foreign born", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Margin of error for Foreign born Never married Marital Status in Population 15 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B12005/B12005004.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": 0
+}

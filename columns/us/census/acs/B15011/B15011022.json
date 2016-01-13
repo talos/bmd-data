@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Field of Bachelor's Degree for First Major for the Population 25 Years and Over", 
+    "title": "25 to 39 years:", 
+    "universe": "POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "25 to 39 years Female in POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B15011/B15011001.json", 
+    "parent": "data/columns/us/census/acs/B15011/B15011021.json"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (White Alone, Not Hispanic or Latino)", 
+    "title": "Male:", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "Male in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003H/B05003H001.json", 
+    "parent": "data/columns/us/census/acs/B05003H/B05003H001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

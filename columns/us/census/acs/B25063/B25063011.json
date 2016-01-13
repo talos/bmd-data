@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With cash rent:"
+    ], 
+    "isDenominator": false, 
+    "table": "Gross Rent", 
+    "title": "$450 to $499", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$450 to $499 With cash rent Gross Rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25063/B25063001.json", 
+    "parent": "data/columns/us/census/acs/B25063/B25063002.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Sex", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not imputed Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99011/B99011001.json", 
+    "parent": "data/columns/us/census/acs/B99011/B99011001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

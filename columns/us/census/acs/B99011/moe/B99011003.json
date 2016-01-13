@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Sex", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Not imputed Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99011/B99011003.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

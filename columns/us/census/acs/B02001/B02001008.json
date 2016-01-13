@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Race", 
+    "title": "Two or more races:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Two or more races Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02001/B02001001.json", 
+    "parent": "data/columns/us/census/acs/B02001/B02001001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "1"
+}

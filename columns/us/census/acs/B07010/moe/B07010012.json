@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Geographical Mobility in the Past Year by Individual Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for Current Residence in the United States", 
+    "title": "Same house 1 year ago:", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Margin of error for Same house 1 year ago in Population 15 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B07010/B07010012.json"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "weight": "0"
+}

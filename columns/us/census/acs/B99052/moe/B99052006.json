@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Year of Entry", 
+    "title": "Imputed", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Margin of error for Imputed Foreign born Imputation of Year of Entry in Population Born Outside the United States", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99052/B99052006.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Citizenship Status", 
+    "title": "Public transportation (excluding taxicab):", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08111/C08111001.json", 
+    "parent": "data/columns/us/census/acs/C08111/C08111001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

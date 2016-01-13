@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Disability Status by Full-time Work Status in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "With a disability:", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "With a disability Female in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23023/C23023001.json", 
+    "parent": "data/columns/us/census/acs/C23023/C23023013.json"
+  }, 
+  "tags": [
+    "disability", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

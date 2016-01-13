@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Marital Status for the Population 15 Years and Over (Asian Alone)", 
+    "title": "Total:", 
+    "universe": "Asian Alone Population 15 Years and Over"
+  }, 
+  "name": "Margin of error for Asian Alone Population 15 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C12002D/C12002D001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race"
+  ], 
+  "weight": 0
+}

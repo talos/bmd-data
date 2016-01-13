@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:", 
+      "Life, physical, and social science occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Social scientists and related workers", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Social scientists and related workers Female Management, business, science, and arts occupations Occupation Computer, engineering, and science occupations Life, physical, and social science occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24020/B24020001.json", 
+    "parent": "data/columns/us/census/acs/B24020/B24020182.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

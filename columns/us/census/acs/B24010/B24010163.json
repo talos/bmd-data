@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Management, business, and financial occupations:", 
+      "Management occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Other management occupations except farmers, ranchers, and other agricultural managers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Other management occupations except farmers, ranchers, and other agricultural managers Female Management, business, science, and arts occupations Occupation Management, business, and financial occupations Management occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010/B24010001.json", 
+    "parent": "data/columns/us/census/acs/B24010/B24010156.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

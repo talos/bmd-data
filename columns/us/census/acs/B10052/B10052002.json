@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Disability Status of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "With any disability:", 
+    "universe": "Civilian Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "With any disability in Civilian Grandparents Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10052/B10052001.json", 
+    "parent": "data/columns/us/census/acs/B10052/B10052001.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "disability", 
+    "children"
+  ], 
+  "weight": "0"
+}

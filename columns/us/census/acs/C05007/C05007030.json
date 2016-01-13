@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Latin America:", 
+      null, 
+      "Mexico:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Entered U.S. 1980 to 1989:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered U.S. 1980 to 1989 Latin America Place of Birth Mexico Citizenship Status in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05007/C05007001.json", 
+    "parent": "data/columns/us/census/acs/C05007/C05007025.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

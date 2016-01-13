@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Other family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Aggregate Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Family Type by Presence of Own Children Under 18 Years", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Families"
+  }, 
+  "name": "Male householder, no wife present Other family Aggregate Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19128/B19128005.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": 0
+}

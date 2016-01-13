@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Production, transportation, and material moving occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Transportation occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Transportation occupations Female Production, transportation, and material moving occupations Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24012/B24012001.json", 
+    "parent": "data/columns/us/census/acs/B24012/B24012070.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type (Some Other Race Alone)", 
+    "title": "Family households:", 
+    "universe": "Households With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Family households in Households With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C11001F/C11001F001.json", 
+    "parent": "data/columns/us/census/acs/C11001F/C11001F001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

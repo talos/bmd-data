@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Professional, scientific, and management, and administrative and waste management services:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Professional, scientific, and management, and administrative and waste management services Female in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24030/C24030001.json", 
+    "parent": "data/columns/us/census/acs/C24030/C24030029.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

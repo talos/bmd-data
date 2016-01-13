@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "2 bedrooms:"
+    ], 
+    "isDenominator": false, 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "With cash rent:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "With cash rent 2 bedrooms Bedrooms in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25068/C25068001.json", 
+    "parent": "data/columns/us/census/acs/C25068/C25068012.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

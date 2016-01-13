@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status by Sex by Age", 
+    "title": "Male:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27001/B27001001.json", 
+    "parent": "data/columns/us/census/acs/B27001/B27001001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 1
+}

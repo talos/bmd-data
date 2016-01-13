@@ -1,0 +1,18 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Household Size", 
+    "title": "2-person households", 
+    "universe": "Households"
+  }, 
+  "name": "2-person households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19019/B19019001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Private not-for-profit wage and salary workers:", 
+      "Transportation and warehousing, and utilities:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Utilities", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Utilities Private not-for-profit wage and salary workers Industry Transportation and warehousing, and utilities Class of Worker in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24070/B24070001.json", 
+    "parent": "data/columns/us/census/acs/B24070/B24070090.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

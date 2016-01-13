@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Year of Entry by Nativity in the United States", 
+    "title": "Entered U.S. 1980 to 1989:", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Entered U.S. 1980 to 1989 in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05005/C05005001.json", 
+    "parent": "data/columns/us/census/acs/C05005/C05005001.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

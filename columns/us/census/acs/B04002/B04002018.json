@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Second Ancestry Reported", 
+    "title": "Australian", 
+    "universe": "Total Population"
+  }, 
+  "name": "Australian Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04002/B04002001.json", 
+    "parent": "data/columns/us/census/acs/B04002/B04002001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Direct-purchase Health Insurance by Sex by Age", 
+    "title": "Female:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Female in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27005/C27005001.json", 
+    "parent": "data/columns/us/census/acs/C27005/C27005001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

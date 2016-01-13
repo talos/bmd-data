@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Black or African American Alone)", 
+    "title": "Female:", 
+    "universe": "Black or African American Alone"
+  }, 
+  "name": "Female in Black or African American Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003B/B05003B001.json", 
+    "parent": "data/columns/us/census/acs/B05003B/B05003B001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

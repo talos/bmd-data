@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Vehicles Available by Age of Householder", 
+    "title": "No vehicle available:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for No vehicle available Renter occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25045/B25045012.json"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

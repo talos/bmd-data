@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tenure by Age of Householder by Units in Structure", 
+    "title": "Owner occupied:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Owner occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25125/B25125001.json", 
+    "parent": "data/columns/us/census/acs/B25125/B25125001.json"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

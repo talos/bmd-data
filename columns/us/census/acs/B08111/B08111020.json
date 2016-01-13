@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Citizenship Status", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not a U.S. citizen Public transportation (excluding taxicab) Means of Transportation to Work Foreign born Citizenship Status in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08111/B08111001.json", 
+    "parent": "data/columns/us/census/acs/B08111/B08111018.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

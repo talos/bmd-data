@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Means of Transportation to Work by Citizenship Status for Workplace Geography", 
+    "title": "Public transportation (excluding taxicab):", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08511/C08511016.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

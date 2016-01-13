@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Family Size", 
+    "title": "6-person families", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for 6-person families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19119/B19119006.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

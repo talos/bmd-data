@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Asia:", 
+      "Eastern Asia:", 
+      "China:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth for the Foreign-born Population in Puerto Rico", 
+    "title": "Taiwan", 
+    "universe": "Foreign-born Population in Puerto Rico Excluding Population Born at Sea"
+  }, 
+  "name": "Taiwan Asia Place of Birth Eastern Asia China in Foreign-born Population in Puerto Rico Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05006PR/B05006PR001.json", 
+    "parent": "data/columns/us/census/acs/B05006PR/B05006PR012.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

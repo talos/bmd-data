@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born outside the United States:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Sex in the United States", 
+    "title": "Female", 
+    "universe": "Total Population  in the United States"
+  }, 
+  "name": "Female Native; born outside the United States Place of Birth in Population ", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C06003/C06003001.json", 
+    "parent": "data/columns/us/census/acs/C06003/C06003010.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

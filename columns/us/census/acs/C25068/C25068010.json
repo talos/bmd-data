@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1 bedroom:", 
+      "With cash rent:"
+    ], 
+    "isDenominator": false, 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "$500 or more", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$500 or more 1 bedroom Bedrooms With cash rent Gross Rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25068/C25068001.json", 
+    "parent": "data/columns/us/census/acs/C25068/C25068008.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

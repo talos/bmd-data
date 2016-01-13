@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "35 to 44 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "VA Health Care by Sex by Age", 
+    "title": "With VA Health Care", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With VA Health Care Female VA Health Care 35 to 44 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27009/B27009001.json", 
+    "parent": "data/columns/us/census/acs/B27009/B27009043.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "VA Health Care by Sex by Age", 
+    "title": "65 years and over:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "65 years and over Female VA Health Care in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27009/C27009001.json", 
+    "parent": "data/columns/us/census/acs/C27009/C27009012.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

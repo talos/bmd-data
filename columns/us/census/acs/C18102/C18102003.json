@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Hearing Difficulty", 
+    "title": "Under 18 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 18 years Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18102/C18102001.json", 
+    "parent": "data/columns/us/census/acs/C18102/C18102002.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

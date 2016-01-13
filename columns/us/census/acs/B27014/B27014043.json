@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work:", 
+      "Female:", 
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Public Health Insurance by Work Experience by Sex by Age", 
+    "title": "No public coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "No public coverage Did not work Public Health Insurance Female Work Experience 18 to 64 years in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27014/B27014001.json", 
+    "parent": "data/columns/us/census/acs/B27014/B27014041.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

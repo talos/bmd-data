@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 6 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age of Own Children Under 18 Years in Families and Subfamilies by Living Arrangements by Employment Status of Parents", 
+    "title": "Living with two parents:", 
+    "universe": "Own Children Under 18 Years in Families and Subfamilies"
+  }, 
+  "name": "Living with two parents Under 6 years Age of Own Children Under 18 Years in Families and Subfamilies", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23008/C23008001.json", 
+    "parent": "data/columns/us/census/acs/C23008/C23008002.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

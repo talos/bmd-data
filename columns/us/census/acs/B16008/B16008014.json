@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native population:", 
+      "18 years and over:", 
+      "Speak Spanish"
+    ], 
+    "isDenominator": false, 
+    "table": "Citizenship Status by Age by Language Spoken at Home and Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Native population Citizenship Status old Speak Spanish Language Spoken at Home and Ability to Speak English in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16008/B16008001.json", 
+    "parent": "data/columns/us/census/acs/B16008/B16008013.json"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "weight": 0
+}

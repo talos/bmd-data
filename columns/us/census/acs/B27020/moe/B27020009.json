@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Health Insurance Coverage Status and Type by Citizenship Status", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Margin of error for With health insurance coverage Foreign Born Health Insurance Coverage Status and Type Naturalized Citizenship Status in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27020/B27020009.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "citizenship"
+  ], 
+  "weight": 1
+}

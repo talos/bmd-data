@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Worked full-time, year-round in the past 12 months:", 
+      "With earnings:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 16 Years and Over (Asian Alone)", 
+    "title": "$2,500 to $4,999", 
+    "universe": "Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "$2,500 to $4,999 Female Worked full-time, year-round in the past 12 months Work Experience in the Past 12 Months With earnings Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B20005D/B20005D001.json", 
+    "parent": "data/columns/us/census/acs/B20005D/B20005D052.json"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

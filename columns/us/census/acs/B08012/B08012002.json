@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex of Workers by Travel Time to Work", 
+    "title": "Less than 5 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Less than 5 minutes in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08012/B08012001.json", 
+    "parent": "data/columns/us/census/acs/B08012/B08012001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "1"
+}

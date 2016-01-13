@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Presence of Own Children Under 18 Years", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Male householder, no wife present Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other families Household Type", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17023/C17023007.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

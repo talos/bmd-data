@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "isDenominator": false, 
+    "table": "People Reporting Multiple Ancestry", 
+    "title": "Lebanese", 
+    "universe": "People Reporting Multiple Ancestries"
+  }, 
+  "name": "Lebanese Arab People Reporting Multiple Ancestry in People Reporting Multiple Ancestries", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04005/B04005001.json", 
+    "parent": "data/columns/us/census/acs/B04005/B04005006.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

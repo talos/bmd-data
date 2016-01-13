@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Occupants Per Room (White Alone Householder)", 
+    "title": "1.01 or more occupants per room", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone"
+  }, 
+  "name": "Margin of error for 1.01 or more occupants per room in Occupied Housing Units With a Householder Who Is White Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25014A/B25014A003.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

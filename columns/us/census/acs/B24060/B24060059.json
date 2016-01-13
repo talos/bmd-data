@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Employee of private company workers:", 
+      "Service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Food preparation and serving related occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Food preparation and serving related occupations Employee of private company workers Occupation Service occupations Class of Worker in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24060/B24060001.json", 
+    "parent": "data/columns/us/census/acs/B24060/B24060054.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

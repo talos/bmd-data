@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type for Population in Households (Hispanic or Latino)", 
+    "title": "In nonfamily households", 
+    "universe": "Population in Households With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Margin of error for In nonfamily households in Population in Households With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C11002I/C11002I003.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

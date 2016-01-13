@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Production, transportation, and material moving occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Construction", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Construction Production, transportation, and material moving occupations Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24050/B24050001.json", 
+    "parent": "data/columns/us/census/acs/B24050/B24050136.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Language Spoken at Home for the Population 5 Years and Over", 
+    "title": "Speak other Indo-European languages", 
+    "universe": "Population 5 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Speak other Indo-European languages Income in the past 12 months below poverty level Poverty Status in the Past 12 Months in Population 5 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C16009/C16009001.json", 
+    "parent": "data/columns/us/census/acs/C16009/C16009002.json"
+  }, 
+  "tags": [
+    "poverty", 
+    "language"
+  ], 
+  "weight": 0
+}

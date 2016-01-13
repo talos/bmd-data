@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "6 to 17 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Medicaid/Means-tested Public Coverage by Sex by Age", 
+    "title": "No Medicaid/means-tested public coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No Medicaid/means-tested public coverage Female Medicaid/Means-tested Public Coverage 6 to 17 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27007/B27007001.json", 
+    "parent": "data/columns/us/census/acs/B27007/B27007034.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "3 or more bedrooms:", 
+      "With cash rent:"
+    ], 
+    "isDenominator": false, 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "$300 to $499", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$300 to $499 3 or more bedrooms Bedrooms With cash rent Gross Rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25068/B25068001.json", 
+    "parent": "data/columns/us/census/acs/B25068/B25068030.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

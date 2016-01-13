@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Kitchen Facilities", 
+    "title": "Imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Imputed in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992510/B992510001.json", 
+    "parent": "data/columns/us/census/acs/B992510/B992510001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

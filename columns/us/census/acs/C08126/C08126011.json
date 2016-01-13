@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Industry", 
+    "title": "Arts, entertainment, and recreation, and accommodation and food services", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Arts, entertainment, and recreation, and accommodation and food services in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08126/C08126001.json", 
+    "parent": "data/columns/us/census/acs/C08126/C08126001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

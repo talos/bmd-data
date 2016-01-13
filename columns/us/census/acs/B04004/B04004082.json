@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Subsaharan African:"
+    ], 
+    "isDenominator": false, 
+    "table": "People Reporting Single Ancestry", 
+    "title": "Somalian", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "Somalian Subsaharan African People Reporting Single Ancestry", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04004/B04004001.json", 
+    "parent": "data/columns/us/census/acs/B04004/B04004073.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

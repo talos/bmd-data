@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Natural resources, construction, and maintenance occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Asian Alone)", 
+    "title": "Farming, fishing, and forestry occupations", 
+    "universe": "Civilian Employed Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Farming, fishing, and forestry occupations Male Natural resources, construction, and maintenance occupations Occupation in Civilian Employed Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010D/B24010D001.json", 
+    "parent": "data/columns/us/census/acs/B24010D/B24010D030.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

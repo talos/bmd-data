@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (Black or African American Alone Householder)", 
+    "title": "1, detached or attached", 
+    "universe": "Occupied Housing Units With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "1, detached or attached in Occupied Housing Units With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25032B/C25032B001.json", 
+    "parent": "data/columns/us/census/acs/C25032B/C25032B001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Asian Alone)", 
+    "title": "Not in labor force", 
+    "universe": "Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Not in labor force Female old in Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23002D/C23002D001.json", 
+    "parent": "data/columns/us/census/acs/C23002D/C23002D023.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

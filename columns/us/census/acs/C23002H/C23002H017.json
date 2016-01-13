@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "16 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "In labor force:", 
+    "universe": "White Alone, Not Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "In labor force Female old in White Alone, Not Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23002H/C23002H001.json", 
+    "parent": "data/columns/us/census/acs/C23002H/C23002H016.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

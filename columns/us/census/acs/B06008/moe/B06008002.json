@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Marital Status in the United States", 
+    "title": "Never married", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Margin of error for Never married in Population 15 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06008/B06008002.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": "0"
+}

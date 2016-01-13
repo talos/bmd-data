@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Women who had a birth in the past 12 months:"
+    ], 
+    "isDenominator": false, 
+    "table": "Women 15 to 50 Years Who Had a Birth in the Past 12 Months by Marital Status and Receipt of Public Assistance Income in the Past 12 Months", 
+    "title": "Now married (including separated and spouse absent):", 
+    "universe": "Women 15 to 50 Years"
+  }, 
+  "name": "Now married (including separated and spouse absent) Women who had a birth in the past 12 months Women 15 to 50 Years Who Had a Birth in the Past 12 Months", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B13015/B13015001.json", 
+    "parent": "data/columns/us/census/acs/B13015/B13015002.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "marital status", 
+    "fertility", 
+    "income"
+  ], 
+  "weight": 0
+}

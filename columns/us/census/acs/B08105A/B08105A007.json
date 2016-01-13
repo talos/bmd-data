@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work (White Alone)", 
+    "title": "Worked at home", 
+    "universe": "White Alone Workers 16 Years and Over"
+  }, 
+  "name": "Worked at home in White Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08105A/B08105A001.json", 
+    "parent": "data/columns/us/census/acs/B08105A/B08105A001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

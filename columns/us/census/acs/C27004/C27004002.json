@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Employer-based Health Insurance by Sex by Age", 
+    "title": "Male:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27004/C27004001.json", 
+    "parent": "data/columns/us/census/acs/C27004/C27004001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

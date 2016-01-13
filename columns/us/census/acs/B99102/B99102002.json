@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Grandparents Living With Grandchildren Under 18 Years", 
+    "title": "Imputed", 
+    "universe": "Population 30 Years and Over"
+  }, 
+  "name": "Imputed in Population 30 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99102/B99102001.json", 
+    "parent": "data/columns/us/census/acs/B99102/B99102001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "grandparents", 
+    "children"
+  ], 
+  "weight": 0
+}

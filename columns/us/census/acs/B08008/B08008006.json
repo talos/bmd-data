@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex of Workers by Place of Work--Place Level", 
+    "title": "Male:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Male in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08008/B08008001.json", 
+    "parent": "data/columns/us/census/acs/B08008/B08008001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

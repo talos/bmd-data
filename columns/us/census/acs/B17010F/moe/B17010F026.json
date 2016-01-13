@@ -1,0 +1,22 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (Some Other Race Alone Householder)", 
+    "title": "Under 5 years and 5 to 17 years", 
+    "universe": "Families With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Margin of error for Under 5 years and 5 to 17 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Married-couple family Family Type With related children under 18 years Presence of Related Children Under 18 Years in Families With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17010F/B17010F026.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

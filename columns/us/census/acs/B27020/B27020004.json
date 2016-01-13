@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native Born:", 
+      "With health insurance coverage"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Citizenship Status", 
+    "title": "With private health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With private health insurance Native Born Health Insurance Coverage Status and Type With health insurance coverage Citizenship Status in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27020/B27020001.json", 
+    "parent": "data/columns/us/census/acs/B27020/B27020003.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "citizenship"
+  ], 
+  "weight": 1
+}

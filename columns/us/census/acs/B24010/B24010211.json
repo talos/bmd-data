@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Healthcare practitioners and technical occupations:", 
+      "Health diagnosing and treating practitioners and other technical occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Registered nurses", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Registered nurses Female Management, business, science, and arts occupations Occupation Healthcare practitioners and technical occupations Health diagnosing and treating practitioners and other technical occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010/B24010001.json", 
+    "parent": "data/columns/us/census/acs/B24010/B24010208.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

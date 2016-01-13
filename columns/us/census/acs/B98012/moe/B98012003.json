@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Total Population Coverage Rate by Sex", 
+    "title": "Female", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Female Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98012/B98012003.json"
+  }, 
+  "tags": [
+    "technical", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

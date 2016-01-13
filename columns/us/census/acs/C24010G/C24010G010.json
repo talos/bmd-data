@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Two or More Races)", 
+    "title": "Service occupations:", 
+    "universe": "Civilian Employed Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "Service occupations Female in Civilian Employed Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24010G/C24010G001.json", 
+    "parent": "data/columns/us/census/acs/C24010G/C24010G008.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

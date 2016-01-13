@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Family households:", 
+      "Married-couple family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Type and Presence and Age of Own Children", 
+    "title": "With own children under 18 years", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "With own children under 18 years Owner occupied Tenure Family households Household Type and Presence and Age of Own Children Married-couple family in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25115/B25115001.json", 
+    "parent": "data/columns/us/census/acs/B25115/B25115004.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "weight": 0
+}

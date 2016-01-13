@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over", 
+    "title": "18 to 34 years:", 
+    "universe": "Civilian Population 18 Years and Over"
+  }, 
+  "name": "18 to 34 years Male in Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B21001/B21001001.json", 
+    "parent": "data/columns/us/census/acs/B21001/B21001004.json"
+  }, 
+  "tags": [
+    "age", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

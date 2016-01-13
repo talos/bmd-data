@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In married-couple subfamilies:"
+    ], 
+    "isDenominator": false, 
+    "table": "Population in Subfamilies by Subfamily Type by Relationship", 
+    "title": "Husband/wife in a childless subfamily", 
+    "universe": "Population in Subfamilies"
+  }, 
+  "name": "Husband/wife in a childless subfamily In married-couple subfamilies Population in Subfamilies", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11014/B11014001.json", 
+    "parent": "data/columns/us/census/acs/B11014/B11014002.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

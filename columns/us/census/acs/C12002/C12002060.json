@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status by Age for the Population 15 Years and Over", 
+    "title": "Widowed:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Widowed Female in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C12002/C12002001.json", 
+    "parent": "data/columns/us/census/acs/C12002/C12002038.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Transportation and warehousing, and utilities:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Transportation and warehousing", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Transportation and warehousing Transportation and warehousing, and utilities Industry in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24041/B24041001.json", 
+    "parent": "data/columns/us/census/acs/B24041/B24041009.json"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

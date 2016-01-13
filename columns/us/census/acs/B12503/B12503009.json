@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Divorces in the Last Year by Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Ever married:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Ever married Female Divorces in the Last Year in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12503/B12503001.json", 
+    "parent": "data/columns/us/census/acs/B12503/B12503007.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 1
+}

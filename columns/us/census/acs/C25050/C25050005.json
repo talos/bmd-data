@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Plumbing Facilities by Occupants Per Room", 
+    "title": "Lacking complete plumbing facilities:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Lacking complete plumbing facilities in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25050/C25050001.json", 
+    "parent": "data/columns/us/census/acs/C25050/C25050001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

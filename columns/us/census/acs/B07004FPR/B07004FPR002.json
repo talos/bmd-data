@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (Some Other Race Alone) for Current Residence in Puerto Rico", 
+    "title": "Same house 1 year ago", 
+    "universe": "Some Other Race Alone Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "Same house 1 year ago in Some Other Race Alone Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07004FPR/B07004FPR001.json", 
+    "parent": "data/columns/us/census/acs/B07004FPR/B07004FPR001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

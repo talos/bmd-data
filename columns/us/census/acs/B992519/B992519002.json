@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Value", 
+    "title": "Imputed", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Imputed in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992519/B992519001.json", 
+    "parent": "data/columns/us/census/acs/B992519/B992519001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Gross Rent (Dollars)", 
+    "title": "Aggregate gross rent", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Margin of error for Aggregate gross rent", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25065/B25065001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 1
+}

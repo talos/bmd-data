@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Different house:"
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Residence 1 Year Ago for the Population 1 Year and Over", 
+    "title": "Not imputed", 
+    "universe": "Population 1 Year and Over"
+  }, 
+  "name": "Not imputed Different house Imputation of Residence 1 Year Ago in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99072/B99072001.json", 
+    "parent": "data/columns/us/census/acs/B99072/B99072002.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

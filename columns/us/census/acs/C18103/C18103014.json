@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Vision Difficulty", 
+    "title": "With a vision difficulty", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a vision difficulty Female old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18103/C18103001.json", 
+    "parent": "data/columns/us/census/acs/C18103/C18103013.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

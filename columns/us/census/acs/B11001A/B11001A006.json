@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) (White Alone)", 
+    "title": "Female householder, no husband present", 
+    "universe": "Households With a Householder Who Is White Alone"
+  }, 
+  "name": "Female householder, no husband present Family households Household Type (Including Living Alone) (White Alone) Other family in Households With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11001A/B11001A001.json", 
+    "parent": "data/columns/us/census/acs/B11001A/B11001A004.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

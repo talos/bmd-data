@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$45,000 to $49,999", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for $45,000 to $49,999 in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19001/B19001010.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

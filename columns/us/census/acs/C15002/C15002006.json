@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over", 
+    "title": "Some college, no degree", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Some college, no degree Male in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002/C15002001.json", 
+    "parent": "data/columns/us/census/acs/C15002/C15002002.json"
+  }, 
+  "tags": [
+    "education", 
+    "sex"
+  ], 
+  "weight": 0
+}

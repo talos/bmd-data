@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (Hispanic or Latino)", 
+    "title": "Native", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "Native Male old in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003I/C05003I001.json", 
+    "parent": "data/columns/us/census/acs/C05003I/C05003I003.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

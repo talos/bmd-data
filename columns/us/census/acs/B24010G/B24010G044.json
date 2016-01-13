@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Two or More Races)", 
+    "title": "Computer and mathematical occupations", 
+    "universe": "Civilian Employed Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "Computer and mathematical occupations Female Management, business, science, and arts occupations Occupation Computer, engineering, and science occupations in Civilian Employed Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010G/B24010G001.json", 
+    "parent": "data/columns/us/census/acs/B24010G/B24010G043.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

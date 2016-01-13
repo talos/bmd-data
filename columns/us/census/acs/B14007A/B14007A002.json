@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "School Enrollment by Detailed Level of School for the Population 3 Years and Over (White Alone)", 
+    "title": "Enrolled in school:", 
+    "universe": "White Alone Population 3 Years and Over"
+  }, 
+  "name": "Enrolled in school in White Alone Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14007A/B14007A001.json", 
+    "parent": "data/columns/us/census/acs/B14007A/B14007A001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

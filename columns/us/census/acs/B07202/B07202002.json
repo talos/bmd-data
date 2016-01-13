@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--Micropolitan Statistical Area Level in the United States", 
+    "title": "Same house 1 year ago", 
+    "universe": "Population 1 Year and Over Living in a Micropolitan Statistical Area in the United States"
+  }, 
+  "name": "Same house 1 year ago in Population 1 Year and Over Living in a Micropolitan Statistical Area", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07202/B07202001.json", 
+    "parent": "data/columns/us/census/acs/B07202/B07202001.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "0"
+}

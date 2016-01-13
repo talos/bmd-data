@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Current residence; West:"
+    ], 
+    "isDenominator": false, 
+    "table": "Movers Between Regions in the United States", 
+    "title": "Movers within same state", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Movers within same state Current residence; West Movers Between Regions in the United States in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07101/B07101001.json", 
+    "parent": "data/columns/us/census/acs/B07101/B07101049.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "2"
+}

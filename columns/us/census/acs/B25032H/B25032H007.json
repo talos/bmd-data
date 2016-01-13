@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (White Alone, Not Hispanic or Latino Householder)", 
+    "title": "10 to 19", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "10 to 19 in Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25032H/B25032H001.json", 
+    "parent": "data/columns/us/census/acs/B25032H/B25032H001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

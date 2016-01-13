@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (Hispanic or Latino) in the United States", 
+    "title": "Native; born outside the United States", 
+    "universe": "Hispanic or Latino Population in the United States"
+  }, 
+  "name": "Native; born outside the United States in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004I/B06004I001.json", 
+    "parent": "data/columns/us/census/acs/B06004I/B06004I001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

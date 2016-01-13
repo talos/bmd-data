@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Tenure", 
+    "title": "Owner occupied", 
+    "universe": "Families"
+  }, 
+  "name": "Owner occupied Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17019/C17019001.json", 
+    "parent": "data/columns/us/census/acs/C17019/C17019005.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "tenure"
+  ], 
+  "weight": 0
+}

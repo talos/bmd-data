@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Private not-for-profit wage and salary workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Private not-for-profit wage and salary workers Male in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24080/C24080001.json", 
+    "parent": "data/columns/us/census/acs/C24080/C24080002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

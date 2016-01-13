@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in state of residence:", 
+      "Speak other languages:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Language Spoken at Home and Ability to Speak English in the United States", 
+    "title": "Speak English less than \"very well\"", 
+    "universe": "Population 5 Years and Over in the United States"
+  }, 
+  "name": "Speak English less than \"very well\" Born in state of residence Place of Birth Speak other languages Language Spoken at Home and Ability to Speak English in the United States in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06007/B06007001.json", 
+    "parent": "data/columns/us/census/acs/B06007/B06007014.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "weight": "0"
+}

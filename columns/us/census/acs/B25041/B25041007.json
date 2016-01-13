@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Bedrooms", 
+    "title": "5 or more bedrooms", 
+    "universe": "Housing Units"
+  }, 
+  "name": "5 or more bedrooms in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25041/B25041001.json", 
+    "parent": "data/columns/us/census/acs/B25041/B25041001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

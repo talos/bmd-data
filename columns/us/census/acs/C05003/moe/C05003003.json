@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Nativity", 
+    "title": "Under 18 years:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Under 18 years Male Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C05003/C05003003.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "sex"
+  ], 
+  "weight": "0"
+}

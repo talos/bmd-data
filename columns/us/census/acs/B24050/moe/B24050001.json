@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Total:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Margin of error for Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B24050/B24050001.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

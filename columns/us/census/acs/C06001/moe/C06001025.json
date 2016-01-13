@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Age in the United States", 
+    "title": "55 to 64 years", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Margin of error for 55 to 64 years Born in other state in the United States Place of Birth Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C06001/C06001025.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

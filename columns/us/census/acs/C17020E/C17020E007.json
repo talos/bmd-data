@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Age (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Under 18 years", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Under 18 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months in Native Hawaiian and Other Pacific Islander Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17020E/C17020E001.json", 
+    "parent": "data/columns/us/census/acs/C17020E/C17020E006.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty"
+  ], 
+  "weight": 0
+}

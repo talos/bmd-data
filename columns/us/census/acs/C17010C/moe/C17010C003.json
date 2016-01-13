@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years (American Indian and Alaska Native Alone)", 
+    "title": "Married-couple family:", 
+    "universe": "Families With a Householder Who Is American Indian and Alaska Native Alone"
+  }, 
+  "name": "Margin of error for Married-couple family Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families in Families With a Householder Who Is American Indian and Alaska Native Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17010C/C17010C003.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "race", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

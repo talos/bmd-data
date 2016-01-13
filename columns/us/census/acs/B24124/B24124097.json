@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Agricultural and food scientists", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Agricultural and food scientists in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24124/B24124001.json", 
+    "parent": "data/columns/us/census/acs/B24124/B24124001.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

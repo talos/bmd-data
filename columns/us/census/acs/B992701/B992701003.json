@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Health Insurance Coverage", 
+    "title": "No health insurance items imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No health insurance items imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992701/B992701001.json", 
+    "parent": "data/columns/us/census/acs/B992701/B992701001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "health insurance"
+  ], 
+  "weight": 0
+}

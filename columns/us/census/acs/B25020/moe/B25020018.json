@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Rooms", 
+    "title": "6 rooms", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for 6 rooms Renter occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25020/B25020018.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

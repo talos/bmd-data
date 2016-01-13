@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work", 
+    "title": "Car, truck, or van:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08301/B08301001.json", 
+    "parent": "data/columns/us/census/acs/B08301/B08301001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "1"
+}

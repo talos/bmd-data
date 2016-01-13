@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Rooms", 
+    "title": "Total:", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Housing Units", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Sex by Work Experience in the Past 12 Months for the Population 16 Years and Over With Earnings (Hispanic or Latino)", 
+    "title": "Worked full-time, year-round in the past 12 months", 
+    "universe": "Hispanic or Latino Population 16 Years and Over With Earnings in the Past 12 Months"
+  }, 
+  "name": "Margin of error for Worked full-time, year-round in the past 12 months", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B20017I/B20017I003.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "race", 
+    "income"
+  ], 
+  "weight": 0
+}

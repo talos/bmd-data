@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonfamily households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) (Black or African American Alone)", 
+    "title": "Householder living alone", 
+    "universe": "Households With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "Householder living alone Nonfamily households Household Type (Including Living Alone) (Black or African American Alone) in Households With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11001B/B11001B001.json", 
+    "parent": "data/columns/us/census/acs/B11001B/B11001B007.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

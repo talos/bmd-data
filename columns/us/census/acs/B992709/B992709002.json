@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of VA Health Care", 
+    "title": "Imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992709/B992709001.json", 
+    "parent": "data/columns/us/census/acs/B992709/B992709001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "health insurance"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Family Size", 
+    "title": "3-person families", 
+    "universe": "Families"
+  }, 
+  "name": "3-person families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19119/B19119001.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

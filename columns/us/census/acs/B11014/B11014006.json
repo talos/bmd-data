@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Population in Subfamilies by Subfamily Type by Relationship", 
+    "title": "In mother-child subfamilies:", 
+    "universe": "Population in Subfamilies"
+  }, 
+  "name": "In mother-child subfamilies in Population in Subfamilies", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11014/B11014001.json", 
+    "parent": "data/columns/us/census/acs/B11014/B11014001.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In households:", 
+      "In nonfamily households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Relationship by Household Type (Including Living Alone) for the Population 65 Years and Over", 
+    "title": "Nonrelatives", 
+    "universe": "Population 65 Years and Over"
+  }, 
+  "name": "Nonrelatives In households Relationship In nonfamily households Household Type (Including Living Alone) in Population 65 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09020/B09020001.json", 
+    "parent": "data/columns/us/census/acs/B09020/B09020012.json"
+  }, 
+  "tags": [
+    "seniors", 
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

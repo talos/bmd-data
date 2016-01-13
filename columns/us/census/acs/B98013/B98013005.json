@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Total Population Coverage Rate by Weighting Race and Hispanic or Latino Groups", 
+    "title": "Asian", 
+    "universe": "Total Population"
+  }, 
+  "name": "Asian Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B98013/B98013001.json", 
+    "parent": "data/columns/us/census/acs/B98013/B98013001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

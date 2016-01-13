@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Lacking complete kitchen facilities:"
+    ], 
+    "isDenominator": false, 
+    "table": "Kitchen Facilities by Meals Included in Rent", 
+    "title": "Meals included in rent", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Meals included in rent Lacking complete kitchen facilities Kitchen Facilities in Renter-occupied Housing Units Paying Cash Rent", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25054/B25054001.json", 
+    "parent": "data/columns/us/census/acs/B25054/B25054005.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

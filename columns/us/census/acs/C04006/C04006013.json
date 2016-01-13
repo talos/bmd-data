@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "People Reporting Ancestry", 
+    "title": "Greek", 
+    "universe": "Total Population"
+  }, 
+  "name": "Greek Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04006/C04006001.json", 
+    "parent": "data/columns/us/census/acs/C04006/C04006001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

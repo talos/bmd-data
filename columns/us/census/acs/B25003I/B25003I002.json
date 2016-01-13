@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tenure (Hispanic or Latino Householder)", 
+    "title": "Owner occupied", 
+    "universe": "Occupied Housing Units With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Owner occupied in Occupied Housing Units With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25003I/B25003I001.json", 
+    "parent": "data/columns/us/census/acs/B25003I/B25003I001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 1
+}

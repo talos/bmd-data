@@ -1,0 +1,25 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Healthcare practitioners and technical occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Health technologists and technicians", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Health technologists and technicians Female Management, business, science, and arts occupations Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) Healthcare practitioners and technical occupations in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24012/B24012001.json", 
+    "parent": "data/columns/us/census/acs/B24012/B24012052.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

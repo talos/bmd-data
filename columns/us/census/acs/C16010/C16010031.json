@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Bachelor's degree or higher:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Educational Attainment and Employment Status by Language Spoken at Home for the Population 25 Years and Over", 
+    "title": "Speak only English", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Speak only English Bachelor's degree or higher Educational Attainment and Employment Status In labor force Language Spoken at Home in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C16010/C16010001.json", 
+    "parent": "data/columns/us/census/acs/C16010/C16010030.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "language"
+  ], 
+  "weight": 0
+}

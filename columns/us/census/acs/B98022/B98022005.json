@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonresponse Rate:"
+    ], 
+    "isDenominator": false, 
+    "table": "Group Quarters Population Response and Nonresponse Rates With Reasons for Noninterviews", 
+    "title": "Resident Temporarily Absent", 
+    "universe": "Population in Group Quarters"
+  }, 
+  "name": "Resident Temporarily Absent Nonresponse Rate Group Quarters Population Response and Nonresponse Rates With Reasons in Population in Group Quarters", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98022/B98022002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "group quarters"
+  ], 
+  "weight": 0
+}

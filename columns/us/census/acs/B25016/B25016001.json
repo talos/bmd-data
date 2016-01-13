@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Tenure by Plumbing Facilities by Occupants Per Room", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Occupied Housing Units", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

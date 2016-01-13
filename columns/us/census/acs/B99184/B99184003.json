@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Cognitive Difficulty for the Civilian Noninstitutionalized Population 5 Years and Over", 
+    "title": "Not imputed", 
+    "universe": "Civilian Noninstitutionalized Population 5 Years and Over"
+  }, 
+  "name": "Not imputed in Civilian Noninstitutionalized Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99184/B99184001.json", 
+    "parent": "data/columns/us/census/acs/B99184/B99184001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "disability"
+  ], 
+  "weight": 0
+}

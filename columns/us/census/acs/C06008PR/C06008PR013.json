@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in the United States:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Marital Status in Puerto Rico", 
+    "title": "Now married, except separated", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "Now married, except separated Born in the United States Place of Birth in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C06008PR/C06008PR001.json", 
+    "parent": "data/columns/us/census/acs/C06008PR/C06008PR011.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Experience in the Past 12 Months by Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "Other:", 
+    "universe": "Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "Other Male in Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B20005F/B20005F001.json", 
+    "parent": "data/columns/us/census/acs/B20005F/B20005F002.json"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

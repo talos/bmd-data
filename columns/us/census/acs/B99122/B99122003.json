@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Divorced in the Past 12 Months for the Population 15 Years and Over", 
+    "title": "Not imputed", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Not imputed in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99122/B99122001.json", 
+    "parent": "data/columns/us/census/acs/B99122/B99122001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

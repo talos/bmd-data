@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Detailed Occupation for the Full-time, Year-round Civilian Employed Male Population 16 Years and Over", 
+    "title": "Human resources managers", 
+    "universe": "Full-time, Year-round Civilian Employed Male Population 16 Years and Over"
+  }, 
+  "name": "Human resources managers in Full-time, Year-round Civilian Employed Male Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24125/B24125001.json", 
+    "parent": "data/columns/us/census/acs/B24125/B24125001.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

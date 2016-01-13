@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in state of residence:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Sex in the United States", 
+    "title": "Male", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Male Born in state of residence Place of Birth Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06003/B06003001.json", 
+    "parent": "data/columns/us/census/acs/B06003/B06003004.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

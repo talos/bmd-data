@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "65 to 74 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Employer-based Health Insurance by Sex by Age", 
+    "title": "With employer-based health insurance", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With employer-based health insurance Female Employer-based Health Insurance 65 to 74 years in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27004/B27004001.json", 
+    "parent": "data/columns/us/census/acs/B27004/B27004052.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

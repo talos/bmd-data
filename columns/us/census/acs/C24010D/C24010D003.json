@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Asian Alone)", 
+    "title": "Management, business, science, and arts occupations:", 
+    "universe": "Civilian Employed Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Management, business, science, and arts occupations Male in Civilian Employed Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24010D/C24010D001.json", 
+    "parent": "data/columns/us/census/acs/C24010D/C24010D002.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

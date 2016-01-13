@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 45 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Some Other Race Alone Householder)", 
+    "title": "$150,000 to $199,999", 
+    "universe": "Households With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "$150,000 to $199,999 Householder 45 to 64 years Age of Householder in Households With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C19037F/C19037F001.json", 
+    "parent": "data/columns/us/census/acs/C19037F/C19037F024.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

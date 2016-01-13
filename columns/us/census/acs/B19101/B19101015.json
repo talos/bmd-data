@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$125,000 to $149,999", 
+    "universe": "Families"
+  }, 
+  "name": "$125,000 to $149,999 in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19101/B19101001.json", 
+    "parent": "data/columns/us/census/acs/B19101/B19101001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

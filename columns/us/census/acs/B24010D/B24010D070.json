@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Asian Alone)", 
+    "title": "Production, transportation, and material moving occupations:", 
+    "universe": "Civilian Employed Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Production, transportation, and material moving occupations Female in Civilian Employed Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010D/B24010D001.json", 
+    "parent": "data/columns/us/census/acs/B24010D/B24010D038.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

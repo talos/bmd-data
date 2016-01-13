@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Vehicles Available", 
+    "title": "No vehicle available", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "No vehicle available Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25045/C25045001.json", 
+    "parent": "data/columns/us/census/acs/C25045/C25045002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "tenure"
+  ], 
+  "weight": 0
+}

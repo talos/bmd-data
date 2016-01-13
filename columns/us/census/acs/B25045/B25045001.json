@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Tenure by Vehicles Available by Age of Householder", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Occupied Housing Units", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

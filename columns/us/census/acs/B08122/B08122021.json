@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Poverty Status in the Past 12 Months", 
+    "title": "Taxicab, motorcycle, bicycle, or other means:", 
+    "universe": "Workers 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Taxicab, motorcycle, bicycle, or other means in Workers 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08122/B08122001.json", 
+    "parent": "data/columns/us/census/acs/B08122/B08122001.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "poverty"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Latin America:", 
+      "Entered U.S. before 1990", 
+      "Other Latin America:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Entered U.S. 2000 or later", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Entered U.S. 2000 or later Female Latin America Place of Birth Entered U.S. before 1990 Year of Entry Other Latin America in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05008/C05008001.json", 
+    "parent": "data/columns/us/census/acs/C05008/C05008044.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

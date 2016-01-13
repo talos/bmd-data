@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (White Alone)", 
+    "title": "Under 18 years", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "Under 18 years Male in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C01001A/C01001A001.json", 
+    "parent": "data/columns/us/census/acs/C01001A/C01001A002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

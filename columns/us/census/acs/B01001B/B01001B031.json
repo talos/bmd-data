@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Black or African American Alone)", 
+    "title": "85 years and over", 
+    "universe": "Black or African American Alone"
+  }, 
+  "name": "85 years and over Female in Black or African American Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001B/B01001B001.json", 
+    "parent": "data/columns/us/census/acs/B01001B/B01001B017.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

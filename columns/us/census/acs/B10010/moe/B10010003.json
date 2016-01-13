@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Family Income for Families With Grandparent Householders And/or Spouses Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Presence of Parent of Grandchildren", 
+    "title": "Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars)", 
+    "universe": "Families With Grandparent Householders And/or Spouses Living With Grandchildren"
+  }, 
+  "name": "Margin of error for Grandparent householder and/or spouse responsible for grandchildren under 18 years and no parent present (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B10010/B10010003.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": "0"
+}

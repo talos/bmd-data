@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "25 to 54 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "In labor force:", 
+    "universe": "Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "In labor force Male old in Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23002F/B23002F001.json", 
+    "parent": "data/columns/us/census/acs/B23002F/B23002F017.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

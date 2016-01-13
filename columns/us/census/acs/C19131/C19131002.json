@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Family Type by Presence of Own Children Under 18 Years by Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "Married-couple family:", 
+    "universe": "Families"
+  }, 
+  "name": "Married-couple family in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C19131/C19131001.json", 
+    "parent": "data/columns/us/census/acs/C19131/C19131001.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": 0
+}

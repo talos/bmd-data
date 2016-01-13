@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Grandparent responsible for own grandchildren under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "30 to 59 years", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years for Whom Poverty Status Is Determined"
+  }, 
+  "name": "30 to 59 years Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Grandparents Living With Own Grandchildren Under 18 Years Grandparent responsible for own grandchildren under 18 years Responsibility in Grandparents Living With Own Grandchildren Under 18 Years for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10059/B10059001.json", 
+    "parent": "data/columns/us/census/acs/B10059/B10059003.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": "0"
+}

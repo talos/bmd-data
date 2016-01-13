@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "United States 1 year ago:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--Metropolitan Statistical Area Level in Puerto Rico", 
+    "title": "Micropolitan Statistical Area:", 
+    "universe": "Population 1 Year and Over Living in a Metropolitan Statistical Area in Puerto Rico"
+  }, 
+  "name": "Micropolitan Statistical Area United States 1 year ago Geographical Mobility in the Past Year in Population 1 Year and Over Living in a Metropolitan Statistical Area in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07201PR/B07201PR001.json", 
+    "parent": "data/columns/us/census/acs/B07201PR/B07201PR014.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (Asian Alone)", 
+    "title": "Native", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "Native Female old in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003D/C05003D001.json", 
+    "parent": "data/columns/us/census/acs/C05003D/C05003D013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

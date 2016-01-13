@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Women who did not have a birth in the past 12 months:"
+    ], 
+    "isDenominator": false, 
+    "table": "Women 15 to 50 Years Who Had a Birth in the Past 12 Months by Marital Status", 
+    "title": "Unmarried (never married, widowed and divorced)", 
+    "universe": "Women 15 to 50 Years in Households"
+  }, 
+  "name": "Unmarried (never married, widowed and divorced) Women who did not have a birth in the past 12 months Women 15 to 50 Years Who Had a Birth in the Past 12 Months in Women 15 to 50 Years in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C13004/C13004001.json", 
+    "parent": "data/columns/us/census/acs/C13004/C13004005.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "fertility"
+  ], 
+  "weight": 0
+}

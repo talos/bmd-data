@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Family households:", 
+      "Other family:", 
+      "Female householder, no husband present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Type and Presence and Age of Own Children", 
+    "title": "No own children under 18 years", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "No own children under 18 years Renter occupied Tenure Family households Household Type and Presence and Age of Own Children Other family Female householder, no husband present in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25115/B25115001.json", 
+    "parent": "data/columns/us/census/acs/B25115/B25115024.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "weight": 0
+}

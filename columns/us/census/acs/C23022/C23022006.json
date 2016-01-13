@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Full-time Work Status in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "Did not work in the past 12 months", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "Did not work in the past 12 months Male in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23022/C23022001.json", 
+    "parent": "data/columns/us/census/acs/C23022/C23022002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

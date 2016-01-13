@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Means of Transportation to Work", 
+    "title": "Carpooled:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Carpooled Car, truck, or van Sex of Workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08006/C08006001.json", 
+    "parent": "data/columns/us/census/acs/C08006/C08006002.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

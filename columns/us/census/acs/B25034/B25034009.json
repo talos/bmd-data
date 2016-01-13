@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Year Structure Built", 
+    "title": "Built 1940 to 1949", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Built 1940 to 1949 in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25034/B25034001.json", 
+    "parent": "data/columns/us/census/acs/B25034/B25034001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

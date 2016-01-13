@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Families and Presence of Own Children", 
+    "title": "With related children under 18:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for With related children under 18 Renter-occupied housing units Tenure", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25012/B25012011.json"
+  }, 
+  "tags": [
+    "housing", 
+    "family type", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "weight": 0
+}

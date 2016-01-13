@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Households with no people 65 years and over:", 
+      "2-or-more-person household:"
+    ], 
+    "isDenominator": false, 
+    "table": "Households by Presence of People 65 Years and Over, Household Size and Household Type", 
+    "title": "Family households", 
+    "universe": "Households"
+  }, 
+  "name": "Family households Households with no people 65 years and over Households 2-or-more-person household Presence of People 65 Years and Over, Household Size and Household Type", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11007/B11007001.json", 
+    "parent": "data/columns/us/census/acs/B11007/B11007009.json"
+  }, 
+  "tags": [
+    "seniors", 
+    "families"
+  ], 
+  "weight": 1
+}

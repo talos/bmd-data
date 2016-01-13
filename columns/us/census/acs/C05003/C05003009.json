@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity", 
+    "title": "Female:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Female Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003/C05003001.json", 
+    "parent": "data/columns/us/census/acs/C05003/C05003001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "sex"
+  ], 
+  "weight": "0"
+}

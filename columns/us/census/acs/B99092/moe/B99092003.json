@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Relationship", 
+    "title": "Not imputed", 
+    "universe": "Population in Households"
+  }, 
+  "name": "Margin of error for Not imputed in Population in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99092/B99092003.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

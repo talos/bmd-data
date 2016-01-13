@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Speak other language:"
+    ], 
+    "isDenominator": false, 
+    "table": "Language and Ability to Speak English of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "Speak English  \u201cvery well\u201d :", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "Speak English  \u201cvery well\u201d  Speak other language Language and Ability to Speak English of Grandparents Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10054/B10054001.json", 
+    "parent": "data/columns/us/census/acs/B10054/B10054007.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "children", 
+    "language"
+  ], 
+  "weight": "0"
+}

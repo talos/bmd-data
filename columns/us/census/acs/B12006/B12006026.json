@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Separated:", 
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "In labor force:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "In labor force Separated Marital Status Male in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12006/B12006001.json", 
+    "parent": "data/columns/us/census/acs/B12006/B12006025.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

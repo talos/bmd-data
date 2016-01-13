@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Medicare Coverage by Sex by Age", 
+    "title": "Female:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Female in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27006/B27006001.json", 
+    "parent": "data/columns/us/census/acs/B27006/B27006001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

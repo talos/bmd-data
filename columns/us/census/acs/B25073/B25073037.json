@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure by Gross Rent as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Mobile home:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Mobile home in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25073/B25073001.json", 
+    "parent": "data/columns/us/census/acs/B25073/B25073001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "income"
+  ], 
+  "weight": 0
+}

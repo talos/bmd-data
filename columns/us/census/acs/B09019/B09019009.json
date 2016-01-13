@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In households:", 
+      "In family households:", 
+      "Child:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Biological child", 
+    "universe": "Total Population"
+  }, 
+  "name": "Biological child In households Household Type (Including Living Alone) In family households Relationship Child Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09019/B09019001.json", 
+    "parent": "data/columns/us/census/acs/B09019/B09019008.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked in the past 12 months:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Weeks Worked in the Past 12 Months for the Population 16 Years and Over", 
+    "title": "Imputed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Imputed Worked in the past 12 months Imputation of Weeks Worked in the Past 12 Months in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99234/B99234001.json", 
+    "parent": "data/columns/us/census/acs/B99234/B99234002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "employment"
+  ], 
+  "weight": 0
+}

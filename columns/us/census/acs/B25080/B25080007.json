@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Value (Dollars) by Units in Structure", 
+    "title": "Mobile home (dollars)", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Mobile home (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25080/B25080001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

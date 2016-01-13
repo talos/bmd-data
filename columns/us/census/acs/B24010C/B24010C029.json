@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Sales and office occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Office and administrative support occupations", 
+    "universe": "Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over"
+  }, 
+  "name": "Office and administrative support occupations Male Sales and office occupations Occupation in Civilian Employed American Indian and Alaska Native Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010C/B24010C001.json", 
+    "parent": "data/columns/us/census/acs/B24010C/B24010C027.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

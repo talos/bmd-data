@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Year Householder Moved Into Unit by Units in Structure", 
+    "title": "Moved in 1990 to 1999:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Moved in 1990 to 1999 Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25129/B25129001.json", 
+    "parent": "data/columns/us/census/acs/B25129/B25129002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

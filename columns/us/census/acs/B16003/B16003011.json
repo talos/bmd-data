@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Language Spoken at Home for the Population 5 Years and Over in Households in Which No One 14 and Over Speaks English Only or Speaks a Language Other Than English at Home and Speaks English \"Very Well\"", 
+    "title": "Speak Asian and Pacific Island languages", 
+    "universe": "Population 5 Years and Over in Households in Which No One 14 and Over Speaks English Only or Speaks a Language Other Than English at Home and Speaks English \"Very Well\""
+  }, 
+  "name": "Speak Asian and Pacific Island languages old in Population 5 Years and Over in Households in Which No One 14 and Over Speaks English Only or Speaks a Language Other Than English at Home and Speaks English \"Very Well\"", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16003/B16003001.json", 
+    "parent": "data/columns/us/census/acs/B16003/B16003008.json"
+  }, 
+  "tags": [
+    "age", 
+    "families", 
+    "language"
+  ], 
+  "weight": 0
+}

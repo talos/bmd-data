@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Gross Rent by Year Householder Moved Into Unit", 
+    "title": "Moved in 1980 to 1989", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Moved in 1980 to 1989", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25113/B25113001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Nativity", 
+    "title": "Native:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Native Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05002/C05002001.json", 
+    "parent": "data/columns/us/census/acs/C05002/C05002001.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

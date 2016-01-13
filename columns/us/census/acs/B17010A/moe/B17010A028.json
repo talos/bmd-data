@@ -1,0 +1,22 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (White Alone Householder)", 
+    "title": "No related children under 18 years", 
+    "universe": "Families With a Householder Who Is White Alone"
+  }, 
+  "name": "Margin of error for No related children under 18 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Married-couple family Family Type in Families With a Householder Who Is White Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17010A/B17010A028.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

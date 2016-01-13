@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "35 to 44 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Ratio of Income to Poverty Level in the Past 12 Months", 
+    "title": "3.00 to 3.99", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "3.00 to 3.99 old in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17024/B17024001.json", 
+    "parent": "data/columns/us/census/acs/B17024/B17024067.json"
+  }, 
+  "tags": [
+    "age", 
+    "poverty", 
+    "income"
+  ], 
+  "weight": 0
+}

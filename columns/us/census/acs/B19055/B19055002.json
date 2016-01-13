@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Social Security Income in the Past 12 Months for Households", 
+    "title": "With Social Security income", 
+    "universe": "Households"
+  }, 
+  "name": "With Social Security income in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19055/B19055001.json", 
+    "parent": "data/columns/us/census/acs/B19055/B19055001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

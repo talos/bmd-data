@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in state of residence:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Marital Status in the United States", 
+    "title": "Widowed", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Widowed Born in state of residence Place of Birth in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06008/B06008001.json", 
+    "parent": "data/columns/us/census/acs/B06008/B06008007.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": "0"
+}

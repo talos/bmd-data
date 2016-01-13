@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 25 to 44 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (White Alone Householder)", 
+    "title": "$15,000 to $24,999", 
+    "universe": "Households With a Householder Who Is White Alone"
+  }, 
+  "name": "$15,000 to $24,999 Householder 25 to 44 years Age of Householder in Households With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C19037A/C19037A001.json", 
+    "parent": "data/columns/us/census/acs/C19037A/C19037A013.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

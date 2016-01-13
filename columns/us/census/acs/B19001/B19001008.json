@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$35,000 to $39,999", 
+    "universe": "Households"
+  }, 
+  "name": "$35,000 to $39,999 in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19001/B19001001.json", 
+    "parent": "data/columns/us/census/acs/B19001/B19001001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

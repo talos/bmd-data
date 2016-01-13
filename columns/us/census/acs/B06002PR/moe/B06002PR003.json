@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Age by Place of Birth in Puerto Rico", 
+    "title": "Born in the United States", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Margin of error for Born in the United States", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06002PR/B06002PR003.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

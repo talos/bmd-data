@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (Asian Alone)", 
+    "title": "Male:", 
+    "universe": "Asian Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Male Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months in Asian Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17001D/C17001D001.json", 
+    "parent": "data/columns/us/census/acs/C17001D/C17001D011.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

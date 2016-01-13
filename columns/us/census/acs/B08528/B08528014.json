@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - drove alone:", 
+      "Private for-profit wage and salary workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Class of Worker for Workplace Geography", 
+    "title": "Self-employed in own incorporated business workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Self-employed in own incorporated business workers Car, truck, or van - drove alone Means of Transportation to Work Private for-profit wage and salary workers Class of Worker in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08528/B08528001.json", 
+    "parent": "data/columns/us/census/acs/B08528/B08528012.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

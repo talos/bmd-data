@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 years and over:", 
+      "1.50 to 1.99:", 
+      "With a disability:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Ratio of Income to Poverty Level in the Past 12 Months by Disability Status and Type", 
+    "title": "With a vision difficulty", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "With a vision difficulty old 1.50 to 1.99 Ratio of Income to Poverty Level in the Past 12 Months With a disability Disability Status and Type in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18131/B18131001.json", 
+    "parent": "data/columns/us/census/acs/B18131/B18131098.json"
+  }, 
+  "tags": [
+    "poverty", 
+    "age", 
+    "disability", 
+    "income"
+  ], 
+  "weight": 0
+}

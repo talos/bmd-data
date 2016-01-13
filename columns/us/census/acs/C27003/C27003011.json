@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Public Health Insurance Status by Sex by Age", 
+    "title": "No public coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No public coverage Male Public Health Insurance Status 65 years and over in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27003/C27003001.json", 
+    "parent": "data/columns/us/census/acs/C27003/C27003009.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

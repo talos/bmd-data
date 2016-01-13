@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Bedrooms", 
+    "title": "3 bedrooms", 
+    "universe": "Housing Units"
+  }, 
+  "name": "3 bedrooms in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25041/B25041001.json", 
+    "parent": "data/columns/us/census/acs/B25041/B25041001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

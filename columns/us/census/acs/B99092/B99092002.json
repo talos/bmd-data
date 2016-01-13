@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Relationship", 
+    "title": "Imputed", 
+    "universe": "Population in Households"
+  }, 
+  "name": "Imputed in Population in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99092/B99092001.json", 
+    "parent": "data/columns/us/census/acs/B99092/B99092001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

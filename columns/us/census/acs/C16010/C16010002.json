@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Educational Attainment and Employment Status by Language Spoken at Home for the Population 25 Years and Over", 
+    "title": "Less than high school graduate:", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Less than high school graduate in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C16010/C16010001.json", 
+    "parent": "data/columns/us/census/acs/C16010/C16010001.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "language"
+  ], 
+  "weight": 0
+}

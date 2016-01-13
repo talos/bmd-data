@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Vision Difficulty", 
+    "title": "75 years and over:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "75 years and over Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18103/B18103001.json", 
+    "parent": "data/columns/us/census/acs/B18103/B18103002.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

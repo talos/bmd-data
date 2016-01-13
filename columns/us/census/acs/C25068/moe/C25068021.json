@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "No cash rent", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Margin of error for No cash rent 3 or more bedrooms Bedrooms in Renter-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25068/C25068021.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Place of Work--State and County Level", 
+    "title": "Worked in State of residence:", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Margin of error for Worked in State of residence", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08131/B08131002.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

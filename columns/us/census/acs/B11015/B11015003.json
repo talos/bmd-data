@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Households by Presence of Nonrelatives", 
+    "title": "Households with no nonrelatives", 
+    "universe": "Households"
+  }, 
+  "name": "Households with no nonrelatives", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11015/B11015001.json", 
+    "parent": "data/columns/us/census/acs/B11015/B11015001.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 0
+}

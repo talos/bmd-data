@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure", 
+    "title": "50 or more", 
+    "universe": "Housing Units"
+  }, 
+  "name": "50 or more in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25024/B25024001.json", 
+    "parent": "data/columns/us/census/acs/B25024/B25024001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Geographical Mobility in the Past Year for Residence 1 Year Ago in Puerto Rico", 
+    "title": "Moved within same municipio", 
+    "universe": "Population 15 Years and Over With Income in the Past 12 Months"
+  }, 
+  "name": "Moved within same municipio", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B07411PR/B07411PR001.json"
+  }, 
+  "tags": [
+    "migration", 
+    "income"
+  ], 
+  "weight": "0"
+}

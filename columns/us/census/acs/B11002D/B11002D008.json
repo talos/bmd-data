@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:", 
+      "In male householder, no wife present, family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (Asian Alone)", 
+    "title": "Nonrelatives", 
+    "universe": "Population in Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Nonrelatives In family households Household Type In male householder, no wife present, family Relatives and Nonrelatives in Population in Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11002D/B11002D001.json", 
+    "parent": "data/columns/us/census/acs/B11002D/B11002D006.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Group Quarters Population", 
+    "title": "Total:", 
+    "universe": "Population in Group Quarters"
+  }, 
+  "name": "Margin of error for Population in Group Quarters", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B26001/B26001001.json"
+  }, 
+  "tags": [
+    "group quarters"
+  ], 
+  "weight": 0
+}

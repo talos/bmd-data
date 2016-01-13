@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Age by Disability Status by Health Insurance Coverage Status", 
+    "title": "Total:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Margin of error for Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B18135/B18135001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "disability", 
+    "age"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Units in Structure", 
+    "title": "Imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Imputed in Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99255/B99255002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

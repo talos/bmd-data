@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "No children under 18 years:", 
+      "Other family:", 
+      "Female householder, no husband present:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "Unemployed", 
+    "universe": "Families"
+  }, 
+  "name": "Unemployed No children under 18 years Presence of Own Children Under 18 Years Other family Family Type In labor force in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23007/B23007001.json", 
+    "parent": "data/columns/us/census/acs/B23007/B23007056.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "25 to 44 years:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "Civilian:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Civilian Female old in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23001/C23001001.json", 
+    "parent": "data/columns/us/census/acs/C23001/C23001064.json"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

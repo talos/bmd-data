@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (American Indian and Alaska Native Alone) in the United States", 
+    "title": "Foreign born", 
+    "universe": "American Indian and Alaska Native Alone Population in the United States"
+  }, 
+  "name": "Foreign born in American Indian and Alaska Native Alone Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004C/B06004C001.json", 
+    "parent": "data/columns/us/census/acs/B06004C/B06004C001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

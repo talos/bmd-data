@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "VA Health Care by Sex by Age", 
+    "title": "45 to 54 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "45 to 54 years Male VA Health Care in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27009/B27009001.json", 
+    "parent": "data/columns/us/census/acs/B27009/B27009002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

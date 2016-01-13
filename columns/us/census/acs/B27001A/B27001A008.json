@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status by Age (White Alone)", 
+    "title": "18 to 24 years:", 
+    "universe": "WHITE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "18 to 24 years in WHITE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27001A/B27001A001.json", 
+    "parent": "data/columns/us/census/acs/B27001A/B27001A001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

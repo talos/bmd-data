@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Lacking complete plumbing facilities:"
+    ], 
+    "isDenominator": false, 
+    "table": "Plumbing Facilities by Occupants Per Room", 
+    "title": "1.01 or more occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1.01 or more occupants per room Lacking complete plumbing facilities Plumbing Facilities in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25050/C25050001.json", 
+    "parent": "data/columns/us/census/acs/C25050/C25050005.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

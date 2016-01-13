@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 15 to 54 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age of Householder by Meals Included in Rent", 
+    "title": "Meals included in rent", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Meals included in rent Householder 15 to 54 years Age of Householder in Renter-occupied Housing Units Paying Cash Rent", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25055/B25055001.json", 
+    "parent": "data/columns/us/census/acs/B25055/B25055002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families"
+  ], 
+  "weight": 0
+}

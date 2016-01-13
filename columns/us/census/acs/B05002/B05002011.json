@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:", 
+      "Born outside the United States:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Nativity and Citizenship Status", 
+    "title": "U.S. Island Areas", 
+    "universe": "Total Population"
+  }, 
+  "name": "U.S. Island Areas Native Place of Birth Born outside the United States Nativity and Citizenship Status Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05002/B05002001.json", 
+    "parent": "data/columns/us/census/acs/B05002/B05002009.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "1"
+}

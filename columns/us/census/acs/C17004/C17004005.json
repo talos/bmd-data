@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Individuals by Work Experience", 
+    "title": "Did not work", 
+    "universe": "Population 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Did not work Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Individuals in Population 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17004/C17004001.json", 
+    "parent": "data/columns/us/census/acs/C17004/C17004002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

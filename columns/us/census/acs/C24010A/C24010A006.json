@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (White Alone)", 
+    "title": "Natural resources, construction, and maintenance occupations:", 
+    "universe": "Civilian Employed White Alone Population 16 Years and Over"
+  }, 
+  "name": "Natural resources, construction, and maintenance occupations Male in Civilian Employed White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24010A/C24010A001.json", 
+    "parent": "data/columns/us/census/acs/C24010A/C24010A002.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked at home:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Citizenship Status for Workplace Geography", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Naturalized U.S. citizen Worked at home Means of Transportation to Work Foreign born Citizenship Status in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08511/B08511001.json", 
+    "parent": "data/columns/us/census/acs/B08511/B08511033.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

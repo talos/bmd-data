@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:", 
+      "In other families:", 
+      "Male householder, no wife present:", 
+      "Non-relatives:", 
+      "With health insurance coverage"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Living Arrangement", 
+    "title": "With public coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With public coverage In family households Health Insurance Coverage Status and Type In other families Living Arrangement Male householder, no wife present Non-relatives With health insurance coverage in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27021/B27021001.json", 
+    "parent": "data/columns/us/census/acs/B27021/B27021022.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

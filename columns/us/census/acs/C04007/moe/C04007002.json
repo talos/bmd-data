@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Ancestry", 
+    "title": "Ancestry specified:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Ancestry specified Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C04007/C04007002.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

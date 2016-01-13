@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Local, state, and federal government workers:", 
+      "Management, business, science, and arts occupations:", 
+      "Healthcare practitioners and technical occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Health technologists and technicians", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Health technologists and technicians Local, state, and federal government workers Occupation Management, business, science, and arts occupations Class of Worker Healthcare practitioners and technical occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24060/B24060001.json", 
+    "parent": "data/columns/us/census/acs/B24060/B24060159.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

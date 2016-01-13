@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Language Spoken at Home and Ability to Speak English for Workplace Geography", 
+    "title": "Public transportation (excluding taxicab):", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08513/B08513001.json", 
+    "parent": "data/columns/us/census/acs/B08513/B08513001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "language"
+  ], 
+  "weight": "0"
+}

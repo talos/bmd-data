@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Place of Birth (Asian Alone) in the United States", 
+    "title": "Total:", 
+    "universe": "Asian Alone Population in the United States"
+  }, 
+  "name": "Margin of error for Asian Alone Population in the United States", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06004D/B06004D001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

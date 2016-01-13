@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (American Indian and Alaska Native Alone)", 
+    "title": "Bachelor's degree or higher", 
+    "universe": "American Indian and Alaska Native Alone Population 25 Years and Over"
+  }, 
+  "name": "Bachelor's degree or higher Male in American Indian and Alaska Native Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002C/C15002C001.json", 
+    "parent": "data/columns/us/census/acs/C15002C/C15002C002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

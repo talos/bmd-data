@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 to 74 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Number of Disabilities", 
+    "title": "No disability", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No disability old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18108/B18108001.json", 
+    "parent": "data/columns/us/census/acs/B18108/B18108018.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability"
+  ], 
+  "weight": 0
+}

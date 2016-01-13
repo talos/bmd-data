@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "In group quarters", 
+    "universe": "Total Population"
+  }, 
+  "name": "In group quarters Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09019/B09019001.json", 
+    "parent": "data/columns/us/census/acs/B09019/B09019001.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

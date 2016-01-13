@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone)", 
+    "title": "Not in labor force", 
+    "universe": "White Alone Population 16 Years and Over"
+  }, 
+  "name": "Not in labor force Male old in White Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23002A/C23002A001.json", 
+    "parent": "data/columns/us/census/acs/C23002A/C23002A010.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

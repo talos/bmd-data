@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Black or African American Alone Householder)", 
+    "title": "$15,000 to $24,999", 
+    "universe": "Households With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "$15,000 to $24,999 in Households With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C19001B/C19001B001.json", 
+    "parent": "data/columns/us/census/acs/C19001B/C19001B001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

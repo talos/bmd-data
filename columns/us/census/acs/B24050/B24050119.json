@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Natural resources, construction, and maintenance occupations:", 
+      "Transportation and warehousing, and utilities:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Utilities", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Utilities Natural resources, construction, and maintenance occupations Industry Transportation and warehousing, and utilities Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24050/B24050001.json", 
+    "parent": "data/columns/us/census/acs/B24050/B24050117.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

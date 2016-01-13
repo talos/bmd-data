@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Value", 
+    "title": "$150,000 to $199,999", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "$150,000 to $199,999 in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25075/C25075001.json", 
+    "parent": "data/columns/us/census/acs/C25075/C25075001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

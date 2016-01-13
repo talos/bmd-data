@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Enrolled in public college or graduate school:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by College or Graduate School Enrollment by Type of School by Age for the Population 15 Years and Over", 
+    "title": "25 to 34 years", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "25 to 34 years Male Enrolled in public college or graduate school College or Graduate School Enrollment in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14004/B14004001.json", 
+    "parent": "data/columns/us/census/acs/B14004/B14004003.json"
+  }, 
+  "tags": [
+    "age", 
+    "education", 
+    "sex"
+  ], 
+  "weight": 0
+}

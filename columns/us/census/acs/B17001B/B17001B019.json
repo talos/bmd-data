@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (Black or African American Alone)", 
+    "title": "5 years", 
+    "universe": "Black or African American Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "5 years Income in the past 12 months below poverty level Poverty Status in the Past 12 Months Female in Black or African American Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17001B/B17001B001.json", 
+    "parent": "data/columns/us/census/acs/B17001B/B17001B017.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Tricare/Military Health Coverage", 
+    "title": "Not imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Not imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992708/B992708001.json", 
+    "parent": "data/columns/us/census/acs/B992708/B992708001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "health insurance"
+  ], 
+  "weight": 0
+}

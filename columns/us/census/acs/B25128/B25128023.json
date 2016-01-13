@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Householder 65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Age of Householder by Year Householder Moved Into Unit", 
+    "title": "Moved in 1969 or earlier", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Moved in 1969 or earlier Owner occupied Tenure Householder 65 years and over Age of Householder in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25128/B25128001.json", 
+    "parent": "data/columns/us/census/acs/B25128/B25128017.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

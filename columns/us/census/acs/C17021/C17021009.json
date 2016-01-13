@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Poverty Status of Individuals in the Past 12 Months by Living Arrangement", 
+    "title": "Income in the past 12 months at or above poverty level:", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Income in the past 12 months at or above poverty level in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17021/C17021001.json", 
+    "parent": "data/columns/us/census/acs/C17021/C17021001.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work for Workplace Geography (Hispanic or Latino)", 
+    "title": "Public transportation (excluding taxicab)", 
+    "universe": "Hispanic or Latino Workers 16 Years and Over"
+  }, 
+  "name": "Public transportation (excluding taxicab) in Hispanic or Latino Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08505I/C08505I001.json", 
+    "parent": "data/columns/us/census/acs/C08505I/C08505I001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

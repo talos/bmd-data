@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Types of Health Insurance Coverage by Age", 
+    "title": "With private health insurance  only", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With private health insurance  only 65 years and over Types of Health Insurance Coverage in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27010/C27010001.json", 
+    "parent": "data/columns/us/census/acs/C27010/C27010017.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months by Nativity of Children Under 18 Years in Families and Subfamilies by Living Arrangements and Nativity of Parents", 
+    "title": "Living with two parents:", 
+    "universe": "Own Children Under 18 Years Living in Families or Subfamilies for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for Living with two parents 2.0  and over Ratio of Income to Poverty Level in the Past 12 Months in Own Children Under 18 Years Living in Families or Subfamilies for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05010/B05010019.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": "0"
+}

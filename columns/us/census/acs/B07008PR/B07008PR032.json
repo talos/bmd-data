@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from elsewhere:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Marital Status for Current Residence in Puerto Rico", 
+    "title": "Never married", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "Never married Moved from elsewhere Geographical Mobility in the Past Year in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07008PR/B07008PR001.json", 
+    "parent": "data/columns/us/census/acs/B07008PR/B07008PR031.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "migration"
+  ], 
+  "weight": "0"
+}

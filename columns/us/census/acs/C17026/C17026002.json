@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Ratio of Income to Poverty Level of Families in the Past 12 Months", 
+    "title": "Under .50", 
+    "universe": "Families"
+  }, 
+  "name": "Under .50 in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17026/C17026001.json", 
+    "parent": "data/columns/us/census/acs/C17026/C17026001.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "income"
+  ], 
+  "weight": 0
+}

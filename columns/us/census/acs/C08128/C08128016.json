@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Class of Worker", 
+    "title": "Public transportation (excluding taxicab):", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08128/C08128001.json", 
+    "parent": "data/columns/us/census/acs/C08128/C08128001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

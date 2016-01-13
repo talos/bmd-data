@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Earnings in the Past 12 Months for Households", 
+    "title": "With earnings", 
+    "universe": "Households"
+  }, 
+  "name": "With earnings in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19051/B19051001.json", 
+    "parent": "data/columns/us/census/acs/B19051/B19051001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

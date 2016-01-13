@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Now married (except separated):", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Now married (except separated) in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12006/B12006001.json", 
+    "parent": "data/columns/us/census/acs/B12006/B12006001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Contract Rent", 
+    "title": "No cash rent", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "No cash rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25056/B25056001.json", 
+    "parent": "data/columns/us/census/acs/B25056/B25056001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 2
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Production, transportation, and material moving occupations:", 
+      "Professional, scientific, and management, and administrative and waste management services:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Professional, scientific, and technical services", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Professional, scientific, and technical services Production, transportation, and material moving occupations Industry Professional, scientific, and management, and administrative and waste management services Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24050/B24050001.json", 
+    "parent": "data/columns/us/census/acs/B24050/B24050151.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

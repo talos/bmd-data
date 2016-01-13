@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Household received Food Stamps/SNAP in the past 12 months:", 
+      "Other family:", 
+      "Male householder, no wife present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Family Type by Number of Workers in Family in the Past 12 Months", 
+    "title": "3 or more workers", 
+    "universe": "Families"
+  }, 
+  "name": "3 or more workers Household received Food Stamps/SNAP in the past 12 months Receipt of Food Stamps/SNAP in the Past 12 Months Other family Family Type Male householder, no wife present Number of Workers in Family in the Past 12 Months in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B22007/B22007001.json", 
+    "parent": "data/columns/us/census/acs/B22007/B22007013.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "employment", 
+    "family type", 
+    "families"
+  ], 
+  "weight": 0
+}

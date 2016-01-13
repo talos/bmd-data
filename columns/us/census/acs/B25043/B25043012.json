@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Telephone Service Available by Age of Householder", 
+    "title": "With telephone service available:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "With telephone service available Renter occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25043/B25043001.json", 
+    "parent": "data/columns/us/census/acs/B25043/B25043011.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for Workplace Geography", 
+    "title": "$1 to $9,999 or loss", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "$1 to $9,999 or loss Car, truck, or van - carpooled Means of Transportation to Work in Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08519/B08519001.json", 
+    "parent": "data/columns/us/census/acs/B08519/B08519019.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "weight": "0"
+}

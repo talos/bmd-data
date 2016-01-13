@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tenure by Age of Householder by Occupants Per Room", 
+    "title": "Owner occupied:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Owner occupied in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25015/B25015001.json", 
+    "parent": "data/columns/us/census/acs/B25015/B25015001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

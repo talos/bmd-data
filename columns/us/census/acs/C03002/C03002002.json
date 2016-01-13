@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Hispanic or Latino Origin by Race", 
+    "title": "Not Hispanic or Latino:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C03002/C03002001.json", 
+    "parent": "data/columns/us/census/acs/C03002/C03002001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

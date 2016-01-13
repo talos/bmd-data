@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Own Children Under 18 Years by Family Type and Age", 
+    "title": "Total:", 
+    "universe": "Own Children Under 18 Years"
+  }, 
+  "name": "Margin of error for Own Children Under 18 Years", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B09002/B09002001.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

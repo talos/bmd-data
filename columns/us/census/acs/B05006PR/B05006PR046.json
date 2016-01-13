@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Americas:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth for the Foreign-born Population in Puerto Rico", 
+    "title": "Northern America", 
+    "universe": "Foreign-born Population in Puerto Rico Excluding Population Born at Sea"
+  }, 
+  "name": "Northern America Americas Place of Birth in Foreign-born Population in Puerto Rico Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05006PR/B05006PR001.json", 
+    "parent": "data/columns/us/census/acs/B05006PR/B05006PR023.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

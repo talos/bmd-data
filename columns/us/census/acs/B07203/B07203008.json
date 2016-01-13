@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Different house in United States 1 year ago:", 
+      "Micropolitan Statistical Area:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--not Metropolitan or Micropolitan Statistical Area Level in the United States", 
+    "title": "Moved from principal city", 
+    "universe": "Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area in the United States"
+  }, 
+  "name": "Moved from principal city Different house in United States 1 year ago Geographical Mobility in the Past Year Micropolitan Statistical Area in Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07203/B07203001.json", 
+    "parent": "data/columns/us/census/acs/B07203/B07203007.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "0"
+}

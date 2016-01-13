@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Poverty Status in the Past 12 Months in Puerto Rico", 
+    "title": "Native; born elsewhere:", 
+    "universe": "Population in Puerto Rico for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Native; born elsewhere in Population in Puerto Rico for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06012PR/B06012PR001.json", 
+    "parent": "data/columns/us/census/acs/B06012PR/B06012PR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "weight": "0"
+}

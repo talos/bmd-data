@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Sex of Workers by Place of Work--Place Level", 
+    "title": "Total:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Workers 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08008/B08008001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Value (Dollars) by Units in Structure", 
+    "title": "5 or more (dollars)", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "5 or more (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25080/C25080001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

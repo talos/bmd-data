@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Individuals by Sex by Employment Status", 
+    "title": "Employed", 
+    "universe": "Civilian Population 16 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for Employed Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Individuals Male in Civilian Population 16 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17005/B17005016.json"
+  }, 
+  "tags": [
+    "employment", 
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

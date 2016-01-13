@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "Office and administrative support occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Secretaries and administrative assistants", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Secretaries and administrative assistants Office and administrative support occupations Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B24010/B24010253.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

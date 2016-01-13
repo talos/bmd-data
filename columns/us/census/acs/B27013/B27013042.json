@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work:", 
+      "Female:", 
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Private Health Insurance by Work Experience by Sex by Age", 
+    "title": "With private health insurance", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With private health insurance Did not work Private Health Insurance Female Work Experience 18 to 64 years in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27013/B27013001.json", 
+    "parent": "data/columns/us/census/acs/B27013/B27013041.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

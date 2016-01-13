@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Age by Veteran Status by Poverty Status in the Past 12 Months by Disability Status for the Civilian Population 18 Years and Over", 
+    "title": "Income in the past 12 months at or above poverty level:", 
+    "universe": "Civilian Population 18 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for Income in the past 12 months at or above poverty level old Nonveteran Veteran Status in Civilian Population 18 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C21007/C21007014.json"
+  }, 
+  "tags": [
+    "disability", 
+    "age", 
+    "poverty", 
+    "veterans"
+  ], 
+  "weight": 0
+}

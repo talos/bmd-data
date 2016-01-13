@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In households:", 
+      "In family households:", 
+      "Nonrelatives:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Other nonrelatives", 
+    "universe": "Total Population"
+  }, 
+  "name": "Other nonrelatives In households Household Type (Including Living Alone) In family households Relationship Nonrelatives Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C09016/C09016001.json", 
+    "parent": "data/columns/us/census/acs/C09016/C09016013.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

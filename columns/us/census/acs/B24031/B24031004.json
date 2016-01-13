@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Agriculture, forestry, fishing and hunting, and mining:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Mining, quarrying, and oil and gas extraction", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Mining, quarrying, and oil and gas extraction Agriculture, forestry, fishing and hunting, and mining Industry in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24031/B24031001.json", 
+    "parent": "data/columns/us/census/acs/B24031/B24031002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

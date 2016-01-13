@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Year Structure Built", 
+    "title": "Built 1960 to 1969", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Built 1960 to 1969 in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25034/B25034001.json", 
+    "parent": "data/columns/us/census/acs/B25034/B25034001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

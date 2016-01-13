@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Direct-purchase Health Insurance", 
+    "title": "Imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992705/B992705001.json", 
+    "parent": "data/columns/us/census/acs/B992705/B992705001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "health insurance"
+  ], 
+  "weight": 0
+}

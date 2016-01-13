@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Occupants Per Room (White Alone, Not Hispanic or Latino Householder)", 
+    "title": "1.00 or less occupants per room", 
+    "universe": "Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "1.00 or less occupants per room in Occupied Housing Units With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25014H/B25014H001.json", 
+    "parent": "data/columns/us/census/acs/B25014H/B25014H001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

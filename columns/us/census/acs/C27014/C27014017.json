@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work:"
+    ], 
+    "isDenominator": false, 
+    "table": "Public Health Insurance by Work Experience by Age", 
+    "title": "18 to 64 years:", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "18 to 64 years Did not work Public Health Insurance in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27014/C27014001.json", 
+    "parent": "data/columns/us/census/acs/C27014/C27014016.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age"
+  ], 
+  "weight": 0
+}

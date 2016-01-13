@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Age by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "5 to 17 years:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "5 to 17 years in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C16004/C16004001.json", 
+    "parent": "data/columns/us/census/acs/C16004/C16004001.json"
+  }, 
+  "tags": [
+    "age", 
+    "language"
+  ], 
+  "weight": 0
+}

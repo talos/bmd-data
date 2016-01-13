@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:", 
+      "Speak another language"
+    ], 
+    "isDenominator": false, 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over (Hispanic or Latino)", 
+    "title": "Speak English less than \"very well\"", 
+    "universe": "Hispanic or Latino Population 5 Years and Over"
+  }, 
+  "name": "Speak English less than \"very well\" Foreign born Nativity Speak another language Language Spoken at Home in Hispanic or Latino Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16005I/B16005I001.json", 
+    "parent": "data/columns/us/census/acs/B16005I/B16005I009.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race", 
+    "language"
+  ], 
+  "weight": 0
+}

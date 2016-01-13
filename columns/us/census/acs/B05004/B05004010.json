@@ -1,0 +1,23 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Median Age by Nativity and Citizenship Status by Sex", 
+    "title": "Naturalized U.S. citizen:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Naturalized U.S. citizen Foreign born Median Age", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05004/B05004007.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "1 or more vehicles available:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Vehicles Available by Age of Householder", 
+    "title": "Householder 65 years and over", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder 65 years and over Owner occupied Tenure 1 or more vehicles available Vehicles Available in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25045/B25045001.json", 
+    "parent": "data/columns/us/census/acs/B25045/B25045007.json"
+  }, 
+  "tags": [
+    "housing", 
+    "commute", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

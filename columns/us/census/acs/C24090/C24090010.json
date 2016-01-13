@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Class of Worker for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Self-employed in own not incorporated business workers and unpaid family workers", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Self-employed in own not incorporated business workers and unpaid family workers Male in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24090/C24090001.json", 
+    "parent": "data/columns/us/census/acs/C24090/C24090002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

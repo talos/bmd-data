@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Year of Entry", 
+    "title": "Foreign born:", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Foreign born in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99052/B99052001.json", 
+    "parent": "data/columns/us/census/acs/B99052/B99052001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

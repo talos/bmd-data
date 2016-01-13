@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Price Asked", 
+    "title": "$400,000 to $499,999", 
+    "universe": "Vacant-for-sale-only and Sold, Not Occupied Housing Units"
+  }, 
+  "name": "$400,000 to $499,999 in Vacant-for-sale-only and Sold, Not Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25085/B25085001.json", 
+    "parent": "data/columns/us/census/acs/B25085/B25085001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 1
+}

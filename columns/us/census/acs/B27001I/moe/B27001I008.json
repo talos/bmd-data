@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Health Insurance Coverage Status by Age (Hispanic or Latino)", 
+    "title": "18 to 24 years:", 
+    "universe": "HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "Margin of error for 18 to 24 years in HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27001I/B27001I008.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

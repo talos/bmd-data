@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born elsewhere:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Age in Puerto Rico", 
+    "title": "65 to 74 years", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "65 to 74 years Native; born elsewhere Place of Birth in Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06001PR/B06001PR001.json", 
+    "parent": "data/columns/us/census/acs/B06001PR/B06001PR037.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

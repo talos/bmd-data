@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Tenure and Mortgage Status", 
+    "title": "Housing units with a mortgage", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Housing units with a mortgage Owner occupied  Aggregate Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25120/B25120003.json"
+  }, 
+  "tags": [
+    "housing", 
+    "tenure", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "weight": 0
+}

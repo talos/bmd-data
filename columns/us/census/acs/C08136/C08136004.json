@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work", 
+    "title": "Public transportation (excluding taxicab)", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Public transportation (excluding taxicab)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08136/C08136001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

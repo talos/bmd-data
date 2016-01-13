@@ -1,0 +1,29 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 1.30:", 
+      "Other family:", 
+      "Female householder, no husband present:", 
+      "With related children under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children", 
+    "title": "5 to 17 years only", 
+    "universe": "Families"
+  }, 
+  "name": "5 to 17 years only Under 1.30 Ratio of Income to Poverty Level in the Past 12 Months of Families Other family Family Type Female householder, no husband present Presence of Related Children Under 18 Years With related children under 18 years Age of Related Children", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17022/B17022001.json", 
+    "parent": "data/columns/us/census/acs/B17022/B17022017.json"
+  }, 
+  "tags": [
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "income", 
+    "children"
+  ], 
+  "weight": 0
+}

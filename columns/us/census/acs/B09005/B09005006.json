@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)", 
+    "title": "In nonfamily households", 
+    "universe": "Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)"
+  }, 
+  "name": "In nonfamily households in Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09005/B09005001.json", 
+    "parent": "data/columns/us/census/acs/B09005/B09005001.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

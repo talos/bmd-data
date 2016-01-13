@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Total Ancestry Reported", 
+    "title": "Norwegian", 
+    "universe": "Total Ancestry Categories Tallied for People With One or More Ancestry Categories Reported"
+  }, 
+  "name": "Norwegian in Ancestry Categories Tallied for People With One or More Ancestry Categories Reported", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04003/C04003001.json", 
+    "parent": "data/columns/us/census/acs/C04003/C04003001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

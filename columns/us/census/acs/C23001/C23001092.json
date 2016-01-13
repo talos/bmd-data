@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "75 years and over:", 
+      "In labor force:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "Unemployed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Unemployed Female old in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23001/C23001001.json", 
+    "parent": "data/columns/us/census/acs/C23001/C23001080.json"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

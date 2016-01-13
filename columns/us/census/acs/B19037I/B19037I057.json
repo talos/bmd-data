@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Hispanic or Latino Householder)", 
+    "title": "$20,000 to $24,999", 
+    "universe": "Households With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "$20,000 to $24,999 Householder 65 years and over Age of Householder in Households With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19037I/B19037I001.json", 
+    "parent": "data/columns/us/census/acs/B19037I/B19037I053.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

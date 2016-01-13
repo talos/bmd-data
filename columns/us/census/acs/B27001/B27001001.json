@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Health Insurance Coverage Status by Sex by Age", 
+    "title": "Total:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Civilian Noninstitutionalized Population", 
+  "relationships": {}, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 1
+}

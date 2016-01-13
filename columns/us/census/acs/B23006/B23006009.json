@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Educational Attainment by Employment Status for the Population 25 to 64 Years", 
+    "title": "High school graduate:", 
+    "universe": "Population 25 to 64 Years"
+  }, 
+  "name": "High school graduate in Population 25 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23006/B23006001.json", 
+    "parent": "data/columns/us/census/acs/B23006/B23006001.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in other state in the United States:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Age in the United States", 
+    "title": "45 to 54 years", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "45 to 54 years Born in other state in the United States Place of Birth Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06001/B06001001.json", 
+    "parent": "data/columns/us/census/acs/B06001/B06001025.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

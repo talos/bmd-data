@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Employment Status", 
+    "title": "No children under 18 years:", 
+    "universe": "Families"
+  }, 
+  "name": "No children under 18 years in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23007/C23007001.json", 
+    "parent": "data/columns/us/census/acs/C23007/C23007001.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

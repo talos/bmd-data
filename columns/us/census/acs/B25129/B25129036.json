@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Moved in 1970 to 1979:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Year Householder Moved Into Unit by Units in Structure", 
+    "title": "50 or more", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "50 or more Owner occupied Tenure Moved in 1970 to 1979 Year Householder Moved Into Unit in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25129/B25129001.json", 
+    "parent": "data/columns/us/census/acs/B25129/B25129031.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

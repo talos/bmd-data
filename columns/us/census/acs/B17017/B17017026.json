@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Nonfamily households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Household Type by Age of Householder", 
+    "title": "Female householder:", 
+    "universe": "Households"
+  }, 
+  "name": "Female householder Income in the past 12 months below poverty level Poverty Status in the Past 12 Months Nonfamily households Household Type", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17017/B17017001.json", 
+    "parent": "data/columns/us/census/acs/B17017/B17017020.json"
+  }, 
+  "tags": [
+    "families", 
+    "age", 
+    "poverty"
+  ], 
+  "weight": 0
+}

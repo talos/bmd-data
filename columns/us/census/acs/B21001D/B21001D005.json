@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "18 to 34 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Asian Alone)", 
+    "title": "Nonveteran", 
+    "universe": "Asian Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "Nonveteran Male old in Asian Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B21001D/B21001D001.json", 
+    "parent": "data/columns/us/census/acs/B21001D/B21001D003.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

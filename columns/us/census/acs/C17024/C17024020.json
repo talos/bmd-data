@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Age by Ratio of Income to Poverty Level in the Past 12 Months", 
+    "title": "65 years and over:", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "65 years and over in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17024/C17024001.json", 
+    "parent": "data/columns/us/census/acs/C17024/C17024001.json"
+  }, 
+  "tags": [
+    "age", 
+    "poverty", 
+    "income"
+  ], 
+  "weight": 0
+}

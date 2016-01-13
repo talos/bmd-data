@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Divorces in the Last Year by Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Male:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Male in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12503/B12503001.json", 
+    "parent": "data/columns/us/census/acs/B12503/B12503001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 1
+}

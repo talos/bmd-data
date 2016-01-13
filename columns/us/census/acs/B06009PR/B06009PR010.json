@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in Puerto Rico:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Educational Attainment in Puerto Rico", 
+    "title": "Some college or associate's degree", 
+    "universe": "Population 25 Years and Over in Puerto Rico"
+  }, 
+  "name": "Some college or associate's degree Born in Puerto Rico Place of Birth in Population 25 Years and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06009PR/B06009PR001.json", 
+    "parent": "data/columns/us/census/acs/B06009PR/B06009PR007.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "education"
+  ], 
+  "weight": "0"
+}

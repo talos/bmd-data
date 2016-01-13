@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 5 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Number of Disabilities", 
+    "title": "With either a vision or hearing difficulty but not both", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With either a vision or hearing difficulty but not both old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18108/B18108001.json", 
+    "parent": "data/columns/us/census/acs/B18108/B18108002.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability"
+  ], 
+  "weight": 0
+}

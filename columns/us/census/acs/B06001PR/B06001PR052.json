@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Age in Puerto Rico", 
+    "title": "18 to 24 years", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "18 to 24 years Foreign born Place of Birth in Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06001PR/B06001PR001.json", 
+    "parent": "data/columns/us/census/acs/B06001PR/B06001PR049.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

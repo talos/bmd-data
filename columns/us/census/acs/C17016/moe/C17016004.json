@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Work Experience of Householder", 
+    "title": "Householder worked part-time or part-year in the past 12 months", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Householder worked part-time or part-year in the past 12 months Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17016/C17016004.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

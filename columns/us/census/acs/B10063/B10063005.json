@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Household with grandparents living with grandchildren:", 
+      "Household with grandparent responsible for own grandchildren under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Households With Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Presence of Parent of Grandchildren", 
+    "title": "Other grandparents", 
+    "universe": "Households"
+  }, 
+  "name": "Other grandparents Household with grandparents living with grandchildren Households With Grandparents Living With Own Grandchildren Under 18 Years Household with grandparent responsible for own grandchildren under 18 years Responsibility", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10063/B10063001.json", 
+    "parent": "data/columns/us/census/acs/B10063/B10063003.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

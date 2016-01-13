@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age", 
+    "title": "75 to 79 years", 
+    "universe": "Total Population"
+  }, 
+  "name": "75 to 79 years Male Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001/B01001001.json", 
+    "parent": "data/columns/us/census/acs/B01001/B01001002.json"
+  }, 
+  "tags": [
+    "age", 
+    "sex"
+  ], 
+  "weight": "2"
+}

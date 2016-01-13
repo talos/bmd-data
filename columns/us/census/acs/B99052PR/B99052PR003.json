@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native:"
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Year of Entry for Population Born Outside Puerto Rico", 
+    "title": "Imputed", 
+    "universe": "Population Born Outside Puerto Rico"
+  }, 
+  "name": "Imputed Native Imputation of Year of Entry in Population Born Outside Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99052PR/B99052PR001.json", 
+    "parent": "data/columns/us/census/acs/B99052PR/B99052PR002.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

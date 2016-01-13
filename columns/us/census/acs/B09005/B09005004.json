@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type for Children Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)", 
+    "title": "In male householder, no wife present, family", 
+    "universe": "Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)"
+  }, 
+  "name": "In male householder, no wife present, family In family households Household Type in Population Under 18 Years in Households (Excluding Householders, Spouses, and Unmarried Partners)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09005/B09005001.json", 
+    "parent": "data/columns/us/census/acs/B09005/B09005002.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

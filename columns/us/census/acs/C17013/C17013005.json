@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      null, 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Number of Persons in Family", 
+    "title": "5 to 6 persons", 
+    "universe": "Families"
+  }, 
+  "name": "5 to 6 persons Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17013/C17013001.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (White Alone)", 
+    "title": "Male:", 
+    "universe": "White Alone Population 25 Years and Over"
+  }, 
+  "name": "Male in White Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002A/C15002A001.json", 
+    "parent": "data/columns/us/census/acs/C15002A/C15002A001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Grade Enrolled for the Population 3 Years and Over Enrolled in School", 
+    "title": "Not imputed", 
+    "universe": "Population 3 Years and Over Enrolled in School"
+  }, 
+  "name": "Not imputed in Population 3 Years and Over Enrolled in School", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99142/B99142001.json", 
+    "parent": "data/columns/us/census/acs/B99142/B99142001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "education"
+  ], 
+  "weight": 0
+}

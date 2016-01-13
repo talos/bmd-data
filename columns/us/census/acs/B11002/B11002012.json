@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households", 
+    "title": "In nonfamily households", 
+    "universe": "Population in Households"
+  }, 
+  "name": "In nonfamily households in Population in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11002/B11002001.json", 
+    "parent": "data/columns/us/census/acs/B11002/B11002001.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 2
+}

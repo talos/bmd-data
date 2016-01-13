@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "People Reporting Multiple Ancestry", 
+    "title": "Ukrainian", 
+    "universe": "People Reporting Multiple Ancestries"
+  }, 
+  "name": "Ukrainian in People Reporting Multiple Ancestries", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04005/C04005001.json", 
+    "parent": "data/columns/us/census/acs/C04005/C04005001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

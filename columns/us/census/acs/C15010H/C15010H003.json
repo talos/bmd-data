@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Field of Bachelor's Degree for First Major the Population 25 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Science and Engineering Related Fields", 
+    "universe": "WHITE ALONE, NOT HISPANIC OR LATINO POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Science and Engineering Related Fields in WHITE ALONE, NOT HISPANIC OR LATINO POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15010H/C15010H001.json", 
+    "parent": "data/columns/us/census/acs/C15010H/C15010H001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

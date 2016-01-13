@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Mortgage Status by Median Value (Dollars)", 
+    "title": "Median value for units with a mortgage", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Median value for units with a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25097/B25097001.json", 
+    "parent": "data/columns/us/census/acs/B25097/B25097001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

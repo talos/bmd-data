@@ -1,0 +1,29 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Other family:", 
+      "Female householder, no husband present:", 
+      "With related children under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (Native Hawaiian and Other Pacific Islander Alone Householder)", 
+    "title": "Under 5 years and 5 to 17 years", 
+    "universe": "Families With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "Under 5 years and 5 to 17 years Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Other family Family Type Female householder, no husband present Presence of Related Children Under 18 Years With related children under 18 years Age of Related Children (Native Hawaiian and Other Pacific Islander Alone Householder) in Families With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17010E/B17010E001.json", 
+    "parent": "data/columns/us/census/acs/B17010E/B17010E017.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "People Reporting Single Ancestry", 
+    "title": "Turkish", 
+    "universe": "People Reporting Single Ancestry"
+  }, 
+  "name": "Turkish in People Reporting Single Ancestry", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04004/B04004001.json", 
+    "parent": "data/columns/us/census/acs/B04004/B04004001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

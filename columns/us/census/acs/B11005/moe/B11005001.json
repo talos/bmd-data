@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Households by Presence of People Under 18 Years by Household Type", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11005/B11005001.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": 1
+}

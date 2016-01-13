@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "3 or more bedrooms:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "3 or more bedrooms in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25068/B25068001.json", 
+    "parent": "data/columns/us/census/acs/B25068/B25068001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

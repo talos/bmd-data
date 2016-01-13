@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "65 years and over:", 
+      "In labor force:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Unemployed", 
+    "universe": "Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Unemployed Female old in Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23002I/C23002I001.json", 
+    "parent": "data/columns/us/census/acs/C23002I/C23002I019.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Latin America:", 
+      "Caribbean:", 
+      "Entered 1990 to 1999:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Not a U.S. citizen Latin America Place of Birth Caribbean Year of Entry Entered 1990 to 1999 Citizenship Status in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05007/B05007001.json", 
+    "parent": "data/columns/us/census/acs/B05007/B05007033.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

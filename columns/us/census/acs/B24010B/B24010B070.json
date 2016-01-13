@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Black or African American Alone)", 
+    "title": "Production, transportation, and material moving occupations:", 
+    "universe": "Civilian Employed Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "Production, transportation, and material moving occupations Female in Civilian Employed Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010B/B24010B001.json", 
+    "parent": "data/columns/us/census/acs/B24010B/B24010B038.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

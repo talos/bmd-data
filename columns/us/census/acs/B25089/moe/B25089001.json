@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Selected Monthly Owner Costs (Dollars) by Mortgage Status", 
+    "title": "Aggregate selected monthly owner costs (dollars):", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Aggregate selected monthly owner costs (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25089/B25089001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

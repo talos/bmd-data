@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Travel Time to Work", 
+    "title": "60 or more minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Margin of error for 60 or more minutes", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08135/B08135010.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Year Householder Moved Into Unit", 
+    "title": "Imputed", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Imputed in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99257/B99257001.json", 
+    "parent": "data/columns/us/census/acs/B99257/B99257001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

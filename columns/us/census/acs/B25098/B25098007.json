@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With a mortgage:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$50,000 to $74,999", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "$50,000 to $74,999 With a mortgage Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25098/B25098001.json", 
+    "parent": "data/columns/us/census/acs/B25098/B25098002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "weight": 0
+}

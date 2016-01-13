@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Plumbing Facilities for All Housing Units", 
+    "title": "Total:", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25047/B25047001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Number of Workers in Family in the Past 12 Months", 
+    "title": "Total:", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B23009/B23009001.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Americas:", 
+      "Latin America:", 
+      "South America:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth for the Foreign-born Population in Puerto Rico", 
+    "title": "Ecuador", 
+    "universe": "Foreign-born Population in Puerto Rico Excluding Population Born at Sea"
+  }, 
+  "name": "Ecuador Americas Place of Birth Latin America South America in Foreign-born Population in Puerto Rico Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05006PR/B05006PR001.json", 
+    "parent": "data/columns/us/census/acs/B05006PR/B05006PR038.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

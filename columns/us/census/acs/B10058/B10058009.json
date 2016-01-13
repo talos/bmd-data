@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not in labor force:", 
+      "Grandparent responsible for own grandchildren under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Employment Status of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "30 to 59 years", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "30 to 59 years Not in labor force Employment Status of Grandparents Living With Own Grandchildren Under 18 Years Grandparent responsible for own grandchildren under 18 years Responsibility", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10058/B10058001.json", 
+    "parent": "data/columns/us/census/acs/B10058/B10058008.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "employment", 
+    "children"
+  ], 
+  "weight": "0"
+}

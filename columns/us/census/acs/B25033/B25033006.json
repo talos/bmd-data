@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Total Population in Occupied Housing Units by Tenure by Units in Structure", 
+    "title": "Mobile home", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Mobile home Owner occupied Total Population in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25033/B25033001.json", 
+    "parent": "data/columns/us/census/acs/B25033/B25033002.json"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "tenure", 
+    "physical characteristics", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Kitchen Facilities for Occupied Housing Units", 
+    "title": "Lacking complete kitchen facilities", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Lacking complete kitchen facilities in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25052/B25052003.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

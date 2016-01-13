@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marriages Ending in Widowhood in the Last Year by Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Never married", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Never married Female Marriages Ending in Widowhood in the Last Year in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12502/B12502001.json", 
+    "parent": "data/columns/us/census/acs/B12502/B12502007.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

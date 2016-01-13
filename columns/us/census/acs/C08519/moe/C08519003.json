@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Means of Transportation to Work by Workers' Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for Workplace Geography", 
+    "title": "$10,000 to $14,999", 
+    "universe": "Workers 16 Years and Over With Earnings"
+  }, 
+  "name": "Margin of error for $10,000 to $14,999 in Workers 16 Years and Over With Earnings", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08519/C08519003.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "income"
+  ], 
+  "weight": "0"
+}

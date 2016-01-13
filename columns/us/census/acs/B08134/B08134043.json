@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van:", 
+      "Carpooled:", 
+      "In 2-person carpool:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Travel Time to Work", 
+    "title": "10 to 14 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "10 to 14 minutes Car, truck, or van Means of Transportation to Work Carpooled Travel Time to Work In 2-person carpool in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08134/B08134001.json", 
+    "parent": "data/columns/us/census/acs/B08134/B08134041.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "1"
+}

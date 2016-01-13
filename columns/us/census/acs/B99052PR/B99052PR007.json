@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Year of Entry for Population Born Outside Puerto Rico", 
+    "title": "Not imputed", 
+    "universe": "Population Born Outside Puerto Rico"
+  }, 
+  "name": "Not imputed Foreign born Imputation of Year of Entry in Population Born Outside Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99052PR/B99052PR001.json", 
+    "parent": "data/columns/us/census/acs/B99052PR/B99052PR005.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

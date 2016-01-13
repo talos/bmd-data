@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$15,000 to $24,999", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for $15,000 to $24,999 in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C19001/C19001004.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

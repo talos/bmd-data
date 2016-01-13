@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Nonfamily Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$150,000 to $199,999", 
+    "universe": "Nonfamily Households"
+  }, 
+  "name": "$150,000 to $199,999 in Nonfamily Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19201/B19201001.json", 
+    "parent": "data/columns/us/census/acs/B19201/B19201001.json"
+  }, 
+  "tags": [
+    "roommates", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

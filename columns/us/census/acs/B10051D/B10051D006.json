@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Grandparent not responsible for own grandchildren under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent (Asian Alone)", 
+    "title": "30 to 59 years", 
+    "universe": "Grandparents (Asian Alone) Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "30 to 59 years Grandparent not responsible for own grandchildren under 18 years Grandparents Living With Own Grandchildren Under 18 Years in Grandparents (Asian Alone) Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10051D/B10051D001.json", 
+    "parent": "data/columns/us/census/acs/B10051D/B10051D005.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "race", 
+    "children"
+  ], 
+  "weight": "0"
+}

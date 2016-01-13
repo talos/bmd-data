@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Household Type for Population in Households (Black or African American Alone)", 
+    "title": "Total:", 
+    "universe": "Population in Households With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "Margin of error for Population in Households With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C11002B/C11002B001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

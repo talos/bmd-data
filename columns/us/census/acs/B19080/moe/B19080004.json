@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Income Quintile Upper Limits", 
+    "title": "Fourth Quintile", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Fourth Quintile in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19080/B19080004.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

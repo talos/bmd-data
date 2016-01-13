@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Marital Status for the Population 15 Years and Over (Some Other Race Alone)", 
+    "title": "Separated", 
+    "universe": "Some Other Race Alone Population 15 Years and Over"
+  }, 
+  "name": "Separated in Some Other Race Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C12002F/C12002F001.json", 
+    "parent": "data/columns/us/census/acs/C12002F/C12002F001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Other languages:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Language by Households in Which No One 14 and Over Speaks English Only or Speaks a Language Other Than English at Home and Speaks English \"Very Well\"", 
+    "title": "At least one person 14 and over speaks English only or speaks English \"very well\"", 
+    "universe": "Households"
+  }, 
+  "name": "At least one person 14 and over speaks English only or speaks English \"very well\" Other languages Household Language", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16002/B16002001.json", 
+    "parent": "data/columns/us/census/acs/B16002/B16002012.json"
+  }, 
+  "tags": [
+    "age", 
+    "families", 
+    "language"
+  ], 
+  "weight": 1
+}

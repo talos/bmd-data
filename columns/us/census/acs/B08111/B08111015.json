@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Citizenship Status", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not a U.S. citizen Car, truck, or van - carpooled Means of Transportation to Work Foreign born Citizenship Status in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08111/B08111001.json", 
+    "parent": "data/columns/us/census/acs/B08111/B08111013.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

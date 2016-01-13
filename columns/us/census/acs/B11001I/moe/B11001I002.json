@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type (Including Living Alone) (Hispanic or Latino)", 
+    "title": "Family households:", 
+    "universe": "Households With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "Margin of error for Family households in Households With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11001I/B11001I002.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

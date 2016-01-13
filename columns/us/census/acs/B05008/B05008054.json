@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Latin America:", 
+      "Central America:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Mexico:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Mexico Female Latin America Place of Birth Central America Year of Entry in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05008/B05008001.json", 
+    "parent": "data/columns/us/census/acs/B05008/B05008053.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

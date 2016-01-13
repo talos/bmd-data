@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Sales and office occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Black or African American Alone)", 
+    "title": "Office and administrative support occupations", 
+    "universe": "Civilian Employed Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "Office and administrative support occupations Male Sales and office occupations Occupation in Civilian Employed Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010B/B24010B001.json", 
+    "parent": "data/columns/us/census/acs/B24010B/B24010B027.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

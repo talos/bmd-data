@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Living in a place:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Place of Work--Place Level", 
+    "title": "Worked outside place of residence", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Worked outside place of residence Living in a place Sex of Workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08008/B08008001.json", 
+    "parent": "data/columns/us/census/acs/B08008/B08008002.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

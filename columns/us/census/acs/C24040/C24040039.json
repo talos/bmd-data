@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Transportation and warehousing, and utilities:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Utilities", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Utilities Female Transportation and warehousing, and utilities Industry in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24040/C24040001.json", 
+    "parent": "data/columns/us/census/acs/C24040/C24040037.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

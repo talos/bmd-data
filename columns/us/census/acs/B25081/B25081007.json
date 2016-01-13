@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units with a mortgage, contract to purchase, or similar debt:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status", 
+    "title": "No second mortgage and no home equity loan", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "No second mortgage and no home equity loan Housing units with a mortgage, contract to purchase, or similar debt Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25081/B25081001.json", 
+    "parent": "data/columns/us/census/acs/B25081/B25081002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 2
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (Hispanic or Latino)", 
+    "title": "In married-couple family:", 
+    "universe": "Population in Households With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "In married-couple family In family households Household Type in Population in Households With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11002I/B11002I001.json", 
+    "parent": "data/columns/us/census/acs/B11002I/B11002I002.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Not enrolled in school:", 
+      "High school graduate:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by School Enrollment by Educational Attainment by Employment Status for the Population 16 to 19 Years", 
+    "title": "Unemployed", 
+    "universe": "Population 16 to 19 Years"
+  }, 
+  "name": "Unemployed Male Not enrolled in school School Enrollment High school graduate Educational Attainment in Population 16 to 19 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14005/B14005001.json", 
+    "parent": "data/columns/us/census/acs/B14005/B14005008.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

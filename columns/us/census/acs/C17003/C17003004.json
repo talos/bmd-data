@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Individuals by Educational Attainment", 
+    "title": "High school graduate (includes equivalency)", 
+    "universe": "Population 25 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "High school graduate (includes equivalency) Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Individuals in Population 25 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17003/C17003001.json", 
+    "parent": "data/columns/us/census/acs/C17003/C17003002.json"
+  }, 
+  "tags": [
+    "education", 
+    "poverty"
+  ], 
+  "weight": 0
+}

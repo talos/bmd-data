@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (American Indian and Alaska Native Alone) in Puerto Rico", 
+    "title": "Native; born elsewhere", 
+    "universe": "American Indian and Alaska Native Alone Population in Puerto Rico"
+  }, 
+  "name": "Native; born elsewhere in American Indian and Alaska Native Alone Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004CPR/B06004CPR001.json", 
+    "parent": "data/columns/us/census/acs/B06004CPR/B06004CPR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

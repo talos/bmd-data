@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Tenure", 
+    "title": "Car, truck, or van - carpooled:", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Car, truck, or van - carpooled in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08137/B08137001.json", 
+    "parent": "data/columns/us/census/acs/B08137/B08137001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "tenure"
+  ], 
+  "weight": "0"
+}

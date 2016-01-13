@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "Employed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Margin of error for Employed Female old Civilian in Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C23001/C23001067.json"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

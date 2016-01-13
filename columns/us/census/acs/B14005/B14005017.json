@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by School Enrollment by Educational Attainment by Employment Status for the Population 16 to 19 Years", 
+    "title": "Enrolled in school:", 
+    "universe": "Population 16 to 19 Years"
+  }, 
+  "name": "Enrolled in school Female in Population 16 to 19 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14005/B14005001.json", 
+    "parent": "data/columns/us/census/acs/B14005/B14005016.json"
+  }, 
+  "tags": [
+    "education", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

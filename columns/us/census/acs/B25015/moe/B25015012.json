@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Age of Householder by Occupants Per Room", 
+    "title": "1.00 or less occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for 1.00 or less occupants per room Owner occupied Tenure Householder 65 years and over Age of Householder in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25015/B25015012.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

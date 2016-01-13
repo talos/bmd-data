@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Unemployed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Margin of error for Unemployed Never married Marital Status Male In labor force Labor Force Participation in Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B12006/B12006006.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

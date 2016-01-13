@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (White Alone, Not Hispanic or Latino) in the United States", 
+    "title": "Native; born outside the United States", 
+    "universe": "White Alone, Not Hispanic or Latino Population in the United States"
+  }, 
+  "name": "Native; born outside the United States in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004H/B06004H001.json", 
+    "parent": "data/columns/us/census/acs/B06004H/B06004H001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

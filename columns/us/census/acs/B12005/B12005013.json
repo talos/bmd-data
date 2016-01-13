@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Widowed:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Nativity", 
+    "title": "Foreign born", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Foreign born Widowed Marital Status in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12005/B12005001.json", 
+    "parent": "data/columns/us/census/acs/B12005/B12005011.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Mortgage Status", 
+    "title": "Total:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25081/B25081001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 2
+}

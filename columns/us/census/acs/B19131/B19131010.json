@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Married-couple family:", 
+      "With own children under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Family Type by Presence of Own Children Under 18 Years by Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$35,000 to $39,999", 
+    "universe": "Families"
+  }, 
+  "name": "$35,000 to $39,999 Married-couple family Family Type With own children under 18 years Presence of Own Children Under 18 Years in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19131/B19131001.json", 
+    "parent": "data/columns/us/census/acs/B19131/B19131003.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Number of Workers in Household by Vehicles Available", 
+    "title": "2 vehicles available", 
+    "universe": "Households"
+  }, 
+  "name": "2 vehicles available in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08203/B08203001.json", 
+    "parent": "data/columns/us/census/acs/B08203/B08203001.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

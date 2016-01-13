@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Total Population in Occupied Housing Units by Tenure by Units in Structure", 
+    "title": "Owner occupied:", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Owner occupied in Population in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25033/B25033002.json"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "tenure", 
+    "physical characteristics", 
+    "sex"
+  ], 
+  "weight": 0
+}

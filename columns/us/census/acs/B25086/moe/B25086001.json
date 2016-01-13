@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Price Asked (Dollars)", 
+    "title": "Aggregate price asked (dollars)", 
+    "universe": "Vacant-for-sale-only and Sold, Not Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Aggregate price asked (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25086/B25086001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

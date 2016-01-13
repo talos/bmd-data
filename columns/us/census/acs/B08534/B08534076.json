@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):", 
+      "Bus or trolley bus:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Travel Time to Work for Workplace Geography", 
+    "title": "25 to 29 minutes", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "25 to 29 minutes Public transportation (excluding taxicab) Means of Transportation to Work Bus or trolley bus Travel Time to Work in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08534/B08534001.json", 
+    "parent": "data/columns/us/census/acs/B08534/B08534051.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

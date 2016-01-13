@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder 45 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone Householder)", 
+    "title": "$50,000 to $59,999", 
+    "universe": "Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "$50,000 to $59,999 Householder 45 to 64 years Age of Householder in Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19037E/B19037E001.json", 
+    "parent": "data/columns/us/census/acs/B19037E/B19037E036.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (American Indian and Alaska Native Alone Householder)", 
+    "title": "1, detached or attached", 
+    "universe": "Occupied Housing Units With a Householder Who Is American Indian and Alaska Native Alone"
+  }, 
+  "name": "1, detached or attached in Occupied Housing Units With a Householder Who Is American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25032C/C25032C001.json", 
+    "parent": "data/columns/us/census/acs/C25032C/C25032C001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

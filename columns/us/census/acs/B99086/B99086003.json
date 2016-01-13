@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Means of Transportation to Work for Workplace Geography", 
+    "title": "Not imputed", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Not imputed in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99086/B99086001.json", 
+    "parent": "data/columns/us/census/acs/B99086/B99086001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": 0
+}

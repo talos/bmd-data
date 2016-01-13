@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Age by Educational Attainment", 
+    "title": "65 years and over:", 
+    "universe": "Civilian Noninstitutionalized Population 25 Years and Over"
+  }, 
+  "name": "65 years and over in Civilian Noninstitutionalized Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27019/B27019001.json", 
+    "parent": "data/columns/us/census/acs/B27019/B27019001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "education", 
+    "age"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Now married (except separated):", 
+      "Female:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Marital Status by Sex by Labor Force Participation", 
+    "title": "Unemployed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Unemployed Now married (except separated) Marital Status Female In labor force Labor Force Participation in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12006/B12006001.json", 
+    "parent": "data/columns/us/census/acs/B12006/B12006020.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Plumbing Facilities for All Housing Units", 
+    "title": "Lacking complete plumbing facilities", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Lacking complete plumbing facilities in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25047/B25047001.json", 
+    "parent": "data/columns/us/census/acs/B25047/B25047001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity", 
+    "title": "Native", 
+    "universe": "Total Population"
+  }, 
+  "name": "Native Female old Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003/C05003001.json", 
+    "parent": "data/columns/us/census/acs/C05003/C05003013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "sex"
+  ], 
+  "weight": "0"
+}

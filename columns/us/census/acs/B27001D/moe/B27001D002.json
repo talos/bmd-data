@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Health Insurance Coverage Status by Age (Asian Alone)", 
+    "title": "Under 6 years:", 
+    "universe": "ASIAN ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "Margin of error for Under 6 years in ASIAN ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27001D/B27001D002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

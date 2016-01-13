@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Private for-profit wage and salary workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Class of Worker for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Employee of private company workers", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Employee of private company workers Male Private for-profit wage and salary workers Class of Worker in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24090/C24090001.json", 
+    "parent": "data/columns/us/census/acs/C24090/C24090003.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

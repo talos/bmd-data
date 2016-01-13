@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Taxicab, motorcycle, bicycle, walked, or other means:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Citizenship Status for Workplace Geography", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Naturalized U.S. citizen Taxicab, motorcycle, bicycle, walked, or other means Means of Transportation to Work Foreign born Citizenship Status in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08511/C08511001.json", 
+    "parent": "data/columns/us/census/acs/C08511/C08511023.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

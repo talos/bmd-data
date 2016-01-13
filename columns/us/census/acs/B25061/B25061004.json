@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Rent Asked", 
+    "title": "$150 to $199", 
+    "universe": "Vacant-for-rent and Rented, Not Occupied Housing Units"
+  }, 
+  "name": "$150 to $199 in Vacant-for-rent and Rented, Not Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25061/B25061001.json", 
+    "parent": "data/columns/us/census/acs/B25061/B25061001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 1
+}

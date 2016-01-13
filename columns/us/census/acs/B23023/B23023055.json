@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "With a disability:", 
+      "Worked in the past 12 months:", 
+      "Usually worked 35 or more hours per week:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Disability Status by Work Status in the Past 12 Months by Usual Hours Worked Per Week in the Past 12 Months by Weeks Worked in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "50 to 52 weeks", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "50 to 52 weeks Female With a disability Disability Status Worked in the past 12 months Work Status in the Past 12 Months Usually worked 35 or more hours per week Usual Hours Worked Per Week in the Past 12 Months in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23023/B23023001.json", 
+    "parent": "data/columns/us/census/acs/B23023/B23023054.json"
+  }, 
+  "tags": [
+    "disability", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

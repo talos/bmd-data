@@ -1,0 +1,22 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Class of Worker and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Civilian Employed Population 16 Years and Over", 
+    "title": "Private for-profit wage and salary workers:", 
+    "universe": "Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Private for-profit wage and salary workers Male in Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B24082/B24082001.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

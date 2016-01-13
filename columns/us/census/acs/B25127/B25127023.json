@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Built 1960 to 1979:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Year Structure Built by Units in Structure", 
+    "title": "Mobile home, boat, RV, van, etc.", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Mobile home, boat, RV, van, etc. Owner occupied Tenure Built 1960 to 1979 Year Structure Built in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25127/B25127001.json", 
+    "parent": "data/columns/us/census/acs/B25127/B25127017.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

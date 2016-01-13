@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With own children under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of Own Children Under 18 Years by Family Type by Number of Workers in Family in the Past 12 Months", 
+    "title": "Other family:", 
+    "universe": "Families"
+  }, 
+  "name": "Other family With own children under 18 years Presence of Own Children Under 18 Years in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23009/B23009001.json", 
+    "parent": "data/columns/us/census/acs/B23009/B23009002.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "employment", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (Some Other Race Alone) in Puerto Rico", 
+    "title": "Foreign born", 
+    "universe": "Some Other Race Population in Puerto Rico"
+  }, 
+  "name": "Foreign born in Some Other Race Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004FPR/B06004FPR001.json", 
+    "parent": "data/columns/us/census/acs/B06004FPR/B06004FPR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

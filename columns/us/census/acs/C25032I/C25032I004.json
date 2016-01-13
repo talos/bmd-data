@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Units in Structure (Hispanic or Latino Householder)", 
+    "title": "5 or more units", 
+    "universe": "Occupied Housing Units With a Householder Who Is Hispanic or Latino"
+  }, 
+  "name": "5 or more units in Occupied Housing Units With a Householder Who Is Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25032I/C25032I001.json", 
+    "parent": "data/columns/us/census/acs/C25032I/C25032I001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

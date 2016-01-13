@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Hispanic or Latino)", 
+    "title": "Native", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "Margin of error for Native Female old in Hispanic or Latino Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05003I/B05003I015.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

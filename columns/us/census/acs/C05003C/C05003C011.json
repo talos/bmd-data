@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (American Indian and Alaska Native Alone)", 
+    "title": "Native", 
+    "universe": "People Who Are American Indian and Alaska Native Alone"
+  }, 
+  "name": "Native Female old in People Who Are American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003C/C05003C001.json", 
+    "parent": "data/columns/us/census/acs/C05003C/C05003C010.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

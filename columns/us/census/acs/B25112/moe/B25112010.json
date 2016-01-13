@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Gross Rent (Dollars) by Year Structure Built", 
+    "title": "Built 1939 or earlier", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Built 1939 or earlier", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25112/B25112010.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

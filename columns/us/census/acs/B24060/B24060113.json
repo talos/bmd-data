@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Private not-for-profit wage and salary workers:", 
+      "Management, business, science, and arts occupations:", 
+      "Management, business, and financial occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Business and financial operations occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Business and financial operations occupations Private not-for-profit wage and salary workers Occupation Management, business, science, and arts occupations Class of Worker Management, business, and financial occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24060/B24060001.json", 
+    "parent": "data/columns/us/census/acs/B24060/B24060111.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

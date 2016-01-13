@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      null, 
+      "Office and administrative support occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Material recording, scheduling, dispatching, and distributing workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Material recording, scheduling, dispatching, and distributing workers Office and administrative support occupations Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B24010/B24010253.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

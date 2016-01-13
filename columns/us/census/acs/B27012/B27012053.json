@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked less than full-time, year-round:", 
+      "Female:", 
+      "18 to 64 years:", 
+      "With health insurance coverage"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Work Experience by Sex by Age", 
+    "title": "With direct-purchase health insurance", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With direct-purchase health insurance Worked less than full-time, year-round Health Insurance Coverage Status and Type Female Work Experience 18 to 64 years old in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27012/B27012001.json", 
+    "parent": "data/columns/us/census/acs/B27012/B27012051.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

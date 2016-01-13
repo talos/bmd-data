@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over", 
+    "title": "18 to 34 years:", 
+    "universe": "Civilian Population 18 Years and Over"
+  }, 
+  "name": "Margin of error for 18 to 34 years Female in Civilian Population 18 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B21001/B21001025.json"
+  }, 
+  "tags": [
+    "age", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Nativity", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Total Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C05002/C05002001.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

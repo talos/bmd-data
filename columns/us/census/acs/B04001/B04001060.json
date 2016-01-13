@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "First Ancestry Reported", 
+    "title": "Pennsylvania German", 
+    "universe": "Total Population"
+  }, 
+  "name": "Pennsylvania German Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04001/B04001001.json", 
+    "parent": "data/columns/us/census/acs/B04001/B04001001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "1"
+}

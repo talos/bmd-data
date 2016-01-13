@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Plumbing Facilities for Occupied Housing Units", 
+    "title": "Complete plumbing facilities", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Complete plumbing facilities in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25048/B25048001.json", 
+    "parent": "data/columns/us/census/acs/B25048/B25048001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

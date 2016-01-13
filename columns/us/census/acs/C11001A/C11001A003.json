@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (White Alone)", 
+    "title": "Married-couple family", 
+    "universe": "Households With a Householder Who Is White Alone"
+  }, 
+  "name": "Married-couple family Family households Household Type (White Alone) in Households With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C11001A/C11001A001.json", 
+    "parent": "data/columns/us/census/acs/C11001A/C11001A002.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

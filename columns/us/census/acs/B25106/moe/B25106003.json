@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Housing Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Less than $20,000:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Less than $20,000 Owner-occupied housing units Tenure", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25106/B25106003.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "tenure", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

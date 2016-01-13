@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Now married (except separated)", 
+    "universe": "White Alone, Not Hispanic or Latino Population 15 Years and Over"
+  }, 
+  "name": "Now married (except separated) Female in White Alone, Not Hispanic or Latino Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002H/B12002H001.json", 
+    "parent": "data/columns/us/census/acs/B12002H/B12002H008.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

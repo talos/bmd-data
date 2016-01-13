@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Interest, Dividends, or Net Rental Income in the Past 12 Months for Households", 
+    "title": "With interest, dividends, or net rental income", 
+    "universe": "Households"
+  }, 
+  "name": "With interest, dividends, or net rental income in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19054/B19054001.json", 
+    "parent": "data/columns/us/census/acs/B19054/B19054001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "70 years and over:", 
+      "In labor force:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Asian Alone)", 
+    "title": "Unemployed", 
+    "universe": "Asian Alone Population 16 Years and Over"
+  }, 
+  "name": "Unemployed Male old in Asian Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23002D/B23002D001.json", 
+    "parent": "data/columns/us/census/acs/B23002D/B23002D027.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

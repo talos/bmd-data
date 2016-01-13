@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Health Insurance Coverage Status by Age (American Indian and Alaska Native Alone)", 
+    "title": "Total:", 
+    "universe": "AMERICAN INDIAN AND ALASKA NATIVE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "Margin of error for AMERICAN INDIAN AND ALASKA NATIVE ALONE CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27001C/B27001C001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "People Reporting Ancestry", 
+    "title": "British", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for British Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C04006/C04006004.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

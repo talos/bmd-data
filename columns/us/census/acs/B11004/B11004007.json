@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Married-couple family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Family Type by Presence and Age of Related Children Under 18 Years", 
+    "title": "No related children under 18 years", 
+    "universe": "Families"
+  }, 
+  "name": "No related children under 18 years Married-couple family Family Type in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11004/B11004001.json", 
+    "parent": "data/columns/us/census/acs/B11004/B11004002.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work (Asian Alone)", 
+    "title": "Public transportation (excluding taxicab)", 
+    "universe": "Asian Alone Workers 16 Years and Over"
+  }, 
+  "name": "Public transportation (excluding taxicab) in Asian Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08105D/B08105D001.json", 
+    "parent": "data/columns/us/census/acs/B08105D/B08105D001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

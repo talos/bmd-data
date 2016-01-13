@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Portuguese or Portuguese Creole:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Portuguese or Portuguese Creole in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16001/B16001001.json", 
+    "parent": "data/columns/us/census/acs/B16001/B16001001.json"
+  }, 
+  "tags": [
+    "language"
+  ], 
+  "weight": 2
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Gross Rent", 
+    "title": "No cash rent", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Margin of error for No cash rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25063/B25063024.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 1
+}

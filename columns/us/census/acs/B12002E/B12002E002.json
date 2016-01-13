@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Male:", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 15 Years and Over"
+  }, 
+  "name": "Male in Native Hawaiian and Other Pacific Islander Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002E/B12002E001.json", 
+    "parent": "data/columns/us/census/acs/B12002E/B12002E001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

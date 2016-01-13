@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (Black or African American Alone) for Current Residence in Puerto Rico", 
+    "title": "Moved from different municipio", 
+    "universe": "Black or African American Alone Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "Moved from different municipio in Black or African American Alone Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07004BPR/B07004BPR001.json", 
+    "parent": "data/columns/us/census/acs/B07004BPR/B07004BPR001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Ratio of Income to Poverty Level of Families in the Past 12 Months", 
+    "title": "2.00 to 2.99", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for 2.00 to 2.99 in Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17026/B17026010.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "income"
+  ], 
+  "weight": 0
+}

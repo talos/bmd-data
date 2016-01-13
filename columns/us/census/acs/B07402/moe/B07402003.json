@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Age by Geographical Mobility in the Past Year for Residence 1 Year Ago in the United States", 
+    "title": "Moved within same county", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Margin of error for Moved within same county", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B07402/B07402003.json"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "weight": "0"
+}

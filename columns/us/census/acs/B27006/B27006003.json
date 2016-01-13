@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Medicare Coverage by Sex by Age", 
+    "title": "Under 6 years:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 6 years Male Medicare Coverage in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27006/B27006001.json", 
+    "parent": "data/columns/us/census/acs/B27006/B27006002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

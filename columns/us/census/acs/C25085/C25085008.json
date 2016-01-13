@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Price Asked", 
+    "title": "$500,000 or more", 
+    "universe": "Vacant-for-sale-only and Sold, Not Occupied Housing Units"
+  }, 
+  "name": "$500,000 or more in Vacant-for-sale-only and Sold, Not Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25085/C25085001.json", 
+    "parent": "data/columns/us/census/acs/C25085/C25085001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

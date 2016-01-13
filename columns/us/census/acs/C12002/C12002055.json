@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Separated:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status by Age for the Population 15 Years and Over", 
+    "title": "20 to 34 years", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "20 to 34 years Female Separated Marital Status in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C12002/C12002001.json", 
+    "parent": "data/columns/us/census/acs/C12002/C12002053.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Age of Householder by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (White Alone Householder)", 
+    "title": "$200,000 or more", 
+    "universe": "Households With a Householder Who Is White Alone"
+  }, 
+  "name": "Margin of error for $200,000 or more Householder 65 years and over Age of Householder in Households With a Householder Who Is White Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19037A/B19037A069.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Occupants Per Room (Asian Alone Householder)", 
+    "title": "1.00 or less occupants per room", 
+    "universe": "Occupied Housing Units With a Householder Who Is Asian Alone"
+  }, 
+  "name": "1.00 or less occupants per room in Occupied Housing Units With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25014D/B25014D001.json", 
+    "parent": "data/columns/us/census/acs/B25014D/B25014D001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

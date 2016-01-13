@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Language Spoken at Home and Ability to Speak English in the United States", 
+    "title": "Speak only English", 
+    "universe": "Population 5 Years and Over in the United States"
+  }, 
+  "name": "Speak only English in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06007/B06007001.json", 
+    "parent": "data/columns/us/census/acs/B06007/B06007001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "weight": "0"
+}

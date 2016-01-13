@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Married-couple family:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years", 
+    "title": "With related children under 18 years", 
+    "universe": "Families"
+  }, 
+  "name": "With related children under 18 years Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Married-couple family Family Type", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17010/C17010001.json", 
+    "parent": "data/columns/us/census/acs/C17010/C17010003.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

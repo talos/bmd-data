@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Selected Monthly Owner Costs", 
+    "title": "Less than $100", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Less than $100 in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25094/B25094001.json", 
+    "parent": "data/columns/us/census/acs/B25094/B25094001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

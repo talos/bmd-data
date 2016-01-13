@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Native:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Median Age by Nativity and Citizenship Status by Sex", 
+    "title": "Male", 
+    "universe": "Total Population"
+  }, 
+  "name": "Male Native Median Age", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05004/B05004004.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

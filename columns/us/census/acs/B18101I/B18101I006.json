@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Disability Status (Hispanic or Latino)", 
+    "title": "With a disability", 
+    "universe": "Hispanic or Latino Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability old in Hispanic or Latino Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101I/B18101I001.json", 
+    "parent": "data/columns/us/census/acs/B18101I/B18101I005.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

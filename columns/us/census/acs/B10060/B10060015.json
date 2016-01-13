@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In mobile homes and all other types of units:", 
+      "Grandparent responsible for own grandchildren under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Units in Structure of Grandparents Living With Own Grandchildren Under 18 Years by Responsibility for Own Grandchildren and Age of Grandparent", 
+    "title": "60 years and over", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years in Households"
+  }, 
+  "name": "60 years and over In mobile homes and all other types of units Units in Structure of Grandparents Living With Own Grandchildren Under 18 Years Grandparent responsible for own grandchildren under 18 years Responsibility in Grandparents Living With Own Grandchildren Under 18 Years in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10060/B10060001.json", 
+    "parent": "data/columns/us/census/acs/B10060/B10060013.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "children", 
+    "physical characteristics"
+  ], 
+  "weight": "0"
+}

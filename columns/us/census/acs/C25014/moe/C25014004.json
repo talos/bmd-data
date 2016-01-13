@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Occupants Per Room", 
+    "title": "1.01 or more occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for 1.01 or more occupants per room Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25014/C25014004.json"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

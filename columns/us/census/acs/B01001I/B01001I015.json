@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Hispanic or Latino)", 
+    "title": "75 to 84 years", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "75 to 84 years Male in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001I/B01001I001.json", 
+    "parent": "data/columns/us/census/acs/B01001I/B01001I002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Total Population in Occupied Housing Units by Tenure by Units in Structure", 
+    "title": "Mobile home, boat, RV, van, etc.", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Mobile home, boat, RV, van, etc. Owner occupied Total Population in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25033/C25033005.json"
+  }, 
+  "tags": [
+    "age", 
+    "housing", 
+    "tenure", 
+    "physical characteristics", 
+    "sex"
+  ], 
+  "weight": 0
+}

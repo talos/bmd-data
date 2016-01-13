@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below the poverty level:", 
+      "Enrolled in school:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by School Enrollment by Level of School for the Population 3 Years and Over", 
+    "title": "Enrolled in grade 5 to grade 8", 
+    "universe": "Population 3 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Enrolled in grade 5 to grade 8 Income in the past 12 months below the poverty level Poverty Status in the Past 12 Months in Population 3 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14006/B14006001.json", 
+    "parent": "data/columns/us/census/acs/B14006/B14006003.json"
+  }, 
+  "tags": [
+    "education", 
+    "poverty"
+  ], 
+  "weight": 0
+}

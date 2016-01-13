@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Age by Disability Status (Some Other Race Alone)", 
+    "title": "65 years and over:", 
+    "universe": "Some Other Race Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "65 years and over in Some Other Race Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101F/B18101F001.json", 
+    "parent": "data/columns/us/census/acs/B18101F/B18101F001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Two or More Races)", 
+    "title": "Male:", 
+    "universe": "Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "Male in Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23002G/C23002G001.json", 
+    "parent": "data/columns/us/census/acs/C23002G/C23002G001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

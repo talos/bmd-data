@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Inclusion of Utilities in Rent", 
+    "title": "No extra payment for any utilities", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "No extra payment for any utilities in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25069/B25069001.json", 
+    "parent": "data/columns/us/census/acs/B25069/B25069001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

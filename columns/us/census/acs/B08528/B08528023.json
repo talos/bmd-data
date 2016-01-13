@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - carpooled:", 
+      "Private for-profit wage and salary workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Class of Worker for Workplace Geography", 
+    "title": "Employee of private company workers", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Employee of private company workers Car, truck, or van - carpooled Means of Transportation to Work Private for-profit wage and salary workers Class of Worker in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08528/B08528001.json", 
+    "parent": "data/columns/us/census/acs/B08528/B08528022.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

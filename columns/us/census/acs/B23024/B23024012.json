@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "No disability:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Disability Status by Employment Status for the Population 20 to 64 Years", 
+    "title": "In Armed Forces", 
+    "universe": "Population 20 to 64 Years for Whom Poverty Status Is Determined"
+  }, 
+  "name": "In Armed Forces Income in the past 12 months below poverty level Poverty Status in the Past 12 Months No disability Disability Status in Population 20 to 64 Years for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23024/B23024001.json", 
+    "parent": "data/columns/us/census/acs/B23024/B23024011.json"
+  }, 
+  "tags": [
+    "disability", 
+    "poverty", 
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Private Health Insurance by Ratio of Income to Poverty Level in the Past 12 Months by Age", 
+    "title": "1.38 to 1.99 of poverty threshold:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "1.38 to 1.99 of poverty threshold in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27017/C27017001.json", 
+    "parent": "data/columns/us/census/acs/C27017/C27017001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "poverty", 
+    "age", 
+    "income"
+  ], 
+  "weight": 0
+}

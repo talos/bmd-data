@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Now married:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over", 
+    "title": "Married, spouse absent:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Married, spouse absent Female Now married Marital Status in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12001/B12001001.json", 
+    "parent": "data/columns/us/census/acs/B12001/B12001013.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "sex"
+  ], 
+  "weight": 1
+}

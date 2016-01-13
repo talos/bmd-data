@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:", 
+      "Arts, design, entertainment, sports, and media occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Media and communication equipment workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Media and communication equipment workers Female Management, business, science, and arts occupations Occupation Education, legal, community service, arts, and media occupations Arts, design, entertainment, sports, and media occupations in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010/B24010001.json", 
+    "parent": "data/columns/us/census/acs/B24010/B24010203.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

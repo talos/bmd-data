@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Asia:", 
+      "South Eastern Asia:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Malaysia", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Malaysia Asia Place of Birth South Eastern Asia in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05006/B05006001.json", 
+    "parent": "data/columns/us/census/acs/B05006/B05006067.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

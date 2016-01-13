@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Nativity", 
+    "title": "Native:", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Native Income in the past 12 months below poverty level Poverty Status in the Past 12 Months in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17025/B17025001.json", 
+    "parent": "data/columns/us/census/acs/B17025/B17025002.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "weight": 0
+}

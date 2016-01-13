@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Age by Means of Transportation to Work", 
+    "title": "Worked at home", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Worked at home", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08103/B08103007.json"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": "1"
+}

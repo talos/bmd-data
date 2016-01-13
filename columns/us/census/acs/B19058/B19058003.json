@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households", 
+    "title": "No cash public assistance or Food Stamps/SNAP", 
+    "universe": "Households"
+  }, 
+  "name": "No cash public assistance or Food Stamps/SNAP in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19058/B19058001.json", 
+    "parent": "data/columns/us/census/acs/B19058/B19058001.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Size by Number of Workers in Household", 
+    "title": "3 or more workers", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for 3 or more workers 4-or-more-person household Household Size", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08202/B08202022.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (White Alone, Not Hispanic or Latino) in Puerto Rico", 
+    "title": "Born in Puerto Rico", 
+    "universe": "White Alone, Not Hispanic or Latino Population in Puerto Rico"
+  }, 
+  "name": "Born in Puerto Rico in White Alone, Not Hispanic or Latino Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004HPR/B06004HPR001.json", 
+    "parent": "data/columns/us/census/acs/B06004HPR/B06004HPR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

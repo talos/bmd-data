@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) (Asian Alone)", 
+    "title": "Female householder, no husband present", 
+    "universe": "Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Female householder, no husband present Family households Household Type (Including Living Alone) (Asian Alone) Other family in Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11001D/B11001D001.json", 
+    "parent": "data/columns/us/census/acs/B11001D/B11001D004.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

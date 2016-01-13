@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "16 to 64 years:", 
+      "In labor force:", 
+      "Civilian:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "Unemployed", 
+    "universe": "Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "Unemployed Male old Civilian in Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C23002F/C23002F001.json", 
+    "parent": "data/columns/us/census/acs/C23002F/C23002F006.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

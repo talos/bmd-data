@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Healthcare practitioners and technical occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Health diagnosing and treating practitioners and other technical occupations", 
+    "universe": "Civilian Employed Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over"
+  }, 
+  "name": "Health diagnosing and treating practitioners and other technical occupations Male Management, business, science, and arts occupations Occupation Healthcare practitioners and technical occupations in Civilian Employed Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010E/B24010E001.json", 
+    "parent": "data/columns/us/census/acs/B24010E/B24010E016.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

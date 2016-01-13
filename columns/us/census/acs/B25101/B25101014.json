@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With a mortgage:", 
+      "$35,000 to $49,999:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status by Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "30 percent or more", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "30 percent or more With a mortgage Mortgage Status $35,000 to $49,999 Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25101/B25101001.json", 
+    "parent": "data/columns/us/census/acs/B25101/B25101011.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Imputation of School Enrollment for the Population 3 Years and Over", 
+    "title": "Total:", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Margin of error for Population 3 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99141/B99141001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "education"
+  ], 
+  "weight": 0
+}

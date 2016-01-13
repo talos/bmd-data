@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Age by Means of Transportation to Work for Workplace Geography", 
+    "title": "Taxicab, motorcycle, bicycle, or other means", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Taxicab, motorcycle, bicycle, or other means", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08503/B08503006.json"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

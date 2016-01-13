@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Marital Status in the United States", 
+    "title": "Divorced", 
+    "universe": "Population 15 Years and Over in the United States"
+  }, 
+  "name": "Margin of error for Divorced Born in other state in the United States Place of Birth in Population 15 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06008/B06008016.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": "0"
+}

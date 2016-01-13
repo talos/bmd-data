@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Hearing Difficulty", 
+    "title": "No hearing difficulty", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No hearing difficulty Male old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18102/C18102001.json", 
+    "parent": "data/columns/us/census/acs/C18102/C18102009.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

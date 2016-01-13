@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Nonresponse Rate:"
+    ], 
+    "isDenominator": false, 
+    "table": "Housing Unit Response and Nonresponse Rates With Reasons for Noninterviews", 
+    "title": "Temporarily Absent", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Temporarily Absent Nonresponse Rate Housing Unit Response and Nonresponse Rates With Reasons", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98021/B98021002.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

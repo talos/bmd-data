@@ -1,0 +1,22 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children", 
+    "title": "Married-couple family:", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Married-couple family 1.30 to 1.49 Ratio of Income to Poverty Level in the Past 12 Months of Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17022/B17022023.json"
+  }, 
+  "tags": [
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "income", 
+    "children"
+  ], 
+  "weight": 0
+}

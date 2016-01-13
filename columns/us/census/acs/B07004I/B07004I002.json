@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (Hispanic or Latino) for Current Residence in the United States", 
+    "title": "Same house 1 year ago", 
+    "universe": "Hispanic or Latino Population 1 Year and Over in the United States"
+  }, 
+  "name": "Same house 1 year ago in Hispanic or Latino Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07004I/B07004I001.json", 
+    "parent": "data/columns/us/census/acs/B07004I/B07004I001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

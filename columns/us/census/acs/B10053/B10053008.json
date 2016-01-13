@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign-born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Nativity by Grandparents Responsible for Own Grandchildren Under 18 Years by Age of Grandparent", 
+    "title": "Grandparent responsible for own grandchildren under 18 years:", 
+    "universe": "Grandparents Living With Own Grandchildren Under 18 Years"
+  }, 
+  "name": "Grandparent responsible for own grandchildren under 18 years Foreign-born Nativity in Grandparents Living With Own Grandchildren Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B10053/B10053001.json", 
+    "parent": "data/columns/us/census/acs/B10053/B10053007.json"
+  }, 
+  "tags": [
+    "grandparents", 
+    "age", 
+    "children", 
+    "place of birth"
+  ], 
+  "weight": "0"
+}

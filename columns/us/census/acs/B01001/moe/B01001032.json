@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age", 
+    "title": "20 years", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for 20 years Female Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B01001/B01001032.json"
+  }, 
+  "tags": [
+    "age", 
+    "sex"
+  ], 
+  "weight": "2"
+}

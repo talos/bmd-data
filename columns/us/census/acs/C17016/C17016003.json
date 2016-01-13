@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Work Experience of Householder", 
+    "title": "Householder worked full-time, year-round in the past 12 months", 
+    "universe": "Families"
+  }, 
+  "name": "Householder worked full-time, year-round in the past 12 months Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17016/C17016001.json", 
+    "parent": "data/columns/us/census/acs/C17016/C17016002.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

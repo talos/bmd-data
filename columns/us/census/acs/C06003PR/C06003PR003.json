@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Sex in Puerto Rico", 
+    "title": "Female", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "Female in Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C06003PR/C06003PR001.json", 
+    "parent": "data/columns/us/census/acs/C06003PR/C06003PR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

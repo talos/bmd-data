@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "35 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Independent Living Difficulty", 
+    "title": "With an independent living difficulty", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With an independent living difficulty Male old in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18107/B18107001.json", 
+    "parent": "data/columns/us/census/acs/B18107/B18107006.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

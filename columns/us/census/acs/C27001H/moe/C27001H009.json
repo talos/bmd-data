@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Health Insurance Coverage Status by Age (White Alone, Not Hispanic or Latino)", 
+    "title": "With health insurance coverage", 
+    "universe": "WHITE ALONE, NOT HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "Margin of error for With health insurance coverage 65 years and over Health Insurance Coverage Status in WHITE ALONE, NOT HISPANIC OR LATINO CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C27001H/C27001H009.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

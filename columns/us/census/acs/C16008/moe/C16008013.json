@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Citizenship Status by Age by Language Spoken at Home Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Not a citizen:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Margin of error for Not a citizen in Population 5 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C16008/C16008013.json"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "weight": 0
+}

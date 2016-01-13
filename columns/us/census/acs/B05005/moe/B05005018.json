@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Year of Entry by Nativity and Citizenship Status in the United States", 
+    "title": "Native", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Margin of error for Native Entered before 1980 Year of Entry in Population Born Outside the United States", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05005/B05005018.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

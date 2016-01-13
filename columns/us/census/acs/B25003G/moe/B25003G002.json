@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure (Two or More Races Householder)", 
+    "title": "Owner occupied", 
+    "universe": "Occupied Housing Units With a Householder Who Is Two or More Races"
+  }, 
+  "name": "Margin of error for Owner occupied in Occupied Housing Units With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25003G/B25003G002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 1
+}

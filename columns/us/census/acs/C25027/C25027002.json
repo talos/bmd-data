@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Mortgage Status by Age of Householder", 
+    "title": "Housing units with a mortgage:", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Housing units with a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25027/C25027001.json", 
+    "parent": "data/columns/us/census/acs/C25027/C25027001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

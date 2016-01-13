@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Age by Disability Status (White Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "White Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 18 years in White Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101A/B18101A001.json", 
+    "parent": "data/columns/us/census/acs/B18101A/B18101A001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

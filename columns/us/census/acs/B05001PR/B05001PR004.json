@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Nativity and Citizenship Status in Puerto Rico", 
+    "title": "U.S. citizen, born abroad of American parent(s)", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "U.S. citizen, born abroad of American parent(s) in Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05001PR/B05001PR001.json", 
+    "parent": "data/columns/us/census/acs/B05001PR/B05001PR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

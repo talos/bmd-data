@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (White Alone) for Current Residence in Puerto Rico", 
+    "title": "Moved from different municipio", 
+    "universe": "White Alone Population 1 Year and Over in Puerto Rico"
+  }, 
+  "name": "Moved from different municipio in White Alone Population 1 Year and Over in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07004APR/B07004APR001.json", 
+    "parent": "data/columns/us/census/acs/B07004APR/B07004APR001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

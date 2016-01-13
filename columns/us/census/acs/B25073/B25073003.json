@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1, detached or attached:"
+    ], 
+    "isDenominator": false, 
+    "table": "Units in Structure by Gross Rent as a Percentage of Household Income in the Past 12 Months", 
+    "title": "Less than 20.0 percent", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Less than 20.0 percent 1, detached or attached Units in Structure in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25073/B25073001.json", 
+    "parent": "data/columns/us/census/acs/B25073/B25073002.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "income"
+  ], 
+  "weight": 0
+}

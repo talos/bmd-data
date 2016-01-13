@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Time Leaving Home to Go to Work", 
+    "title": "7:00 a.m. to 7:29 a.m.", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "700 a.m. to 729 a.m. Male Sex of Workers in Workers 16 Years and Over Who Did Not Work at Home", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08011/B08011001.json", 
+    "parent": "data/columns/us/census/acs/B08011/B08011016.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "1"
+}

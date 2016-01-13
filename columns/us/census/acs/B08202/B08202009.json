@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Size by Number of Workers in Household", 
+    "title": "2-person household:", 
+    "universe": "Households"
+  }, 
+  "name": "2-person household", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08202/B08202001.json", 
+    "parent": "data/columns/us/census/acs/B08202/B08202001.json"
+  }, 
+  "tags": [
+    "employment", 
+    "commute", 
+    "families"
+  ], 
+  "weight": "0"
+}

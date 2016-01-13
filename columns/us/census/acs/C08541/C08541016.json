@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Vehicles Available for Workplace Geography", 
+    "title": "Public transportation (excluding taxicab):", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Public transportation (excluding taxicab) in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08541/C08541001.json", 
+    "parent": "data/columns/us/census/acs/C08541/C08541001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

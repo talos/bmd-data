@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Year Householder Moved Into Unit", 
+    "title": "Imputed", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Imputed in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99257/B99257002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

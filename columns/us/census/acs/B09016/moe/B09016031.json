@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "Foster child", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Foster child In households Household Type (Including Living Alone) In nonfamily households Relationship Nonrelatives Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B09016/B09016031.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": "0"
+}

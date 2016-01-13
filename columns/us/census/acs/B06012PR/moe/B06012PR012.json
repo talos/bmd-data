@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Poverty Status in the Past 12 Months in Puerto Rico", 
+    "title": "At or above 150 percent of the poverty level", 
+    "universe": "Population in Puerto Rico for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for At or above 150 percent of the poverty level Born in the United States Place of Birth in Population in Puerto Rico for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06012PR/B06012PR012.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "weight": "0"
+}

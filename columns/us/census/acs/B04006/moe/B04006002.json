@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "People Reporting Ancestry", 
+    "title": "Afghan", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Afghan Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B04006/B04006002.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

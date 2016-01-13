@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved from different state:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Age for Current Residence in the United States", 
+    "title": "60 to 64 years", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "60 to 64 years Moved from different state Geographical Mobility in the Past Year in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07001/B07001001.json", 
+    "parent": "data/columns/us/census/acs/B07001/B07001065.json"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "weight": "1"
+}

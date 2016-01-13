@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Other family:", 
+      "Male householder, no wife present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Work Experience of Householder and Spouse", 
+    "title": "Householder worked full-time, year-round in the past 12 months", 
+    "universe": "Families"
+  }, 
+  "name": "Householder worked full-time, year-round in the past 12 months Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Other family Family Type Male householder, no wife present Work Experience of Householder and Spouse", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17016/B17016001.json", 
+    "parent": "data/columns/us/census/acs/B17016/B17016040.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "family type", 
+    "poverty"
+  ], 
+  "weight": 0
+}

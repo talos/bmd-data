@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Household Size by Age of Householder", 
+    "title": "Householder 15 to 64 years", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Householder 15 to 64 years Renter occupied Tenure 2-or-more person household Household Size in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25116/C25116014.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

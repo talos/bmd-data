@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Management, business, science, and arts occupations:", 
+      "Education, legal, community service, arts, and media occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Black or African American Alone)", 
+    "title": "Community and social service occupations", 
+    "universe": "Civilian Employed Black or African American Alone Population 16 Years and Over"
+  }, 
+  "name": "Community and social service occupations Female Management, business, science, and arts occupations Occupation Education, legal, community service, arts, and media occupations in Civilian Employed Black or African American Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010B/B24010B001.json", 
+    "parent": "data/columns/us/census/acs/B24010B/B24010B047.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

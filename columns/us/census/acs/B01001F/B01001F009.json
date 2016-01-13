@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Some Other Race Alone)", 
+    "title": "25 to 29 years", 
+    "universe": "People Who Are Some Other Race Alone"
+  }, 
+  "name": "25 to 29 years Male in People Who Are Some Other Race Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001F/B01001F001.json", 
+    "parent": "data/columns/us/census/acs/B01001F/B01001F002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

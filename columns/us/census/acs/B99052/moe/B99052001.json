@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Imputation of Year of Entry", 
+    "title": "Total:", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Margin of error for Population Born Outside the United States", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99052/B99052001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

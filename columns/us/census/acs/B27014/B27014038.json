@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Did not work:", 
+      "Male:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Public Health Insurance by Work Experience by Sex by Age", 
+    "title": "With public coverage", 
+    "universe": "Civilian Noninstitutionalized Population 18 Years and Over"
+  }, 
+  "name": "With public coverage Did not work Public Health Insurance Male Work Experience 65 years and over in Civilian Noninstitutionalized Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27014/B27014001.json", 
+    "parent": "data/columns/us/census/acs/B27014/B27014037.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "employment", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

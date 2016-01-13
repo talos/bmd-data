@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Sex by Age (White Alone)", 
+    "title": "Total:", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "Margin of error for People Who Are White Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B01001A/B01001A001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

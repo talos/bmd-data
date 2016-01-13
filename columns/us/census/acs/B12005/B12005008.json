@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Marital Status by Nativity", 
+    "title": "Separated:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Separated in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12005/B12005001.json", 
+    "parent": "data/columns/us/census/acs/B12005/B12005001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "place of birth"
+  ], 
+  "weight": 0
+}

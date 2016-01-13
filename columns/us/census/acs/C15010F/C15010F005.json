@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Field of Bachelor's Degree for First Major the Population 25 Years and Over (Some Other Race Alone)", 
+    "title": "Education", 
+    "universe": "SOME OTHER RACE ALONE POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Education in SOME OTHER RACE ALONE POPULATION 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15010F/C15010F001.json", 
+    "parent": "data/columns/us/census/acs/C15010F/C15010F001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

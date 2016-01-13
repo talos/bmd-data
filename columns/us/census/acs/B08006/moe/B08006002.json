@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex of Workers by Means of Transportation to Work", 
+    "title": "Car, truck, or van:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Car, truck, or van in Workers 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08006/B08006002.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "2"
+}

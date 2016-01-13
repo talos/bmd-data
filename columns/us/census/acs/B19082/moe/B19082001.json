@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Shares of Aggregate Household Income by Quintile", 
+    "title": "Lowest Quintile", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Lowest Quintile", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19082/B19082001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

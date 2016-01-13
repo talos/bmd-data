@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work for Workplace Geography (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Car, truck, or van - drove alone", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - drove alone in Native Hawaiian and Other Pacific Islander Alone Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08505E/B08505E001.json", 
+    "parent": "data/columns/us/census/acs/B08505E/B08505E001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "race"
+  ], 
+  "weight": "0"
+}

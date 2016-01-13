@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Place of Birth (White Alone, Not Hispanic or Latino) in the United States", 
+    "title": "Total:", 
+    "universe": "White Alone, Not Hispanic or Latino Population in the United States"
+  }, 
+  "name": "Margin of error for White Alone, Not Hispanic or Latino Population in the United States", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B06004H/B06004H001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Moved within same county:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Citizenship Status for Current Residence in the United States", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Naturalized U.S. citizen Moved within same county Geographical Mobility in the Past Year Foreign born Citizenship Status in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07007/B07007001.json", 
+    "parent": "data/columns/us/census/acs/B07007/B07007013.json"
+  }, 
+  "tags": [
+    "migration", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

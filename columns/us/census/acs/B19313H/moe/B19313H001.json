@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 15 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Aggregate income in the past 12 months (in 2011 inflation-adjusted dollars)", 
+    "universe": "White Alone, Not Hispanic or Latino Population 15 Years and Over"
+  }, 
+  "name": "Margin of error for Aggregate income in the past 12 months (in 2011 inflation-adjusted dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19313H/B19313H001.json"
+  }, 
+  "tags": [
+    "race", 
+    "income"
+  ], 
+  "weight": 0
+}

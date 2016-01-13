@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "5 to 17 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Ambulatory Difficulty", 
+    "title": "With an ambulatory difficulty", 
+    "universe": "Civilian Noninstitutionalized Population 5 Years and Over"
+  }, 
+  "name": "With an ambulatory difficulty Male old in Civilian Noninstitutionalized Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18105/B18105001.json", 
+    "parent": "data/columns/us/census/acs/B18105/B18105003.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

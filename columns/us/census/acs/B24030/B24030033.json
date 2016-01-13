@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Wholesale trade:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Electrical and electronic goods merchant wholesalers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Electrical and electronic goods merchant wholesalers Male Wholesale trade Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24030/B24030001.json", 
+    "parent": "data/columns/us/census/acs/B24030/B24030027.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

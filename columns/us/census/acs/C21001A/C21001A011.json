@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (White Alone)", 
+    "title": "Veteran", 
+    "universe": "White Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "Veteran Female old in White Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C21001A/C21001A001.json", 
+    "parent": "data/columns/us/census/acs/C21001A/C21001A010.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

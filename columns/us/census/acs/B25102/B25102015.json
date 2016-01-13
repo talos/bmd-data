@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not mortgaged:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status by Real Estate Taxes Paid", 
+    "title": "No real estate taxes paid", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "No real estate taxes paid Not mortgaged Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25102/B25102001.json", 
+    "parent": "data/columns/us/census/acs/B25102/B25102009.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Value by Year Structure Built", 
+    "title": "Built 2000 to 2004", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Built 2000 to 2004", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25107/B25107001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

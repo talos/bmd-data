@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Asian Alone)", 
+    "title": "65 years and over", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "65 years and over Female in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C01001D/C01001D001.json", 
+    "parent": "data/columns/us/census/acs/C01001D/C01001D006.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Telephone Service Available by Age of Householder", 
+    "title": "With telephone service available:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for With telephone service available Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25043/B25043003.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "4.00 of poverty threshold and over:", 
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status by Ratio of Income to Poverty Level in the Past 12 Months by Age", 
+    "title": "No health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "No health insurance coverage 4.00 of poverty threshold and over Health Insurance Coverage Status 65 years and over Ratio of Income to Poverty Level in the Past 12 Months in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27016/C27016001.json", 
+    "parent": "data/columns/us/census/acs/C27016/C27016039.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "poverty", 
+    "age", 
+    "income"
+  ], 
+  "weight": 0
+}

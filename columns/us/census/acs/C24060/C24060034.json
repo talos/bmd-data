@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own not incorporated business workers and unpaid family workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Sales and office occupations", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Sales and office occupations Self-employed in own not incorporated business workers and unpaid family workers Occupation in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24060/C24060001.json", 
+    "parent": "data/columns/us/census/acs/C24060/C24060031.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

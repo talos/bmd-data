@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Latin America:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Margin of error for Latin America in Foreign-born Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05007/B05007028.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

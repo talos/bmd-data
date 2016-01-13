@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children (Some Other Race Alone Householder)", 
+    "title": "Other family:", 
+    "universe": "Families With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "Other family Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families in Families With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17010F/B17010F001.json", 
+    "parent": "data/columns/us/census/acs/B17010F/B17010F022.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

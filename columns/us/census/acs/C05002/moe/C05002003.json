@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Nativity", 
+    "title": "Born in state of residence", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Born in state of residence Native Place of Birth Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C05002/C05002003.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

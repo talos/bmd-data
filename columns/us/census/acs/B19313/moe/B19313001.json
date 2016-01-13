@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "Aggregate income in the past 12 months (in 2011 inflation-adjusted dollars)", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Margin of error for Aggregate income in the past 12 months (in 2011 inflation-adjusted dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19313/B19313001.json"
+  }, 
+  "tags": [
+    "income"
+  ], 
+  "weight": 0
+}

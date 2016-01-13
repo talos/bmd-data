@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year by Age for Residence 1 Year Ago in Puerto Rico", 
+    "title": "Moved within same municipio:", 
+    "universe": "Population 1 Year and Over"
+  }, 
+  "name": "Moved within same municipio in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07401PR/B07401PR001.json", 
+    "parent": "data/columns/us/census/acs/B07401PR/B07401PR001.json"
+  }, 
+  "tags": [
+    "age", 
+    "migration"
+  ], 
+  "weight": "0"
+}

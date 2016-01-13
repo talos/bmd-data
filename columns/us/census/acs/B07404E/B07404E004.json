@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year (Native Hawaiian and Other Pacific Islander Alone) for Residence 1 Year Ago in the United States", 
+    "title": "Moved to different county within same state", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 1 Year and Over in the United States"
+  }, 
+  "name": "Moved to different county within same state in Native Hawaiian and Other Pacific Islander Alone Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07404E/B07404E001.json", 
+    "parent": "data/columns/us/census/acs/B07404E/B07404E001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

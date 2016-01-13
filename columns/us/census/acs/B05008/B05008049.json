@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Latin America:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Place of Birth by Year of Entry for the Foreign-born Population", 
+    "title": "Caribbean:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Caribbean Female Latin America Place of Birth in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05008/B05008001.json", 
+    "parent": "data/columns/us/census/acs/B05008/B05008045.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "sex"
+  ], 
+  "weight": "0"
+}

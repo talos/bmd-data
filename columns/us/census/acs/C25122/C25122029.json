@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$75,000 or more:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Gross Rent", 
+    "title": "$500 to $999", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$500 to $999 $75,000 or more Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25122/C25122001.json", 
+    "parent": "data/columns/us/census/acs/C25122/C25122027.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

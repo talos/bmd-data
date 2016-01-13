@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (Asian Alone) in the United States", 
+    "title": "Born in other state in the United States", 
+    "universe": "Asian Alone Population in the United States"
+  }, 
+  "name": "Born in other state in the United States in Asian Alone Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004D/B06004D001.json", 
+    "parent": "data/columns/us/census/acs/B06004D/B06004D001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

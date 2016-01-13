@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Two or More Races)", 
+    "title": "Female:", 
+    "universe": "Two or More Races Civilian Population 18 Years and Over"
+  }, 
+  "name": "Female in Two or More Races Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B21001G/B21001G001.json", 
+    "parent": "data/columns/us/census/acs/B21001G/B21001G001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

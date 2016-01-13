@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Age by Means of Transportation to Work for Workplace Geography", 
+    "title": "Walked", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Walked", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08503/B08503001.json"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

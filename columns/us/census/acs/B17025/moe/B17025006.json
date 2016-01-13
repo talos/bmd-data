@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months by Nativity", 
+    "title": "Foreign born:", 
+    "universe": "Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for Foreign born Income in the past 12 months below poverty level Poverty Status in the Past 12 Months in Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17025/B17025006.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "weight": 0
+}

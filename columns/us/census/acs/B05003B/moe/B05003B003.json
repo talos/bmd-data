@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Black or African American Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "Black or African American Alone"
+  }, 
+  "name": "Margin of error for Under 18 years Male in Black or African American Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05003B/B05003B003.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

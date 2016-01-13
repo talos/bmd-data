@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1.85 and above:", 
+      "Married-couple family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years by Age of Related Children", 
+    "title": "No related children under 18 years", 
+    "universe": "Families"
+  }, 
+  "name": "No related children under 18 years 1.85 and above Ratio of Income to Poverty Level in the Past 12 Months of Families Married-couple family Family Type", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17022/B17022001.json", 
+    "parent": "data/columns/us/census/acs/B17022/B17022063.json"
+  }, 
+  "tags": [
+    "families", 
+    "age", 
+    "family type", 
+    "poverty", 
+    "income", 
+    "children"
+  ], 
+  "weight": 0
+}

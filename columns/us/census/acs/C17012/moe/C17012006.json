@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Number of Related Children Under 18 Years", 
+    "title": "5 or more children", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for 5 or more children Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17012/C17012006.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Disability Status (Some Other Race Alone)", 
+    "title": "With a disability", 
+    "universe": "Some Other Race Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability old in Some Other Race Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101F/B18101F001.json", 
+    "parent": "data/columns/us/census/acs/B18101F/B18101F005.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Speak other languages:", 
+      null
+    ], 
+    "isDenominator": false, 
+    "table": "Imputation of Language Spoken at Home for the Population 5 Years and Over", 
+    "title": "Imputed:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Imputed Speak other languages Imputation of Language Spoken at Home in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99162/B99162001.json", 
+    "parent": "data/columns/us/census/acs/B99162/B99162003.json"
+  }, 
+  "tags": [
+    "technical", 
+    "language"
+  ], 
+  "weight": 0
+}

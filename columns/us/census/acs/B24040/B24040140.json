@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Wholesale trade:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Industry for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Recyclable material merchant wholesalers", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Recyclable material merchant wholesalers Female Wholesale trade Industry in Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24040/B24040001.json", 
+    "parent": "data/columns/us/census/acs/B24040/B24040131.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

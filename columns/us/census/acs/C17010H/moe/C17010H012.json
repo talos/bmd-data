@@ -1,0 +1,21 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Presence of Related Children Under 18 Years (White Alone, Not Hispanic or Latino Householder)", 
+    "title": "With related children under 18 years", 
+    "universe": "Families With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "Margin of error for With related children under 18 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Married-couple family Family Type in Families With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17010H/C17010H012.json"
+  }, 
+  "tags": [
+    "families", 
+    "family type", 
+    "race", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

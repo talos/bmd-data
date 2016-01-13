@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Educational services, and health care and social assistance:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Occupation for the Civilian Employed Population 16 Years and Over", 
+    "title": "Educational services", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Educational services Educational services, and health care and social assistance Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24050/B24050001.json", 
+    "parent": "data/columns/us/census/acs/B24050/B24050020.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months", 
+    "title": "$1 to $2,499 or loss", 
+    "universe": "Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Margin of error for $1 to $2,499 or loss Male in Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B20001/B20001003.json"
+  }, 
+  "tags": [
+    "sex", 
+    "income"
+  ], 
+  "weight": 0
+}

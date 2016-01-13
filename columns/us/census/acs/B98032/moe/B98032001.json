@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Overall Housing Unit Characteristic Imputation Rate", 
+    "title": "Total", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Total Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98032/B98032001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

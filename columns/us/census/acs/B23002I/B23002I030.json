@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "55 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Not in labor force", 
+    "universe": "Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Not in labor force Male old in Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23002I/B23002I001.json", 
+    "parent": "data/columns/us/census/acs/B23002I/B23002I024.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

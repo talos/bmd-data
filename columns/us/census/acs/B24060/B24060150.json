@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Local, state, and federal government workers:", 
+      "Management, business, science, and arts occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Occupation by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Computer, engineering, and science occupations:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Computer, engineering, and science occupations Local, state, and federal government workers Occupation Management, business, science, and arts occupations Class of Worker in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24060/B24060001.json", 
+    "parent": "data/columns/us/census/acs/B24060/B24060146.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

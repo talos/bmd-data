@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "High school graduate, GED, or alternative", 
+    "universe": "White Alone, Not Hispanic or Latino Population 25 Years and Over"
+  }, 
+  "name": "High school graduate, GED, or alternative Male in White Alone, Not Hispanic or Latino Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002H/C15002H001.json", 
+    "parent": "data/columns/us/census/acs/C15002H/C15002H002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below the poverty level:", 
+      "Worked less than full-time, year-round:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status by Work Experience of Unrelated Individuals by Householder Status", 
+    "title": "Nonfamily householder", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Nonfamily householder Income in the past 12 months below the poverty level Poverty Status Worked less than full-time, year-round Work Experience of Unrelated Individuals in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17009/B17009001.json", 
+    "parent": "data/columns/us/census/acs/B17009/B17009006.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

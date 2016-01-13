@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born outside the United States:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Educational Attainment in the United States", 
+    "title": "High school graduate (includes equivalency)", 
+    "universe": "Population 25 Years and Over in the United States"
+  }, 
+  "name": "High school graduate (includes equivalency) Native; born outside the United States Place of Birth in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06009/B06009001.json", 
+    "parent": "data/columns/us/census/acs/B06009/B06009019.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "education"
+  ], 
+  "weight": "0"
+}

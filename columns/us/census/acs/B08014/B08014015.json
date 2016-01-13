@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex of Workers by Vehicles Available", 
+    "title": "Female:", 
+    "universe": "Workers 16 Years and Over in Households"
+  }, 
+  "name": "Female in Workers 16 Years and Over in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08014/B08014001.json", 
+    "parent": "data/columns/us/census/acs/B08014/B08014001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

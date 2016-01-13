@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Units in Structure", 
+    "title": "Imputed", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Imputed in Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99255/B99255001.json", 
+    "parent": "data/columns/us/census/acs/B99255/B99255001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Renter occupied:", 
+      "Family households:", 
+      "Other family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Type and Presence and Age of Own Children", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Male householder, no wife present Renter occupied Tenure Family households Household Type and Presence and Age of Own Children Other family in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25115/B25115001.json", 
+    "parent": "data/columns/us/census/acs/B25115/B25115020.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "weight": 0
+}

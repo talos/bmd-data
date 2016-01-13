@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "House Heating Fuel", 
+    "title": "Utility gas", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Utility gas in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25040/B25040002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

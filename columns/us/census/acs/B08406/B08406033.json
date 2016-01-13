@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Means of Transportation to Work for Workplace Geography", 
+    "title": "Taxicab, motorcycle, or other means", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Taxicab, motorcycle, or other means Male Sex of Workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08406/B08406001.json", 
+    "parent": "data/columns/us/census/acs/B08406/B08406018.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

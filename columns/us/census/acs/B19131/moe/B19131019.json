@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Family Type by Presence of Own Children Under 18 Years by Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$200,000 or more", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for $200,000 or more Married-couple family Family Type With own children under 18 years Presence of Own Children Under 18 Years in Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19131/B19131019.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": 0
+}

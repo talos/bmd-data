@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Household Type for Population in Households (White Alone)", 
+    "title": "In family households", 
+    "universe": "Population in Households With a Householder Who Is White Alone"
+  }, 
+  "name": "In family households in Population in Households With a Householder Who Is White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C11002A/C11002A001.json", 
+    "parent": "data/columns/us/census/acs/C11002A/C11002A001.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

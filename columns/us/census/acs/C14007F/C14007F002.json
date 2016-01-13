@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "School Enrollment by Detailed Level of School for the Population 3 Years and Over (Some Other Race Alone)", 
+    "title": "Enrolled in school:", 
+    "universe": "Some Other Race Alone Population 3 Years and Over"
+  }, 
+  "name": "Enrolled in school in Some Other Race Alone Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C14007F/C14007F001.json", 
+    "parent": "data/columns/us/census/acs/C14007F/C14007F001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

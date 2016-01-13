@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tenure by Families and Presence of Own Children", 
+    "title": "Owner-occupied housing units:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Owner-occupied housing units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25012/B25012001.json", 
+    "parent": "data/columns/us/census/acs/B25012/B25012001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "family type", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "weight": 0
+}

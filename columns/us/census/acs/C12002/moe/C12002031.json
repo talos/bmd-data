@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Marital Status by Age for the Population 15 Years and Over", 
+    "title": "Divorced:", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Margin of error for Divorced Male in Population 15 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C12002/C12002031.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

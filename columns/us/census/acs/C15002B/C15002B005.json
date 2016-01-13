@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Black or African American Alone)", 
+    "title": "Some college or associate's degree", 
+    "universe": "Black or African American Alone Population 25 Years and Over"
+  }, 
+  "name": "Some college or associate's degree Male in Black or African American Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002B/C15002B001.json", 
+    "parent": "data/columns/us/census/acs/C15002B/C15002B002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

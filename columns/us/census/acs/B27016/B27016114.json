@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "2.00 to 2.49 of poverty threshold:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Ratio of Income to Poverty Level in the Past 12 Months by Age", 
+    "title": "With health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "With health insurance coverage 2.00 to 2.49 of poverty threshold Health Insurance Coverage Status and Type Under 18 years Ratio of Income to Poverty Level in the Past 12 Months in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27016/B27016001.json", 
+    "parent": "data/columns/us/census/acs/B27016/B27016113.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "poverty", 
+    "age", 
+    "income"
+  ], 
+  "weight": 0
+}

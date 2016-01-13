@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Work Experience of Householder and Spouse", 
+    "title": "Male householder, no wife present:", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for Male householder, no wife present Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Other family Family Type", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B17016/B17016040.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "family type", 
+    "poverty"
+  ], 
+  "weight": 0
+}

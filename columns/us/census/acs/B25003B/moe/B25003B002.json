@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure (Black or African American Alone Householder)", 
+    "title": "Owner occupied", 
+    "universe": "Occupied Housing Units With a Householder Who Is Black or African American Alone"
+  }, 
+  "name": "Margin of error for Owner occupied in Occupied Housing Units With a Householder Who Is Black or African American Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25003B/B25003B002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 1
+}

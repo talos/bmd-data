@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Contract Rent", 
+    "title": "Total:", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Renter-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25056/C25056001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

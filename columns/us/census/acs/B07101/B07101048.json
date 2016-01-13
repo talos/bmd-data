@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Current residence; South:", 
+      "Movers from abroad:"
+    ], 
+    "isDenominator": false, 
+    "table": "Movers Between Regions in the United States", 
+    "title": "Foreign country", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Foreign country Current residence; South Movers Between Regions in the United States Movers from abroad in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07101/B07101001.json", 
+    "parent": "data/columns/us/census/acs/B07101/B07101045.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "2"
+}

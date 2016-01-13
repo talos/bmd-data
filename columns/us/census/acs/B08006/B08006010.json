@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex of Workers by Means of Transportation to Work", 
+    "title": "Streetcar or trolley car (carro publico in Puerto Rico)", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Streetcar or trolley car (carro publico in Puerto Rico) Public transportation (excluding taxicab) Sex of Workers in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08006/B08006001.json", 
+    "parent": "data/columns/us/census/acs/B08006/B08006008.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "2"
+}

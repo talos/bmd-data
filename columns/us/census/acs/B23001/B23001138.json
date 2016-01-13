@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over", 
+    "title": "55 to 59 years:", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "55 to 59 years Female in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23001/B23001001.json", 
+    "parent": "data/columns/us/census/acs/B23001/B23001088.json"
+  }, 
+  "tags": [
+    "age", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 1
+}

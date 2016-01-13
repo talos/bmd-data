@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Service occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Food preparation and serving related occupations", 
+    "universe": "Civilian Employed Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over"
+  }, 
+  "name": "Food preparation and serving related occupations Male Service occupations Occupation in Civilian Employed Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010E/B24010E001.json", 
+    "parent": "data/columns/us/census/acs/B24010E/B24010E019.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

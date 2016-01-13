@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "5 to 17 years:", 
+      "Under .50:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Ratio of Income to Poverty Level in the Past 12 Months by Disability Status and Type", 
+    "title": "No disability", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "No disability old Under .50 Ratio of Income to Poverty Level in the Past 12 Months in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18131/B18131001.json", 
+    "parent": "data/columns/us/census/acs/B18131/B18131029.json"
+  }, 
+  "tags": [
+    "poverty", 
+    "age", 
+    "disability", 
+    "income"
+  ], 
+  "weight": 0
+}

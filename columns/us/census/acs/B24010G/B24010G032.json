@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Natural resources, construction, and maintenance occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Two or More Races)", 
+    "title": "Construction and extraction occupations", 
+    "universe": "Civilian Employed Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "Construction and extraction occupations Male Natural resources, construction, and maintenance occupations Occupation in Civilian Employed Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010G/B24010G001.json", 
+    "parent": "data/columns/us/census/acs/B24010G/B24010G030.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

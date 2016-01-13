@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Households with no people under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Households by Presence of People Under 18 Years by Household Type", 
+    "title": "Family households:", 
+    "universe": "Households"
+  }, 
+  "name": "Family households Households with no people under 18 years Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C11005/C11005001.json", 
+    "parent": "data/columns/us/census/acs/C11005/C11005009.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

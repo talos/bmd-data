@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$25,000 to $49,999:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "No health insurance coverage", 
+    "universe": "Civilian Population Living in Households"
+  }, 
+  "name": "No health insurance coverage $25,000 to $49,999 Health Insurance Coverage Status and Type in Civilian Population Living in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27015/B27015001.json", 
+    "parent": "data/columns/us/census/acs/B27015/B27015007.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

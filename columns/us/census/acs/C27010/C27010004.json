@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Types of Health Insurance Coverage by Age", 
+    "title": "With public coverage only", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With public coverage only Under 18 years Types of Health Insurance Coverage in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27010/C27010001.json", 
+    "parent": "data/columns/us/census/acs/C27010/C27010002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born elsewhere:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Poverty Status in the Past 12 Months in Puerto Rico", 
+    "title": "100 to 149 percent of the poverty level", 
+    "universe": "Population in Puerto Rico for Whom Poverty Status Is Determined"
+  }, 
+  "name": "100 to 149 percent of the poverty level Native; born elsewhere Place of Birth in Population in Puerto Rico for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06012PR/B06012PR001.json", 
+    "parent": "data/columns/us/census/acs/B06012PR/B06012PR013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "weight": "0"
+}

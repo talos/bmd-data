@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van:", 
+      "Carpooled:"
+    ], 
+    "isDenominator": false, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work for Workplace Geography", 
+    "title": "In 3-or-more-person carpool", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "In 3-or-more-person carpool Car, truck, or van Aggregate Travel Time to Work (In Minutes) of Workers Carpooled Means of Transportation to Work", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08536/B08536004.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

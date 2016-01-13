@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Bedrooms by Gross Rent", 
+    "title": "$500 or more", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Margin of error for $500 or more 2 bedrooms Bedrooms With cash rent Gross Rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25068/C25068015.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

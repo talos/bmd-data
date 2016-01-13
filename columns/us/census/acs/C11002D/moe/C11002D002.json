@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type for Population in Households (Asian Alone)", 
+    "title": "In family households", 
+    "universe": "Population in Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Margin of error for In family households in Population in Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C11002D/C11002D002.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

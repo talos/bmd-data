@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Production, transportation, and material moving occupations:", 
+    "universe": "Civilian Employed White Alone, Not Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Production, transportation, and material moving occupations Female in Civilian Employed White Alone, Not Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010H/B24010H001.json", 
+    "parent": "data/columns/us/census/acs/B24010H/B24010H038.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

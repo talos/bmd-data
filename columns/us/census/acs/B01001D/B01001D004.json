@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Asian Alone)", 
+    "title": "5 to 9 years", 
+    "universe": "People Who Are Asian Alone"
+  }, 
+  "name": "5 to 9 years Male in People Who Are Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001D/B01001D001.json", 
+    "parent": "data/columns/us/census/acs/B01001D/B01001D002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

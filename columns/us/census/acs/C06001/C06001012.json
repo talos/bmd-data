@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Born in state of residence:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Age in the United States", 
+    "title": "5 to 17 years", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "5 to 17 years Born in state of residence Place of Birth Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C06001/C06001001.json", 
+    "parent": "data/columns/us/census/acs/C06001/C06001010.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

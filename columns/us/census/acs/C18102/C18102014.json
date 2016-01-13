@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Hearing Difficulty", 
+    "title": "With a hearing difficulty", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a hearing difficulty Female old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18102/C18102001.json", 
+    "parent": "data/columns/us/census/acs/C18102/C18102013.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

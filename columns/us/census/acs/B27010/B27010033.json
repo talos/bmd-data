@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 34 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Types of Health Insurance Coverage by Age", 
+    "title": "No health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No health insurance coverage 18 to 34 years Types of Health Insurance Coverage in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27010/B27010001.json", 
+    "parent": "data/columns/us/census/acs/B27010/B27010018.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age"
+  ], 
+  "weight": 1
+}

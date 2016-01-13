@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--not Metropolitan or Micropolitan Statistical Area Level in Puerto Rico", 
+    "title": "United States 1 year ago", 
+    "universe": "Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area in Puerto Rico"
+  }, 
+  "name": "United States 1 year ago in Population 1 Year and Over Not Living in a Metropolitan or Micropolitan Statistical Area in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B07203PR/B07203PR001.json", 
+    "parent": "data/columns/us/census/acs/B07203PR/B07203PR001.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "0"
+}

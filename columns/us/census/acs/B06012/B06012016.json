@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Native; born outside the United States:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Poverty Status in the Past 12 Months in the United States", 
+    "title": "At or above 150 percent of the poverty level", 
+    "universe": "Population in the United States for Whom Poverty Status Is Determined"
+  }, 
+  "name": "At or above 150 percent of the poverty level Native; born outside the United States Place of Birth in Population in the United States for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06012/B06012001.json", 
+    "parent": "data/columns/us/census/acs/B06012/B06012013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty"
+  ], 
+  "weight": "1"
+}

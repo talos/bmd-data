@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type by Household Size", 
+    "title": "Family households:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Family households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11016/B11016002.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

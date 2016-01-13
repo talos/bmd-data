@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units without a mortgage:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status and Selected Monthly Owner Costs", 
+    "title": "$150 to $199", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "$150 to $199 Housing units without a mortgage Mortgage Status and Selected Monthly Owner Costs in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25087/B25087001.json", 
+    "parent": "data/columns/us/census/acs/B25087/B25087018.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

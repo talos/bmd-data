@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Other areas:", 
+      "Entered 2000 or later:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Naturalized U.S. citizen", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Naturalized U.S. citizen Other areas Place of Birth Entered 2000 or later Year of Entry in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05007/B05007001.json", 
+    "parent": "data/columns/us/census/acs/B05007/B05007083.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Age (American Indian and Alaska Native Alone)", 
+    "title": "12 to 17 years", 
+    "universe": "American Indian and Alaska Native Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "12 to 17 years Income in the past 12 months below poverty level Poverty Status in the Past 12 Months in American Indian and Alaska Native Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17020C/B17020C001.json", 
+    "parent": "data/columns/us/census/acs/B17020C/B17020C002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty"
+  ], 
+  "weight": 0
+}

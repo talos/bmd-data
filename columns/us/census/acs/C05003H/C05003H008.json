@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "18 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (White Alone, Not Hispanic or Latino)", 
+    "title": "Foreign born", 
+    "universe": "White Alone, Not Hispanic or Latino Population"
+  }, 
+  "name": "Foreign born Male old in White Alone, Not Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003H/C05003H001.json", 
+    "parent": "data/columns/us/census/acs/C05003H/C05003H006.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

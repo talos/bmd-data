@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Household Type and Presence and Age of Own Children", 
+    "title": "Other family:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Other family Owner occupied Tenure Family households Household Type and Presence and Age of Own Children in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25115/B25115007.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "children", 
+    "tenure"
+  ], 
+  "weight": 0
+}

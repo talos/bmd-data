@@ -1,0 +1,27 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "18 years and over:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Not a U.S. citizen", 
+    "universe": "People Who Are Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "Not a U.S. citizen Male old Foreign born Nativity and Citizenship Status (Native Hawaiian and Other Pacific Islander Alone) in People Who Are Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003E/B05003E001.json", 
+    "parent": "data/columns/us/census/acs/B05003E/B05003E010.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

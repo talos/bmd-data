@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Hispanic or Latino)", 
+    "title": "Widowed", 
+    "universe": "Hispanic or Latino Population 15 Years and Over"
+  }, 
+  "name": "Widowed Female in Hispanic or Latino Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002I/B12002I001.json", 
+    "parent": "data/columns/us/census/acs/B12002I/B12002I008.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (White Alone)", 
+    "title": "Male:", 
+    "universe": "White Alone Population 15 Years and Over"
+  }, 
+  "name": "Male in White Alone Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002A/B12002A001.json", 
+    "parent": "data/columns/us/census/acs/B12002A/B12002A001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

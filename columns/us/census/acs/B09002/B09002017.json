@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In other families:", 
+      "Female householder, no husband present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Own Children Under 18 Years by Family Type and Age", 
+    "title": "3 and 4 years", 
+    "universe": "Own Children Under 18 Years"
+  }, 
+  "name": "3 and 4 years In other families Own Children Under 18 Years Female householder, no husband present Family Type and Age", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09002/B09002001.json", 
+    "parent": "data/columns/us/census/acs/B09002/B09002015.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children"
+  ], 
+  "weight": "1"
+}

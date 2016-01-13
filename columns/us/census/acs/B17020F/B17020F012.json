@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Age (Some Other Race Alone)", 
+    "title": "5 years", 
+    "universe": "Some Other Race Alone Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "5 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months in Some Other Race Alone Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17020F/B17020F001.json", 
+    "parent": "data/columns/us/census/acs/B17020F/B17020F010.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Disability Status by Work Status in the Past 12 Months by Usual Hours Worked Per Week in the Past 12 Months by Weeks Worked in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "With a disability:", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "With a disability Male in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23023/B23023001.json", 
+    "parent": "data/columns/us/census/acs/B23023/B23023002.json"
+  }, 
+  "tags": [
+    "disability", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

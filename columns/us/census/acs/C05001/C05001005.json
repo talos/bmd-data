@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Nativity and Citizenship Status in the United States", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "Not a U.S. citizen Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05001/C05001001.json", 
+    "parent": "data/columns/us/census/acs/C05001/C05001001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

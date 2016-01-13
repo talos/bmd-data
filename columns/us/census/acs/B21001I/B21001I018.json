@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Hispanic or Latino)", 
+    "title": "Female:", 
+    "universe": "Hispanic or Latino Civilian Population 18 Years and Over"
+  }, 
+  "name": "Female in Hispanic or Latino Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B21001I/B21001I001.json", 
+    "parent": "data/columns/us/census/acs/B21001I/B21001I001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

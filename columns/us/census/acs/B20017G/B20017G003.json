@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Sex by Work Experience in the Past 12 Months for the Population 16 Years and Over With Earnings in the Past 12 Months (Two or More Races)", 
+    "title": "Worked full-time, year-round in the past 12 months", 
+    "universe": "Two or More Races Population 16 Years and Over With Earnings in the Past 12 Months"
+  }, 
+  "name": "Worked full-time, year-round in the past 12 months", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B20017G/B20017G001.json"
+  }, 
+  "tags": [
+    "sex", 
+    "race", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

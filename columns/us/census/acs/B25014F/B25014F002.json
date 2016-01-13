@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Occupants Per Room (Some Other Race Alone Householder)", 
+    "title": "1.00 or less occupants per room", 
+    "universe": "Occupied Housing Units With a Householder Who Is Some Other Race Alone"
+  }, 
+  "name": "1.00 or less occupants per room in Occupied Housing Units With a Householder Who Is Some Other Race Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25014F/B25014F001.json", 
+    "parent": "data/columns/us/census/acs/B25014F/B25014F001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

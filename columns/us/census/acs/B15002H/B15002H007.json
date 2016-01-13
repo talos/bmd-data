@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Some college, no degree", 
+    "universe": "White Alone, Not Hispanic or Latino Population 25 Years and Over"
+  }, 
+  "name": "Some college, no degree Male in White Alone, Not Hispanic or Latino Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B15002H/B15002H001.json", 
+    "parent": "data/columns/us/census/acs/B15002H/B15002H002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

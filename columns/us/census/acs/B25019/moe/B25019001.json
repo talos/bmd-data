@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Number of Rooms", 
+    "title": "Aggregate number of rooms", 
+    "universe": "Housing Units"
+  }, 
+  "name": "Margin of error for Aggregate number of rooms", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25019/B25019001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 1
+}

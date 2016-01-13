@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "People Reporting Multiple Ancestry", 
+    "title": "Lithuanian", 
+    "universe": "People Reporting Multiple Ancestries"
+  }, 
+  "name": "Lithuanian in People Reporting Multiple Ancestries", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04005/B04005001.json", 
+    "parent": "data/columns/us/census/acs/B04005/B04005001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

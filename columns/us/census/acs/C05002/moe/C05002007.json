@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Nativity", 
+    "title": "U.S. Island Areas or born abroad of American parent(s)", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for U.S. Island Areas or born abroad of American parent(s) Native Place of Birth Born outside the United States Nativity Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C05002/C05002007.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

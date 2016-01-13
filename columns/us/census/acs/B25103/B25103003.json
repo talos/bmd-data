@@ -1,0 +1,20 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Mortgage Status by Median Real Estate Taxes Paid (Dollars)", 
+    "title": "Median real estate taxes paid for units without a mortgage", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Median real estate taxes paid for units without a mortgage in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25103/B25103001.json", 
+    "parent": "data/columns/us/census/acs/B25103/B25103001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 0
+}

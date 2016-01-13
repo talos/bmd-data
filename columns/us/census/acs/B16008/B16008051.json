@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign-born population:", 
+      "Not a U.S. citizen:", 
+      "18 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Citizenship Status by Age by Language Spoken at Home and Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak other languages", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak other languages Foreign-born population Citizenship Status old 18 years and over Language Spoken at Home and Ability to Speak English in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16008/B16008001.json", 
+    "parent": "data/columns/us/census/acs/B16008/B16008046.json"
+  }, 
+  "tags": [
+    "age", 
+    "citizenship", 
+    "language"
+  ], 
+  "weight": 0
+}

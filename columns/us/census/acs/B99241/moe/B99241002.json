@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Industry for the Civilian Employed Population 16 Years and Over", 
+    "title": "Imputed", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Margin of error for Imputed in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99241/B99241002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Living outside any principal city:", 
+      "Worked in a Metropolitan Statistical Area:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Work for Workers 16 Years and Over--Micropolitan Statistical Area Level", 
+    "title": "Worked in a principal city", 
+    "universe": "Workers 16 Years and Over Living in a Micropolitan Statistical Area"
+  }, 
+  "name": "Worked in a principal city Living outside any principal city Place of Work Worked in a Metropolitan Statistical Area in Workers 16 Years and Over Living in a Micropolitan Statistical Area", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08017/B08017001.json", 
+    "parent": "data/columns/us/census/acs/B08017/B08017020.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

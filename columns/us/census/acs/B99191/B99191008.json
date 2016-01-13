@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Individuals' Income in the Past 12 Months for the Population 15 Years and Over - Percent of Income Imputed", 
+    "title": "100 percent of total income for individual imputed", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "100 percent of total income for individual imputed in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99191/B99191001.json", 
+    "parent": "data/columns/us/census/acs/B99191/B99191001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "income"
+  ], 
+  "weight": 0
+}

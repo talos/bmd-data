@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Tenure by Household Type (Including Living Alone) and Age of Householder", 
+    "title": "Householder 35 to 64 years", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Margin of error for Householder 35 to 64 years Renter occupied Tenure Family households Household Type (Including Living Alone) and Age of Householder Other family Female householder, no husband present in Occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25011/B25011039.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

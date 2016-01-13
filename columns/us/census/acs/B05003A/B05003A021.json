@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (White Alone)", 
+    "title": "Foreign born:", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "Foreign born Female old in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003A/B05003A001.json", 
+    "parent": "data/columns/us/census/acs/B05003A/B05003A019.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

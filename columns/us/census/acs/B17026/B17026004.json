@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Ratio of Income to Poverty Level of Families in the Past 12 Months", 
+    "title": ".75 to .99", 
+    "universe": "Families"
+  }, 
+  "name": ".75 to .99 in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17026/B17026001.json", 
+    "parent": "data/columns/us/census/acs/B17026/B17026001.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "income"
+  ], 
+  "weight": 0
+}

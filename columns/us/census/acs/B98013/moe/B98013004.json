@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Total Population Coverage Rate by Weighting Race and Hispanic or Latino Groups", 
+    "title": "American Indian and Alaska Native", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for American Indian and Alaska Native Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98013/B98013004.json"
+  }, 
+  "tags": [
+    "technical", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

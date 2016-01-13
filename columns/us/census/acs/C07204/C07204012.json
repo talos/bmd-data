@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Abroad 1 year ago:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--State, County and Place Level in the United States", 
+    "title": "Elsewhere", 
+    "universe": "Population 1 Year and Over in the United States"
+  }, 
+  "name": "Elsewhere Abroad 1 year ago Geographical Mobility in the Past Year in Population 1 Year and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C07204/C07204001.json", 
+    "parent": "data/columns/us/census/acs/C07204/C07204010.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Other:", 
+      "With income:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Experience in the Past 12 Months by Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 15 Years and Over", 
+    "title": "$40,000 to $44,999", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "$40,000 to $44,999 Female Other Work Experience in the Past 12 Months With income Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19325/B19325001.json", 
+    "parent": "data/columns/us/census/acs/B19325/B19325075.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Wage or Salary Income in the Past 12 Months for Households", 
+    "title": "No wage or salary income", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for No wage or salary income in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19052/B19052003.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

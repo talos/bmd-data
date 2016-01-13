@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Families by Educational Attainment of Householder", 
+    "title": "High school graduate (includes equivalency)", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for High school graduate (includes equivalency) Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17018/C17018004.json"
+  }, 
+  "tags": [
+    "families", 
+    "education", 
+    "poverty"
+  ], 
+  "weight": 0
+}

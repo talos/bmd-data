@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Family Type by Presence of Own Children Under 18 Years", 
+    "title": "Other family:", 
+    "universe": "Families"
+  }, 
+  "name": "Other family", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19128/B19128001.json"
+  }, 
+  "tags": [
+    "family type", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": 0
+}

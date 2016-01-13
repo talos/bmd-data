@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Other families:", 
+      "Male householder, no wife present:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Household Type by Presence of Own Children Under 18 Years", 
+    "title": "No own child", 
+    "universe": "Families"
+  }, 
+  "name": "No own child Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months of Families Other families Household Type Male householder, no wife present Presence of Own Children Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17023/C17023001.json", 
+    "parent": "data/columns/us/census/acs/C17023/C17023018.json"
+  }, 
+  "tags": [
+    "families", 
+    "poverty", 
+    "children"
+  ], 
+  "weight": 0
+}

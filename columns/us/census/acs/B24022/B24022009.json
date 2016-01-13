@@ -1,0 +1,25 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:", 
+      "Computer, engineering, and science occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Full-time, Year-round Civilian Employed Population 16 Years and Over", 
+    "title": "Architecture and engineering occupations", 
+    "universe": "Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Architecture and engineering occupations Male Management, business, science, and arts occupations Occupation and Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) Computer, engineering, and science occupations in Full-time, Year-round Civilian Employed Population 16 Years and Over With Earnings", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24022/B24022001.json", 
+    "parent": "data/columns/us/census/acs/B24022/B24022007.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

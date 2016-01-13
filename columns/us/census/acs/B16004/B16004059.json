@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:", 
+      "Speak Asian and Pacific Island languages:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" old Speak Asian and Pacific Island languages Language Spoken at Home in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16004/B16004001.json", 
+    "parent": "data/columns/us/census/acs/B16004/B16004058.json"
+  }, 
+  "tags": [
+    "age", 
+    "language"
+  ], 
+  "weight": 0
+}

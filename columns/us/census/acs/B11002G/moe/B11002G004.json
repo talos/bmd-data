@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (Two or More Races)", 
+    "title": "Relatives", 
+    "universe": "Population in Households With a Householder Who Is Two or More Races"
+  }, 
+  "name": "Margin of error for Relatives In family households Household Type In married-couple family Relatives and Nonrelatives in Population in Households With a Householder Who Is Two or More Races", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11002G/B11002G004.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

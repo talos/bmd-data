@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age (White Alone)", 
+    "title": "Female:", 
+    "universe": "People Who Are White Alone"
+  }, 
+  "name": "Female in People Who Are White Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001A/B01001A001.json", 
+    "parent": "data/columns/us/census/acs/B01001A/B01001A001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

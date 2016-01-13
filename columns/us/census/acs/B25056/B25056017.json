@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "With cash rent:"
+    ], 
+    "isDenominator": false, 
+    "table": "Contract Rent", 
+    "title": "$750 to $799", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "$750 to $799 With cash rent Contract Rent in Renter-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25056/B25056001.json", 
+    "parent": "data/columns/us/census/acs/B25056/B25056002.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 2
+}

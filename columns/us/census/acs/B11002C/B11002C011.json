@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:", 
+      "In female householder, no husband present, family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (American Indian and Alaska Native Alone)", 
+    "title": "Nonrelatives", 
+    "universe": "Population in Households With a Householder Who Is American Indian and Alaska Native Alone"
+  }, 
+  "name": "Nonrelatives In family households Household Type In female householder, no husband present, family Relatives and Nonrelatives in Population in Households With a Householder Who Is American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11002C/B11002C001.json", 
+    "parent": "data/columns/us/census/acs/B11002C/B11002C009.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

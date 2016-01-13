@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Worked in the past 12 months:", 
+      "75 years and over:", 
+      "In labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Work Status in the Past 12 Months by Age by Employment Status for the Civilian Population 65 Years and Over", 
+    "title": "Unemployed", 
+    "universe": "Civilian Population 65 Years and Over"
+  }, 
+  "name": "Unemployed Worked in the past 12 months Work Status in the Past 12 Months old in Civilian Population 65 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23004/B23004001.json", 
+    "parent": "data/columns/us/census/acs/B23004/B23004009.json"
+  }, 
+  "tags": [
+    "seniors", 
+    "age", 
+    "employment"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "Less than $5,000", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Less than $5,000 Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25118/B25118001.json", 
+    "parent": "data/columns/us/census/acs/B25118/B25118002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "tenure", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

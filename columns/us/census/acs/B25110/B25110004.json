@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Value (Dollars) by Year Householder Moved Into Unit", 
+    "title": "Moved in 1990 to 1999", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Moved in 1990 to 1999", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25110/B25110001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 0
+}

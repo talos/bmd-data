@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "First Ancestry Reported", 
+    "title": "Lithuanian", 
+    "universe": "Total Population"
+  }, 
+  "name": "Lithuanian Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04001/C04001001.json", 
+    "parent": "data/columns/us/census/acs/C04001/C04001001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

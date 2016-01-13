@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Moved in 2000 to 2004:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Year Householder Moved Into Unit by Units in Structure", 
+    "title": "5 to 19", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "5 to 19 Owner occupied Tenure Moved in 2000 to 2004 Year Householder Moved Into Unit in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25129/B25129001.json", 
+    "parent": "data/columns/us/census/acs/B25129/B25129010.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

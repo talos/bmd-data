@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Not mortgaged:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$100,000 to $149,999", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "$100,000 to $149,999 Not mortgaged Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25098/B25098001.json", 
+    "parent": "data/columns/us/census/acs/B25098/B25098011.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "weight": 0
+}

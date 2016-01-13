@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Price Asked", 
+    "title": "Not imputed", 
+    "universe": "Vacant-for-sale-only and Sold, Not Occupied Housing Units"
+  }, 
+  "name": "Not imputed in Vacant-for-sale-only and Sold, Not Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99252/B992520001.json", 
+    "parent": "data/columns/us/census/acs/B99252/B992520001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "costs and value"
+  ], 
+  "weight": 0
+}

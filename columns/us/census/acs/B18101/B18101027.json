@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "5 to 17 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Disability Status", 
+    "title": "No disability", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "No disability Female old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101/B18101001.json", 
+    "parent": "data/columns/us/census/acs/B18101/B18101025.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

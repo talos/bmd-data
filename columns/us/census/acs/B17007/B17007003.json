@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Unrelated Individuals 15 Years and Over by Sex by Age", 
+    "title": "Male:", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Male Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Unrelated Individuals 15 Years and Over in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17007/B17007001.json", 
+    "parent": "data/columns/us/census/acs/B17007/B17007002.json"
+  }, 
+  "tags": [
+    "age", 
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

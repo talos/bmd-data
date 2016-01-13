@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Vacancy Status", 
+    "title": "Not imputed", 
+    "universe": "Vacant Housing Units"
+  }, 
+  "name": "Not imputed in Vacant Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99253/B99253001.json", 
+    "parent": "data/columns/us/census/acs/B99253/B99253001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "occupancy"
+  ], 
+  "weight": 0
+}

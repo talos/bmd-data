@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Group Quarters Population Response and Nonresponse Rates With Reasons for Noninterviews", 
+    "title": "Nonresponse Rate:", 
+    "universe": "Population in Group Quarters"
+  }, 
+  "name": "Margin of error for Nonresponse Rate in Population in Group Quarters", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B98022/B98022002.json"
+  }, 
+  "tags": [
+    "technical", 
+    "group quarters"
+  ], 
+  "weight": 0
+}

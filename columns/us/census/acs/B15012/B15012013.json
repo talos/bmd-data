@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Education"
+    ], 
+    "isDenominator": false, 
+    "table": "Total Fields of Bachelor's Degrees Reported", 
+    "title": "Liberal Arts and History", 
+    "universe": "TOTAL BACHELOR'S DEGREE MAJORS TALLIED FOR PEOPLE 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT"
+  }, 
+  "name": "Liberal Arts and History Education Total Fields of Bachelor's Degrees Reported in TOTAL BACHELOR'S DEGREE MAJORS TALLIED FOR PEOPLE 25 YEARS AND OVER WITH a BACHELOR'S DEGREE OR HIGHER ATTAINMENT", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B15012/B15012001.json", 
+    "parent": "data/columns/us/census/acs/B15012/B15012011.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 0
+}

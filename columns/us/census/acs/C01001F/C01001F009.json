@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Some Other Race Alone)", 
+    "title": "65 years and over", 
+    "universe": "People Who Are Some Other Race Alone"
+  }, 
+  "name": "65 years and over Female in People Who Are Some Other Race Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C01001F/C01001F001.json", 
+    "parent": "data/columns/us/census/acs/C01001F/C01001F006.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

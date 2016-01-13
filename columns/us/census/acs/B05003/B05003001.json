@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Sex by Age by Nativity and Citizenship Status", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Total Population", 
+  "relationships": {}, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Receipt of Supplemental Security Income (SSI), Cash Public Assistance Income, or Food Stamps/SNAP in the Past 12 Months by Household Type for Children Under 18 Years in Households", 
+    "title": "Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months:", 
+    "universe": "Population Under 18 Years in Households"
+  }, 
+  "name": "Living in household with Supplemental Security Income (SSI), cash public assistance income, or Food Stamps/SNAP in the past 12 months in Population Under 18 Years in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B09010/B09010001.json", 
+    "parent": "data/columns/us/census/acs/B09010/B09010001.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": "1"
+}

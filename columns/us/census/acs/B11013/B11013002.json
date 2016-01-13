@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Subfamily Type by Presence of Own Children Under 18 Years", 
+    "title": "Married-couple subfamily:", 
+    "universe": "Subfamilies"
+  }, 
+  "name": "Married-couple subfamily in Subfamilies", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11013/B11013001.json", 
+    "parent": "data/columns/us/census/acs/B11013/B11013001.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

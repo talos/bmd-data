@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Age by Disability Status (White Alone, Not Hispanic or Latino)", 
+    "title": "18 to 64 years:", 
+    "universe": "White Alone, Not Hispanic or Latino Civilian Noninstitutionalized Population"
+  }, 
+  "name": "18 to 64 years in White Alone, Not Hispanic or Latino Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101H/B18101H001.json", 
+    "parent": "data/columns/us/census/acs/B18101H/B18101H001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

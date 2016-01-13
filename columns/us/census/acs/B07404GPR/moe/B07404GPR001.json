@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Geographical Mobility in the Past Year (Two or More Races) for Residence 1 Year Ago in Puerto Rico", 
+    "title": "Total living in area 1 year ago:", 
+    "universe": "Two or More Races Population 1 Year and Over"
+  }, 
+  "name": "Margin of error for Two or More Races Population 1 Year and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B07404GPR/B07404GPR001.json"
+  }, 
+  "tags": [
+    "race", 
+    "migration"
+  ], 
+  "weight": "0"
+}

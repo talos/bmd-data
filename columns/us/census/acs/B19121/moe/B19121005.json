@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Family Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Number of Earners in Family", 
+    "title": "3 or more earners (dollars)", 
+    "universe": "Families"
+  }, 
+  "name": "Margin of error for 3 or more earners (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19121/B19121005.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

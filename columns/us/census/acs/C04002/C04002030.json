@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Second Ancestry Reported", 
+    "title": "West Indian (except Hispanic groups)", 
+    "universe": "Total Population"
+  }, 
+  "name": "West Indian (except Hispanic groups) Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04002/C04002001.json", 
+    "parent": "data/columns/us/census/acs/C04002/C04002001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

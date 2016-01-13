@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In labor force:", 
+      "Civilian labor force:"
+    ], 
+    "isDenominator": false, 
+    "table": "Employment Status for the Population 16 Years and Over", 
+    "title": "Unemployed", 
+    "universe": "Population 16 Years and Over"
+  }, 
+  "name": "Unemployed Civilian labor force in Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23025/B23025001.json", 
+    "parent": "data/columns/us/census/acs/B23025/B23025003.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 1
+}

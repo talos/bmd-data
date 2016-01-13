@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Cognitive Difficulty", 
+    "title": "No cognitive difficulty", 
+    "universe": "Civilian Noninstitutionalized Population 5 Years and Over"
+  }, 
+  "name": "No cognitive difficulty Female old in Civilian Noninstitutionalized Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18104/C18104001.json", 
+    "parent": "data/columns/us/census/acs/C18104/C18104016.json"
+  }, 
+  "tags": [
+    "age", 
+    "disability", 
+    "sex"
+  ], 
+  "weight": 0
+}

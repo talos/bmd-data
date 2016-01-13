@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)", 
+    "title": "Not in labor force", 
+    "universe": "White Alone, Not Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Margin of error for Not in labor force Female old in White Alone, Not Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B23002H/B23002H074.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

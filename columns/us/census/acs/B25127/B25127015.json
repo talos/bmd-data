@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:", 
+      "Built 1980 to 1999:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Year Structure Built by Units in Structure", 
+    "title": "50 or more", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "50 or more Owner occupied Tenure Built 1980 to 1999 Year Structure Built in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25127/B25127001.json", 
+    "parent": "data/columns/us/census/acs/B25127/B25127010.json"
+  }, 
+  "tags": [
+    "housing", 
+    "physical characteristics", 
+    "tenure"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth (Black or African American Alone) in the United States", 
+    "title": "Foreign born", 
+    "universe": "Black or African American Alone Population in the United States"
+  }, 
+  "name": "Foreign born in Black or African American Alone Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B06004B/B06004B001.json", 
+    "parent": "data/columns/us/census/acs/B06004B/B06004B001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race"
+  ], 
+  "weight": "0"
+}

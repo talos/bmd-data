@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Asian Alone)", 
+    "title": "High school graduate, GED, or alternative", 
+    "universe": "Asian Alone Population 25 Years and Over"
+  }, 
+  "name": "High school graduate, GED, or alternative Female in Asian Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002D/C15002D001.json", 
+    "parent": "data/columns/us/census/acs/C15002D/C15002D007.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

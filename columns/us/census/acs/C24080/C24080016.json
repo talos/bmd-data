@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Local government workers", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Local government workers Female in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24080/C24080001.json", 
+    "parent": "data/columns/us/census/acs/C24080/C24080011.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

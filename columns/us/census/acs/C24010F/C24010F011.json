@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "Sales and office occupations:", 
+    "universe": "Civilian Employed Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "Sales and office occupations Female in Civilian Employed Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C24010F/C24010F001.json", 
+    "parent": "data/columns/us/census/acs/C24010F/C24010F008.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

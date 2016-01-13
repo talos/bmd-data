@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Poverty Status in the Past 12 Months of Unrelated Individuals 15 Years and Over by Sex", 
+    "title": "Total:", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C17007/C17007001.json"
+  }, 
+  "tags": [
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

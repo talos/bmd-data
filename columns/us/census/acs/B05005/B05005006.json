@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Entered 2000 or later:", 
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Year of Entry by Nativity and Citizenship Status in the United States", 
+    "title": "Not a U.S. citizen", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Not a U.S. citizen Entered 2000 or later Year of Entry Foreign born Nativity and Citizenship Status in the United States in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05005/B05005001.json", 
+    "parent": "data/columns/us/census/acs/B05005/B05005004.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

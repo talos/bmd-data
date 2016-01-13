@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Other:", 
+      "With income:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Work Experience in the Past 12 Months by Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) for the Population 15 Years and Over", 
+    "title": "$25,000 to $29,999", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "$25,000 to $29,999 Male Other Work Experience in the Past 12 Months With income Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19325/B19325001.json", 
+    "parent": "data/columns/us/census/acs/B19325/B19325028.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity (Two or More Races)", 
+    "title": "Male:", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "Male in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05003G/C05003G001.json", 
+    "parent": "data/columns/us/census/acs/C05003G/C05003G001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

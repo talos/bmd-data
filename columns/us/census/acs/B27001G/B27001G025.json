@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 to 74 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status by Age (Two or More Races)", 
+    "title": "No health insurance coverage", 
+    "universe": "TWO OR MORE RACES CIVILIAN NONINSTITUTIONALIZED POPULATION"
+  }, 
+  "name": "No health insurance coverage 65 to 74 years Health Insurance Coverage Status in TWO OR MORE RACES CIVILIAN NONINSTITUTIONALIZED POPULATION", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27001G/B27001G001.json", 
+    "parent": "data/columns/us/census/acs/B27001G/B27001G023.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "age"
+  ], 
+  "weight": 0
+}

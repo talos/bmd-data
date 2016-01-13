@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "No disability:", 
+      "Worked in the past 12 months:", 
+      "Usually worked 1 to 14 hours per week:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Disability Status by Work Status in the Past 12 Months by Usual Hours Worked Per Week in the Past 12 Months by Weeks Worked in the Past 12 Months for the Population 16 to 64 Years", 
+    "title": "14 to 26 weeks", 
+    "universe": "Population 16 to 64 Years"
+  }, 
+  "name": "14 to 26 weeks Male No disability Disability Status Worked in the past 12 months Work Status in the Past 12 Months Usually worked 1 to 14 hours per week Usual Hours Worked Per Week in the Past 12 Months in Population 16 to 64 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B23023/B23023001.json", 
+    "parent": "data/columns/us/census/acs/B23023/B23023043.json"
+  }, 
+  "tags": [
+    "disability", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

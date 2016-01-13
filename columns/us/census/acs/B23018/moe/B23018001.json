@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Aggregate Usual Hours Worked in the Past 12 Months by Sex for Workers 16 to 64 Years", 
+    "title": "Aggregate usual hours:", 
+    "universe": "Population 16 to 64 Years Who Have Worked in the Past 12 Months"
+  }, 
+  "name": "Margin of error for Aggregate usual hours", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B23018/B23018001.json"
+  }, 
+  "tags": [
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

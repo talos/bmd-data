@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Age by Disability Status (Asian Alone)", 
+    "title": "Under 18 years:", 
+    "universe": "Asian Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Under 18 years in Asian Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101D/B18101D001.json", 
+    "parent": "data/columns/us/census/acs/B18101D/B18101D001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

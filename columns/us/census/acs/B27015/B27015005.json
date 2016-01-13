@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under $25,000:", 
+      "With health insurance coverage"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "With public coverage", 
+    "universe": "Civilian Population Living in Households"
+  }, 
+  "name": "With public coverage Under $25,000 Health Insurance Coverage Status and Type With health insurance coverage Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Civilian Population Living in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27015/B27015001.json", 
+    "parent": "data/columns/us/census/acs/B27015/B27015003.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Citizenship Status for Workplace Geography", 
+    "title": "Car, truck, or van - drove alone:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Car, truck, or van - drove alone in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08511/C08511001.json", 
+    "parent": "data/columns/us/census/acs/C08511/C08511001.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

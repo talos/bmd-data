@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Enrolled in private school:"
+    ], 
+    "isDenominator": false, 
+    "table": "School Enrollment by Type of School by Age for the Population 3 Years and Over", 
+    "title": "18 and 19 years", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "18 and 19 years Enrolled in private school School Enrollment in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C14003/C14003001.json", 
+    "parent": "data/columns/us/census/acs/C14003/C14003011.json"
+  }, 
+  "tags": [
+    "age", 
+    "education"
+  ], 
+  "weight": 0
+}

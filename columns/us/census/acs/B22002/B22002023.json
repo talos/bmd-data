@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Household did not receive Food Stamps/SNAP in the past 12 months:", 
+      "No children under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Presence of Children Under 18 Years by Household Type for Households", 
+    "title": "Married-couple family", 
+    "universe": "Households"
+  }, 
+  "name": "Married-couple family Household did not receive Food Stamps/SNAP in the past 12 months Receipt of Food Stamps/SNAP in the Past 12 Months No children under 18 years Presence of Children Under 18 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B22002/B22002001.json", 
+    "parent": "data/columns/us/census/acs/B22002/B22002022.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

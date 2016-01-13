@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Gross Rent (Dollars) by Year Structure Built", 
+    "title": "Built 1960 to 1979", 
+    "universe": "Renter-occupied Housing Units"
+  }, 
+  "name": "Built 1960 to 1979", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C25112/C25112001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "physical characteristics"
+  ], 
+  "weight": 0
+}

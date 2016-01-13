@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Educational Attainment for the Population 25 Years and Over", 
+    "title": "Associate's degree", 
+    "universe": "Population 25 Years and Over"
+  }, 
+  "name": "Associate's degree in Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B15003/B15003001.json", 
+    "parent": "data/columns/us/census/acs/B15003/B15003001.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 2
+}

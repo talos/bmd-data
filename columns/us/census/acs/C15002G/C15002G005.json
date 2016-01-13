@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Two or More Races)", 
+    "title": "Some college or associate's degree", 
+    "universe": "Two or More Races Population 25 Years and Over"
+  }, 
+  "name": "Some college or associate's degree Male in Two or More Races Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002G/C15002G001.json", 
+    "parent": "data/columns/us/census/acs/C15002G/C15002G002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

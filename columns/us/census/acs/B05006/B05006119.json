@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Oceania:", 
+      "Australia and New Zealand Subregion:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth for the Foreign-born Population in the United States", 
+    "title": "Other Australian and New Zealand Subregion", 
+    "universe": "Foreign-born Population Excluding Population Born at Sea"
+  }, 
+  "name": "Other Australian and New Zealand Subregion Oceania Place of Birth Australia and New Zealand Subregion in Foreign-born Population Excluding Population Born at Sea", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05006/B05006001.json", 
+    "parent": "data/columns/us/census/acs/B05006/B05006117.json"
+  }, 
+  "tags": [
+    "place of birth"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,16 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Tenure", 
+    "title": "Total:", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Occupied Housing Units", 
+  "relationships": {}, 
+  "tags": [
+    "housing", 
+    "tenure"
+  ], 
+  "weight": 2
+}

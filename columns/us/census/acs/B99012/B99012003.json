@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Age", 
+    "title": "Not imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Not imputed Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99012/B99012001.json", 
+    "parent": "data/columns/us/census/acs/B99012/B99012001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Marital Status for the Population 15 Years and Over", 
+    "title": "Not imputed", 
+    "universe": "Population 15 Years and Over"
+  }, 
+  "name": "Not imputed in Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99121/B99121001.json", 
+    "parent": "data/columns/us/census/acs/B99121/B99121001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "marital status"
+  ], 
+  "weight": 0
+}

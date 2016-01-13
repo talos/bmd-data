@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Age of Householder", 
+    "title": "Householder 65 to 74 years", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Householder 65 to 74 years in Renter-occupied Housing Units Paying Cash Rent", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25055/C25055001.json", 
+    "parent": "data/columns/us/census/acs/C25055/C25055001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "families"
+  ], 
+  "weight": 0
+}

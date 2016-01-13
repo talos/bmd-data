@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Multigenerational Households", 
+    "title": "Multigenerational households", 
+    "universe": "Total Households"
+  }, 
+  "name": "Margin of error for Multigenerational households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11017/B11017002.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 1
+}

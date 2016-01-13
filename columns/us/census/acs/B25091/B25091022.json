@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Housing units without a mortgage:"
+    ], 
+    "isDenominator": false, 
+    "table": "Mortgage Status by Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "50.0 percent or more", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "50.0 percent or more Housing units without a mortgage Mortgage Status in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25091/B25091001.json", 
+    "parent": "data/columns/us/census/acs/B25091/B25091013.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "mortgage", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Veteran Status for the Civilian Population 18 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "18 to 64 years:", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Civilian Population 18 Years and Over"
+  }, 
+  "name": "18 to 64 years Female in Native Hawaiian and Other Pacific Islander Alone Civilian Population 18 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C21001E/C21001E001.json", 
+    "parent": "data/columns/us/census/acs/C21001E/C21001E009.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "veterans", 
+    "sex"
+  ], 
+  "weight": 0
+}

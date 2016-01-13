@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Aggregate Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Sex by Work Experience for the Population 16 Years and Over With Earnings", 
+    "title": "Female:", 
+    "universe": "Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Female", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B20003/B20003001.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

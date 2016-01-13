@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Under 18 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Disability Status by Poverty Status", 
+    "title": "No disability:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "No disability old in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18130/C18130001.json", 
+    "parent": "data/columns/us/census/acs/C18130/C18130002.json"
+  }, 
+  "tags": [
+    "poverty", 
+    "age", 
+    "disability"
+  ], 
+  "weight": 0
+}

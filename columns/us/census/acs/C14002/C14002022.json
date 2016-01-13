@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Enrolled in school:", 
+      "Enrolled in graduate or professional school:"
+    ], 
+    "isDenominator": false, 
+    "table": "School Enrollment by Level of School by Type of School for the Population 3 Years and Over", 
+    "title": "Public school", 
+    "universe": "Population 3 Years and Over"
+  }, 
+  "name": "Public school Enrolled in graduate or professional school Level of School in Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C14002/C14002001.json", 
+    "parent": "data/columns/us/census/acs/C14002/C14002021.json"
+  }, 
+  "tags": [
+    "education"
+  ], 
+  "weight": 0
+}

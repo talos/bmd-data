@@ -1,0 +1,19 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Median Earnings in the Past 12 Months (In 2011 Inflation-adjusted Dollars) by Sex by Work Experience in the Past 12 Months for the Population 16 Years and Over With Earnings in the Past 12 Months", 
+    "title": "Total (dollars)", 
+    "universe": "Population 16 Years and Over With Earnings"
+  }, 
+  "name": "Total (dollars)", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B20017/B20017001.json"
+  }, 
+  "tags": [
+    "sex", 
+    "employment", 
+    "income"
+  ], 
+  "weight": 0
+}

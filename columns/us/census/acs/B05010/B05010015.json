@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "1.00 to 1.99:"
+    ], 
+    "isDenominator": false, 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months by Nativity of Children Under 18 Years in Families and Subfamilies by Living Arrangements and Nativity of Parents", 
+    "title": "Living with one parent:", 
+    "universe": "Own Children Under 18 Years Living in Families or Subfamilies for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Living with one parent 1.00 to 1.99 Ratio of Income to Poverty Level in the Past 12 Months in Own Children Under 18 Years Living in Families or Subfamilies for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05010/B05010001.json", 
+    "parent": "data/columns/us/census/acs/B05010/B05010010.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "poverty", 
+    "families", 
+    "children", 
+    "income"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Ancestry specified:"
+    ], 
+    "isDenominator": false, 
+    "table": "Ancestry", 
+    "title": "Single ancestry", 
+    "universe": "Total Population"
+  }, 
+  "name": "Single ancestry Ancestry specified Ancestry Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04007/C04007001.json", 
+    "parent": "data/columns/us/census/acs/C04007/C04007002.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

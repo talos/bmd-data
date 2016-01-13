@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": true, 
+    "table": "Age by Disability Status by Poverty Status", 
+    "title": "Total:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {}, 
+  "tags": [
+    "poverty", 
+    "age", 
+    "disability"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Food Stamps/SNAP Receipt", 
+    "title": "Not imputed", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Not imputed in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99221/B99221003.json"
+  }, 
+  "tags": [
+    "technical", 
+    "public assistance"
+  ], 
+  "weight": 0
+}

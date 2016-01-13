@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Contract Rent (Dollars)", 
+    "title": "Median contract rent", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Margin of error for Median contract rent", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25058/B25058001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 2
+}

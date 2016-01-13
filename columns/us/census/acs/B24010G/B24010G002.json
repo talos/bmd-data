@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Two or More Races)", 
+    "title": "Male:", 
+    "universe": "Civilian Employed Two or More Races Population 16 Years and Over"
+  }, 
+  "name": "Male in Civilian Employed Two or More Races Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010G/B24010G001.json", 
+    "parent": "data/columns/us/census/acs/B24010G/B24010G001.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

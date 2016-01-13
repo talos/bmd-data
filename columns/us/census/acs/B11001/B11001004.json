@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone)", 
+    "title": "Other family:", 
+    "universe": "Households"
+  }, 
+  "name": "Other family Family households Household Type (Including Living Alone)", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11001/B11001001.json", 
+    "parent": "data/columns/us/census/acs/B11001/B11001002.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 2
+}

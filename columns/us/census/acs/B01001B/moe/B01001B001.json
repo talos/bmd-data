@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Sex by Age (Black or African American Alone)", 
+    "title": "Total:", 
+    "universe": "Black or African American Alone"
+  }, 
+  "name": "Margin of error for Black or African American Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B01001B/B01001B001.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

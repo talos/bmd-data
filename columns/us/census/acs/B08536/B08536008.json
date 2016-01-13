@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Public transportation (excluding taxicab):"
+    ], 
+    "isDenominator": false, 
+    "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work for Workplace Geography", 
+    "title": "Bus or trolley bus", 
+    "universe": "Workers 16 Years and Over Who Did Not Work at Home"
+  }, 
+  "name": "Bus or trolley bus Public transportation (excluding taxicab) Aggregate Travel Time to Work (In Minutes) of Workers", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B08536/B08536007.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

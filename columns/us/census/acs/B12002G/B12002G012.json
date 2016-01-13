@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Two or More Races)", 
+    "title": "Widowed", 
+    "universe": "Two or More Races Population 15 Years and Over"
+  }, 
+  "name": "Widowed Female in Two or More Races Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002G/B12002G001.json", 
+    "parent": "data/columns/us/census/acs/B12002G/B12002G008.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

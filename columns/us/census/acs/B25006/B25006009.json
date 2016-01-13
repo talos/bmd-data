@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Householder who is Two or more races:"
+    ], 
+    "isDenominator": false, 
+    "table": "Race of Householder", 
+    "title": "Householder who is Two races including Some other race", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "Householder who is Two races including Some other race Householder who is Two or more races Race of Householder in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25006/B25006001.json", 
+    "parent": "data/columns/us/census/acs/B25006/B25006008.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

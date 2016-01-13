@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households", 
+    "title": "In married-couple family:", 
+    "universe": "Population in Households"
+  }, 
+  "name": "Margin of error for In married-couple family In family households Household Type in Population in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B11002/B11002003.json"
+  }, 
+  "tags": [
+    "families"
+  ], 
+  "weight": 2
+}

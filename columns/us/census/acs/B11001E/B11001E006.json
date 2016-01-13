@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Family households:", 
+      "Other family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type (Including Living Alone) (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Female householder, no husband present", 
+    "universe": "Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone"
+  }, 
+  "name": "Female householder, no husband present Family households Household Type (Including Living Alone) (Native Hawaiian and Other Pacific Islander Alone) Other family in Households With a Householder Who Is Native Hawaiian and Other Pacific Islander Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11001E/B11001E001.json", 
+    "parent": "data/columns/us/census/acs/B11001E/B11001E004.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

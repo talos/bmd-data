@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Age for Workplace Geography", 
+    "title": "55 to 59 years", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "55 to 59 years in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08501/B08501001.json", 
+    "parent": "data/columns/us/census/acs/B08501/B08501001.json"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In family households:", 
+      "In married-couple family:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Type by Relatives and Nonrelatives for Population in Households (White Alone, Not Hispanic or Latino)", 
+    "title": "Nonrelatives", 
+    "universe": "Population in Households With a Householder Who Is White Alone, Not Hispanic or Latino"
+  }, 
+  "name": "Nonrelatives In family households Household Type In married-couple family Relatives and Nonrelatives in Population in Households With a Householder Who Is White Alone, Not Hispanic or Latino", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B11002H/B11002H001.json", 
+    "parent": "data/columns/us/census/acs/B11002H/B11002H003.json"
+  }, 
+  "tags": [
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

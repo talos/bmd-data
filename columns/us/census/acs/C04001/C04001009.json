@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "First Ancestry Reported", 
+    "title": "European", 
+    "universe": "Total Population"
+  }, 
+  "name": "European Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C04001/C04001001.json", 
+    "parent": "data/columns/us/census/acs/C04001/C04001001.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

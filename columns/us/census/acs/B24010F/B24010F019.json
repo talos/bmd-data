@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "Service occupations:", 
+    "universe": "Civilian Employed Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "Service occupations Male in Civilian Employed Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010F/B24010F001.json", 
+    "parent": "data/columns/us/census/acs/B24010F/B24010F002.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

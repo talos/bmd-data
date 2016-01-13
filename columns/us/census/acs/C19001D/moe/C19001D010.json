@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) (Asian Alone Householder)", 
+    "title": "$150,000 to $199,999", 
+    "universe": "Households With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Margin of error for $150,000 to $199,999 in Households With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C19001D/C19001D010.json"
+  }, 
+  "tags": [
+    "race", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

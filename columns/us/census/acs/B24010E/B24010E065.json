@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:", 
+      "Sales and office occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Office and administrative support occupations", 
+    "universe": "Civilian Employed Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over"
+  }, 
+  "name": "Office and administrative support occupations Female Sales and office occupations Occupation in Civilian Employed Native Hawaiian and Other Pacific Islander Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010E/B24010E001.json", 
+    "parent": "data/columns/us/census/acs/B24010E/B24010E063.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

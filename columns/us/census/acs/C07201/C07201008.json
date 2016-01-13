@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Different house in United States 1 year ago:", 
+      "Different Metropolitan Statistical Area:"
+    ], 
+    "isDenominator": false, 
+    "table": "Geographical Mobility in the Past Year for Current Residence--Metropolitan Statistical Area Level in the United States", 
+    "title": "Moved from principal city", 
+    "universe": "Population 1 Year and Over Living in a Metropolitan Statistical Area in the United States"
+  }, 
+  "name": "Moved from principal city Different house in United States 1 year ago Geographical Mobility in the Past Year Different Metropolitan Statistical Area in Population 1 Year and Over Living in a Metropolitan Statistical Area", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C07201/C07201001.json", 
+    "parent": "data/columns/us/census/acs/C07201/C07201007.json"
+  }, 
+  "tags": [
+    "migration"
+  ], 
+  "weight": "0"
+}

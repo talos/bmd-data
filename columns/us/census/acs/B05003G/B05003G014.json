@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Two or More Races)", 
+    "title": "Under 18 years:", 
+    "universe": "People Who Are Two or More Races"
+  }, 
+  "name": "Under 18 years Female in People Who Are Two or More Races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003G/B05003G001.json", 
+    "parent": "data/columns/us/census/acs/B05003G/B05003G013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

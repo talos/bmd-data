@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "$200,000 or more", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for $200,000 or more in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C19001/C19001011.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

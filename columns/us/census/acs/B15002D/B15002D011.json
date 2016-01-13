@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Asian Alone)", 
+    "title": "Female:", 
+    "universe": "Asian Alone Population 25 Years and Over"
+  }, 
+  "name": "Female in Asian Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B15002D/B15002D001.json", 
+    "parent": "data/columns/us/census/acs/B15002D/B15002D001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

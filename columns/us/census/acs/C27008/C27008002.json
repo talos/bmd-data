@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tricare/Military Health Coverage by Sex by Age", 
+    "title": "Male:", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "Male in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C27008/C27008001.json", 
+    "parent": "data/columns/us/census/acs/C27008/C27008001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

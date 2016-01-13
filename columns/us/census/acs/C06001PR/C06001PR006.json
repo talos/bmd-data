@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Age in Puerto Rico", 
+    "title": "45 to 54 years", 
+    "universe": "Total Population in Puerto Rico"
+  }, 
+  "name": "45 to 54 years in Population in Puerto Rico", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C06001PR/C06001PR001.json", 
+    "parent": "data/columns/us/census/acs/C06001PR/C06001PR001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

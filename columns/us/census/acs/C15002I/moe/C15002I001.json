@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Hispanic or Latino)", 
+    "title": "Total:", 
+    "universe": "Hispanic or Latino Population 25 Years and Over"
+  }, 
+  "name": "Margin of error for Hispanic or Latino Population 25 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C15002I/C15002I001.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

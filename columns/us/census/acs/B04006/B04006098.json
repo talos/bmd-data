@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "West Indian (except Hispanic groups):"
+    ], 
+    "isDenominator": false, 
+    "table": "People Reporting Ancestry", 
+    "title": "Bermudan", 
+    "universe": "Total Population"
+  }, 
+  "name": "Bermudan West Indian (except Hispanic groups) People Reporting Ancestry Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04006/B04006001.json", 
+    "parent": "data/columns/us/census/acs/B04006/B04006094.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "0"
+}

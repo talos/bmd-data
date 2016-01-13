@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Disability Items for the Civilian Noninstitutionalized Population", 
+    "title": "One or more disability items imputed", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "One or more disability items imputed in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99181/B99181001.json", 
+    "parent": "data/columns/us/census/acs/B99181/B99181001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "disability"
+  ], 
+  "weight": 0
+}

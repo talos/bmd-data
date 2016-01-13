@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Sex by Marital Status for the Population 15 Years and Over (Hispanic or Latino)", 
+    "title": "Female:", 
+    "universe": "Hispanic or Latino Population 15 Years and Over"
+  }, 
+  "name": "Female in Hispanic or Latino Population 15 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B12002I/B12002I001.json", 
+    "parent": "data/columns/us/census/acs/B12002I/B12002I001.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

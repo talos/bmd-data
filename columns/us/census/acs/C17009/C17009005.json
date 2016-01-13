@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below the poverty level:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status by Work Experience of Unrelated Individuals", 
+    "title": "Did not work", 
+    "universe": "Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Did not work Income in the past 12 months below the poverty level Poverty Status in Unrelated Individuals 15 Years and Over for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C17009/C17009001.json", 
+    "parent": "data/columns/us/census/acs/C17009/C17009002.json"
+  }, 
+  "tags": [
+    "employment", 
+    "poverty"
+  ], 
+  "weight": 0
+}

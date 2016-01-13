@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Value", 
+    "title": "Less than $50,000", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Less than $50,000 in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C25075/C25075001.json", 
+    "parent": "data/columns/us/census/acs/C25075/C25075001.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing"
+  ], 
+  "weight": 0
+}

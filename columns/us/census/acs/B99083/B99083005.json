@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Time Leaving Home to Go to Work", 
+    "title": "Worked at home", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Worked at home in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99083/B99083001.json", 
+    "parent": "data/columns/us/census/acs/B99083/B99083001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": 0
+}

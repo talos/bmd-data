@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Total Population in Occupied Housing Units by Tenure by Year Householder Moved Into Unit", 
+    "title": "Moved in 1969 or earlier", 
+    "universe": "Total Population in Occupied Housing Units"
+  }, 
+  "name": "Moved in 1969 or earlier Owner occupied Total Population in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25026/B25026001.json", 
+    "parent": "data/columns/us/census/acs/B25026/B25026002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "sex", 
+    "families", 
+    "age", 
+    "tenure"
+  ], 
+  "weight": 1
+}

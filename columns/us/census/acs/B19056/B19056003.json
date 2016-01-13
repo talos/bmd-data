@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Supplemental Security Income (SSI) in the Past 12 Months for Households", 
+    "title": "No Supplemental Security Income (SSI)", 
+    "universe": "Households"
+  }, 
+  "name": "No Supplemental Security Income (SSI) in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B19056/B19056001.json", 
+    "parent": "data/columns/us/census/acs/B19056/B19056001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

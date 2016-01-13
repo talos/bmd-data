@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Place of Birth by Individual Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars) in Puerto Rico", 
+    "title": "No income", 
+    "universe": "Population 15 Years and Over in Puerto Rico"
+  }, 
+  "name": "Margin of error for No income Born in the United States Place of Birth in Population 15 Years and Over in Puerto Rico", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C06010PR/C06010PR024.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "income"
+  ], 
+  "weight": "0"
+}

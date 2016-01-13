@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Median Age at First Marriage (Hispanic or Latino)", 
+    "title": "Female", 
+    "universe": "Hispanic or Latino Population 15 to 54 Years"
+  }, 
+  "name": "Margin of error for Female", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B12007I/B12007I002.json"
+  }, 
+  "tags": [
+    "marital status", 
+    "race"
+  ], 
+  "weight": 0
+}

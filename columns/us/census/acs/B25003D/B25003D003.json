@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Tenure (Asian Alone Householder)", 
+    "title": "Renter occupied", 
+    "universe": "Occupied Housing Units With a Householder Who Is Asian Alone"
+  }, 
+  "name": "Renter occupied in Occupied Housing Units With a Householder Who Is Asian Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25003D/B25003D001.json", 
+    "parent": "data/columns/us/census/acs/B25003D/B25003D001.json"
+  }, 
+  "tags": [
+    "housing", 
+    "race", 
+    "families", 
+    "tenure"
+  ], 
+  "weight": 1
+}

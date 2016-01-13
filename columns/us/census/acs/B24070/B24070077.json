@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Self-employed in own incorporated business workers:"
+    ], 
+    "isDenominator": false, 
+    "table": "Industry by Class of Worker for the Civilian Employed Population 16 Years and Over", 
+    "title": "Arts, entertainment, and recreation, and accommodation and food services:", 
+    "universe": "Civilian Employed Population 16 Years and Over"
+  }, 
+  "name": "Arts, entertainment, and recreation, and accommodation and food services Self-employed in own incorporated business workers Industry in Civilian Employed Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24070/B24070001.json", 
+    "parent": "data/columns/us/census/acs/B24070/B24070055.json"
+  }, 
+  "tags": [
+    "employment"
+  ], 
+  "weight": 0
+}

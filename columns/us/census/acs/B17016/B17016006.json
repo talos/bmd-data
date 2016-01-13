@@ -1,0 +1,26 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months below poverty level:", 
+      "Married-couple family:", 
+      "Householder worked full-time, year-round in the past 12 months:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months of Families by Family Type by Work Experience of Householder and Spouse", 
+    "title": "Spouse worked part-time or part-year in the past 12 months", 
+    "universe": "Families"
+  }, 
+  "name": "Spouse worked part-time or part-year in the past 12 months Income in the past 12 months below poverty level Poverty Status in the Past 12 Months of Families Married-couple family Family Type Householder worked full-time, year-round in the past 12 months Work Experience of Householder and Spouse", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17016/B17016001.json", 
+    "parent": "data/columns/us/census/acs/B17016/B17016004.json"
+  }, 
+  "tags": [
+    "families", 
+    "employment", 
+    "family type", 
+    "poverty"
+  ], 
+  "weight": 0
+}

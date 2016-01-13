@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Entered 1980 to 1989:"
+    ], 
+    "isDenominator": false, 
+    "table": "Year of Entry by Nativity and Citizenship Status in the United States", 
+    "title": "Native", 
+    "universe": "Population Born Outside the United States"
+  }, 
+  "name": "Native Entered 1980 to 1989 Year of Entry in Population Born Outside the United States", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05005/B05005001.json", 
+    "parent": "data/columns/us/census/acs/B05005/B05005012.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

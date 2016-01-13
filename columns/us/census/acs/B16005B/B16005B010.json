@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:", 
+      "Speak another language"
+    ], 
+    "isDenominator": false, 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over (Black or African American Alone)", 
+    "title": "Speak English \"very well\"", 
+    "universe": "Black or African American Alone Population 5 Years and Over"
+  }, 
+  "name": "Speak English \"very well\" Foreign born Nativity Speak another language Language Spoken at Home in Black or African American Alone Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B16005B/B16005B001.json", 
+    "parent": "data/columns/us/census/acs/B16005B/B16005B009.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "race", 
+    "language"
+  ], 
+  "weight": 0
+}

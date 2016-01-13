@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (American Indian and Alaska Native Alone)", 
+    "title": "15 to 17 years", 
+    "universe": "People Who Are American Indian and Alaska Native Alone"
+  }, 
+  "name": "15 to 17 years Male in People Who Are American Indian and Alaska Native Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001C/B01001C001.json", 
+    "parent": "data/columns/us/census/acs/B01001C/B01001C002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Poverty Status in the Past 12 Months for Families", 
+    "title": "50 to less than 100 percent of total income for family imputed", 
+    "universe": "Families"
+  }, 
+  "name": "50 to less than 100 percent of total income for family imputed in Families", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99172/B99172001.json", 
+    "parent": "data/columns/us/census/acs/B99172/B99172001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "poverty", 
+    "families"
+  ], 
+  "weight": 0
+}

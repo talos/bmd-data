@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Hispanic or Latino Origin by Specific Origin", 
+    "title": "Total:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Total Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B03001/B03001001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

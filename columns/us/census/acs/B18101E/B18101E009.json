@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Disability Status (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "With a disability", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With a disability old in Native Hawaiian and Other Pacific Islander Alone Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B18101E/B18101E001.json", 
+    "parent": "data/columns/us/census/acs/B18101E/B18101E008.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "disability"
+  ], 
+  "weight": 0
+}

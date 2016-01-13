@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Management, business, science, and arts occupations:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Occupation for the Civilian Employed Population 16 Years and Over (Some Other Race Alone)", 
+    "title": "Computer, engineering, and science occupations:", 
+    "universe": "Civilian Employed Some Other Race Alone Population 16 Years and Over"
+  }, 
+  "name": "Computer, engineering, and science occupations Male Management, business, science, and arts occupations Occupation in Civilian Employed Some Other Race Alone Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B24010F/B24010F001.json", 
+    "parent": "data/columns/us/census/acs/B24010F/B24010F003.json"
+  }, 
+  "tags": [
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

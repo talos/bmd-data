@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Place of Birth by Age in the United States", 
+    "title": "18 to 24 years", 
+    "universe": "Total Population in the United States"
+  }, 
+  "name": "18 to 24 years Foreign born Place of Birth Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C06001/C06001001.json", 
+    "parent": "data/columns/us/census/acs/C06001/C06001037.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age"
+  ], 
+  "weight": "0"
+}

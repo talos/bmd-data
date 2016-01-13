@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Meals Included in Rent", 
+    "title": "Not imputed", 
+    "universe": "Renter-occupied Housing Units Paying Cash Rent"
+  }, 
+  "name": "Not imputed in Renter-occupied Housing Units Paying Cash Rent", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B992514/B992514001.json", 
+    "parent": "data/columns/us/census/acs/B992514/B992514001.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

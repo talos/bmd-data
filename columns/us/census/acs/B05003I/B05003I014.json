@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age by Nativity and Citizenship Status (Hispanic or Latino)", 
+    "title": "Under 18 years:", 
+    "universe": "Hispanic or Latino Population"
+  }, 
+  "name": "Under 18 years Female in Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05003I/B05003I001.json", 
+    "parent": "data/columns/us/census/acs/B05003I/B05003I013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "race", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

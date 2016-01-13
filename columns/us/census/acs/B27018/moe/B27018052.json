@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Public Health Insurance by Ratio of Income to Poverty Level in the Past 12 Months by Age", 
+    "title": "2.00 to 2.49 of poverty threshold:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Margin of error for 2.00 to 2.49 of poverty threshold in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B27018/B27018052.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "poverty", 
+    "age", 
+    "income"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Age (Black or African American Alone)", 
+    "title": "10 to 14 years", 
+    "universe": "Black or African American Alone"
+  }, 
+  "name": "10 to 14 years Male in Black or African American Alone", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B01001B/B01001B001.json", 
+    "parent": "data/columns/us/census/acs/B01001B/B01001B002.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "sex"
+  ], 
+  "weight": "0"
+}

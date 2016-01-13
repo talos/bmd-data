@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van:", 
+      "Carpooled:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work for Workplace Geography", 
+    "title": "In 2-person carpool", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "In 2-person carpool Car, truck, or van Means of Transportation to Work Carpooled in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C08601/C08601001.json", 
+    "parent": "data/columns/us/census/acs/C08601/C08601004.json"
+  }, 
+  "tags": [
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

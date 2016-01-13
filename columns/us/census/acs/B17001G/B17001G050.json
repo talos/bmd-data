@@ -1,0 +1,25 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Income in the past 12 months at or above poverty level:", 
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Poverty Status in the Past 12 Months by Sex by Age (Two or More Races)", 
+    "title": "12 to 14 years", 
+    "universe": "Two or More Races Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "12 to 14 years Income in the past 12 months at or above poverty level Poverty Status in the Past 12 Months Female in Two or More Races Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B17001G/B17001G001.json", 
+    "parent": "data/columns/us/census/acs/B17001G/B17001G046.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "poverty", 
+    "sex"
+  ], 
+  "weight": 0
+}

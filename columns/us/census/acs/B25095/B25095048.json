@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "$100,000 to $149,999:"
+    ], 
+    "isDenominator": false, 
+    "table": "Household Income by Selected Monthly Owner Costs as a Percentage of Household Income in the Past 12 Months", 
+    "title": "30.0 to 34.9 percent", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "30.0 to 34.9 percent $100,000 to $149,999 Household Income in Owner-occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25095/B25095001.json", 
+    "parent": "data/columns/us/census/acs/B25095/B25095044.json"
+  }, 
+  "tags": [
+    "costs and value", 
+    "housing", 
+    "families", 
+    "income"
+  ], 
+  "weight": 0
+}

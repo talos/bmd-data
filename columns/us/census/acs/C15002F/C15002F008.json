@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Female:"
+    ], 
+    "isDenominator": false, 
+    "table": "Sex by Educational Attainment for the Population 25 Years and Over (Some Other Race Alone)", 
+    "title": "Less than high school diploma", 
+    "universe": "Some Other Race Alone Population 25 Years and Over"
+  }, 
+  "name": "Less than high school diploma Female in Some Other Race Alone Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C15002F/C15002F001.json", 
+    "parent": "data/columns/us/census/acs/C15002F/C15002F007.json"
+  }, 
+  "tags": [
+    "education", 
+    "race", 
+    "sex"
+  ], 
+  "weight": 0
+}

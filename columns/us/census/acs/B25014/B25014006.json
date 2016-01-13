@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Occupants Per Room", 
+    "title": "1.51 to 2.00 occupants per room", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "1.51 to 2.00 occupants per room Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25014/B25014001.json", 
+    "parent": "data/columns/us/census/acs/B25014/B25014002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "occupancy", 
+    "tenure"
+  ], 
+  "weight": 0
+}

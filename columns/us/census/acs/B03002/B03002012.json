@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Hispanic or Latino Origin by Race", 
+    "title": "Hispanic or Latino:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Hispanic or Latino Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B03002/B03002001.json", 
+    "parent": "data/columns/us/census/acs/B03002/B03002001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "2"
+}

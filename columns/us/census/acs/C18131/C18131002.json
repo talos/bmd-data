@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Ratio of Income to Poverty Level in the Past 12 Months by Disability Status", 
+    "title": "Under .50:", 
+    "universe": "Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined"
+  }, 
+  "name": "Under .50 in Civilian Noninstitutionalized Population for Whom Poverty Status Is Determined", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C18131/C18131001.json", 
+    "parent": "data/columns/us/census/acs/C18131/C18131001.json"
+  }, 
+  "tags": [
+    "poverty", 
+    "disability", 
+    "income"
+  ], 
+  "weight": 0
+}

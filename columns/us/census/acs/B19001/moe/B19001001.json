@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Household Income in the Past 12 Months (In 2011 Inflation-adjusted Dollars)", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B19001/B19001001.json"
+  }, 
+  "tags": [
+    "families", 
+    "income"
+  ], 
+  "weight": 1
+}

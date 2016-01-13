@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Age", 
+    "title": "Imputed", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Imputed Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99012/B99012002.json"
+  }, 
+  "tags": [
+    "technical"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In non-family households and other living arrangements:", 
+      "Other living arrangements:", 
+      "With health insurance coverage"
+    ], 
+    "isDenominator": false, 
+    "table": "Health Insurance Coverage Status and Type by Living Arrangement", 
+    "title": "With public coverage", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With public coverage In non-family households and other living arrangements Health Insurance Coverage Status and Type Other living arrangements Living Arrangement With health insurance coverage in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27021/B27021001.json", 
+    "parent": "data/columns/us/census/acs/B27021/B27021050.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

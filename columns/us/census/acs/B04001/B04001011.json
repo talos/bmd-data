@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Arab:"
+    ], 
+    "isDenominator": false, 
+    "table": "First Ancestry Reported", 
+    "title": "Moroccan", 
+    "universe": "Total Population"
+  }, 
+  "name": "Moroccan Arab First Ancestry Reported Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B04001/B04001001.json", 
+    "parent": "data/columns/us/census/acs/B04001/B04001006.json"
+  }, 
+  "tags": [
+    "ancestry"
+  ], 
+  "weight": "1"
+}

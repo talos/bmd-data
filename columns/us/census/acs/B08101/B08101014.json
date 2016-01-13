@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Car, truck, or van - drove alone:"
+    ], 
+    "isDenominator": false, 
+    "table": "Means of Transportation to Work by Age", 
+    "title": "55 to 59 years", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "55 to 59 years Car, truck, or van - drove alone Means of Transportation to Work in Workers 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B08101/B08101001.json", 
+    "parent": "data/columns/us/census/acs/B08101/B08101009.json"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": "2"
+}

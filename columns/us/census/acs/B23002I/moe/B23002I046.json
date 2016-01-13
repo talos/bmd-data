@@ -1,0 +1,20 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Sex by Age by Employment Status for the Population 16 Years and Over (Hispanic or Latino)", 
+    "title": "Employed", 
+    "universe": "Hispanic or Latino Population 16 Years and Over"
+  }, 
+  "name": "Margin of error for Employed Female old Civilian in Hispanic or Latino Population 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B23002I/B23002I046.json"
+  }, 
+  "tags": [
+    "age", 
+    "race", 
+    "employment", 
+    "sex"
+  ], 
+  "weight": 0
+}

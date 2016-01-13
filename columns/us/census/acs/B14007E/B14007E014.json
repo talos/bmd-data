@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Enrolled in school:"
+    ], 
+    "isDenominator": false, 
+    "table": "School Enrollment by Detailed Level of School for the Population 3 Years and Over (Native Hawaiian and Other Pacific Islander Alone)", 
+    "title": "Enrolled in grade 10", 
+    "universe": "Native Hawaiian and Other Pacific Islander Alone Population 3 Years and Over"
+  }, 
+  "name": "Enrolled in grade 10 in Native Hawaiian and Other Pacific Islander Alone Population 3 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B14007E/B14007E001.json", 
+    "parent": "data/columns/us/census/acs/B14007E/B14007E002.json"
+  }, 
+  "tags": [
+    "education", 
+    "race"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Total Population Coverage Rate by Sex", 
+    "title": "Male", 
+    "universe": "Total Population"
+  }, 
+  "name": "Male Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B98012/B98012001.json", 
+    "parent": "data/columns/us/census/acs/B98012/B98012001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "age", 
+    "sex"
+  ], 
+  "weight": 0
+}

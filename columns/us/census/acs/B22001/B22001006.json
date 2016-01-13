@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Household did not receive Food Stamps/SNAP in the past 12 months:"
+    ], 
+    "isDenominator": false, 
+    "table": "Receipt of Food Stamps/SNAP in the Past 12 Months by Presence of People 60 Years and Over for Households", 
+    "title": "At least one person in household 60 years or over", 
+    "universe": "Households"
+  }, 
+  "name": "At least one person in household 60 years or over Household did not receive Food Stamps/SNAP in the past 12 months Receipt of Food Stamps/SNAP in the Past 12 Months", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B22001/B22001001.json", 
+    "parent": "data/columns/us/census/acs/B22001/B22001005.json"
+  }, 
+  "tags": [
+    "public assistance", 
+    "families"
+  ], 
+  "weight": 0
+}

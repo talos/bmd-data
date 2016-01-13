@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:"
+    ], 
+    "isDenominator": false, 
+    "table": "Nativity by Language Spoken at Home by Ability to Speak English for the Population 5 Years and Over", 
+    "title": "Speak other Indo-European languages:", 
+    "universe": "Population 5 Years and Over"
+  }, 
+  "name": "Speak other Indo-European languages Foreign born Nativity in Population 5 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C16005/C16005001.json", 
+    "parent": "data/columns/us/census/acs/C16005/C16005016.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "language"
+  ], 
+  "weight": 0
+}

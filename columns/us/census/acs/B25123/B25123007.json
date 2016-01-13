@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Owner occupied:"
+    ], 
+    "isDenominator": false, 
+    "table": "Tenure by Selected Physical and Financial Conditions", 
+    "title": "No selected conditions", 
+    "universe": "Occupied Housing Units"
+  }, 
+  "name": "No selected conditions Owner occupied Tenure in Occupied Housing Units", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B25123/B25123001.json", 
+    "parent": "data/columns/us/census/acs/B25123/B25123002.json"
+  }, 
+  "tags": [
+    "housing", 
+    "tenure"
+  ], 
+  "weight": 0
+}

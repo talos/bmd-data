@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "65 years and over:", 
+      "With one type of health insurance coverage:"
+    ], 
+    "isDenominator": false, 
+    "table": "Types of Health Insurance Coverage by Age", 
+    "title": "With employer-based health insurance only", 
+    "universe": "Civilian Noninstitutionalized Population"
+  }, 
+  "name": "With employer-based health insurance only 65 years and over Types of Health Insurance Coverage old in Civilian Noninstitutionalized Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27010/B27010001.json", 
+    "parent": "data/columns/us/census/acs/B27010/B27010052.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "age"
+  ], 
+  "weight": 1
+}

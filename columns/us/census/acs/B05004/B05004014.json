@@ -1,0 +1,24 @@
+{
+  "aggregate": "median", 
+  "extra": {
+    "ancestors": [
+      "Foreign born:", 
+      "Not a U.S. citizen:"
+    ], 
+    "isDenominator": false, 
+    "table": "Median Age by Nativity and Citizenship Status by Sex", 
+    "title": "Male", 
+    "universe": "Total Population"
+  }, 
+  "name": "Male Foreign born Median Age Not a U.S. citizen Nativity and Citizenship Status", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B05004/B05004013.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "age", 
+    "citizenship", 
+    "sex"
+  ], 
+  "weight": "0"
+}

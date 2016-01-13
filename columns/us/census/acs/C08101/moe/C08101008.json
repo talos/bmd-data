@@ -1,0 +1,19 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Means of Transportation to Work by Age", 
+    "title": "Car, truck, or van - drove alone:", 
+    "universe": "Workers 16 Years and Over"
+  }, 
+  "name": "Margin of error for Car, truck, or van - drove alone in Workers 16 Years and Over", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C08101/C08101008.json"
+  }, 
+  "tags": [
+    "age", 
+    "commute", 
+    "employment"
+  ], 
+  "weight": "0"
+}

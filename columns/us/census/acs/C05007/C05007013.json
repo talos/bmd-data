@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Place of Birth by Year of Entry by Citizenship Status for the Foreign-born Population", 
+    "title": "Asia:", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Asia in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C05007/C05007001.json", 
+    "parent": "data/columns/us/census/acs/C05007/C05007001.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": "0"
+}

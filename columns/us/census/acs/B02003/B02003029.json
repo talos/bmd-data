@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of two or more races:", 
+      "Population of three races:"
+    ], 
+    "isDenominator": false, 
+    "table": "Detailed Race", 
+    "title": "White; Black or African American; Native Hawaiian and Other Pacific Islander", 
+    "universe": "Total Population"
+  }, 
+  "name": "White; Black or African American; Native Hawaiian and Other Pacific Islander Population of two or more races Detailed Race Population of three races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B02003/B02003001.json", 
+    "parent": "data/columns/us/census/acs/B02003/B02003026.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": "0"
+}

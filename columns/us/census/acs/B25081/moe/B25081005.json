@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Mortgage Status", 
+    "title": "Home equity loan only", 
+    "universe": "Owner-occupied Housing Units"
+  }, 
+  "name": "Margin of error for Home equity loan only Housing units with a mortgage, contract to purchase, or similar debt Mortgage Status With either a second mortgage or home equity loan, but not both in Owner-occupied Housing Units", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B25081/B25081005.json"
+  }, 
+  "tags": [
+    "housing", 
+    "mortgage"
+  ], 
+  "weight": 2
+}
