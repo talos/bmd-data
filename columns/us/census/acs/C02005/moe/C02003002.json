@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Detailed Race", 
+    "title": "Population of one race:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for Population of one race", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C02005/C02003002.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 0
+}

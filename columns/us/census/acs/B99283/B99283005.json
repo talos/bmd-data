@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Imputation of Household Internet Subscription Type", 
+    "title": "Mobile broadband", 
+    "universe": "Households"
+  }, 
+  "name": "Mobile broadband in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B99283/B99283001.json", 
+    "parent": "data/columns/us/census/acs/B99283/B99283001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "families"
+  ], 
+  "weight": 0
+}

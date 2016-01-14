@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "American Indian and Alaska Native Alone for Selected Tribal Groupings", 
+    "title": "American Indian tribes, specified:", 
+    "universe": "Total Asian Alone Population"
+  }, 
+  "name": "American Indian tribes, specified in Asian Alone Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C02006/C02005001.json", 
+    "parent": "data/columns/us/census/acs/C02006/C02005001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 0
+}

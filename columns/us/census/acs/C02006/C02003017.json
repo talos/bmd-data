@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of two or more races:", 
+      "Population of two races:"
+    ], 
+    "isDenominator": false, 
+    "table": "Detailed Race", 
+    "title": "All other two race combinations", 
+    "universe": "Total Population"
+  }, 
+  "name": "All other two race combinations Population of two or more races Detailed Race Population of two races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C02005/C02003001.json", 
+    "parent": "data/columns/us/census/acs/C02005/C02003012.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 0
+}

@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "18 to 64 years:"
+    ], 
+    "isDenominator": false, 
+    "table": "Age by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "Has a computer:", 
+    "universe": "Population in Households"
+  }, 
+  "name": "Has a computer old in Population in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28005/B28005001.json", 
+    "parent": "data/columns/us/census/acs/B28005/B28005008.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families", 
+    "age"
+  ], 
+  "weight": 0
+}

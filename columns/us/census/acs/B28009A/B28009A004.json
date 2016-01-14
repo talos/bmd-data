@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (White Alone)", 
+    "title": "With a broadband Internet subscription", 
+    "universe": "White Alone Household Population"
+  }, 
+  "name": "With a broadband Internet subscription Has a computer Presence of a Computer and Type of Internet Subscription in Household (White Alone) in White Alone Household Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28009A/B28009A001.json", 
+    "parent": "data/columns/us/census/acs/B28009A/B28009A002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

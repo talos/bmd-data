@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Asian Alone by Selected Groups", 
+    "title": "Other Pacific Islander", 
+    "universe": "Total Native Hawaiian and Other Pacific Islander Alone Population"
+  }, 
+  "name": "Other Pacific Islander in Native Hawaiian and Other Pacific Islander Alone Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C02003/B02007001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 0
+}

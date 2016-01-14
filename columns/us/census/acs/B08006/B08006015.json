@@ -6,14 +6,15 @@
     "title": "Walked", 
     "universe": "Workers 16 Years and Over"
   }, 
-  "name": "Walked in Workers 16 Years and Over", 
+  "name": "Walked to work", 
   "relationships": {
     "denominator": "data/columns/us/census/acs/B08006/B08006001.json", 
     "parent": "data/columns/us/census/acs/B08006/B08006001.json"
   }, 
   "tags": [
+    "transportation", 
     "commute", 
     "employment"
   ], 
-  "weight": "2"
+  "weight": 4
 }

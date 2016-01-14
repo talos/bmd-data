@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Less than high school graduate or equivalency:", 
+      "Has a computer:"
+    ], 
+    "isDenominator": false, 
+    "table": "Educational Attainment by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "With dial-up Internet subscription alone", 
+    "universe": "Household Population 25 Years and Over"
+  }, 
+  "name": "With dial-up Internet subscription alone Less than high school graduate or equivalency Educational Attainment Has a computer Presence of a Computer and Types of Internet Subscription in Household in Household Population 25 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28006/B28006001.json", 
+    "parent": "data/columns/us/census/acs/B28006/B28006003.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "education", 
+    "families"
+  ], 
+  "weight": 0
+}

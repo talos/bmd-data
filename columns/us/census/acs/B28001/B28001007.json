@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "isDenominator": false, 
+    "table": "Types of Computers in Household", 
+    "title": "Other computer", 
+    "universe": "Households"
+  }, 
+  "name": "Other computer Has a computer Types of Computers in Household", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28001/B28001001.json", 
+    "parent": "data/columns/us/census/acs/B28001/B28001002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

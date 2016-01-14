@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Presence and Types of Internet Subscriptions in Household", 
+    "title": "No Internet access", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for No Internet access in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B28002/B28002021.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

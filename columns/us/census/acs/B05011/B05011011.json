@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Naturalized citizens:"
+    ], 
+    "isDenominator": false, 
+    "table": "Period of Naturalization", 
+    "title": "Naturalized before 1980", 
+    "universe": "Foreign-born Population"
+  }, 
+  "name": "Naturalized before 1980 Naturalized citizens Period of Naturalization in Foreign-born Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B05011/B05011001.json", 
+    "parent": "data/columns/us/census/acs/B05011/B05011003.json"
+  }, 
+  "tags": [
+    "place of birth", 
+    "citizenship"
+  ], 
+  "weight": 0
+}

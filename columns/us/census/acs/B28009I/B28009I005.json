@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (Hispanic or Latino)", 
+    "title": "Without an Internet subscription", 
+    "universe": "Hispanic or Latino Household Population"
+  }, 
+  "name": "Without an Internet subscription Has a computer Presence of a Computer and Type of Internet Subscription in Household (Hispanic or Latino) in Hispanic or Latino Household Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28009I/B28009I001.json", 
+    "parent": "data/columns/us/census/acs/B28009I/B28009I002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

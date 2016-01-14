@@ -1,0 +1,24 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:", 
+      "With a broadband subscription:", 
+      "With a fixed broadband Internet subscription:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household", 
+    "title": "Without mobile broadband subscription", 
+    "universe": "Population in Households"
+  }, 
+  "name": "Without mobile broadband subscription Has a computer Presence of a Computer and Type of Internet Subscription in Household With a broadband subscription With a fixed broadband Internet subscription in Population in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28008/B28008001.json", 
+    "parent": "data/columns/us/census/acs/B28008/B28008005.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

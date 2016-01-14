@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (Some Other Race Alone)", 
+    "title": "Has a computer:", 
+    "universe": "Some Other Race Alone Household Population"
+  }, 
+  "name": "Has a computer in Some Other Race Alone Household Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28009F/B28009F001.json", 
+    "parent": "data/columns/us/census/acs/B28009F/B28009F001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

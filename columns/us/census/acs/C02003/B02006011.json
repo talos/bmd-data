@@ -1,0 +1,17 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "American Indian and Alaska Native Alone for Selected Tribal Groupings", 
+    "title": "Laotian", 
+    "universe": "Total Asian Alone Population"
+  }, 
+  "name": "Laotian in Asian Alone Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B02008/B02006001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 1
+}

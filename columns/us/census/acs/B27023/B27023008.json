@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Male:", 
+      "Not enrolled in school:"
+    ], 
+    "isDenominator": false, 
+    "table": "Private Health Insurance by Sex by Enrollment Status for Young Adults Aged 19 to 25", 
+    "title": "No private health insurance coverage", 
+    "universe": "Civilian Noninstitutionalized Population 19 to 25 Years"
+  }, 
+  "name": "No private health insurance coverage Male Private Health Insurance Not enrolled in school in Civilian Noninstitutionalized Population 19 to 25 Years", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B27023/B27023001.json", 
+    "parent": "data/columns/us/census/acs/B27023/B27023006.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "sex"
+  ], 
+  "weight": 0
+}

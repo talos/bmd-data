@@ -1,0 +1,20 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (White Alone, Not Hispanic or Latino)", 
+    "title": "No Computer", 
+    "universe": "White Alone, Not Hispanic or Latino Household Population"
+  }, 
+  "name": "No Computer in White Alone, Not Hispanic or Latino Household Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28009H/B28009H001.json", 
+    "parent": "data/columns/us/census/acs/B28009H/B28009H001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

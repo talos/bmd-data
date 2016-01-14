@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (Black or African American Alone)", 
+    "title": "With dial-up Internet subscription alone", 
+    "universe": "Black or African Americn Alone Household Population"
+  }, 
+  "name": "With dial-up Internet subscription alone Has a computer Presence of a Computer and Type of Internet Subscription in Household (Black or African American Alone) in Black or African Americn Alone Household Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28009B/B28009B001.json", 
+    "parent": "data/columns/us/census/acs/B28009B/B28009B002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

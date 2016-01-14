@@ -1,0 +1,21 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Population of one race:"
+    ], 
+    "isDenominator": false, 
+    "table": "Detailed Race", 
+    "title": "Black or African American", 
+    "universe": "Total Population"
+  }, 
+  "name": "Black or African American Population of one race Detailed Race", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C02005/C02003001.json", 
+    "parent": "data/columns/us/census/acs/C02005/C02003002.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 0
+}

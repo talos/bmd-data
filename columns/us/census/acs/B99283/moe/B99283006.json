@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Imputation of Household Internet Subscription Type", 
+    "title": "Not imputed", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Not imputed in Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99283/B99283006.json"
+  }, 
+  "tags": [
+    "technical", 
+    "families"
+  ], 
+  "weight": 0
+}

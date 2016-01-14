@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": true, 
+    "margin_of_error": true, 
+    "table": "Imputation of Household Internet Access", 
+    "title": "Total:", 
+    "universe": "Households"
+  }, 
+  "name": "Margin of error for Households", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/B99281/B99281001.json"
+  }, 
+  "tags": [
+    "technical", 
+    "families"
+  ], 
+  "weight": 0
+}

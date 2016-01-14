@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household (Asian Alone)", 
+    "title": "Without an Internet subscription", 
+    "universe": "Asian Alone Household Population"
+  }, 
+  "name": "Without an Internet subscription Has a computer Presence of a Computer and Type of Internet Subscription in Household (Asian Alone) in Asian Alone Household Population", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28009D/B28009D001.json", 
+    "parent": "data/columns/us/census/acs/B28009D/B28009D002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "race", 
+    "families"
+  ], 
+  "weight": 0
+}

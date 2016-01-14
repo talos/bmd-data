@@ -1,0 +1,18 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Detailed Race", 
+    "title": "Population of three races", 
+    "universe": "Total Population"
+  }, 
+  "name": "Population of three races", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/C02005/C02003001.json", 
+    "parent": "data/columns/us/census/acs/C02005/C02003001.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 0
+}

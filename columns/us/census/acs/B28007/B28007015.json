@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Labor Force Status by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "Not in labor force:", 
+    "universe": "Civilian Household Population 16 Years and Over"
+  }, 
+  "name": "Not in labor force in Civilian Household Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28007/B28007001.json", 
+    "parent": "data/columns/us/census/acs/B28007/B28007001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

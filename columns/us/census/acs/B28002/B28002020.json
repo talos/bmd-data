@@ -1,0 +1,19 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "isDenominator": false, 
+    "table": "Presence and Types of Internet Subscriptions in Household", 
+    "title": "Internet access without a subscription", 
+    "universe": "Households"
+  }, 
+  "name": "Internet access without a subscription in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28002/B28002001.json", 
+    "parent": "data/columns/us/census/acs/B28002/B28002001.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

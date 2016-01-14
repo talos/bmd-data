@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:", 
+      "Handheld computer"
+    ], 
+    "isDenominator": false, 
+    "table": "Types of Computers in Household", 
+    "title": "Handheld computer alone", 
+    "universe": "Households"
+  }, 
+  "name": "Handheld computer alone Has a computer Types of Computers in Household Handheld computer", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28001/B28001001.json", 
+    "parent": "data/columns/us/census/acs/B28001/B28001005.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

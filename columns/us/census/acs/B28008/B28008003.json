@@ -1,0 +1,22 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "Has a computer:"
+    ], 
+    "isDenominator": false, 
+    "table": "Presence of a Computer and Type of Internet Subscription in Household", 
+    "title": "With dial-up Internet subscription alone", 
+    "universe": "Population in Households"
+  }, 
+  "name": "With dial-up Internet subscription alone Has a computer Presence of a Computer and Type of Internet Subscription in Household in Population in Households", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28008/B28008001.json", 
+    "parent": "data/columns/us/census/acs/B28008/B28008002.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

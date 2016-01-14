@@ -6,15 +6,16 @@
     "title": "Income in the past 12 months below poverty level:", 
     "universe": "Population for Whom Poverty Status Is Determined"
   }, 
-  "name": "Income in the past 12 months below poverty level in Population for Whom Poverty Status Is Determined", 
+  "name": "Income in the past 12 months below poverty level", 
   "relationships": {
     "denominator": "data/columns/us/census/acs/B17001/B17001001.json", 
     "parent": "data/columns/us/census/acs/B17001/B17001001.json"
   }, 
   "tags": [
+    "income_education_employment", 
     "age", 
     "poverty", 
     "sex"
   ], 
-  "weight": 2
+  "weight": 4
 }

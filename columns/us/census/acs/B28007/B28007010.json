@@ -1,0 +1,23 @@
+{
+  "aggregate": "sum", 
+  "extra": {
+    "ancestors": [
+      "In the civilian labor force:", 
+      "Unemployed:"
+    ], 
+    "isDenominator": false, 
+    "table": "Labor Force Status by Presence of a Computer and Types of Internet Subscription in Household", 
+    "title": "Has a computer:", 
+    "universe": "Civilian Household Population 16 Years and Over"
+  }, 
+  "name": "Has a computer In the civilian labor force Labor Force Status Unemployed Presence of a Computer and Types of Internet Subscription in Household in Civilian Household Population 16 Years and Over", 
+  "relationships": {
+    "denominator": "data/columns/us/census/acs/B28007/B28007001.json", 
+    "parent": "data/columns/us/census/acs/B28007/B28007009.json"
+  }, 
+  "tags": [
+    "health insurance", 
+    "families"
+  ], 
+  "weight": 0
+}

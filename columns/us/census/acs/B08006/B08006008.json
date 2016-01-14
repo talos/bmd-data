@@ -6,7 +6,7 @@
     "title": "Public transportation (excluding taxicab):", 
     "universe": "Workers 16 Years and Over"
   }, 
-  "name": "Public transportation (excluding taxicab) in Workers 16 Years and Over", 
+  "name": "Commuters by Public transportation", 
   "relationships": {
     "denominator": "data/columns/us/census/acs/B08006/B08006001.json", 
     "parent": "data/columns/us/census/acs/B08006/B08006001.json"
@@ -15,5 +15,5 @@
     "commute", 
     "employment"
   ], 
-  "weight": "2"
+  "weight": 4
 }

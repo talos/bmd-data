@@ -1,7 +1,7 @@
 {
   "columns": [
     {
-      "id": "us/census/acs/B99011001", 
+      "id": "data/columns/us/census/acs/B99011/B99011001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -96,7 +96,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99011002", 
+      "id": "data/columns/us/census/acs/B99011/B99011002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -191,7 +191,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99011003", 
+      "id": "data/columns/us/census/acs/B99011/B99011003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -286,7 +286,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99012001", 
+      "id": "data/columns/us/census/acs/B99012/B99012001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -381,7 +381,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99012002", 
+      "id": "data/columns/us/census/acs/B99012/B99012002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -476,7 +476,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99012003", 
+      "id": "data/columns/us/census/acs/B99012/B99012003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -571,7 +571,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99021001", 
+      "id": "data/columns/us/census/acs/B99021/B99021001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -666,7 +666,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99021002", 
+      "id": "data/columns/us/census/acs/B99021/B99021002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -761,7 +761,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99021003", 
+      "id": "data/columns/us/census/acs/B99021/B99021003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -856,7 +856,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99031001", 
+      "id": "data/columns/us/census/acs/B99031/B99031001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -951,7 +951,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99031002", 
+      "id": "data/columns/us/census/acs/B99031/B99031002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1046,7 +1046,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99031003", 
+      "id": "data/columns/us/census/acs/B99031/B99031003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1141,7 +1141,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99051001", 
+      "id": "data/columns/us/census/acs/B99051/B99051001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1236,7 +1236,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99051002", 
+      "id": "data/columns/us/census/acs/B99051/B99051002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1331,7 +1331,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99051003", 
+      "id": "data/columns/us/census/acs/B99051/B99051003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1426,7 +1426,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99051004", 
+      "id": "data/columns/us/census/acs/B99051/B99051004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1521,7 +1521,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99051005", 
+      "id": "data/columns/us/census/acs/B99051/B99051005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1616,7 +1616,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99051006", 
+      "id": "data/columns/us/census/acs/B99051/B99051006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1711,7 +1711,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99051007", 
+      "id": "data/columns/us/census/acs/B99051/B99051007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1806,102 +1806,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99052001", 
-      "resolutions": [
-        {
-          "error": null, 
-          "id": "us/census/tiger/nation", 
-          "sample": 1
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/region", 
-          "sample": 4
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/division", 
-          "sample": 9
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/state", 
-          "sample": 51
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/county", 
-          "sample": 3143
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/census-tract", 
-          "sample": 73057
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/block-group", 
-          "sample": 217740
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/place", 
-          "sample": 29261
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/cbsa", 
-          "sample": 942
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/necta", 
-          "sample": 43
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/urban-area", 
-          "sample": 3607
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/congressional-district", 
-          "sample": 436
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/state-senate-district", 
-          "sample": 1967
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/state-house-district", 
-          "sample": 4745
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/puma", 
-          "sample": 2071
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/school-district-elementary", 
-          "sample": 2328
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/school-district-secondary", 
-          "sample": 533
-        }, 
-        {
-          "error": null, 
-          "id": "us/census/tiger/school-district-unified", 
-          "sample": 10915
-        }
-      ]
-    }, 
-    {
-      "id": "us/census/acs/B99052002", 
+      "id": "data/columns/us/census/acs/B99052/B99052001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -1996,7 +1901,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99052003", 
+      "id": "data/columns/us/census/acs/B99052/B99052002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2091,7 +1996,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99052004", 
+      "id": "data/columns/us/census/acs/B99052/B99052003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2186,7 +2091,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99052005", 
+      "id": "data/columns/us/census/acs/B99052/B99052004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2281,7 +2186,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99052006", 
+      "id": "data/columns/us/census/acs/B99052/B99052005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2376,7 +2281,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99052007", 
+      "id": "data/columns/us/census/acs/B99052/B99052006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2471,7 +2376,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99061001", 
+      "id": "data/columns/us/census/acs/B99052/B99052007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2491,6 +2396,101 @@
         {
           "error": null, 
           "id": "us/census/tiger/state", 
+          "sample": 51
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/county", 
+          "sample": 3143
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/census-tract", 
+          "sample": 73057
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/block-group", 
+          "sample": 217740
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/place", 
+          "sample": 29261
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/cbsa", 
+          "sample": 942
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/necta", 
+          "sample": 43
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/urban-area", 
+          "sample": 3607
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/congressional-district", 
+          "sample": 436
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/state-senate-district", 
+          "sample": 1967
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/state-house-district", 
+          "sample": 4745
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/puma", 
+          "sample": 2071
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/school-district-elementary", 
+          "sample": 2328
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/school-district-secondary", 
+          "sample": 533
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/school-district-unified", 
+          "sample": 10915
+        }
+      ]
+    }, 
+    {
+      "id": "data/columns/us/census/acs/B99061/B99061001.json", 
+      "resolutions": [
+        {
+          "error": null, 
+          "id": "us/census/tiger/nation", 
+          "sample": 1
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/region", 
+          "sample": 4
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/division", 
+          "sample": 9
+        }, 
+        {
+          "error": null, 
+          "id": "us/census/tiger/state", 
           "sample": 52
         }, 
         {
@@ -2566,7 +2566,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99061002", 
+      "id": "data/columns/us/census/acs/B99061/B99061002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2661,7 +2661,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99061003", 
+      "id": "data/columns/us/census/acs/B99061/B99061003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2756,7 +2756,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99071001", 
+      "id": "data/columns/us/census/acs/B99071/B99071001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2851,7 +2851,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99071002", 
+      "id": "data/columns/us/census/acs/B99071/B99071002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -2946,7 +2946,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99071003", 
+      "id": "data/columns/us/census/acs/B99071/B99071003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3041,7 +3041,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99072001", 
+      "id": "data/columns/us/census/acs/B99072/B99072001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3136,7 +3136,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99072002", 
+      "id": "data/columns/us/census/acs/B99072/B99072002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3231,7 +3231,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99072003", 
+      "id": "data/columns/us/census/acs/B99072/B99072003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3326,7 +3326,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99072004", 
+      "id": "data/columns/us/census/acs/B99072/B99072004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3421,7 +3421,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99072005", 
+      "id": "data/columns/us/census/acs/B99072/B99072005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3516,7 +3516,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99072006", 
+      "id": "data/columns/us/census/acs/B99072/B99072006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3611,7 +3611,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99072007", 
+      "id": "data/columns/us/census/acs/B99072/B99072007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3706,7 +3706,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99080001", 
+      "id": "data/columns/us/census/acs/B99080/B99080001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3801,7 +3801,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99080002", 
+      "id": "data/columns/us/census/acs/B99080/B99080002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3896,7 +3896,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99080003", 
+      "id": "data/columns/us/census/acs/B99080/B99080003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -3991,7 +3991,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99081001", 
+      "id": "data/columns/us/census/acs/B99081/B99081001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4086,7 +4086,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99081002", 
+      "id": "data/columns/us/census/acs/B99081/B99081002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4181,7 +4181,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99081003", 
+      "id": "data/columns/us/census/acs/B99081/B99081003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4276,7 +4276,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99081004", 
+      "id": "data/columns/us/census/acs/B99081/B99081004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4371,7 +4371,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99081005", 
+      "id": "data/columns/us/census/acs/B99081/B99081005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4466,7 +4466,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99082001", 
+      "id": "data/columns/us/census/acs/B99082/B99082001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4561,7 +4561,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99082002", 
+      "id": "data/columns/us/census/acs/B99082/B99082002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4656,7 +4656,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99082003", 
+      "id": "data/columns/us/census/acs/B99082/B99082003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4751,7 +4751,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99082004", 
+      "id": "data/columns/us/census/acs/B99082/B99082004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4846,7 +4846,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99082005", 
+      "id": "data/columns/us/census/acs/B99082/B99082005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -4941,7 +4941,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99083001", 
+      "id": "data/columns/us/census/acs/B99083/B99083001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5036,7 +5036,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99083002", 
+      "id": "data/columns/us/census/acs/B99083/B99083002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5131,7 +5131,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99083003", 
+      "id": "data/columns/us/census/acs/B99083/B99083003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5226,7 +5226,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99083004", 
+      "id": "data/columns/us/census/acs/B99083/B99083004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5321,7 +5321,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99083005", 
+      "id": "data/columns/us/census/acs/B99083/B99083005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5416,7 +5416,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99084001", 
+      "id": "data/columns/us/census/acs/B99084/B99084001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5511,7 +5511,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99084002", 
+      "id": "data/columns/us/census/acs/B99084/B99084002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5606,7 +5606,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99084003", 
+      "id": "data/columns/us/census/acs/B99084/B99084003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5701,7 +5701,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99084004", 
+      "id": "data/columns/us/census/acs/B99084/B99084004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5796,7 +5796,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99084005", 
+      "id": "data/columns/us/census/acs/B99084/B99084005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5891,7 +5891,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99085001", 
+      "id": "data/columns/us/census/acs/B99085/B99085001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -5981,7 +5981,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99085002", 
+      "id": "data/columns/us/census/acs/B99085/B99085002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6071,7 +6071,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99085003", 
+      "id": "data/columns/us/census/acs/B99085/B99085003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6161,7 +6161,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99092001", 
+      "id": "data/columns/us/census/acs/B99092/B99092001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6256,7 +6256,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99092002", 
+      "id": "data/columns/us/census/acs/B99092/B99092002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6351,7 +6351,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99092003", 
+      "id": "data/columns/us/census/acs/B99092/B99092003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6446,7 +6446,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99102001", 
+      "id": "data/columns/us/census/acs/B99102/B99102001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6541,7 +6541,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99102002", 
+      "id": "data/columns/us/census/acs/B99102/B99102002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6636,7 +6636,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99102003", 
+      "id": "data/columns/us/census/acs/B99102/B99102003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6731,7 +6731,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99103001", 
+      "id": "data/columns/us/census/acs/B99103/B99103001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6826,7 +6826,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99103002", 
+      "id": "data/columns/us/census/acs/B99103/B99103002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -6921,7 +6921,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99103003", 
+      "id": "data/columns/us/census/acs/B99103/B99103003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7016,7 +7016,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99104001", 
+      "id": "data/columns/us/census/acs/B99104/B99104001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7111,7 +7111,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99104002", 
+      "id": "data/columns/us/census/acs/B99104/B99104002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7206,7 +7206,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99104003", 
+      "id": "data/columns/us/census/acs/B99104/B99104003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7301,7 +7301,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99104004", 
+      "id": "data/columns/us/census/acs/B99104/B99104004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7396,7 +7396,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99104005", 
+      "id": "data/columns/us/census/acs/B99104/B99104005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7491,7 +7491,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99104006", 
+      "id": "data/columns/us/census/acs/B99104/B99104006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7586,7 +7586,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99104007", 
+      "id": "data/columns/us/census/acs/B99104/B99104007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7681,7 +7681,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99121001", 
+      "id": "data/columns/us/census/acs/B99121/B99121001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7776,7 +7776,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99121002", 
+      "id": "data/columns/us/census/acs/B99121/B99121002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7871,7 +7871,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99121003", 
+      "id": "data/columns/us/census/acs/B99121/B99121003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -7966,7 +7966,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99131001", 
+      "id": "data/columns/us/census/acs/B99131/B99131001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8056,7 +8056,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99131002", 
+      "id": "data/columns/us/census/acs/B99131/B99131002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8146,7 +8146,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99131003", 
+      "id": "data/columns/us/census/acs/B99131/B99131003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8236,7 +8236,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99132001", 
+      "id": "data/columns/us/census/acs/B99132/B99132001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8326,7 +8326,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99132002", 
+      "id": "data/columns/us/census/acs/B99132/B99132002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8416,7 +8416,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99132003", 
+      "id": "data/columns/us/census/acs/B99132/B99132003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8506,7 +8506,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99141001", 
+      "id": "data/columns/us/census/acs/B99141/B99141001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8601,7 +8601,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99141002", 
+      "id": "data/columns/us/census/acs/B99141/B99141002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8696,7 +8696,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99141003", 
+      "id": "data/columns/us/census/acs/B99141/B99141003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8791,7 +8791,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99142001", 
+      "id": "data/columns/us/census/acs/B99142/B99142001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8886,7 +8886,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99142002", 
+      "id": "data/columns/us/census/acs/B99142/B99142002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -8981,7 +8981,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99142003", 
+      "id": "data/columns/us/census/acs/B99142/B99142003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9076,7 +9076,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99151001", 
+      "id": "data/columns/us/census/acs/B99151/B99151001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9171,7 +9171,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99151002", 
+      "id": "data/columns/us/census/acs/B99151/B99151002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9266,7 +9266,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99151003", 
+      "id": "data/columns/us/census/acs/B99151/B99151003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9361,7 +9361,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99161001", 
+      "id": "data/columns/us/census/acs/B99161/B99161001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9456,7 +9456,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99161002", 
+      "id": "data/columns/us/census/acs/B99161/B99161002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9551,7 +9551,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99161003", 
+      "id": "data/columns/us/census/acs/B99161/B99161003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9646,7 +9646,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99162001", 
+      "id": "data/columns/us/census/acs/B99162/B99162001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9741,7 +9741,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99162002", 
+      "id": "data/columns/us/census/acs/B99162/B99162002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9836,7 +9836,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99162003", 
+      "id": "data/columns/us/census/acs/B99162/B99162003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -9931,7 +9931,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99162004", 
+      "id": "data/columns/us/census/acs/B99162/B99162004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10026,7 +10026,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99162005", 
+      "id": "data/columns/us/census/acs/B99162/B99162005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10121,7 +10121,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99162006", 
+      "id": "data/columns/us/census/acs/B99162/B99162006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10216,7 +10216,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99162007", 
+      "id": "data/columns/us/census/acs/B99162/B99162007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10311,7 +10311,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99163001", 
+      "id": "data/columns/us/census/acs/B99163/B99163001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10406,7 +10406,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99163002", 
+      "id": "data/columns/us/census/acs/B99163/B99163002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10501,7 +10501,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99163003", 
+      "id": "data/columns/us/census/acs/B99163/B99163003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10596,7 +10596,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99163004", 
+      "id": "data/columns/us/census/acs/B99163/B99163004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10691,7 +10691,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99163005", 
+      "id": "data/columns/us/census/acs/B99163/B99163005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10786,7 +10786,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171001", 
+      "id": "data/columns/us/census/acs/B99171/B99171001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10881,7 +10881,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171002", 
+      "id": "data/columns/us/census/acs/B99171/B99171002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -10976,7 +10976,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171003", 
+      "id": "data/columns/us/census/acs/B99171/B99171003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11071,7 +11071,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171004", 
+      "id": "data/columns/us/census/acs/B99171/B99171004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11166,7 +11166,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171005", 
+      "id": "data/columns/us/census/acs/B99171/B99171005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11261,7 +11261,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171006", 
+      "id": "data/columns/us/census/acs/B99171/B99171006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11356,7 +11356,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171007", 
+      "id": "data/columns/us/census/acs/B99171/B99171007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11451,7 +11451,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171008", 
+      "id": "data/columns/us/census/acs/B99171/B99171008.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11546,7 +11546,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171009", 
+      "id": "data/columns/us/census/acs/B99171/B99171009.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11641,7 +11641,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171010", 
+      "id": "data/columns/us/census/acs/B99171/B99171010.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11736,7 +11736,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171011", 
+      "id": "data/columns/us/census/acs/B99171/B99171011.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11831,7 +11831,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171012", 
+      "id": "data/columns/us/census/acs/B99171/B99171012.json", 
       "resolutions": [
         {
           "error": null, 
@@ -11926,7 +11926,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171013", 
+      "id": "data/columns/us/census/acs/B99171/B99171013.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12021,7 +12021,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171014", 
+      "id": "data/columns/us/census/acs/B99171/B99171014.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12116,7 +12116,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99171015", 
+      "id": "data/columns/us/census/acs/B99171/B99171015.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12211,7 +12211,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172001", 
+      "id": "data/columns/us/census/acs/B99172/B99172001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12306,7 +12306,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172002", 
+      "id": "data/columns/us/census/acs/B99172/B99172002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12401,7 +12401,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172003", 
+      "id": "data/columns/us/census/acs/B99172/B99172003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12496,7 +12496,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172004", 
+      "id": "data/columns/us/census/acs/B99172/B99172004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12591,7 +12591,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172005", 
+      "id": "data/columns/us/census/acs/B99172/B99172005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12686,7 +12686,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172006", 
+      "id": "data/columns/us/census/acs/B99172/B99172006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12781,7 +12781,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172007", 
+      "id": "data/columns/us/census/acs/B99172/B99172007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12876,7 +12876,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172008", 
+      "id": "data/columns/us/census/acs/B99172/B99172008.json", 
       "resolutions": [
         {
           "error": null, 
@@ -12971,7 +12971,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172009", 
+      "id": "data/columns/us/census/acs/B99172/B99172009.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13066,7 +13066,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172010", 
+      "id": "data/columns/us/census/acs/B99172/B99172010.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13161,7 +13161,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172011", 
+      "id": "data/columns/us/census/acs/B99172/B99172011.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13256,7 +13256,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172012", 
+      "id": "data/columns/us/census/acs/B99172/B99172012.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13351,7 +13351,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172013", 
+      "id": "data/columns/us/census/acs/B99172/B99172013.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13446,7 +13446,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172014", 
+      "id": "data/columns/us/census/acs/B99172/B99172014.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13541,7 +13541,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99172015", 
+      "id": "data/columns/us/census/acs/B99172/B99172015.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13636,7 +13636,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191001", 
+      "id": "data/columns/us/census/acs/B99191/B99191001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13731,7 +13731,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191002", 
+      "id": "data/columns/us/census/acs/B99191/B99191002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13826,7 +13826,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191003", 
+      "id": "data/columns/us/census/acs/B99191/B99191003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -13921,7 +13921,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191004", 
+      "id": "data/columns/us/census/acs/B99191/B99191004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14016,7 +14016,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191005", 
+      "id": "data/columns/us/census/acs/B99191/B99191005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14111,7 +14111,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191006", 
+      "id": "data/columns/us/census/acs/B99191/B99191006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14206,7 +14206,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191007", 
+      "id": "data/columns/us/census/acs/B99191/B99191007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14301,7 +14301,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99191008", 
+      "id": "data/columns/us/census/acs/B99191/B99191008.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14396,7 +14396,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192001", 
+      "id": "data/columns/us/census/acs/B99192/B99192001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14491,7 +14491,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192002", 
+      "id": "data/columns/us/census/acs/B99192/B99192002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14586,7 +14586,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192003", 
+      "id": "data/columns/us/census/acs/B99192/B99192003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14681,7 +14681,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192004", 
+      "id": "data/columns/us/census/acs/B99192/B99192004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14776,7 +14776,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192005", 
+      "id": "data/columns/us/census/acs/B99192/B99192005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14871,7 +14871,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192006", 
+      "id": "data/columns/us/census/acs/B99192/B99192006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -14966,7 +14966,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192007", 
+      "id": "data/columns/us/census/acs/B99192/B99192007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15061,7 +15061,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99192008", 
+      "id": "data/columns/us/census/acs/B99192/B99192008.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15156,7 +15156,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193001", 
+      "id": "data/columns/us/census/acs/B99193/B99193001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15251,7 +15251,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193002", 
+      "id": "data/columns/us/census/acs/B99193/B99193002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15346,7 +15346,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193003", 
+      "id": "data/columns/us/census/acs/B99193/B99193003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15441,7 +15441,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193004", 
+      "id": "data/columns/us/census/acs/B99193/B99193004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15536,7 +15536,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193005", 
+      "id": "data/columns/us/census/acs/B99193/B99193005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15631,7 +15631,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193006", 
+      "id": "data/columns/us/census/acs/B99193/B99193006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15726,7 +15726,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193007", 
+      "id": "data/columns/us/census/acs/B99193/B99193007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15821,7 +15821,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99193008", 
+      "id": "data/columns/us/census/acs/B99193/B99193008.json", 
       "resolutions": [
         {
           "error": null, 
@@ -15916,7 +15916,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194001", 
+      "id": "data/columns/us/census/acs/B99194/B99194001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16011,7 +16011,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194002", 
+      "id": "data/columns/us/census/acs/B99194/B99194002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16106,7 +16106,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194003", 
+      "id": "data/columns/us/census/acs/B99194/B99194003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16201,7 +16201,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194004", 
+      "id": "data/columns/us/census/acs/B99194/B99194004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16296,7 +16296,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194005", 
+      "id": "data/columns/us/census/acs/B99194/B99194005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16391,7 +16391,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194006", 
+      "id": "data/columns/us/census/acs/B99194/B99194006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16486,7 +16486,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194007", 
+      "id": "data/columns/us/census/acs/B99194/B99194007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16581,7 +16581,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99194008", 
+      "id": "data/columns/us/census/acs/B99194/B99194008.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16676,7 +16676,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201001", 
+      "id": "data/columns/us/census/acs/B99201/B99201001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16771,7 +16771,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201002", 
+      "id": "data/columns/us/census/acs/B99201/B99201002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16866,7 +16866,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201003", 
+      "id": "data/columns/us/census/acs/B99201/B99201003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -16961,7 +16961,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201004", 
+      "id": "data/columns/us/census/acs/B99201/B99201004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17056,7 +17056,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201005", 
+      "id": "data/columns/us/census/acs/B99201/B99201005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17151,7 +17151,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201006", 
+      "id": "data/columns/us/census/acs/B99201/B99201006.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17246,7 +17246,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201007", 
+      "id": "data/columns/us/census/acs/B99201/B99201007.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17341,7 +17341,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99201008", 
+      "id": "data/columns/us/census/acs/B99201/B99201008.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17436,7 +17436,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99211001", 
+      "id": "data/columns/us/census/acs/B99211/B99211001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17531,7 +17531,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99211002", 
+      "id": "data/columns/us/census/acs/B99211/B99211002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17626,7 +17626,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99211003", 
+      "id": "data/columns/us/census/acs/B99211/B99211003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17721,7 +17721,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99212001", 
+      "id": "data/columns/us/census/acs/B99212/B99212001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17816,7 +17816,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99212002", 
+      "id": "data/columns/us/census/acs/B99212/B99212002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -17911,7 +17911,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99212003", 
+      "id": "data/columns/us/census/acs/B99212/B99212003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18006,7 +18006,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99221001", 
+      "id": "data/columns/us/census/acs/B99221/B99221001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18096,7 +18096,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99221002", 
+      "id": "data/columns/us/census/acs/B99221/B99221002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18186,7 +18186,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99221003", 
+      "id": "data/columns/us/census/acs/B99221/B99221003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18276,7 +18276,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99231001", 
+      "id": "data/columns/us/census/acs/B99231/B99231001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18371,7 +18371,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99231002", 
+      "id": "data/columns/us/census/acs/B99231/B99231002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18466,7 +18466,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99231003", 
+      "id": "data/columns/us/census/acs/B99231/B99231003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18561,7 +18561,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99232001", 
+      "id": "data/columns/us/census/acs/B99232/B99232001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18656,7 +18656,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99232002", 
+      "id": "data/columns/us/census/acs/B99232/B99232002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18751,7 +18751,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99232003", 
+      "id": "data/columns/us/census/acs/B99232/B99232003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18846,7 +18846,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99233001", 
+      "id": "data/columns/us/census/acs/B99233/B99233001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -18941,7 +18941,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99233002", 
+      "id": "data/columns/us/census/acs/B99233/B99233002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19036,7 +19036,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99233003", 
+      "id": "data/columns/us/census/acs/B99233/B99233003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19131,7 +19131,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99233004", 
+      "id": "data/columns/us/census/acs/B99233/B99233004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19226,7 +19226,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99233005", 
+      "id": "data/columns/us/census/acs/B99233/B99233005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19321,7 +19321,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99234001", 
+      "id": "data/columns/us/census/acs/B99234/B99234001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19416,7 +19416,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99234002", 
+      "id": "data/columns/us/census/acs/B99234/B99234002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19511,7 +19511,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99234003", 
+      "id": "data/columns/us/census/acs/B99234/B99234003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19606,7 +19606,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99234004", 
+      "id": "data/columns/us/census/acs/B99234/B99234004.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19701,7 +19701,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99234005", 
+      "id": "data/columns/us/census/acs/B99234/B99234005.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19796,7 +19796,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99241001", 
+      "id": "data/columns/us/census/acs/B99241/B99241001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19891,7 +19891,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99241002", 
+      "id": "data/columns/us/census/acs/B99241/B99241002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -19986,7 +19986,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99241003", 
+      "id": "data/columns/us/census/acs/B99241/B99241003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20081,7 +20081,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99242001", 
+      "id": "data/columns/us/census/acs/B99242/B99242001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20176,7 +20176,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99242002", 
+      "id": "data/columns/us/census/acs/B99242/B99242002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20271,7 +20271,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99242003", 
+      "id": "data/columns/us/census/acs/B99242/B99242003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20366,7 +20366,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99243001", 
+      "id": "data/columns/us/census/acs/B99243/B99243001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20461,7 +20461,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99243002", 
+      "id": "data/columns/us/census/acs/B99243/B99243002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20556,7 +20556,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99243003", 
+      "id": "data/columns/us/census/acs/B99243/B99243003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20651,7 +20651,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99244001", 
+      "id": "data/columns/us/census/acs/B99244/B99244001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20741,7 +20741,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99244002", 
+      "id": "data/columns/us/census/acs/B99244/B99244002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20831,7 +20831,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99244003", 
+      "id": "data/columns/us/census/acs/B99244/B99244003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -20921,7 +20921,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99245001", 
+      "id": "data/columns/us/census/acs/B99245/B99245001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21011,7 +21011,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99245002", 
+      "id": "data/columns/us/census/acs/B99245/B99245002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21101,7 +21101,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99245003", 
+      "id": "data/columns/us/census/acs/B99245/B99245003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21191,7 +21191,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99246001", 
+      "id": "data/columns/us/census/acs/B99246/B99246001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21281,7 +21281,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99246002", 
+      "id": "data/columns/us/census/acs/B99246/B99246002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21371,7 +21371,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B99246003", 
+      "id": "data/columns/us/census/acs/B99246/B99246003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21461,7 +21461,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992510001", 
+      "id": "data/columns/us/census/acs/B992510/B992510001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21556,7 +21556,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992510002", 
+      "id": "data/columns/us/census/acs/B992510/B992510002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21651,7 +21651,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992510003", 
+      "id": "data/columns/us/census/acs/B992510/B992510003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21746,7 +21746,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992511001", 
+      "id": "data/columns/us/census/acs/B992511/B992511001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21841,7 +21841,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992511002", 
+      "id": "data/columns/us/census/acs/B992511/B992511002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -21936,7 +21936,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992511003", 
+      "id": "data/columns/us/census/acs/B992511/B992511003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22031,7 +22031,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992512001", 
+      "id": "data/columns/us/census/acs/B992512/B992512001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22126,7 +22126,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992512002", 
+      "id": "data/columns/us/census/acs/B992512/B992512002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22221,7 +22221,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992512003", 
+      "id": "data/columns/us/census/acs/B992512/B992512003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22316,7 +22316,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992513001", 
+      "id": "data/columns/us/census/acs/B992513/B992513001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22411,7 +22411,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992513002", 
+      "id": "data/columns/us/census/acs/B992513/B992513002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22506,7 +22506,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992513003", 
+      "id": "data/columns/us/census/acs/B992513/B992513003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22601,7 +22601,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992514001", 
+      "id": "data/columns/us/census/acs/B992514/B992514001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22696,7 +22696,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992514002", 
+      "id": "data/columns/us/census/acs/B992514/B992514002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22791,7 +22791,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992514003", 
+      "id": "data/columns/us/census/acs/B992514/B992514003.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22886,7 +22886,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992515001", 
+      "id": "data/columns/us/census/acs/B992515/B992515001.json", 
       "resolutions": [
         {
           "error": null, 
@@ -22981,7 +22981,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992515002", 
+      "id": "data/columns/us/census/acs/B992515/B992515002.json", 
       "resolutions": [
         {
           "error": null, 
@@ -23076,7 +23076,7 @@
       ]
     }, 
     {
-      "id": "us/census/acs/B992515003", 
+      "id": "data/columns/us/census/acs/B992515/B992515003.json", 
       "resolutions": [
         {
           "error": null, 

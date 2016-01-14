@@ -1,0 +1,17 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Detailed Race", 
+    "title": "White", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for White Population of one race Detailed Race", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C02005/C02003003.json"
+  }, 
+  "tags": [
+    "race"
+  ], 
+  "weight": 0
+}

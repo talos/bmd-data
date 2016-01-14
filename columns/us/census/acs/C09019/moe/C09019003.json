@@ -1,0 +1,18 @@
+{
+  "extra": {
+    "isDenominator": false, 
+    "margin_of_error": true, 
+    "table": "Household Type (Including Living Alone) by Relationship", 
+    "title": "In family households:", 
+    "universe": "Total Population"
+  }, 
+  "name": "Margin of error for In family households In households Household Type (Including Living Alone) Population", 
+  "relationships": {
+    "parent": "data/columns/us/census/acs/C09019/C09019003.json"
+  }, 
+  "tags": [
+    "families", 
+    "children"
+  ], 
+  "weight": 0
+}

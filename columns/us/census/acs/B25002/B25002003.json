@@ -6,7 +6,7 @@
     "title": "Vacant", 
     "universe": "Housing Units"
   }, 
-  "name": "Vacant in Housing Units", 
+  "name": "Vacant Housing Units", 
   "relationships": {
     "denominator": "data/columns/us/census/acs/B25002/B25002001.json", 
     "parent": "data/columns/us/census/acs/B25002/B25002001.json"
@@ -15,5 +15,5 @@
     "housing", 
     "occupancy"
   ], 
-  "weight": 2
+  "weight": 6
 }
