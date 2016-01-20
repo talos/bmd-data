@@ -1,5 +1,6 @@
 {
   "aggregate": "sum", 
+  "description": "The count of vacant housing units in a geographic area. A housing unit is vacant if no one is living in it at the time of enumeration, unless its occupants are only temporarily absent. Units temporarily occupied at the time of enumeration entirely by people who have a usual residence elsewhere are also classified as vacant.", 
   "extra": {
     "isDenominator": false, 
     "table": "Occupancy Status", 
