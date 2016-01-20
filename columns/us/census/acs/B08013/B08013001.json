@@ -1,5 +1,6 @@
 {
   "aggregate": "sum", 
+  "description": "The sum of all the minutes typically spent commuting from home to work once (one way) for all workers 16 years and over within a geography.  The average can be found by dividing this by the number of workers in that geography.", 
   "extra": {
     "isDenominator": false, 
     "table": "Aggregate Travel Time to Work (In Minutes) of Workers by Sex", 
