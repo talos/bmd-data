@@ -9,7 +9,7 @@
     "title": "Subway or elevated", 
     "universe": "Workers 16 Years and Over"
   }, 
-  "name": "Subway or elevated Public transportation (excluding taxicab) Sex of Workers in Workers 16 Years and Over", 
+  "name": "Commuters by Subway or Elevated", 
   "relationships": {
     "denominator": "data/columns/us/census/acs/B08006/B08006001.json", 
     "parent": "data/columns/us/census/acs/B08006/B08006008.json"
@@ -18,5 +18,5 @@
     "commute", 
     "employment"
   ], 
-  "weight": 0
+  "weight": 3
 }

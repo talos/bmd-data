@@ -1,16 +1,16 @@
 {
   "aggregate": "median", 
-  "description": "The total number of all people living in a given geographic area.  This is a very useful catch-all denominator when calculating rates.",
+  "description": "The total number of all people living in a given geographic area.  This is a very useful catch-all denominator when calculating rates.", 
   "extra": {
     "isDenominator": false, 
     "table": "Median Age by Sex", 
     "title": "Total:", 
     "universe": "Total Population"
   }, 
-  "name": "Total Population", 
+  "name": "Median age", 
   "relationships": {}, 
   "tags": [
-    "denominators"
+    "race_age_gender"
   ], 
-  "weight": 10
+  "weight": 2
 }
